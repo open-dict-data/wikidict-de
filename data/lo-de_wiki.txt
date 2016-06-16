@@ -1,0 +1,1392 @@
+ທະວີບອາຟະລິກ	Afrika
+ປະເທດຍີ່ປຸ່ນ	Japan
+ທະວີບອາເມລິກາໃຕ້	Südamerika
+ປະເທດນອກແວດ	Norwegen
+ປະເທດອັງກິດ	England
+ປະເທດເອກົດ	Schottland
+ປະເທດການ	Wales
+ປະເທດອຽກລັງ	Irland
+ປະເທດຮົງກະລີ	Ungarn
+ປະເທດແອສະປາຍ	Spanien
+ສະຫະລັດອາເມລິກາ	Vereinigte Staaten
+ປະເທດແບນຊິກ	Belgien
+ປະເທດລູກຊຳບວກ	Luxemburg
+ໂລກ	Erde
+ປະເທດແຟງລັງ	Finnland
+ປະເທດຊູແອດ	Schweden
+ປະເທດດານມາກ	Dänemark
+ປະເທດໂປໂລຍ	Polen
+ປະເທດລີຕົວນີ	Litauen
+ປະເທດອິຕາລີ	Italien
+ປະເທດສະວິດ	Schweiz
+ປະເທດໂອຕະລິດ	Österreich
+ປະເທດກະແລັດ	Griechenland
+ປະເທດຕວກກີ	Türkei
+ເບຍ	Bier
+ປະເທດປອກຕຸຍການ	Portugal
+ທະວີບເອີລົບ	Europa
+ອາຊີ	Asien
+ທະວີບອາເມລິກາເໜືອ	Nordamerika
+ທະວີບອັງຕາກຕິກ	Antarktika
+ວິກິພີເດຍ	Wikipedia
+ປະເທດໂຮນລັງ	Niederlande
+ຄອມພິວເຕີ	Computer
+ອິນເຕີເນັດ	Internet
+ບາຣັກ ໂອບາມາ	Barack Obama
+ປະເທດອູຣູກວາຍ	Uruguay
+ຈັກພິມ	Drucker (Gerät)
+ລອນດອນ	London
+ປາລີ	Paris
+ແອນດຣອຍດ໌	Android (Betriebssystem)
+ກູໂກລ	Google Inc.
+ປະເທດເມັກຊິກ	Mexiko
+ມະຫາສະໝຸດອັດລັງຕິກ	Atlantischer Ozean
+ມະຫາສະໝຸດປາຊີຟິກ	Pazifischer Ozean
+ວັນຈັນ	Montag
+ເດືອນມັງກອນ	Januar
+ກຸມພາ	Februar
+ມີນາ	März
+ເມສາ	April
+ພຶດສະພາ	Mai
+ມິຖຸນາ	Juni
+ກໍລະກົດ	Juli
+ສິງຫາ	August
+ກັນຍາ	September
+ຕຸລາ	Oktober
+ພະຈິກ	November
+ທັນວາ	Dezember
+ວັນອັງຄານ	Dienstag
+ວັນພຸດ	Mittwoch
+ວັນພະຫັດ	Donnerstag
+ວັນສຸກ	Freitag
+ວັນເສົາ	Samstag
+ວັນອາທິດ	Sonntag
+ປະເທດຝະລັ່ງ	Frankreich
+ໝາ	Haushund
+ສະຫະລາຊະອານາຈັກ	Vereinigtes Königreich
+ແມວ	Hauskatze
+ປະເທດຈີນ	Volksrepublik China
+ພາສາຝະລັ່ງ	Französische Sprache
+ປະເທດບະເຣຊິນ	Brasilien
+ປະເທດລັດເຊຍ	Russland
+ຮູບຈັດຕຸລັດ	Quadrat
+ທະເລ	Meer
+ແຂວງເກແບັກ	Québec
+ປະເທດເຢຍລະມັນ	Deutschland
+ປະເທດບີເອໂລລຸດ	Weißrussland
+ປະເທດອີສະລັງ	Island
+ປະເທດແອສະໂຕນີ	Estland
+ຍົນ	Flugzeug
+ຮູບສີ່ແຈສາກ	Rechteck
+ມຸມສາກ	Rechter Winkel
+ປະເທດແລດໂຕນີ	Lettland
+ປະເທດອູກະແລນ	Ukraine
+ສາທາລະນະລັດແຊັກ	Tschechien
+ປະເທດສະໂລວາກີ	Slowakei
+ປະເທດສະໂລເວນີ	Slowenien
+ປະເທດລູມານີ	Rumänien
+ປະເທດບູນກາລີ	Bulgarien
+ປະເທດມາເຊດວນ	Mazedonien
+ປະເທດກະໂລອາຊີ	Kroatien
+ປະເທດບົດສະນີແຮກເຊໂກວີນ	Bosnien und Herzegowina
+ປະເທດອາແຊກບາຍຊັງ	Aserbaidschan
+ປະເທດອັງດອກ	Andorra
+ປະເທດຊີບ	Republik Zypern
+ປະເທດເຊອັອກຊີ	Georgien
+ປະເທດມານ	Malta
+ປະເທດໂມນາໂກ	Monaco
+ປະເທດແຊັງມາແລງ	San Marino
+ຫໍແອບແຟນ	Eiffelturm
+ຄີບອດ	Tastatur
+ປະເທດອິນໂດເນເຊຍ	Indonesien
+ໂທລະພາບ	Fernsehen
+ປະເທດຈີເລ	Chile
+ພຣະເຢຊູ	Jesus Christus
+ປະຫວັດສາດ	Geschichte
+ພາສາ	Sprache
+ລະບອບຜະເດັດການ	Diktatur
+ບິກແບງ	Urknall
+ດາຣາສາດ	Astronomie
+ປະເທດສິງກະໂປ	Singapur
+ວິທະຍາສາດ	Wissenschaft
+ມົງເລອານ	Montreal
+ປະເທດລິກເຕນສະຕາຍ	Liechtenstein
+ກິລາ	Sport
+ອາໂດນ ຮິດແລ	Adolf Hitler
+ເຟດບຸກ	Facebook
+ສົງຄາມໂລກຄັ້ງທີສອງ	Zweiter Weltkrieg
+ໂມງ	Uhr
+ອຸບຸນຕູ	Ubuntu
+ລິນຸກຊ໌	Linux
+ຄະນິດສາດ	Mathematik
+ພາສາລາແຕັງ	Latein
+ປະເທດອາກເມນີ	Armenien
+ປະເທດແຊກບີ	Serbien
+ດວງຈັນ	Mond
+ປະເທດອົດສະຕະຣາລີ	Australien
+ວັດຖຸວິທະຍາ	Physik
+ປະເທດອາກຊັງຕິນ	Argentinien
+ໂທລະຄົມມະນາຄົມ	Telekommunikation
+ປະເທດເປຣູ	Peru
+ຊີວະສາດ	Biologie
+ປະເທດກຳປູເຈຍ	Kambodscha
+ໄດໂນເສົາ	Dinosaurier
+ສາສະໜາອິສະລາມ	Islam
+ຈິດ	Geist
+ສັນຕິພາບ	Frieden
+ກາບກອນ	Poesie
+ຈັກກະພັດນາໂປເລອົງທີ 1	Napoleon Bonaparte
+ປີແສງ	Lichtjahr
+ໂອເຊອານີ	Ozeanien
+ລະບົບສຸລິຍະ	Sonnensystem
+ປຶ້ມ	Buch
+ມື້	Tag
+ປີ	Jahr
+ອົກຊີແຊນ	Sauerstoff
+ດົນຕີ	Musik
+ພາສາອິຕາລີ	Italienische Sprache
+ອາລູມິນຽມ	Aluminium
+ປະເທດນູແວນເຊລັງ	Neuseeland
+ປະເທດປາປົວຊີນູແວນກີເນ	Papua-Neuguinea
+ປະເທດເວເນຊູເອລາ	Venezuela
+ສັດ	Tier
+ປະເທດຊູຣີນາມ	Suriname
+ປະເທດປາຣາກວາຍ	Paraguay
+ປະເທດກຸຍຢານ	Guyana
+ສິລະປະ	Kunst
+ປະເທດເອກົວເຕີ	Ecuador
+ປະເທດໂກລົມບີ	Kolumbien
+ພຸດທະສາສະໜາ	Buddhismus
+ປະເທດໂບລີວີ	Bolivien
+ປະເທດກົວເຕມາລາ	Guatemala
+ປະເທດອີຣານ	Iran
+ປະເທດກົດສະຕາລິກາ	Costa Rica
+ປະເທດລາວ	Laos
+ທະວີບອາເມລິກາ	Amerika
+ງົວ	Hausrind
+ປະເທດມາເລເຊຍ	Malaysia
+ປະເທດມຽນມາ	Myanmar
+ປະລາຕົງ	Platon
+ຢູທູບ	YouTube
+ປະເທດໄທ	Thailand
+ລົດໄຟ	Zug (Eisenbahn)
+ປະເທດຫວຽດນາມ	Vietnam
+ປະເທດເກົາຫຼີໃຕ້	Südkorea
+ປະເທດບັງກະລາເທດ	Bangladesch
+ປະເທດອັງໂກລາ	Angola
+ທະວິດເຕີ	Twitter
+ປະເທດບູໄນ	Brunei
+ປະເທດຟີລິບປິນ	Philippinen
+ປັກກິ່ງ	Peking
+ວິວັດທະນາການ	Evolution
+ສະຫະປະຊາຊາດ	Vereinte Nationen
+ທໍລະນີສາດ	Geologie
+ພູມສາດ	Geographie
+ສີ	Farbe
+ຄຳນາມ	Substantiv
+ປະເທດໂກໂຊໂວ	Kosovo
+ໝວດ:ມູນຖານ	Kategorie:!Hauptkategorie
+ລະດູໜາວ	Winter
+ລະດູບານໃໝ່	Frühling
+ລະດູຮ້ອນ	Sommer
+ລະດູໃບໄມ້ຫຼົ່ນ	Herbst
+ພາສາແອສະປາໂຍນ	Spanische Sprache
+ໝາກໄມ້	Frucht
+ເງິນ	Geld
+ລັດນີວຢອກ	New York (Bundesstaat)
+Uetersen	Uetersen
+Microsoft Windows	Microsoft Windows
+ໄທບີຣຽສ	Tiberius
+ລົດ	Automobil
+ບອກໂດ	Bordeaux
+ໂຕກຽວ	Präfektur Tokio
+ບາກເຊໂລນ	Barcelona
+ໝາກນັດ	Ananas
+ກາໂຕລິກ	Katholizismus
+ພະຄຳພີ	Bibel
+ພະນົມເປັນ	Phnom Penh
+ນິກາຍໂບດທູຈີຊັດ	Wahre Jesus-Kirche
+ພາສາອັງກິດ	Englische Sprache
+ບາງກອກ	Bangkok
+ດົງເຮີຍ	Đồng Hới
+ໂກຣິສໂກໂວລາ	Końskowola
+ປີ 2009	2009
+ປີ 2008	2008
+ອາຫານ	Lebensmittel
+XML	Extensible Markup Language
+ການປະຕິວັດອຸດສາຫະກຳ	Industrielle Revolution
+ໄມໂຄຼຊອຟທ໌	Microsoft
+ຄູໂຣ	Kurów
+ເຄມີສາດ	Chemie
+14 ກຸມພາ	14. Februar
+22 ມີນາ	22. März
+16 ເມສາ	16. April
+ອາໂນນ ຊວາເຊເນກເກີ	Arnold Schwarzenegger
+19 ກໍລະກົດ	19. Juli
+ເຕະບານ	Fußball
+ໄອໂຟນ	IPhone
+ເຮືອດຳນ້ຳ	U-Boot
+ໄມເຄິ້ນ ແຈັກຊັ້ນ	Michael Jackson
+ພະລາຊະວັງແວກໄຊ	Schloss Versailles
+ມະຫາວິຫານນົດ-ດາມ	Kathedrale Notre-Dame de Paris
+ໝວດ:ແມ່ແບບ	Kategorie:Vorlage:
+ແມ່ນ້ຳອາມາຊົນ	Amazonas
+ໂຮງຮຽນ	Schule
+ມະຫາວິທະຍາໄລ	Universität
+ວິກິພີເດຍ:Sandbox	Wikipedia:Spielwiese
+ວິກິພີເດຍ:ເລີ່ມຕົ້ນ	Wikipedia:Starthilfe
+ເຮືອນ	Haus
+ທະວີບອົດສະຕະຣາລີ	Australien (Kontinent)
+ຮາດແວ	Hardware
+ພຶດຊະຄະນິດ	Algebra
+ສະໜາມບິນດົງເຮີຍ	Flughafen Dong Hoi
+ປ່າໄມ້	Wald
+ຂົງຈື້	Konfuzius
+ມາຣິລິນ ມອນໂຣ	Marilyn Monroe
+ໝວດ:ຄະນິດສາດ	Kategorie:Mathematik
+ເອີໂລ	Euro
+ທະເລເມດີແຕກລາເນ	Mittelmeer
+ຄິດຕະສາສະໜາ	Christentum
+Windows 8	Microsoft Windows 8
+ເຂົ້າຈ້າວ	Reis
+ທະວີບ	Kontinent
+ສັດປີກ	Vögel
+ນະຄອນຫຼວງ	Hauptstadt
+ພາສາປອກຕຸຍການ	Portugiesische Sprache
+ເດືອນ	Monat
+1949	1949
+ຕາກດີກະລາດາ	Bärtierchen
+ພາສາຍີ່ປຸ່ນ	Japanische Sprache
+ໜ້າຈໍ	Computermonitor
+ສາລານຸກົມ	Enzyklopädie
+ໜ້າຫຼັກ	Wikipedia:Hauptseite
+ຊີພີຢູ	Hauptprozessor
+ເຣົາເຕີຣ໌	Router
+ໂຕຕ້ານໄຟຟ້າ	Widerstand (Bauelement)
+ທຣານຊິສເຕີ	Transistor
+ເບດບອນ	Baseball
+ບານບ້ວງ	Basketball
+ກິລາໂອແລມປິກ	Olympische Spiele
+ລົດເມ	Omnibus
+ແຄວ້ນກາຕາໂລຍ	Katalonien
+ການຮ່ວມເພດ	Geschlechtsverkehr
+ປັດຊະຍາ	Philosophie
+ຈິມິ ເຮນດຣິກຊ໌	Jimi Hendrix
+ໝວດ:Candidates for speedy deletion	Kategorie:Wikipedia:Schnelllöschen
+ອະນາທິປະໄຕ	Anarchismus
+ລັດທິທຶນນິຍົມ	Kapitalismus
+ເວັບເບຣົາວ໌ເຊີຣ໌	Webbrowser
+Boeing 737	Boeing 737
+ໝວດ:ດາຣາສາດ	Kategorie:Astronomie
+ການປະຕິວັດຝະລັ່ງ	Französische Revolution
+ຮັກຮ່ວມເພດ	Homosexualität
+ອາຫານຝະລັ່ງ	Französische Küche
+ໂຮແມ	Homer
+ພາສາກາຕາລັງ	Katalanische Sprache
+ພຣະພຸດທະເຈົ້າ	Buddha
+ອະເທວະນິຍົມ	Atheismus
+ຫໍສະໝຸດ	Bibliothek
+ນິເວດສາດ	Ökologie
+ການເມືອງ	Politik
+ລະບອບປະຊາທິປະໄຕ	Demokratie
+ໂລກາພິວັດ	Globalisierung
+ແຊນ	Gen
+ລັດຖະບານ	Regierung
+ຄວາມສວຍງາມ	Schönheit
+ລາຊາທິປະໄຕ	Monarchie
+ລັດ	Staat
+ດັງ	Nase
+ເພງ	Lied
+ສັດລ້ຽງລູກດ້ວຍນ້ຳນົມ	Säugetiere
+ໂລຊີຊີແອນ	Software
+ອາເດແອັນ	Desoxyribonukleinsäure
+ແອສະແປດ	Art (Biologie)
+ພາສາລັດເຊຍ	Russische Sprache
+ກົດໝາຍ	Recht
+ລັດຖະທຳມະນູນ	Verfassung
+ສະມາຄົມປະຊາຊາດແຫ່ງອາຊີຕາເວັນອອກສຽງໃຕ້	ASEAN
+ກອງທືນການເງີນລະຫວ່າງປະເທດ	Internationaler Währungsfonds
+ພາສາສະວາຮີລີ	Swahili (Sprache)
+ພາສາຈີນ	Chinesische Sprachen
+ທຳມະຊາດ	Natur
+ນ້ຳດື່ມ	Trinkwasser
+ພາສາລູມານີ	Rumänische Sprache
+ສຶກສາສາດ	Pädagogik
+ແຮ່ທາດ	Mineral
+ເຊັນ	Zen
+ເມົາສ໌	Maus (Computer)
+ປະໂລເຕອິນ	Protein
+ພະຍຸໂທຣນາໂດ	Tornado
+ໄຕມຸມ	Trigonometrie
+ເລຂາຄະນິດ	Geometrie
+ໄວຍະກອນ	Grammatik
+ນິນເທັນໂດ	Nintendo
+ເສດຖະສາດ	Wirtschaftswissenschaft
+ທຶນ	Kapital
+ເງິນຕາ	Währung
+ເຢນ	Yen
+ອຸດສາຫະກຳ	Industrie
+ພາສີ	Steuer
+ພາສາສາດ	Sprachwissenschaft
+ຄຳ (ພາສາສາດ)	Wort
+ໂຕໜັງສືເກຣັກ	Griechisches Alphabet
+ວັນນະຄະດີ	Literatur
+ໝວດ:ປະເທດຝະລັ່ງ	Kategorie:Frankreich
+ໝວດ:ດົນຕີ	Kategorie:Musik
+ໝວດ:ວັນນະຄະດີ	Kategorie:Literatur
+ຂັ້ນຕອນວິທີ	Algorithmus
+ການສຶກສາ	Bildung
+ຄອບຄົວ	Familie
+ກາເຟ	Kaffee
+ນົມ	Milch
+ສົງຄາມເຢັນ	Kalter Krieg
+ຊຽງໄຮ້	Shanghai
+ອິນເຕີຣ໌ເນັຕ ໂປຣໂຕໂຄລ	Internet Protocol
+ໄບຕ໌	Byte
+ບິຕ	Bit
+ຄວາມຮູ້	Wissen
+ສາສະໜາພາມ	Hinduismus
+ປະລະມະນູ	Atom
+ພາສາກະເລັກ	Griechische Sprache
+ລະບົບປະຕິບັດການ	Betriebssystem
+ອີແມລ	E-Mail
+ສາສະໜາ	Religion
+ພາສາເກົາຫຼີ	Koreanische Sprache
+ຕຶກແອັມພາຍສະເຕດ	Empire State Building
+ອະນຸສາວະລີເທພີເສລີພາບ	Freiheitsstatue
+ພາສາລາວ	Laotische Sprache
+ພາສາໄທ	Thailändische Sprache
+ສາສະໜາຊູດາ	Judentum
+ພາສາການ	Walisische Sprache
+ສາສະໜາຊິກ	Sikhismus
+ຈອນ ເມນາດ ເຄນ	John Maynard Keynes
+ວຽງຈັນ	Vientiane
+ພຶຕິກຳ	Verhalten (Biologie)
+ອາລົມ	Emotion
+ຈິຕະວິທະຍາ	Psychologie
+ຄວາມຄຶດ	Denken
+ມະຫາສະໝຸດ	Ozean
+ຈະລິຍະທຳ	Ethik
+ຍານວິທະຍາ	Erkenntnistheorie
+ເຈດຈຳນົງເສລີ	Freier Wille
+ແກນກາງ	Kernel (Betriebssystem)
+ສົມເດັດພະລາຊິນີນາດເອລີຊາແບັດທີ 2 ແຫ່ງສະຫະລາຊະອານາຈັກ	Elisabeth II.
+ຄວາມທຸກຍາກ	Armut
+ຕາລາງທາດ	Periodensystem
+ເດິນຟິນໜູ	Schweinswale
+ກົກໄມ້	Baum
+ເນີຍແຂງ	Käse
+ຜັກ	Gemüse
+ໂຣບົດ	Roboter
+ເຕັກໂນໂລຊີ	Technologie
+ກົນຈັກ	Maschine
+ວິສະວະກຳ	Ingenieurwissenschaften
+ສານສົນເທດ	Information
+ໜັງສືພິມ	Zeitung
+ໂທລະສັບ	Telefon
+ວັດທະນະທຳ	Kultur
+ຫມາຍເລກໄອພີ	IP-Adresse
+ແພດສາດ	Medizin
+ອົງກອນນິຕິບັນຍັດ	Legislative
+ຫ້ຽນ	Troll (Netzkultur)
+ສົມຜົນ	Gleichung
+ຕຳລາ (ຄະນິດສາດ)	Funktion (Mathematik)
+ກະລູຊິດ	Kohlenhydrate
+ຮອກມົນ	Hormon
+ເກມ	Spiel
+ຂອງຫຼິ້ນ	Spielzeug
+ຮູບເງົາ	Film
+ລົດຖີບ	Fahrrad
+ກຳປັ່ນ	Schiff
+ກະສິກຳ	Landwirtschaft
+ລາຍຊື່ໜ່ວຍນັບເວລາ	Zeit
+ເຈ້ຍ	Papier
+ປະລາສະຕິກ	Kunststoff
+ເນື້ອທີ່	Flächeninhalt
+ຈຳນວນ	Zahl
+ຈຳນວນສົນ	Komplexe Zahl
+ແມັດ	Meter
+ຈິຕະກຳ	Malerei
+ນັກອາວະກາດ	Raumfahrer
+ການຖ່າຍຮູບ	Fotografie
+ການຟ້ອນລຳ	Tanz
+ເອເລັກໂຕຣນິກ	Elektronik
+ສ່ວນປະກອບເອເລັກໂຕຣນິກ	Elektrisches Bauelement
+ດີອົດ	Diode
+ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ	Informationstechnik
+ຕະຫລາດຫລັກຊັບ	Wertpapierbörse
+ຮ້ານອາຫານ	Restaurant
+ອາຊີຕາເວັນອອກສຽງໃຕ້	Südostasien
+ບະລັງແນດ	Schneewittchen
+ຊັງດີຢົງ	Aschenputtel
+ປະຕິທິນ	Kalender
+ເຂດເວລາ	Zeitzone
+ສຸຂະພາບ	Gesundheit
+ເອດສ໌	AIDS
+ສະຖາປັດຕະຍະກຳ	Architektur
+ຂົວ	Brücke
+ເຂົ້າໜົມມາກາຣົງ	Macaron
+ສະຖິຕິສາດ	Statistik
+ຈຳນວນຖ້ວນ	Ganze Zahl
+ເຂື່ອນສາມຜາ	Drei-Schluchten-Talsperre
+ຍຸກແສງສະຫວ່າງ	Aufklärung
+ສະໄໝກາງ	Mittelalter
+ລວມຍອດຜະລິດຕະພັນພາຍໃນ	Bruttoinlandsprodukt
+ແຟຊັ້ນ	Mode
+ລູກຄິດ	Abakus (Rechenhilfsmittel)
+ຄາບສະໝຸດອີເບລີ	Iberische Halbinsel
+ຈຳນວນຈິງ	Reelle Zahl
+ໝາກຟະແລດ	Gartenerdbeere
+ໝາກກ້ຽງ	Orange (Frucht)
+ພາສາຈ້ວງ	Zhuang (Sprache)
+ພາສານາວາເທິນ	Nahuatl
+ສິ່ງແວດລ້ອມສໍາລັບການພັດທະນາແບບຮວບຮວມ	Integrierte Entwicklungsumgebung
+ພາສາອາຣັບ	Arabische Sprache
+ພາສາອົກຊີຕັງ	Okzitanische Sprache
+ສໍດຳ	Bleistift
+ໂຕະ	Tisch
+ແທັງເກີ	Tanker
+ກວາງຄໍຍາວ	Giraffe
+ພາສາເຊ	C (Programmiersprache)
+ວິກິພີເດຍ:ບົດຄວາມດີເດັ່ນ	Wikipedia:Exzellente Artikel
+ວິກິພີເດຍ:Village pump	Wikipedia:Projektdiskussion
+ກວ່າງໂຈວ	Guangzhou
+ໂຮງໜໍ	Krankenhaus
+ການສົມລົດເພດດຽວກັນ	Gleichgeschlechtliche Ehe
+ໂທລະສັບມືຖື	Mobiltelefon
+ລົດສະນິຍົມທາງເພດ	Sexuelle Orientierung
+ງົວປ່າອາເມລິກາ	Bisons
+ບານເຕະໂລກ	Fußball-Weltmeisterschaft
+ຍາຈາງ	Nha Trang
+ສາທາລະນະສົມບັດ	Gemeinfreiheit
+ກຸ່ມພາສາໂລມັງ	Romanische Sprachen
+ຮູບສາມແຈ	Dreieck
+ຈຳນວນທຳມະຊາດ	Natürliche Zahl
+ສັດທະອັກສອນສາກົນ	Internationales Phonetisches Alphabet
+ສະມາດໂຟນ	Smartphone
+ພິກັດພູມສາດ	Geographische Koordinaten
+ເກີບ	Schuh
+ເສລີພາບໃນການເວົ້າ	Meinungsfreiheit
+ສວນສາທາລະນະ	Park
+ສັບປະດາ	Woche
+ຜັກທຽມ	Knoblauch
+ມະນຸດສາດ	Anthropologie
+ເອແດມບວກ	Edinburgh
+កោះ	Insel
+ພາສາລັດຖະການ	Amtssprache
+ບູຮານວິທະຍາ	Archäologie
+ອຸດທະຍານແຫ່ງຊາດຟົງ ງາ-ເຄ ບັງ	Phong Nha-Ke Bang
+ແຂວງກວາງບິນ	Quảng Bình
+ເສັ້ນສູນສູດ	Äquator
+ປະໂລແຕສະຕັງ	Protestantismus
+ວັດຈະນານຸກົມ	Wörterbuch
+ເພງຊາດ	Nationalhymne
+ຄຳກຳມະ	Verb
+ພາສາແຟໂລ	Färöische Sprache
+ສັດກິນຊີ້ນ	Raubtiere
+ເກາະຊີແລນ	Seeland (Dänemark)
+ເຮືອຂ້າມຟາກ	Fähre
+ປະດິດໃຊ້ເອງ	Do it yourself
+Józef Gosławski	Józef Gosławski
+ການຂັບລຳ	Gesang
+ເສັ້ນຜົມ	Haar
+ວິຊາຊີບ	Beruf
+ສິນຄ້າ	Gut (Wirtschaftswissenschaft)
+ບລອກ	Blog
+ນົກແກ້ວ	Papageien
+ຊື່ໂດເມນ	Domain (Internet)
+ມ້າລາຍ	Zebra
+ເລກມາຕະຖານສາກົນປະຈຳປຶ້ມ	Internationale Standardbuchnummer
+ພາສາຈາໂມໂລ	Chamorro (Sprache)
+ພາສາເຈໂລກີ	Cherokee (Sprache)
+ຈິຕະນິຍົມ	Idealismus
+ຫົວສີໄຄ	Zitronengras
+ເສັ້ນຂະໜານ	Geographische Breite
+ໝວດ:ພາສາໂປແກມ	Kategorie:Programmiersprache
+ຈັດສະຕິນ ບີເບີ	Justin Bieber
+ກຸ່ມພາສາໄທ-ກະໄດ	Tai-Kadai-Sprachen
+ເນີຍ	Butter
+ເທວະວິທະຍາ	Theologie
+ນ້ຳຕົກຕາດນີອາກາລາ	Niagarafälle
+ໂຫລາສາດ	Astrologie
+ຫົນທາງ	Fernstraße
+ເຮລີກົບແຕ	Hubschrauber
+ລົດຈັກ	Motorrad
+ມ້າແມ່ນ້ຳ	Flusspferd
+ສັງຄົມສາດ	Sozialwissenschaften
+ແຫຼມ	Halbinsel
+ລະຫັດໂທລະສັບລະຫວ່າງປະເທດ	Ländervorwahlliste sortiert nach Nummern
+ຟົວກາ	Foie gras
+ມົນທົນ	Provinz
+ໝາກຫຸ່ງ	Papaya
+ວິຕາມິນ	Vitamin
+ເວັບໄຊຕ໌	Website
+ກວາງອູດ	Elch
+ເສືອອາເມລິກາ	Jaguar
+ສະພາ	Parlament
+ສະພາວະເງິນເຟີ້	Inflation
+ເຮືອ	Boot
+ໂປລີເນຊີ	Polynesien
+ດຽນບຽນຟູ	Điện Biên Phủ
+ໝີໄຮ້ຫາງ	Koala
+ເສັ້ນແວງ	Geographische Länge
+ສະຫັດສະວັດ	Jahrtausend
+ຊ້າງຂົນຍາວ	Mammute
+ອອງ ຊານ ຊຸຈີ	Aung San Suu Kyi
+ໄຂ້ຫວັດຫມູ	Schweineinfluenza
+ພາສາໄທລື້	Tai Lü
+ເສິນຫຼົງ	Jackie Chan
+ເອກະລາດ	Staatliche Unabhängigkeit
+ມະຣິວຸລ	Mariupol
+ມະຫາປີລະມິດ ແຫ່ງ ກິຊາ	Cheops-Pyramide
+ISO 4217	ISO 4217
+ຕະຫຼາດ	Markt
+ກະໂລໂມຊົມ	Chromosom
+ມັນດ້າງ	Süßkartoffel
+ພະຍັນຊະນະ	Konsonant
+ນ້ຳຕົກຕາດຄອນພະເພັງ	Mekongfälle
+ຟີລຳ	Stamm (Biologie)
+ພະເຈົ້າຮົງລີທີ 8 ແຫ່ງອັງກິດ	Heinrich VIII. (England)
+ຂ່າວ	Nachrichten
+ດັດສະນີການພັດທະນາມະນຸດ	Human Development Index
+ເສດຖະສາດຈຸນລະພາກ	Mikroökonomie
+ສັດລ້ຽງ	Heimtier
+ເລເຈບ ໄຕຢິບ ແອໂດກັນ	Recep Tayyip Erdoğan
+ນໍ້າມັນເຊື້ອໄຟ	Motorenbenzin
+ເສດຖະສາດມະຫາພາກ	Makroökonomie
+ສະໜວນກາຊາ	Gazastreifen
+ເຄື່ອງດື່ມ	Getränk
+ປະໂລກະລຳ ແອງຟອກມາຕິກ	Computerprogramm
+ຍານອາວະກາດ	Raumschiff
+ເຈັນນິເຟີຣ໌ ໂລເປສ	Jennifer Lopez
+ມີດຕັດ	Schere
+ຊ້າງທະເລ	Walross
+ຕຶກ	Gebäude
+ແມ່ນ້ຳຂອງ	Mekong
+ວາລະສານ	Zeitschrift
+ສານ	Gericht
+Rupiah ອິນໂດເນເຊຍ	Indonesische Rupiah
+ປະໂຫຍກ	Satz (Grammatik)
+.la	.la
+ສວນລອຍຟ້າບາບິລອນ	Hängende Gärten der Semiramis
+ໝາແຜງ	Hyänen
+ພິ່ນອິ່ນ	Pinyin
+ເຊື້ອໄຟ	Brennstoff
+ອູດແກະໃຫຍ່	Lama (Kamel)
+ຄວາຍ	Wasserbüffel
+Long Thanh International Airport	Flughafen Ho Chi Minh Stadt-Long Thanh
+ຍານພາຫະນະ	Fahrzeug
+ນ້ຳມັນ	Öle
+ວິນຍານນິຍົມ	Animismus (Religion)
+ບໍລິການຂໍ້ຄວາມສັ້ນ	Short Message Service
+ເຮືອນຄົວ	Küche
+ຮັກຮ່ວມສອງເພດ	Bisexualität
+ເອສົບ	Äsop
+ສິ່ງແວດລ້ອມ	Natürliche Umwelt
+ໂກແລສະເຕໂລນ	Cholesterin
+ສະຫະພັນທະລັດ	Bundesstaat (Föderaler Staat)
+ໄຂ້ຫວັດນົກ	Geflügelpest
+ມາຕຣິກ	Matrix (Mathematik)
+ຕຳນານ	Legende
+ເທວາທິປະໄຕ	Theokratie
+ຂົວໂກນເດນເກດ	Golden Gate Bridge
+ໝາກສຸກ ໝາກໃສ	Windpocken
+ທ່າເຮືອ	Hafen
+Vaishnavism	Vishnuismus
+ໝາກມີ້	Jackfruchtbaum
+ທຸງຊາດລາວ	Flagge von Laos
+ໃບສະຫຼຸບຊັບສົມບັດ	Bilanz
+ສາຍການບິນ	Fluggesellschaft
+ເສດຖະສາດສາກົນ	Außenwirtschaftstheorie
+ວັນກຳມະກອນສາກົນ	Erster Mai
+ລາດາ	Radar
+ແມ່ແບບ:Commonscat	Vorlage:Commonscat
+ຈັກກະວັດແອສະປາຍ	Reich (Territorium)
+ມະຫາຍານ	Mahayana
+ກະສວຍອາວະກາດ	Space Shuttle
+ການທ່ອງທ່ຽວ	Tourismus
+ຕູ້ໄປສະນີ	Postbriefkasten
+Visual Basic .NET	Visual Basic .NET
+ແຂວງ	Verwaltungsgliederung von Laos
+ຕຳລາຂັ້ນສອງ	Quadratische Funktion
+ອີໂບລາ	Ebolafieber
+ໝວດ:ລັດຖະບານ	Kategorie:Regierung
+ໝວດ:ຄວາມຮັກ	Kategorie:Liebe
+ສະຖານີລົດໄຟ	Bahnhof
+ພາສາເຮົາຊາ	Hausa (Sprache)
+ຈູມມະລີ ໄຊຍະສອນ	Choummaly Sayasone
+ຫງວຽນເຕິນຢຸງ	Nguyễn Tấn Dũng
+ຍິ່ງລັກ ຊິນນະວັດ	Yingluck Shinawatra
+ທອງສິງ ທຳມະວົງ	Thongsing Thammavong
+ກ້ອງດິຈິຕອນ	Digitalkamera
+ອັດຕາແລກປ່ຽນ	Wechselkurs
+ທະນາຄານກາງ	Zentralbank
+ການຜັງເມືອງ	Stadtplanung
+ຮອບບິດ (ປຶ້ມ)	Der Hobbit
+ຄະນາທິປະໄຕ	Oligarchie
+ບານເຕະໂລກ 2014	Fußball-Weltmeisterschaft 2014
+ການແຍກໃຊ້ອຳນາດ	Gewaltenteilung
+ໝາກກ້ຽງໃຫຍ່	Pampelmuse
+ວົງຈອນພອນ	Mangusten
+ວິສະວະກຳໂລຊີຊີແອນ	Softwaretechnik
+ອູດແກະ	Alpaka (Kamel)
+ຄວາມກົດອາກາດ	Luftdruck
+VoIP	IP-Telefonie
+ໄມ້ຖູ່	Essstäbchen
+ກຳລັງຊື້ທຽບຖານ	Kaufkraftparität
+ເຄື່ອງໝາຍວັກ	Interpunktion
+ຕັກຊີ	Taxi
+ຄຳອຸທານ	Interjektion
+ພຽງພອນເໝັນ	Skunks
+ເຊລີນ້າ ໂກເມຊ	Selena Gomez
+ໂຮງງານ	Fabrik
+ບານເຕະທີມຊາດບະເລຊິນ	Brasilianische Fußballnationalmannschaft
+ບານໂປໂລຍ	Polandball
+ຕຳລາໄຕມຸມ	Trigonometrische Funktion
+ຄຣິສຕະຈັກເຊເວັນເດ ແອັດເວັນຕິສ	Siebenten-Tags-Adventisten
+PAL	Phase Alternating Line
+ອຳນາດຕຸລາການ	Rechtsprechung
+ຄວາມສະເໝີພາກທາງເພດ	Gleichstellung der Geschlechter
+ເຂົ້າຫນຽວ	Klebreis
+ລັດທິ	Doktrin
+ແມ່ນ້ຳເຈົ້າພະຍາ	Mae Nam Chao Phraya
+ຊຸບເປີຄອມພິວເຕີ	Supercomputer
+ໂຄງສ້າງພື້ນຖານ	Infrastruktur
+ໜູລ້າງນ້ຳ	Waschbär
+ຕົ້ນໂຣສ ເມຣີ	Rosmarin
+ປະເທດທີ່ບໍ່ມີທາງອອກສູ່ທະເລ	Binnenstaat
+ເວັກເຕີ	Vektorraum
+ປຶ້ມເອເລັກໂຕຣນິກ	E-Book
+ພາສີມູນຄ່າເພີ່ມ	Mehrwertsteuer
+ພະເຈົ້າເອດູອາກທີ 3 ແຫ່ງອັງກິດ	Eduard III. (England)
+Mikoyan MiG-29	Mikojan-Gurewitsch MiG-29
+ການພັດທະນາແບບຍືນຍົງ	Nachhaltige Entwicklung
+ອ່າວໄທ	Golf von Thailand
+ການວາງແຜນຊັບພະຍາກອນຂອງອົງກອນ	Enterprise-Resource-Planning
+ນິກາຍເຖຣະວາດ	Theravada
+ໂທລະພາບຄວາມລະອຽດສູງ	High Definition Television
+ທຸງຊາດໄທ	Flagge Thailands
+ພະຍຸໄຕ້ຝຸ່ນ	Taifun
+ດຸນການຊຳລະ	Zahlungsbilanz
+ການຊອກຄ່າເໝາະສົມ (ຄະນິດສາດ)	Optimierung (Mathematik)
+ລະດູແລ້ງ	Trockenzeit
+Phu Quoc	Phú Quốc
+ປະເທດລາວໃນໂອລິມປິກລະດູຮ້ອນ 2008	Olympische Sommerspiele 2008/Teilnehmer (Laos)
+ວິກິພີເດຍ:ຂໍໃຫ້ຂະຫຍາຍ	Hilfe:Seite bearbeiten
+Leopard 2	Leopard 2
+ວົງຜື	Sauergrasgewächse
+ເດຈາວູ	Déjà-vu
+ເຄື່ອງຮັບວິທະຍຸ	Radio
+Eurocopter Tiger	Eurocopter Tiger
+ເສດຖະກິດ	Wirtschaft
+ເອໂຄໂນເມທຣິກ	Ökonometrie
+ລາຄາ	Preis (Wirtschaft)
+ມະຫາວິທະຍາໄລເອແດມບວກ	University of Edinburgh
+ທາງລົດໄຟ	Bahn (Verkehr)
+ສຳປະສິດຈິນີ	Gini-Koeffizient
+ກາຕະລີນແຫ່ງອາລາກົງ	Katharina von Aragon
+ບິກ	Schreibstift
+ໝາກກ້າຍ	Kochbanane
+ທືນສັບພະຍາກອນມະນຸດ	Humankapital
+ຊອດໄຂ່ແດງ	Mayonnaise
+ENIAC	ENIAC
+ຊຸດຈຳນວນ	Reihe (Mathematik)
+ພັດທະຍາ	Pattaya
+ດອກເບ້ຍ	Zins
+ຫຸ່ນຍົນສາດ	Robotik
+Boeing AH-64 Apache	Boeing AH-64
+ອຸປະຕິເຫດ	Unfall
+ຢາງລຶບ	Radiergummi
+ເຂື່ອນຮູເວີ	Hoover-Talsperre
+ລະບົບມາດຕະຖານຄຳ	Goldstandard
+Sukhoi Su-27	Suchoi Su-27
+កាំ	Radius
+ມະຫາວິຫານແຊັງໂປນ	St Paul’s Cathedral
+ຍິວວິທະຍາໄລຂອງເຢຣູຊາເລັມ	Hebräische Universität Jerusalem
+ມະຫາວິທະຍາໄລແຄລິຟໍເນຍ ລອດແອນເຈລິດ	University of California, Los Angeles
+ຊັງຕີແມັດ	Zentimeter
+ມິລີແມັດ	Millimeter
+ມິໂກຣແມັດ	Mikrometer (Einheit)
+ເມນເຟຣມ	Großrechner
+ບໍ່ນ້ຳຮ້ອນ	Thermalquelle
+ເນັຕບຸກ	Netbook
+ນະໂຍບາຍເງິນຕາ	Geldpolitik
+ນາໂນແມັດ	Nanometer
+ການຄ້າສາກົນ	Außenhandel
+ຈອຍສະຕິກ	Joystick
+ອັດຕາດອກເບ້ຍ	Zinssatz
+ລົດໂຮງໝໍ	Rettungswagen
+ຈັງຫວັດພູເກັດ	Phuket (Provinz)
+ເສັ້ນສະແດງ	Funktionsgraph
+ສູດເຮລົງ	Satz des Heron
+ບັນທັດຖານວັດແທກ ລາຍໄດ້ ແລະ ຜົນຜະລິດ ແຫ່ງຊາດ	Bruttonationaleinkommen
+ຕົ້ນທຶນໂອກາດ	Opportunitätskosten
+ວົງເຫງັນ	Schleichkatzen
+ນະໂຍບາຍການເງິນ	Fiskalpolitik
+ເຄື່ອງໝາຍຊາດຂອງໄທ	Hoheitszeichen Thailands
+ຕຳລາເສັ້ນຊື່	Lineare Funktion
+ປະຊາທິປະໄຕແບບມີຜູ້ແທນ	Repräsentative Demokratie
+ທະນາຄານພັດທະນາອາຊີ	Asiatische Entwicklungsbank
+ເນີຍແຂງລົກຟອກ	Roquefort (Käse)
+ການຂະຫຍາຍໂຕທາງເສດຖະກິດ	Wirtschaftswachstum
+ເມືອງຫຼວງພະບາງ	Luang Prabang
+ສົມເດັດພະລາຊາທິບະດີເຟລີເປທີ 6 ແຫ່ງແອສະປາຍ	Felipe VI.
+ວັນນະຍຸດ	Tonsprache
+ນ້ຳເຕົ້າຮູ້	Sojamilch
+ການຊົມໃຊ້	Konsum
+ປິໂກແມັດ	Pikometer
+ເພດສຶກສາ	Sexuelle Aufklärung
+ການຕ່ຳ	Weben
+ກະຊວງ	Ministerium
+ວັດຖຸດິບ	Rohstoff (Produktion)
+ຄອມພິວເຕີຣ໌ຈໍາລອງ	Virtuelle Maschine
+ຈອງ	Schöpfkelle
+ລົດພະລັງງານໄຟຟ້າ	Elektroauto
+ຫີນະຍານ	Hinayana
+Dassault Mirage 2000	Dassault Mirage 2000
+ເງີນກີບລາວ	Laotischer Kip
+ເດຊີແມັດ	Dezimeter
+ຄວາມຮັ່ງມີ	Wohlstand
+ເຄື່ອງໝາຍຊາດລາວ	Wappen von Laos
+ພະຍາດໄລມ	Lyme-Borreliose
+ທໍ	Tor (Netzwerk)
+ໂທລະພາບແບບດິຈິຕໍລ໌	Digitales Fernsehen
+ຕານ ສ່ວຍ	Than Shwe
+ປະໂລແວງ	Provins
+ຕຳລາຂັ້ນສາມ	Kubische Gleichung
+Sukhoi Su-30	Suchoi Su-30
+ໂວນຟຣາມອານຟາ	Wolfram Alpha
+ຈັງຫວັດຊົນບຸລີ	Chon Buri (Provinz)
+ສິລະປະປະຍຸກ	Kunstgewerbe
+ແວງກາແບກເນໂຊວີຍົງ	Cabernet Sauvignon
+ເພງຊາດໄທ	Phleng Chat
+ອາຊີອາຕິກ	Mongolide
+กงสุล	Konsul
+ລົດອັກຄີໄຟ	Feuerwehrfahrzeug
+ເຟັມໂຕແມັດ	Femtometer
+ການທົດສອບສົມມຸດຕິຖານສະຖິຕິ	Statistischer Test
+ປັດໃຈການຜະລິດ	Produktionsfaktor
+ສຸລິຍະຄະຕິ	Solarkalender
+ລັດຖະບານເອເລັກໂຕຣນິກ	E-Government
+ວາຈົກ	Diathese (Linguistik)
+ຜູ້ຊົມ	Publikum
+ພຶດຊະຄະນິດພື້ນຖານ	Elementare Algebra
+ແບບຈຳລອງ IS/LM	IS-LM-Modell
+ຟຣີແລນເຊີຣ	Freier Mitarbeiter
+ຄວາມໄດ້ປຽບທຽບຖານ	Komparativer Kostenvorteil
+ພຣະໄຕຣປິດົກ	Pali-Kanon
+ຄະລາວາດນິຍົມ	Säkularismus
+ນັກໂທດການເມືອງ	Politischer Gefangener
+ດອກຈຳປາ	Frangipani
+ສະໜາມບິນສາກົນວັດໄຕ	Flughafen Vientiane
+າເປັນ	Anggun
+ຄວາມຍືດຍຸ່ນ	Elastizität (Wirtschaft)
+ຂະບວນການຄືນສູ່ເຢລູຊາເລມ	Zurück nach Jerusalem
+ຂົວມິດຕະພາບ ລາວ-ໄທ ແຫ່ງທີສອງ	Zweite Thailändisch-Laotische Freundschaftsbrücke
+ຈັງຫວັດຊຽງໃໝ່	Chiang Mai (Provinz)
+ໂດລາເອມອນ	Doraemon
+ຈັງຫວັດສົງຂາ	Songkhla (Provinz)
+ຊາຍບອກ	Cyborg
+ຈັງຫວັດສະຕູນ	Satun (Provinz)
+ອັກສອນໄທ	Thailändische Schrift
+ຈັງຫວັດຊຽງຮາຍ	Chiang Rai (Provinz)
+ຈັງຫວັດກະບີ່	Krabi (Provinz)
+ຈັງຫວັດປັດຕານີ	Pattani (Provinz)
+ຈັງຫວັດລະນອງ	Ranong (Provinz)
+T-80	T-80
+ຈັງຫວັດພິຈິດ	Phichit (Provinz)
+ຈັງຫວັດນະຄອນສະຫວັນ	Nakhon Sawan (Provinz)
+ຈັງຫວັດສຸລາດທານີ	Surat Thani (Provinz)
+ຈັງຫວັດລຳປາງ	Lampang (Provinz)
+ຈັງຫວັດເພັດຊະບູນ	Phetchabun (Provinz)
+ຈັງຫວັດລຳພູນ	Lamphun (Provinz)
+ຈັງຫວັດຕາດ	Trat (Provinz)
+ຈັງຫວັດນົນທະບຸລີ	Nonthaburi (Provinz)
+ຈັງຫວັດຍະລາ	Yala (Provinz)
+ປະທານປະເທດ ແຫ່ງ ສປປ ລາວ	Liste der Premierminister Japans
+ໃບລາຍງານຜົນໄດ້ຮັບ	Gewinn- und Verlustrechnung
+ຈັງຫວັດອຳນາດຈະເລີນ	Amnat Charoen (Provinz)
+ຈັງຫວັດອ່າງທອງ	Ang Thong (Provinz)
+ຈັງຫວັດຕັງ	Trang (Provinz)
+ຈັງຫວັດພັດທະລຸງ	Phatthalung (Provinz)
+ຈັງຫວັດພະເຍົາ	Phayao (Provinz)
+ຈັງຫວັດປະຈວບຄີລີຂັນ	Prachuap Khiri Khan (Provinz)
+ຈັງຫວັດອຸໄທທານີ	Uthai Thani (Provinz)
+ຈັງຫວັດແພ່	Phrae (Provinz)
+ຈັງຫວັດນະຄອນສີທຳມະລາດ	Nakhon Si Thammarat (Provinz)
+ຈັງຫວັດຊຸມພອນ	Chumphon (Provinz)
+ຈັງຫວັດນ່ານ	Nan (Provinz)
+ຈັງຫວັດເພັດຊະບຸລີ	Phetchaburi (Provinz)
+ຄຳນາມປະສົມ	Komposition (Grammatik)
+ອ໋າວຢາຍ	Áo dài
+ທາທາ ຢັງ	Tata Young
+ໂທລະພາບແບບອະນາລ໊ອກ	Analoges Fernsehen
+ຈັງຫວັດໜອງບົວລຳພູ	Nong Bua Lamphu (Provinz)
+ການເກີນທາງດ້ານເສດຖະກິດ	Rente (Wirtschaft)
+ຈັງຫວັດແມ່ຮ່ອງສອນ	Mae Hong Son (Provinz)
+ລັດວິສາຫະກິດ	Öffentliches Unternehmen
+ຈັງຫວັດນະລາທິວາດ	Narathiwat (Provinz)
+ຈັງຫວັດສະໝຸດປາການ	Samut Prakan (Provinz)
+ຈັງຫວັດນະຄອນລາຊະສີມາ	Nakhon Ratchasima (Provinz)
+ຈັງຫວັດສຸພັນບຸລີ	Suphan Buri (Provinz)
+ຈັງຫວັດພັງງາ	Phang-nga (Provinz)
+ປາຂ່າ(ໂລມາອີຣະວະດີ)	Irawadidelfin
+ແລປົງ	Rapunzel
+ຈັງຫວັດອຸຕະລະດິດ	Uttaradit (Provinz)
+ຈັງຫວັດກຳແພງເພັດ	Kamphaeng Phet (Provinz)
+ລະຄັງກຳປັນ	Schiffsglocke
+Externality	Externer Effekt
+ຈັງຫວັດໄຊຍະພູມ	Chaiyaphum (Provinz)
+ຈັງຫວັດເລີຍ	Loei (Provinz)
+ຈັງຫວັດການຈະນະບຸລີ	Kanchanaburi (Provinz)
+ຈັງຫວັດຕາກ	Tak (Provinz)
+ຈັງຫວັດພິສະນຸໂລກ	Phitsanulok (Provinz)
+ດຸນຍະພາບທົ່ວໄປ	Allgemeines Gleichgewichtsmodell
+ບໍລິການລົດເຊົ່າ	Autovermietung
+AIDC F-CK-1 Ching-kuo	AIDC Ching-Kuo
+ເສດຖະວັດຖຸສາດ	Ökonophysik
+ຂົວເອີລັນ	Ölandsbron
+ເກໂກລີ ເລີມາກຊານ	Grégory Lemarchal
+ແຂວງສາລະວັນ	Provinz Salavan
+ກ້ອງຖ່າຍວິດີໂອ	Videokamera
+ຄັງສຳຮອງເງິນຕາຕ່າງປະເທດ	Währungsreserve
+ຜູ້ໂດຍສານ	Passagier
+ສົມເດັດພະເຈົ້າກຸງທົນບຸລີ	Taksin
+ໄກສອນ ພົມວິຫານ	Kaysone Phomvihane
+ສຸພານຸວົງ	Souphanouvong
+ຈັງຫວັດປາຈີນບຸລີ	Prachin Buri (Provinz)
+ອຳນາດບໍລິຫານ	Behörde
+ຈັງຫວັດບຸລີລຳ	Buri Ram (Provinz)
+ຈັງຫວັດຂອນແກ່ນ	Khon Kaen (Provinz)
+ຈັງຫວັດຈັນທະບຸລີ	Chanthaburi (Provinz)
+ຈັງຫວັດໜອງຄາຍ	Nong Khai (Provinz)
+ຄົມມະນາຄົມ	Verkehrsmittel
+ຈັງຫວັດສະໝຸດສາຄອນ	Samut Sakhon (Provinz)
+ຈັງຫວັດສິງບຸລີ	Sing Buri (Provinz)
+ຈັງຫວັດນະຄອນປະຖົມ	Nakhon Pathom (Provinz)
+ແຂວງຜົ້ງສາລີ	Provinz Phongsali
+ແຂວງບໍ່ແກ້ວ	Provinz Bokeo
+ແຂວງຈໍາປາສັກ	Provinz Champasak
+ຈັງຫວັດສະເຊີງເຊົາ	Chachoengsao (Provinz)
+ຈັງຫວັດມຸກດາຫານ	Mukdahan (Provinz)
+ຈັງຫວັດລະຍອງ	Rayong (Provinz)
+ຈັງຫວັດລາຊະບຸລີ	Ratchaburi (Provinz)
+ຈັງຫວັດລົບບຸລີ	Lop Buri (Provinz)
+ຈັງຫວັດສະລະບຸລີ	Saraburi (Provinz)
+ບັນຊີແຫ່ງຊາດ	Volkswirtschaftliche Gesamtrechnung
+ອາຍແກັສແຫຼວ	Flüssiggas
+ສະຫະພາບໂທລະຄົມມະນາຄົມ	Internationale Fernmeldeunion
+ເຈົ້າມະຫາຊີວິດສີສະຫວ່າງວົງ	Sisavang Vong
+ເຈົ້າສີສະຫວ່າງວັດທະນາ	Savang Vatthana
+ໜູຮັກ ພູມສະຫວັນ	Nouhak Phoumsavanh
+ຈັງຫວັດອຸດອນທານີ	Udon Thani (Provinz)
+ຈັງຫວັດສຸລິນ	Surin (Provinz)
+ຈັງຫວັດສີສະເກດ	Si Sa Ket (Provinz)
+ຈັງຫວັດສຸໂຂໄທ	Sukhothai (Provinz)
+ຈັງຫວັດສະແກ້ວ	Sa Kaeo (Provinz)
+ຈັງຫວັດສະກົນນະຄອນ	Sakon Nakhon (Provinz)
+ຈັງຫວັດກາລະສິນ	Kalasin (Provinz)
+ເມືອງປາກເຊ	Pakse
+ລາວ (ຊົນເຜົ່າ)	Lao
+ເສດຖະສາດຕົວເມືອງ	Stadtökonomik
+ການກໍ່ສ້າງ	Bauausführung
+ນະຄອນຫຼວງວຽງຈັນ	Präfektur Vientiane
+Henri Mouhot	Henri Mouhot
+ຂ່າ (ພືດ)	Thai-Ingwer
+ແອຣ໌ເອເຊຍ	AirAsia
+ອາຂ່າ	Akha
+ສົມເດັດພະສັນຕະປາປາຟຣັງຊົວ	Franziskus (Papst)
+ຈັງຫວັດສະໝຸດສົງຄາມ	Samut Songkhram (Provinz)
+ຈັງຫວັດປະທຸມທານີ	Pathum Thani (Provinz)
+ຈັງຫວັດໄຊນາດ	Chai Nat (Provinz)
+ໜີ້ຕ່າງປະເທດ	Auslandsverschuldung
+ແຂວງໄຊຍະບູລີ	Provinz Sainyabuli
+ໝາກຂີ້ຫູດ	Kaffernlimette
+ແຂວງສະຫວັນນະເຂດ	Provinz Savannakhet
+ແຂວງຊຽງຂວາງ	Provinz Xieng Khouang
+ແຂວງອຸດົມໄຊ	Provinz Oudomxay
+ຈັງຫວັດນະຄອນນາຍົກ	Nakhon Nayok (Provinz)
+ສົມເດັດພະເຈົ້າພີ່ນາງເທີ ເຈົ້າຟ້າກັນລະຍານິວັດທະນາ	Galyani Vadhana
+ເສັ້ນໂຄ້ງບໍ່ຈຳແນກ	Indifferenzkurve
+ຈັງຫວັດນະຄອນພະນົມ	Nakhon Phanom (Provinz)
+ຈັງຫວັດມະຫາສາລະຄາມ	Maha Sarakham (Provinz)
+ທ່ານ ບຸນຍັງ ວໍລະຈິດ	Boungnang Vorachith
+ພະເຈົ້າບຸເຣງນອງ	Bayinnaung
+ອຳເພີ	Amphoe
+ອຳເພີເມືອງຊົນບຸລີ	Amphoe Mueang Chon Buri
+ຈັງຫວັດພະນະຄອນສີອະຍຸທະຍາ	Ayutthaya (Provinz)
+ຕຳລາຂັ້ນສີ່	Quartische Gleichung
+ສະໜາມບິນສາກົນເຕິນເຊິນເຍິດ	Flughafen Tan-Son-Nhat
+KAI T-50 Golden Eagle	KAI T-50
+ປ່ອງຢ້ຽມປີ 2000	Microsoft Windows 2000
+ການຈັດການລູກຄ້າສໍາພັນ	Customer-Relationship-Management
+Sukhoi Superjet 100	Suchoi Superjet 100
+ໂສມງາມກັບເຈົ້າຊາຍອະສູນ	Die Schöne und das Biest (Volksmärchen)
+Kwon Ji Yong	G-Dragon
+ແຂວງຫົວພັນ	Provinz Houaphan
+ແຂວງອັດຕະປື	Provinz Attapeu
+ອົງການ ຄວບຄຸມໄພສຸກເສີນລັດຖະບານກາງ	Federal Emergency Management Agency
+ຈັງຫວັດຍະໂສທອນ	Yasothon (Provinz)
+ແຂວງຄຳມ່ວນ	Provinz Khammuan
+ຕຳລາຊີອີເອັສ	CES-Funktion
+ຕຳລາການຜະລິດ	Produktionsfunktion
+ມະຫາວິທະຍາໄລແຫ່ງຊາດລາວ	Nationaluniversität Laos
+ມາລິໂອ້ ເມົາເລີ້	Mario Maurer
+ຄຳເມືອງ	Lanna (Sprache)
+Endogenous growth model	Endogene Wachstumstheorie
+ຂົວມິດຕະພາບລາວ - ໄທ ແຫ່ງທີ 4	Vierte Thailändisch-Laotische Freundschaftsbrücke
+ແຂວງເຊກອງ	Provinz Sekong
+ການຄ້າ	Handel
+ຈຳນວນອະປົກກະຕິ	Irrationale Zahl
+ຈຳປາສັກ	Champasak (Stadt)
+ຄວາມລົ້ມເຫຼວຂອງຕະຫຼາດ	Marktversagen
+ກາເຟອຽກລັງ	Irish Coffee
+ເພງຊາດລາວ	Pheng Xat Lao
+ໜູຖົງຊາຍ	Wallabys
+ສວນຄົວ	Küchengarten
+ຈັງຫວັດຮ້ອຍເອັດ	Roi Et (Provinz)
+ໝັງກາຕູນ	Cartoon
+ຈັກຂັ້ນ	Differenzmaschine
+ຈັງຫວັດອຸບົນລາຊະທານີ	Ubon Ratchathani (Provinz)
+ການແລກປ່ຽນ	Trade-off
+ເມືອງຫຼວງນໍ້າທາ	Luang Namtha
+ເອັນຣິໂຄ ເລັດຕາ	Enrico Letta
+Squadron (ການບິນ)	Staffel (Militär)
+Pilatus PC-7	Pilatus PC-7
+ລິງລົມ	Sunda-Plumplori
+ຫ້ວຍຊາຍ	Ban Houayxay
+ແຂວງວຽງຈັນ	Provinz Vientiane
+ໄຮ້ເພດ	Asexualität
+ກອງປະຊຸມອາເຊັມ	Asia-Europe Meeting
+ໂຈດຊິງລາງວັນມິເລນຽມ	Millennium-Probleme
+ການຜະລິດ, ຕົ້ນທຶນ ແລະ ລາຄາ	Produktion
+ໂຜນ ກິ່ງເພດ	Pone Kingpetch
+ໄທໃຫຍ່	Shan
+ກະເທີຍ	Kathoey
+ເນີຍແຂງຟ້າແກ່	Blauschimmelkäse
+ເສດຖະຄະນິດສາດ	Wirtschaftsmathematik
+ແຂວງຫຼວງພະບາງ	Provinz Luang Prabang
+ເມືອງໄກສອນ ພົມວິຫານ	Savannakhet
+ການບິນອະວະກາດ	Bemannte Raumfahrt
+ການບິນລາວ	Lao Airlines
+ພັກປະຊາຊົນປະຕິວັດລາວ	Laotische Revolutionäre Volkspartei
+ອາຊີໃຕ້	Südasien
+ສະໜາມບິນສາກົນເຫຼ້າສຸດ	Flughafen Da Nang
+Harvard Mark I	Mark I (Computer)
+BM-30 Smerch	BM-30
+ສະຖານນີທ່ານາແລ້ງ	Bahnhof Thanaleng
+ສາມຫຼ່ຽມຄຳ	Goldenes Dreieck
+ຄວາມຈຳກັດ	Knappheit
+ເຂົ້າຈີ່ປາເຕ້	Pastete
+ກິໂລແມັດ	Kilometer
+ລົດມ້າ	Pferdebahn
+ທິດສະດີຜູ້ຊົມໃຊ້	Haushaltstheorie
+Halo effect	Halo-Effekt
+ອານາຈັກອະຍຸທະຍາ	Königreich Ayutthaya
+ປະລິມານເງິນ	Geldmenge
+ຜົນປະໂຫຍດຂອບເຂດ (ເສດຖະສາດ)	Grenznutzen
+ເຮັກໂຕແມັດ	Hektometer
+ເຂດພິເສດໄຊສົມບູນ	Saysomboun
+ຄອບ-ດັກລາສ	Cobb-Douglas-Funktion
+ເດກາແມັດ	Dekameter
+ເສດຖະສາດສະຫວັດດີການ	Wohlfahrtsökonomik
+ອານາຈັກລ້ານຊ້າງ	Lan Xang
+VietJet Air	VietJet Air
+ກິກາແມັດ	Gigameter
+ຮູບສອງແຈ	Kugelzweieck
+ຈຸລາລົງກອນມະຫາວິທະຍາໄລ	Chulalongkorn-Universität
+ອານາຈັກສຸໂຂໄທ	Sukhothai (Königreich)
+ຊີເກມສ໌	Südostasienspiele
+ພູພຽງບໍລະເວນ	Bolaven-Plateau
+ຊ່ວຍເຫຼືອ:ເນື້ອໃນ	Hilfe:Übersicht
+ຂົວມິດຕະພາບ ລາວ-ໄທ ແຫ່ງທຳອິດ	Erste Thailändisch-Laotische Freundschaftsbrücke
+ແຂວງຫຼວງນໍ້າທາ	Provinz Luang Namtha
+ນ້ຳອູ	Nam Ou
+ດູ່	Narrabaum
+ເຂົາຊາຍ ແກແລັກຊີ້	Khaosai Galaxy
+ເຄື່ອງເຮັດເຂົ້າຈີ່	Brotbackautomat
+ຈັງຫວັດບຶງການ	Bueng Kan (Provinz)
+ບຸນບັ້ງໄຟ	Bun Bang Fai
+ວັງວຽງ	Vang Vieng
+ເມືອງສີງ	Muang Sing
+ທ່າແຂກ	Thakhek
+ຊຽງຕຸງ	Keng Tung
+ລົດຮັບສົ່ງເດີ່ນຍົນ	Vorfeldbus
+ຮັກຕ່າງເພດ	Heterosexualität
+ຕົ້ມຍຳ	Tom Yam
+ក	Khmer-Schrift
+ອານາຈັກລ້ານນາ	Lan Na
+ພະລັງງານຂັ້ນຕົ້ນ	Primärenergie
+ພະທາດຫຼວງ	Pha That Luang
+ຊີເກມສ໌ ‍2009	Südostasienspiele 2009
+ກິເລດ	Klesha
+ຕຳບົນ	Tambon
+ສະໜາມບິນສາກົນຫຼວງພະບາງ	Flughafen Luang Prabang
+ເຂົ້າຈີ່ສາລີ	Maisbrot
+ອານາຈັກທົນບຸລີ	Königreich Thonburi
+ການວິໄຈການຕະຫລາດ	Marktforschung
+ຫຼັກເກນ ເຮັກເຊີ=ໂອລີນ	Heckscher-Ohlin-Theorem
+ການນັ່ງ	Sitzen
+ມະຫາວິທະຍາໄລພາສາຕ່າງປະເທດປັກກິ່ງ	Pekinger Fremdsprachenuniversität
+ການຄາດຫວັງແບບດັດສົມ	Theorie der adaptiven Erwartungen
+ສະພາແຫ່ງຊາດ	Nationalversammlung (Laos)
+ພິດຕີ້ຄຽວ	Pretty Cure
+ແຂວງບໍລິຄຳໄຊແລະບັນດາກຸ່ມບ້ານຕ່າງໆ	LEAP
+ໂຣບົດທະຫານ	Militärroboter
+ຈຳນວນປົກກະຕິ	Rationale Zahl
+ເດີ່ນຍົນ	Flughafen
+ຂົວມິດຕະພາບລາວ-ໄທ ແຫ່ງທີ 3	Dritte Thailändisch-Laotische Freundschaftsbrücke
+ລະບອບການປົກຄອງ	Herrschaftsform
+ອັກສອນທໍາລ້ານນາ	Lanna (Schrift)
+ເມືອງ	Müang
+El Chavo del 8	El Chavo del Ocho
+ຄວາມຂາດແຄນທາງເສດຖະກິດ	Nachfrageüberhang
+ຕຳໝາກຫຸ່ງ	Som Tam
+ທົງໄຊ ແມກອິນໄຕ	Thongchai McIntyre
+ກີ່ຄິດໄລ່ Jacquard	Jacquardwebstuhl
+ອາຫານລາວ	Laotische Küche
+ໝວດ:ປະເທດເຢັຽລະມັນ	Kategorie:Deutschland
+ໝວດ:ສະຫະລັດອາເມລິກາ	Kategorie:Vereinigte Staaten
+ໝວດ:ປະເທດການາດາ	Kategorie:Kanada
+ໝວດ:ສະຫະລາຊະອານາຈັກ	Kategorie:Vereinigtes Königreich
+ໝວດ:ປະເທດແອສະປາຍ	Kategorie:Spanien
+ໝວດ:ປະເທດຍີ່ປຸ່ນ	Kategorie:Japan
+ສະໜາມບິນບໍ່ແກ້ວ	Flughafen Ban Houayxay
+ຈຸດແລກປ່ຽນທາງອິນເຕີຣ໌ເນັຕ	Internet-Knoten
+ເສດຖະປະຫວັດສາດ	Kliometrie
+ປະຕູໄຊ	Patuxai
+ໝວດ:ປະເທດເກົາຫຼີໃຕ້	Kategorie:Südkorea
+ໝວດ:ປະເທດໄທ	Kategorie:Thailand
+ໝວດ:ປະເທດຫວຽດນາມ	Kategorie:Vietnam
+ໝວດ:ສັດລ້ຽງລູກດ້ວຍນ້ຳນົມ	Kategorie:Säugetiere
+ໝວດ:ພືດ	Kategorie:Pflanzen
+ໝວດ:ວັດຖຸວິທະຍາ	Kategorie:Physik
+ໝວດ:ຊີວະສາດ	Kategorie:Biologie
+ໝວດ:ປະຫວັດສາດ	Kategorie:Geschichte
+ໝວດ:ພູມສາດ	Kategorie:Geographie
+ໝວດ:ສັງຄົມ	Kategorie:Gesellschaft
+ໝວດ:ສາສະໜາ	Kategorie:Religion
+ໝວດ:ກິລາ	Kategorie:Sport
+ໝວດ:ສາດ	Kategorie:Wissenschaft
+ໝວດ:ສະຫະປະຊາຊາດ	Kategorie:Vereinte Nationen
+ໝວດ:ຮູບເງົາ	Kategorie:Film
+ໝວດ:ມໍລະດົກໂລກ	Kategorie:Welterbe
+ໝວດ:ໂລກ	Kategorie:Erde
+ໝວດ:ອາວະກາດ	Kategorie:Raum
+ລາຍໄດ້	Einkommen
+ໂມເດລຄວາມດຶງດູດການຄ້າ	Gravitationsmodell (Ökonomie)
+ການບໍລິຫານຄວາມຂັດແຍ່ງ	Konfliktmanagement
+ໄອຊິກ	International Standard Industrial Classification
+ແຄນ	Khaen
+ຍອດຄວາມຕ້ອງການ	Gesamtwirtschaftliche Nachfrage
+ອຸໂບສົດ	Ubosot
+ໝວດ:ນິເວດສາດ	Kategorie:Ökologie
+ໝວດ:ພຸດທະສາສະໜາ	Kategorie:Buddhismus
+ໝວດ:ຄຣິສຕະສາດສະໜາ	Kategorie:Christentum
+ໝວດ:ສາສະໜາອິສະລາມ	Kategorie:Islam
+ການຈັດການການຜະລິດແລະການດຳເນີນງານ	Production and Operations Management
+ໂພຊະນາການ	Ernährung
+ມະຫາວິທະຍາໄລເສສວນ	Sichuan-Universität
+ແຂວງບໍລິຄຳໄຊ	Provinz Bolikhamsai
+ສິນຄ້າ (ທຸລະກິດ)	Produkt (Wirtschaft)
+ລັດອິດສະລາມອີຣັກແລະເຣເວນທ໌	Islamischer Staat (Organisation)
+ການຈັດການ	Unternehmensführung
+ໝວດ:ວັດທະນະທຳ	Kategorie:Kultur
+ໝວດ:ຄວາມຮູ້	Kategorie:Wissen
+ໝວດ:ທະວີບ	Kategorie:Kontinent
+ໝວດ:ທໍລະນີສາດ	Kategorie:Geologie
+ໝວດ:ພາສາ: ເຮືອບິນ	Kategorie:Luftfahrzeug
+ຮູດີສ	Huthi-Rebellen
+ລະດູຝົນ	Regenzeit
+ສົມບັດ ສົມພອນ	Sombath Somphone
+ດຸນຍະພາບທາງເສດຖະກິດ	Marktgleichgewicht
+ໝວດ:ນັກສະແດງ	Kategorie:Schauspieler
+ໝວດ:ເສດຖະສາດ	Kategorie:Wirtschaftswissenschaft
+ວິກິພີເດຍ:ຜູ້ບໍລິຫານ	Wikipedia:Administratoren
+ໝວດ:ອາຊີບ	Kategorie:Beruf
+ໝວດ:ເວລາ	Kategorie:Zeit
+ໝວດ:ອິນເຕີເນັດ	Kategorie:Internet
+ໝວດ:ວັດສະດຸ	Kategorie:Material
+ໝວດ:ແພດສາດ	Kategorie:Medizin
+ໝວດ:ການເມືອງ	Kategorie:Politik
+ໝວດ:ການສຶກສາ	Kategorie:Bildung
+ໝວດ:ສິລະປະ	Kategorie:Kunst
+ໝວດ:ຊອຟແວ	Kategorie:Software
+ແມ່ແບບ:Bot	Vorlage:Bot
+ປະເທດການາດາ	Kanada
+ໝວດ:ບົດຄວາມດີເດັ່ນ	Kategorie:Wikipedia:Exzellent
+ຄວາມຕ້ອງການ (ເສດຖະສາດ)	Nachfrage
+ໝວດ:ເອີລົບ	Kategorie:Europa
+ໝວດ:ພາສາ: ຫຼັກການແບ່ງປະເພດຫົວຂໍ້	Kategorie:Sachsystematik
+ແມ່ແບບ:ຄູ່ມືການໃຊ້ງານ	Vorlage:Dokumentation
+ໝວດ:ຜູ້ໃຊ້ແບ່ງຕາມພາສາ	Kategorie:Benutzer:nach Sprache
+ວິກິພີເດຍ:ຫ້າຫຼັກການ	Wikipedia:Grundprinzipien
+ວິກິພີເດຍ:ກ່ອງຜູ້ໃຊ້	Benutzer:Vorlage
+ທຸລະກິດ	Unternehmen
+ແມ່ແບບ:Softredirect	Vorlage:Interwiki redirect
+ແມ່ແບບ:ລຶບ	Vorlage:Löschen
+ໝວດ:ພາສາ: ເຕັກໂນໂລຊີ	Kategorie:Technologie
+ໝວດ:ພັນທຸສາດ	Kategorie:Genetik
+ໝວດ:ພາສາ	Kategorie:Einzelsprache als Thema
+ໝວດ:ໄວຍາກອນ	Kategorie:Grammatik
+ໝວດ:ປະຕິທິນ	Kategorie:Kalender
+ໝວດ:ວິກິພີເດຍ	Kategorie:Wikipedia
+ວິກິພີເດຍ:ຂໍ້ປະຕິເສດຄວາມຮັບຜິດຊອບ	Wikipedia:Impressum
+ໝວດ:Pages with broken file links	Kategorie:Wikipedia:Defekter Dateilink
+ແມ່ແບບ:Navbox	Vorlage:Erweiterte Navigationsleiste
+ໝວດ:ພາສາໝາຍ	Kategorie:Beschreibungssprache
+ການບໍລິຫານ	Verwaltung
+ໝວດ:ການບຳລຸງຮັກສາວິກິພີເດຍ	Kategorie:Wikipedia:Wartung
+ໝວດ:ຄອມພິວເຕີ	Kategorie:Angewandte Informatik
+ແມ່ແບບ:!-	Vorlage:!-
+ແມ່ແບບ:Fontie	Vorlage:Unicode
+ແມ່ແບບ:Clear	Vorlage:Absatz
+ໝວດ:ອາຟຣິກກາ	Kategorie:Afrika
+ໝວດ:ປຶ້ມ	Kategorie:Buchwesen
+ແມ່ແບບ:ບາເບລ	Vorlage:Babel
+ແມ່ແບບ:Commons	Vorlage:Commons
+ວິກິພີເດຍ:ການອ້າງອີງແຫຼ່ງທີ່ມາ	Wikipedia:Literatur
+ວິກິພີເດຍ:ຊອກຫາ	Hilfe:Suche
+ແມ່ແບບ:User eo-1	Vorlage:User eo-1
+ແມ່ແບບ:User de	Vorlage:User de
+ແມ່ແບບ:User de-1	Vorlage:User de-1
+ແມ່ແບບ:User es	Vorlage:User es
+ແມ່ແບບ:User de-3	Vorlage:User de-3
+ແມ່ແບບ:User en-3	Vorlage:User en-3
+ແມ່ແບບ:User en-1	Vorlage:User en-1
+ແມ່ແບບ:User en-2	Vorlage:User en-2
+ແມ່ແບບ:User en-4	Vorlage:User en-4
+ແມ່ແບບ:User en	Vorlage:User en
+ແມ່ແບບ:User de-2	Vorlage:User de-2
+ແມ່ແບບ:User fr-1	Vorlage:User fr-1
+ແມ່ແບບ:User ja-4	Vorlage:User ja-4
+ແມ່ແບບ:User ja	Vorlage:User ja
+ແມ່ແບບ:User ja-1	Vorlage:User ja-1
+ແມ່ແບບ:User fr	Vorlage:User fr
+ໝວດ:ອາຊີ	Kategorie:Asien
+ໝວດ:ປະເທດມາເລເຊຍ	Kategorie:Malaysia
+ແມ່ແບບ:Lang-ja	Vorlage:JaS
+ແມ່ແບບ:Mod	Vorlage:Modulo
+ແມ່ແບບ:User es-2	Vorlage:User es-2
+ແມ່ແບບ:ຍິນດີຕ້ອນຮັບ	Vorlage:Willkommen
+ໝວດ:ດວງຈັນ	Kategorie:Erdmond
+ແມ່ແບບ:USA	Vorlage:USA
+ໝວດ:ພາສາສາດ	Kategorie:Sprachwissenschaft
+ແມ່ແບບ:ດັດແກ້	Vorlage:Bearbeiten
+ແມ່ແບບ:Wikiatlas	Vorlage:Wikiatlas
+ແມ່ແບບ:Click	Vorlage:Click
+ໝວດ:User fr-1	Kategorie:User fr-1
+ແມ່ແບບ:Image label	Vorlage:Image label
+ໝວດ:ແມວ	Kategorie:Hauskatze
+ໝວດ:ນາຊີ	Kategorie:Person (Nationalsozialismus)
+ແມ່ແບບ:Sidebar	Vorlage:Seitenleiste
+ແມ່ແບບ:ກ່ອງຜູ້ໃຊ້ລຸ່ມ	Vorlage:Userboxbottom
+ແມ່ແບບ:ຂໍ້ມູນປະເທດ	Vorlage:Infobox Staat
+ແມ່ແບບ:ກ່ອງຜູ້ໃຊ້ເທິງ	Vorlage:Userboxtop
+ແມ່ແບບ:Infobox Political party	Vorlage:Infobox Partei
+ແມ່ແບບ:ກ່ອງຂໍ້ມູນ ນັກມວຢ	Vorlage:Infobox Boxer
+ແມ່ແບບ:Infobox ບໍລິສັດ	Vorlage:Infobox Unternehmen
+ແມ່ແບບ:ປ້າຍບົດຄວາມດີເດັ່ນ	Vorlage:Exzellent
+ໝວດ:ປາລີ	Kategorie:Paris
+ໝວດ:User en	Kategorie:User en
+ໝວດ:User zh	Kategorie:User zh
+ໝວດ:User en-2	Kategorie:User en-2
+ແມ່ແບບ:Infobox	Vorlage:Infobox
+ແມ່ແບບ:User zh	Vorlage:User zh
+ໝວດ:ອັກສອນ	Kategorie:Alphabet
+ໝວດ:ພາສາ: ບິນ	Kategorie:Luftfahrt
+ໝວດ:ອາຫານແລະເຄື່ອງດື່ມ	Kategorie:Essen und Trinken
+ແມ່ແບບ:Infobox City Poland	Vorlage:Infobox Ort in Polen
+ແມ່ແບບ:ວິກິວັດຈະນານຸກົມ	Vorlage:Wiktionary
+ແມ່ແບບ:User ru	Vorlage:User ru
+ໝວດ:ອະເມລິກາ	Kategorie:Amerika
+ໝວດ:ເຂົ້າຈີ່	Kategorie:Brot
+ແມ່ແບບ:ກັບສາງ	Vorlage:Archivübersicht
+ວິກິພີເດຍ:ຂ້ອຄວາມຂວງ GNU Free Documentation License	Wikipedia:GNU Free Documentation License
+ແມ່ແບບ:Sisterlinks	Vorlage:Schwesterprojekte
+ໝວດ:ພາສາທະຫານ	Kategorie:Militärwesen
+ແມ່ແບບ:Increase	Vorlage:Gestiegen
+ແມ່ແບບ:Image label end	Vorlage:Image label end
+ແມ່ແບບ:Tlx	Vorlage:Vorlage
+ແມ່ແບບ:CAN	Vorlage:CAN
+ໝວດ:ຄຳ	Kategorie:Wort
+ແມ່ແບບ:ກ່ອງຜູ້ໃຊ້ຄັ່ນ	Vorlage:Userboxbreak
+ໝວດ:ແຫຼ່ງນ້ຳ	Kategorie:Gewässer
+ແມ່ແບບ:ຕ້ອງການອ້າງອີງ	Vorlage:Belege fehlen
+ໝວດ:ສະໜາມບິນໃນຫວຽດນາມ	Kategorie:Flughafen in Vietnam
+ແມ່ແບບ:Image label small	Vorlage:Image label small
+ໝວດ:ພະມະຫາກະສັດອັງກິດ	Kategorie:Monarch (England)
+ໝວດ:ສານອາຫານ	Kategorie:Nährstoff
+ແມ່ແບບ:SUL Box	Vorlage:Benutzer SUL
+ໝວດ:ພາຫະນະການທະຫານ	Kategorie:Militärfahrzeug
+ໝວດ:ວິທະຍາສາດສຸຂະພາບ	Kategorie:Gesundheitswissenschaft
+ໝວດ:ໂທລະສັບມືຖື	Kategorie:Mobiltelefon
+ໝວດ:ພາສາ: ເຮືອບິນທະຫານ	Kategorie:Militärischer Flugzeugtyp
+ແມ່ແບບ:Lang-en	Vorlage:EnS
+ໝວດ:ເນີຍແຂງ	Kategorie:Käse
+ແມ່ແບບ:UK	Vorlage:GBR
+ໝວດ:ສະຖາປັດຕະຍະກຳ	Kategorie:Architektur
+ໝວດ:ລົດໄຟ	Kategorie:Schienenverkehr
+ແມ່ແບບ:Interwiki	Vorlage:Wikipedia
+ແມ່ແບບ:MainPageInterwikis	Wikipedia:Hauptseite/Interwikis
+ໝວດ:ໂພຊະນາການ	Kategorie:Ernährung
+ແມ່ແບບ:ບໍ່ເປັນກາງ	Vorlage:Neutralität
+ແມ່ແບບ:Dmoz	Vorlage:Dmoz
+ໝວດ:ເມືອງໃນແຂວງເກແບັກ	Kategorie:Ort in Québec
+ໝວດ:User eo	Kategorie:User eo
+ໝວດ:User fr	Kategorie:User fr
+ໝວດ:User ja	Kategorie:User ja
+ໝວດ:User th	Kategorie:User th
+ໝວດ:User ja-2	Kategorie:User ja-2
+ໝວດ:User fr-N	Kategorie:User fr-M
+ໝວດ:ແມ່ນ້ຳອາມາຊົນ	Kategorie:Amazonien
+ໝວດ:ແຂວງກວາງບິນ	Kategorie:Quảng Bình
+ໝວດ:User en-3	Kategorie:User en-3
+ໝວດ:User en-N	Kategorie:User en-M
+ໝວດ:User eo-1	Kategorie:User eo-1
+ໝວດ:User es	Kategorie:User es
+ແມ່ແບບ:EU	Vorlage:Navigationsleiste EU-Staaten
+ໝວດ:User es-2	Kategorie:User es-2
+ໝວດ:User es-3	Kategorie:User es-3
+ນິກາຍອັງກະລິກັງ	Anglikanismus
+ໝວດ:ສິລະປິນ	Kategorie:Künstler
+ໝວດ:ເວັບໄຊຕ໌	Kategorie:Website
+ໝວດ:User ko	Kategorie:User ko
+ໝວດ:User ko-1	Kategorie:User ko-1
+ໝວດ:ຫົວໜ່ວຍການປົກຄອງ	Kategorie:Verwaltungsgliederung
+ໝວດ:ພາສາວັນນະຍຸດ	Kategorie:Tonsprache
+ໝວດ:ວັນນະຄະດີເດັກນ້ອຍ	Kategorie:Kinderliteratur
+ໝວດ:ອຸບປະກອນເຂົ້າອອກ	Kategorie:Eingabegerät
+ໝວດ:User lo	Kategorie:User lo
+ໝວດ:User lo-1	Kategorie:User lo-1
+ໝວດ:ທະເລ	Kategorie:Meer
+ໝວດ:ປະເທດອັງກິດ	Kategorie:England
+ໝວດ:ລະບົບສຸລິຍະ	Kategorie:Sonnensystem
+ຊ່ວຍເຫຼືອ:ຫ້ອງສາງ	Hilfe:Archivieren
+ໝວດ:ອຸດສາຫະກຳ	Kategorie:Industrie
+ໝວດ:ນ້ຳ	Kategorie:Wasser
+ໝວດ:ສັດກິນຊີ້ນ	Kategorie:Raubtiere
+ໝວດ:ແຂວງ	Kategorie:Provinz in Laos
+ແມ່ແບບ:ແຂວງຂອງລາວ	Vorlage:Navigationsleiste Verwaltungsgliederung von Laos
+ໝວດ:ເຮລີກົບແຕ	Kategorie:Hubschrauber
+ແມ່ແບບ:User cs	Vorlage:User cs
+ແມ່ແບບ:User es-3	Vorlage:User es-3
+ໝວດ:User ru	Kategorie:User ru
+ໝວດ:User ru-3	Kategorie:User ru-3
+ໝວດ:User th-3	Kategorie:User th-3
+ໝວດ:User th-N	Kategorie:User th-M
+ແມ່ແບບ:Lang	Vorlage:Lang
+ໝວດ:ສາຂາວິຊາວິທະຍາສາດ	Kategorie:Wissenschaft nach Fachgebiet
+ໝວດ:ຊາວພະມ້າ	Kategorie:Myanmare
+ໝວດ:ມະນຸດ	Kategorie:Menschen
+ແມ່ແບບ:ບົດຄວາມຫຼັກ	Vorlage:Hauptartikel
+ໝວດ:ວົງເສືອແລະແມວ	Kategorie:Katzen
+ໝວດ:ແມ່ນ້ຳແບ່ງຕາມປະເທດ	Kategorie:Fluss nach Staat
+ໝວດ:ສະກຸນເງິນ	Kategorie:Währung
+ໝວດ:ແມ່ນ້ຳ	Kategorie:Fluss
+ໝວດ:ແມ່ນ້ຳໃນປະເທດບະເລຊິນ	Kategorie:Fluss in Brasilien
+ໝວດ:ແມ່ນ້ຳໃນປະເທດເປລູ	Kategorie:Fluss in Peru
+ໝວດ:User zh-1	Kategorie:User zh-1
+ໝວດ:User zh-3	Kategorie:User zh-3
+ໝວດ:ພະມະຫາກະສັດໄທ	Kategorie:König (Thailand)
+ໝວດ:ຊັບສິນທາງປັນຍາ	Kategorie:Immaterialgüterrecht
+ໝວດ:ປະທານປະເທດລາວ	Kategorie:Präsident (Laos)
+ໝວດ:ຂໍ້ມູນວິກິພີເດຍເບື້ອງຕົ້ນ	Kategorie:Wikipedia:Über Wikipedia
+ໝວດ:ຈັງຫວັດໃນປະເທດໄທ	Kategorie:Thailändische Provinz
+ໝວດ:ຊາວໄທ	Kategorie:Thailänder
+ໝວດ:ນິກາຍໃນສາສະໜາຄິດ	Kategorie:Kirche (Organisation)
+ໝວດ:ມໍລະດົກໂລກແບ່ງຕາມປະເທດ	Kategorie:Welterbe nach Staat
+ໝວດ:ແມ່ນ້ຳໃນປະເທດໂກລົມບີ	Kategorie:Fluss in Kolumbien
+ໝວດ:ປະເທດລາວ	Kategorie:Laos
+ວິກິພີເດຍ:ຕ້ອງການອ້າງອີງ	Wikipedia:Citation needed
+ໝວດ:ຜັກ	Kategorie:Gemüse
+ໝວດ:ໝາກໄມ້	Kategorie:Obst
+ໝວດ:ພາສາລາແຕັງ	Kategorie:Latein
+ໝວດ:ມໍລະດົກໂລກໃນປະເທດຝະລັ່ງ	Kategorie:Weltkulturerbe in Frankreich
+ໝວດ:ມະຫາສະໝຸດ	Kategorie:Ozean
+ໝວດ:ມະນຸດສາດ	Kategorie:Anthropologie
+ໝວດ:ລົດສະນິຍົມທາງເພດ	Kategorie:Sexuelle Orientierung
+ໝວດ:ລະບົບປະຕິບັດການ	Kategorie:Betriebssystem
+ໝວດ:ລະດູ	Kategorie:Jahreszeit
+ໝວດ:ແຮ່ທາດສາດ	Kategorie:Mineralogie
+ໝວດ:ວິວັດທະນາການ	Kategorie:Evolution
+ໝວດ:ວິທີໃຊ້ວິກິພີເດຍ	Kategorie:Wikipedia:Dokumentation
+ໝວດ:ສັດ	Kategorie:Vielzellige Tiere
+ໝວດ:ສັດທະສາດ	Kategorie:Phonetik
+ໝວດ:ສະເຕໂລອິດ	Kategorie:Steroid
+ໝວດ:ປະໂລເຕອິນ	Kategorie:Protein
+ໝວດ:ເພງ	Kategorie:Lied
+ໝວດ:ເພດສຶກສາ	Kategorie:Sexualaufklärung
+ໝວດ:ນະຄອນຫຼວງ	Kategorie:Hauptstadt
+ໝວດ:ເມືອງໃນລາວ	Kategorie:Ort in Laos
+ໝວດ:ວຽງຈັນ	Kategorie:Vientiane
+ໝວດ:ເອດສ໌	Kategorie:AIDS
+ໝວດ:ອາຊີຕາເວັນອອກສຽງໃຕ້	Kategorie:Südostasien
+ໝວດ:ແຂວງຫຼວງພະບາງ	Kategorie:Provinz Luang Prabang
+ໝວດ:ໄດໂນເສົາ	Kategorie:Dinosaurier
+ໝວດ:User th-4	Kategorie:User th-4
+ໝວດ:ກຸ່ມພາສາໂລມັງ	Kategorie:Romanische Sprachen
+ໝວດ:ພາສາ: ການຂົນສົ່ງ	Kategorie:Verkehrswesen
+ໝວດ:ການຟ້ອນລຳ	Kategorie:Tanzen
+ໝວດ:ກະລູຊິດ	Kategorie:Kohlenhydrat
+ໝວດ:ປະເພດຄຳເວົ້າ	Kategorie:Wortart
+ໝວດ:ນັກເສດຖະສາດ	Kategorie:Ökonom
+ແມ່ແບບ:ກ່ອງຂໍ້ມູນ ພາສາ	Vorlage:Infobox Sprache
+ໝວດ:ກາເຟ	Kategorie:Kaffee
+ໝວດ:ພາສາອິຕາລີ	Kategorie:Italienische Sprache
+ໝວດ:ພາສາແອສະປາໂຍນ	Kategorie:Spanische Sprache
+ໝວດ:ແຊນ	Kategorie:Gen
+ໝວດ:ຍານພາຫະນະ	Kategorie:Fahrzeug
+ໝວດ:ລົດ	Kategorie:Automobil
+ໝວດ:Tanks	Kategorie:Panzer
+ໝວດ:ອາຫານຝະລັ່ງ	Kategorie:Französische Küche
+ໝວດ:ເນີຍແຂງຝະລັ່ງ	Kategorie:Französischer Käse
+ການບໍລິການ	Dienstleistung
+ໝວດ:ສະໄໝກາງ	Kategorie:Mittelalter
+ໝວດ:ສຸຂະພາບ	Kategorie:Gesundheit
+ທະນາຄານອິນດູຈີນ (ສະຫະພັນອິນດູຈີນຝະລັ່ງ)	Banque de l’Indochine
+ແມ່ແບບ:G8	Vorlage:Navigationsleiste G8
+ແມ່ແບບ:User wa	Vorlage:User wa
+ແມ່ແບບ:User lo-1	Vorlage:User lo-1
+ໝວດ:ເສດຖະສາດມະຫາພາກ	Kategorie:Makroökonomie
+ໝວດ:ພາສາ:ສາຍການບິນ	Kategorie:Verkehrsflugzeug
+ໝວດ:ແຂວງເກແບັກ	Kategorie:Québec
+ໝວດ:ພາສາປືນໃຫຍ່	Kategorie:Artillerie
+ໝວດ:ຂົວ	Kategorie:Brücke
+ໝວດ:ພາສາກາຕາລັງ	Kategorie:Katalanische Sprache
+ສິດທິເດັກ	Kinderrechte
+ໝວດ:ເອແດມບວກ	Kategorie:Edinburgh
+ໝວດ:ຮາດແວ	Kategorie:Hardware
+ໝວດ:ພະລັງງານ	Kategorie:Energiewesen
+ໝວດ:ລິກຂະສິດ	Kategorie:Urheberrecht
+ໝວດ:ພາສາຝະລັ່ງ	Kategorie:Französische Sprache
+ໝວດ:ສຽງມະນຸດ	Kategorie:Menschliche Stimme
+ໝວດ:ຫຼັກ້ຮົບ tanks	Kategorie:Kampfpanzer
+ຊ່ວຍເຫຼືອ:ເຈ້ຍກ່າຍ	Hilfe:Bearbeitungshilfe
+ໝວດ:ເຮືອບິນຄູຝຶກທະຫານ	Kategorie:Militärisches Schulflugzeug
+ໝວດ:ຫຸ່ນຍົນສາດ	Kategorie:Robotik
+ໝວດ:ໂຣບົດ	Kategorie:Roboter
+ໝວດ:ພາສາລູມານີ	Kategorie:Rumänische Sprache
+ໝວດ:ຕາກດີກະລາດາ	Kategorie:Tardigrada
+ໝວດ:ສັດມີແກນສັນຫຼັງ	Kategorie:Chordatiere
+ໝວດ:ມົງເລອານ	Kategorie:Montreal
+ໝວດ:ໂທລະສັບ	Kategorie:Telefonie
+ໝວດ:ໜ່ວຍນັບເວລາ	Kategorie:Zeiteinheit
+ໝວດ:ທາດ	Kategorie:Pagode
+ແມ່ແບບ:Image label begin	Vorlage:Image label begin
+ໝວດ:ພາສາກໍາລັງທາງອາກາດ	Kategorie:Nationale Luftstreitkraft
+ໝວດ:ແຂວງອຸດົມໄຊ	Kategorie:Provinz Oudomxay
+ໝວດ:User en-1	Kategorie:User en-1
+ໝວດ:ບົດຄວາມຕ້ອງຂະຫຍາຍ	Kategorie:Wikipedia:Lückenhaft
+ປະເທດໂມນດາວີ	Fürstentum Moldau
+ແມ່ແບບ:User sa-2	Vorlage:User sa-2
+ແມ່ແບບ:ກ່ອງຂໍ້ມູນ ແຂວງໃນປະເທດໄທ	Vorlage:Infobox Provinzen in Thailand
+ແມ່ແບບ:QC	Vorlage:CA-QC
+ແມ່ແບບ:Infobox file format	Vorlage:Infobox Dateiformat
+ວິກິພີເດຍ:ຄຳຖາມມີເລື້ອຍ ກ່ຽວກັບ ການປະກອບສ່ວນ	Hilfe:FAQ für Mitarbeiter
+ວິກິພີເດຍ:ຄຳຖາມມີເລື້ອຍ ກ່ຽວກັບ ການດັດແປງ	Hilfe:FAQ zum Bearbeiten
+ແມ່ແບບ:ກ່ອງຂໍ້ມູນ ອຳເພີ	Vorlage:Infobox Amphoe
+ຮຳຊະ	Hand der Fatima
+ພິເສດ:ການດັດແກ້ຫຼ້າສຸດ	Spezial:Letzte Änderungen
+ສາຍການບິນມາເລເຊຍທຽ່ວບິນMH370	Malaysia-Airlines-Flug 370
+ອຸປະຕິເຫດເຮືອເຊໂວລຫລົ່ມ	Sewol

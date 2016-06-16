@@ -1,0 +1,3488 @@
+Affrica	Afrika
+Iapan	Japan
+Sūðamerica	Südamerika
+Norþweg	Norwegen
+Englaland	England
+Scotland	Schottland
+Wēalas	Wales
+Norðerne Īrland	Nordirland
+Īrland Cynewīse	Irland
+Ungerland	Ungarn
+Spēonland	Spanien
+Geānedu Rīcu American	Vereinigte Staaten
+Belgice	Belgien
+Letseburg	Luxemburg
+Eorðe	Erde
+Līf	Leben
+George Washington	George Washington
+Finnland	Finnland
+Swēoland	Schweden
+Denemearc	Dänemark
+Polaland	Polen
+Liþþuania	Litauen
+Italia	Italien
+Swissland	Schweiz
+Ēastrīce	Österreich
+Grēcland	Griechenland
+Turcland	Türkei
+Bēor	Bier
+Portugal	Portugal
+Europe	Europa
+Asia	Asien
+Norðamerica	Nordamerika
+Antarctica	Antarktika
+Wikipǣdia	Wikipedia
+Niðerland	Niederlande
+Nīweoforwīcburg	New York City
+Hwæsingatūn, D.C.	Washington, D.C.
+Berlin	Berlin
+Los Angeles	Los Angeles
+Spearctelle	Computer
+Genf	Genf
+Betweoxnett	Internet
+Barack Obama	Barack Obama
+Uruguay	Uruguay
+Lunden	London
+Paris	Paris
+Abraham Lincoln	Abraham Lincoln
+Android	Android (Betriebssystem)
+Google	Google Inc.
+Mexico	Mexiko
+Atlantisc Gārsecg	Atlantischer Ozean
+Sericus Gārsecg	Pazifischer Ozean
+California	Kalifornien
+Mōnandæg	Montag
+Æfterra Gēola	Januar
+Solmōnaþ	Februar
+Hrēþmōnaþ	März
+Tīw (tungol)	Mars (Planet)
+Cenia	Kenia
+Sigelhearwenaland	Äthiopien
+Ēastermōnaþ	April
+Þrimilcemōnaþ	Mai
+Sēremōnaþ	Juni
+Mǣdmōnaþ	Juli
+Wēodmōnaþ	August
+Hāligmōnaþ	September
+Winterfylleþ	Oktober
+Blōtmōnaþ	November
+Gēolmōnaþ	Dezember
+Tīwesdæg	Dienstag
+Wēdnesdæg	Mittwoch
+Þunresdæg	Donnerstag
+Frīgedæg	Freitag
+Sæternesdæg	Samstag
+Sunnandæg	Sonntag
+Lēo	Löwe
+Francland	Frankreich
+Esperanto	Esperanto
+Geāned Cynerīce	Vereinigtes Königreich
+Catte	Hauskatze
+Cīnan Folclicu Cynewīse	Volksrepublik China
+Frencisc sprǣc	Französische Sprache
+Fisc	Fische
+Brasil	Brasilien
+Russland	Russland
+Eoferwicscīr	Yorkshire
+Sǣ	Meer
+Euxinus	Schwarzes Meer
+Toronto	Toronto
+Alabama	Alabama
+São Paulo	São Paulo
+São Paulo (rīce)	São Paulo (Bundesstaat)
+Quebec	Québec
+Piza	Pizza
+Þēodscland	Deutschland
+Hwītrussland	Weißrussland
+Þēodsc sprǣc	Deutsche Sprache
+Īsland	Island
+God	Gott
+Estland	Estland
+Sætern (tungol)	Saturn (Planet)
+Ceocōlāte	Schokolade
+2 (getæl)	Zwei
+Þrīe	Drei
+Fēower	Vier
+Fīf	Fünf
+George W. Bush	George W. Bush
+Lettland	Lettland
+Ucrægna	Ukraine
+Cecland	Tschechien
+Slofacia	Slowakei
+Slofenia	Slowenien
+Vilnius	Vilnius
+Moldofa	Moldawien
+Rumǣnia	Rumänien
+Pulgaraland	Bulgarien
+Rōm	Rom
+Macedonia Cynewīse	Mazedonien
+Albania	Albanien
+Grēneland	Grönland
+Croatia	Kroatien
+Bosnia and Herzegofina	Bosnien und Herzegowina
+Godhopa	Nuuk
+Azerbaijan	Aserbaidschan
+Andorra	Andorra
+Cipros	Republik Zypern
+Georgia (land)	Georgien
+Casahstan	Kasachstan
+Melita	Malta
+Flandras	Flandern
+Monaco	Monaco
+Sweartbeorg	Montenegro
+Faticanburg	Vatikanstadt
+San Marino	San Marino
+Brysel	Stadt Brüssel
+Cūba	Kuba
+Barbados	Barbados
+Cǣgbord (spearctellend)	Tastatur
+Indonesia	Indonesien
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+Ludwig van Beethoven	Ludwig van Beethoven
+Sūðaffrica	Südafrika
+Algeria	Algerien
+Usbecastan	Usbekistan
+Warsaw	Warschau
+Wīn (drinc)	Wein
+Wæter	Wasser
+Holt	Holz
+Feorrsīen	Fernsehen
+Īslendisc sprǣc	Isländische Sprache
+Cile	Chile
+Iesus	Jesus Christus
+Elvis Presley	Elvis Presley
+Wōden (tungol)	Merkur (Planet)
+Stǣr	Geschichte
+Apple Inc.	Apple
+Frig (tungol)	Venus (Planet)
+Sprǣc	Sprache
+Lufu	Liebe
+Þunor (tungol)	Jupiter (Planet)
+Uranus	Uranus (Planet)
+Neptune (planēta)	Neptun (Planet)
+Tungolcræft	Astronomie
+Witancræft	Wissenschaft
+Pluto	Pluto
+Montreal	Montreal
+Lēohtenstān	Liechtenstein
+Plega	Sport
+Grantanbrycg	Cambridge
+Adolf Hitler	Adolf Hitler
+Fyrst Woruldgūþ	Erster Weltkrieg
+Ōðru Woruldgūþ	Zweiter Weltkrieg
+Wikibēc	Wikibooks
+Augusto Pinochet	Augusto Pinochet
+Geanca Cupala	Janka Kupala
+Ubuntu	Ubuntu
+Stettin	Stettin
+Rīmcræft	Mathematik
+U2	U2 (Band)
+Lǣden	Latein
+Bahrain	Bahrain
+Armenia	Armenien
+Serbia	Serbien
+Mōna	Mond
+Constantinopolis	Istanbul
+Australia	Australien
+Bob Marley	Bob Marley
+Argentina	Argentinien
+Peru	Peru
+Norþcorēa	Nordkorea
+Cambodia	Kambodscha
+Kuiperes gyrtel	Kuipergürtel
+Curān	Koran
+Alladōm	Islam
+Lech Wałęsa	Lech Wałęsa
+Europisce Gesamnung	Europäische Union
+Woruldwīd Webb	World Wide Web
+Wīf	Frau
+Wætertyge	Aquädukt
+Don Quijote	Don Quijote
+Megelan	Mailand
+Burg	Stadt
+Napoleon I Francena Cāsere	Napoleon Bonaparte
+Uesuuius	Vesuv
+Sunne	Sonne
+Lēohtgēar	Lichtjahr
+Sunnlicu Endebyrdnes	Sonnensystem
+Ostsǣ	Ostsee
+Wisle	Weichsel
+Tōþ	Zahn
+Wætertimber	Wasserstoff
+Wikimedia Commons	Wikimedia Commons
+Dæg	Tag
+Ēasttimor	Osttimor
+Niht	Nacht
+Gēar	Jahr
+Hundgēar	Jahrhundert
+Rīn	Rhein
+Oslo	Oslo
+Katowice	Katowice
+1 Ceres	(1) Ceres
+Ii	Iona (Schottland)
+Dubai	Dubai (Emirat)
+Folga	Wolga
+Æðmlyft	Sauerstoff
+Dweligende tungol	Planet
+Venetia	Venedig
+Naruto	Naruto (Manga)
+Moscow	Moskau
+Italisc sprǣc	Italienische Sprache
+Cead	Tschad
+Nīwe Sǣland	Neuseeland
+Indea	Indien
+Īsen	Eisen
+Willelm Scacaspere	William Shakespeare
+Lēad	Blei
+Mongolland	Mongolei
+Ficgīege	Fidschi
+Feneswela	Venezuela
+Blēobord	Schach
+Maine	Maine
+Hors	Hauspferd
+Amsterdam	Amsterdam
+Wǣpen	Waffe
+Dēor	Tier
+Paraguay	Paraguay
+Ecuador	Ecuador
+Colombia	Kolumbien
+Strēawberge	Erdbeeren
+Buddendōm	Buddhismus
+Bolifia	Bolivien
+Coper	Kupfer
+Plante	Pflanzen
+Nīwu Hāmtūnscīr	New Hampshire
+Iamaica	Jamaika
+Massachusetts	Massachusetts
+Connecticut	Connecticut
+Henn	Haushuhn
+Hawaii	Hawaii
+Cēsarēa	Jersey
+Swīn	Hausschwein
+Īshæf	Arktischer Ozean
+Persealand	Iran
+Irac	Irak
+Alaska	Alaska
+Israhēl	Israel
+Utrecht	Utrecht
+Gemen	Jemen
+Clēofanwyrm	Viren
+Polisc sprǣc	Polnische Sprache
+Hascemisc Cynerīce þæs Iordanes	Jordanien
+Florida	Florida
+Arizona	Arizona
+Cuwait	Kuwait
+Libanus	Libanon
+Oregon	Oregon
+Utah	Utah
+Hriðer	Hausrind
+Malægsia	Malaysia
+Burma	Myanmar
+Oman	Oman
+Pacistan	Pakistan
+Qatar	Katar
+Tennis	Tennis
+Saudisc Arabea	Saudi-Arabien
+Tāprabane	Sri Lanka
+Iosep Stalin	Josef Stalin
+Syria	Syrien
+Plato	Platon
+Tacgicastan	Tadschikistan
+Aristoteles	Aristoteles
+Thailand	Thailand
+Ūtƿeorp	Hörfunk
+Turcmenistan	Turkmenistan
+Geānedu Arabisc Bregorīcu	Vereinigte Arabische Emirate
+Fietnam	Vietnam
+Sūþcorēa	Südkorea
+Afghanistan	Afghanistan
+J. R. R. Tolkien	J. R. R. Tolkien
+Gold	Gold
+Bængladesc	Bangladesch
+Bleach (manga)	Bleach (Manga)
+Socrates	Sokrates
+Angola	Angola
+Tansania	Tansania
+Philippines	Philippinen
+Middel Affricanisc Cynewīse	Zentralafrikanische Republik
+Sūþende þǣre eaxe	Südpol
+Norþende þære eaxe	Nordpol
+Isaac Newton	Isaac Newton
+Albert Einstein	Albert Einstein
+Geolu	Gelb
+Tunisia	Tunesien
+Simbabwe	Simbabwe
+Beicing	Peking
+Sūþsudan	Südsudan
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Folcrīcelicu Cynewīse þæs Congwes	Demokratische Republik Kongo
+Bægwaraland	Bayern
+Baden-Wyrttemberg	Baden-Württemberg
+Æriþrea	Eritrea
+Nīwe Delhi	Neu-Delhi
+Iohannes Paulus II Pāpa	Johannes Paul II.
+Gabon	Gabun
+Mohandas Karamchand Gandhi	Mohandas Karamchand Gandhi
+Gambia	Gambia
+Guinea	Guinea
+Elpendbānrima	Elfenbeinküste
+Camerun	Kamerun
+Grēnenæs Īega	Kap Verde
+Lesotho	Lesotho
+Liberia	Liberia
+Libia	Libyen
+Madagascar	Madagaskar
+Mauritania	Mauretanien
+Morocco	Marokko
+Mosambice	Mosambik
+Namibia	Namibia
+Nigeria	Nigeria
+Charles Darwin	Charles Darwin
+Uganda	Uganda
+Rwanda	Ruanda
+Sōmalia	Somalia
+Gaius Iulius Caesar	Gaius Iulius Caesar
+Sudan	Sudan
+Swasiland	Swasiland
+Hamburg	Hamburg
+Heorte	Herz
+Brægen	Gehirn
+Prag	Prag
+Bleoh	Blau
+Seolfor	Silber
+Tin	Zinn
+Reddit	Reddit
+Elsass	Elsass
+Bihar	Bihar
+Michigan	Michigan
+Puerto Rico	Puerto Rico
+Niðerseaxland	Niedersachsen
+Hetwaraland	Hessen
+Illinois	Illinois
+Norþdakota	North Dakota
+Brandenburg	Brandenburg
+Langbeardnaland	Lombardei
+Sūþdakota	South Dakota
+Montǣna	Montana
+Wyoming	Wyoming
+Ierusalem	Jerusalem
+Idaho	Idaho
+Hwæsingatūn	Washington (Staat)
+Nevada	Nevada
+Danais	Don (Asowsches Meer)
+Indisc Gārsecg	Indischer Ozean
+Caribisc Sǣ	Karibisches Meer
+Colorado	Colorado
+Tuscania	Toskana
+Alpis	Alpen
+Gænt	Gent
+Chicago	Chicago
+The Beatles	The Beatles
+Winter	Winter
+Ēawielm	Frühling
+Efenniht	Äquinoktium
+Spēonisc sprǣc	Spanische Sprache
+Caligardamana	Kalkutta
+West Bengal	Westbengalen
+Ātorcoppe	Webspinnen
+Virginia	Virginia
+Westvirginia	West Virginia
+Nīwe Eoforwīc	New York (Bundesstaat)
+Rhode Īeg	Rhode Island
+Ceorfdēor	Insekten
+Marianland	Maryland
+Delaware	Delaware
+Fladimir Lenin	Wladimir Iljitsch Lenin
+Ohio	Ohio
+Pennsylvānia	Pennsylvania
+Uetersen	Uetersen
+Augustus	Augustus
+Microsoft Windows	Microsoft Windows
+Nīwe Cēsarēa	New Jersey
+Calpis	Gibraltar
+Finnisc sprǣc	Finnische Sprache
+Indiǣna	Indiana
+Selffērende wægn	Automobil
+Roger Federer	Roger Federer
+Georgia (America)	Georgia
+Marcus Aurelius	Mark Aurel
+Texas	Texas
+Puilla	Apulien
+Norþcarolīna	North Carolina
+Sūþcarolīna	South Carolina
+Sicilia	Autonome Region Sizilien
+Sardinia	Sardinien
+Ligore	Loire
+Sigen	Seine
+Buenos Aires	Buenos Aires
+Mexicoburg	Mexiko-Stadt
+Pīnæppel	Ananas
+Mississippi	Mississippi (Staat)
+Mississippi ēa	Mississippi River
+Mizoram	Mizoram
+Tennessee	Tennessee
+Abu Dhabi	Abu Dhabi
+Nīwe Mexico	New Mexico
+Athēnas	Athen
+Minnesota	Minnesota
+Wisconsin	Wisconsin
+Iowa	Iowa
+Nebraska	Nebraska
+Kansas	Kansas
+Hafana	Havanna
+Pīpwēod	Tabak
+Missouri	Missouri
+Louisiāna	Louisiana
+Nagaland	Nagaland
+Kentucky	Kentucky
+Arkansas	Arkansas
+Ælf ēa	Elbe
+Oklahoma	Oklahoma
+Donua	Donau
+Hæfel	Havel
+Norþsǣ	Nordsee
+Flēogeball	Volleyball
+Uigenna	Wien
+Cēapmannahæfen	Kopenhagen
+Stoccholm	Stockholm
+Helsinki	Helsinki
+Difelin	Dublin
+Rēcwīc	Reykjavík
+Riga	Riga
+Menuþias	Sansibar
+Dantsic	Danzig
+Frankfurt	Frankfurt am Main
+Death Note	Death Note
+Biblioþēce	Bibel
+Ho Chi Minh Burg	Ho-Chi-Minh-Stadt
+Sōþ Iesus Cirice	Wahre Jesus-Kirche
+Nīwenglisc sprǣc	Englische Sprache
+Andorra la Vella	Andorra la Vella
+Đồng Hới	Đồng Hới
+Concepcion	Concepción (Chile)
+Cænugeard	Kiew
+Ontario	Ontario
+Ottawa	Ottawa
+Alberta	Alberta
+Nīwe Scotland	Nova Scotia
+Końskowola	Końskowola
+Geocon Landscipe	Yukon (Territorium)
+Florentia	Florenz
+Ǣt	Lebensmittel
+Snaca	Schlangen
+Halifax	Halifax (Nova Scotia)
+Quebecceaster	Québec (Stadt)
+3. Æfterran Gēolan	3. Januar
+4. Æfterran Gēolan	4. Januar
+Región del Biobío (Cile)	Región del Bío-Bío
+5. Æfterran Gēolan	5. Januar
+Arica	Arica
+6. Æfterran Gēolan	6. Januar
+7. Æfterran Gēolan	7. Januar
+8. Æfterran Gēolan	8. Januar
+9. Æfterran Gēolan	9. Januar
+10. Æfterran Gēolan	10. Januar
+11. Æfterran Gēolan	11. Januar
+12. Æfterran Gēolan	12. Januar
+13. Æfterran Gēolan	13. Januar
+Beormingahām	Birmingham
+14. Æfterran Gēolan	14. Januar
+15. Æfterran Gēolan	15. Januar
+16. Æfterran Gēolan	16. Januar
+17. Æfterran Gēolan	17. Januar
+18. Æfterran Gēolan	18. Januar
+Rōmānisc Rīce	Römische Kaiserzeit
+Microsoft	Microsoft
+30. Æfterran Gēolan	30. Januar
+Kurów	Kurów
+11. Solmōnðes	11. Februar
+11. Gēolmōnþes	11. Dezember
+12. Gēolmōnðes	12. Dezember
+17. Gēolmōnðes	17. Dezember
+Wæþ	Forth (Firth of Forth)
+Þrittiggēara Orlege	Dreißigjähriger Krieg
+Benedictus XVI Pāpa	Benedikt XVI.
+6. Ēastermōnðes	6. April
+4. Ēastermōnþes	4. April
+Helmut Kohl	Helmut Kohl
+17. Ēastermōnðes	17. April
+12. Þrimilcemōnþes	12. Mai
+13. Þrimilcemōnþes	13. Mai
+20. Þrimilcemōnðes	20. Mai
+31 Þrimilcemōnaþ	31. Mai
+6. Mǣdmōnðes	6. Juli
+1. Mǣdmōnðes	1. Juli
+18. Mǣdmōnðes	18. Juli
+Gyldfōtþōðer	Fußball
+26. Gēolmōnðes	26. Dezember
+Eallbærnet	Holocaust
+IPad	IPad
+Madrid	Madrid
+Elton John	Elton John
+Undersǣbāt	U-Boot
+26. Wēodmōnðes	26. August
+24. Wēodmōnðes	24. August
+2. Hāligmōnþes	2. September
+Kassel	Kassel
+Canadisc underrīcu	Provinzen und Territorien Kanadas
+25. Hāligmōnðes	25. September
+Santiago (Cile)	Santiago de Chile
+1. Winterfylleðes	1. Oktober
+14. Winterfylleðes	14. Oktober
+8. Winterfylleðes	8. Oktober
+7. Winterfylleðes	7. Oktober
+Oldenburg (Oldenburg)	Oldenburg (Oldenburg)
+26. Winterfylleðes	26. Oktober
+4. Blōtmōnðes	4. November
+1. Blōtmōnðes	1. November
+Wolfsburg	Wolfsburg
+Carl Micela Francena Cyning	Karl der Große
+Canberra	Canberra
+Sydney	Sydney
+Grēne	Grün
+Rēad	Rot
+Perþ (Australia)	Perth
+Fȳr	Feuer
+Westerne Australia	Western Australia
+Nīwe Sūþwealas	New South Wales
+Norþerne Landscipe	Northern Territory
+Australisc Hēafodbyrig Landscipe	Australian Capital Territory
+Fīfeldor	Eider
+Nīl	Nil
+Heortfordscīr	Hertfordshire
+Comēta	Komet
+Angol	Angol
+Antofagasta	Antofagasta
+Ancyra	Ankara
+Flocc:Bysen	Kategorie:Vorlage:
+Castro (Cile)	Castro (Chile)
+Frencisc Guiana	Französisch-Guayana
+Chillán (Cile)	Chillán
+Amāzanēa	Amazonas
+Tybingen	Tübingen
+Coyhaique	Coyhaique
+Flocc:Bysen Land	Kategorie:Vorlage:nach Staat
+Willelmeshæfen	Wilhelmshaven
+Copiapó (Cile)	Copiapó
+Manama	Manama
+Delmenhorst	Delmenhorst
+Brandenburg (burg)	Brandenburg an der Havel
+Wikipǣdia:Sandbox	Wikipedia:Spielwiese
+Wikipǣdia:Inlǣdung	Wikipedia:Starthilfe
+Cantabria	Kantabrien
+Hūs	Haus
+Rīmagiefung	Algebra
+Osasco	Osasco
+Fujairah	Fudschaira
+Glasgow	Glasgow
+Donghoi Lyfthæfene	Flughafen Dong Hoi
+Sweartweald	Schwarzwald
+Curitiba	Curitiba
+Weald	Wald
+Flocc:Cliferfētedēor	Kategorie:Paarhufer
+Talca	Talca
+Flothere	Marine
+Andalién	Río Andalién
+Bysen:Lang-lt	Vorlage:LtS
+Cwidbōc	Buch der Sprichwörter
+Rancagua	Rancagua
+Confucius	Konfuzius
+Corbin Bleu	Corbin Bleu
+Flocc:Rīmcræft	Kategorie:Mathematik
+Faroisca Īega	Färöer
+Wendelsǣ	Mittelmeer
+Flocc:Nīwes Sǣlandes īga	Kategorie:Insel (Neuseeland)
+Cōcnearuness	Cookstraße
+Crīstendōm	Christentum
+Windows 8	Microsoft Windows 8
+Bysen:Asia	Vorlage:Navigationsleiste Staaten in Asien
+Gandis	Ganges
+Worulddǣl	Kontinent
+Fugol	Vögel
+Hēafodstōl	Hauptstadt
+Monzón	Monzón
+Portuglisc sprǣc	Portugiesische Sprache
+Mōnaþ	Monat
+Almazán	Almazán
+Huang Siānfan	Huang Xianfan
+Kescwisc sprǣccynn	Quechua
+Bill Gates	Bill Gates
+Iapanisc sprǣc	Japanische Sprache
+Wīsdōmbōc	Enzyklopädie
+Hēafodtramet	Wikipedia:Hauptseite
+Golf	Golf (Sport)
+Hrōcburhfōtþōðer	Rugby
+Olympisc Gamen	Olympische Spiele
+Eurasia	Eurasien
+Andes	Anden
+Durban	Durban
+Caspia	Kaspisches Meer
+Uictoriamere	Victoriasee
+Estmere	Frisches Haff
+Babilōn	Babylon
+Ēalendisca Īega	Åland
+Cægman Īegland	Cayman Islands
+Novak Đoković	Novak Đoković
+Fortunatus iegland	Kanarische Inseln
+Hrōcburhgesamnunge plega	Rugby Union
+Ūðwitegung	Philosophie
+Flocc:Candidates for speedy deletion	Kategorie:Wikipedia:Schnelllöschen
+Tē	Tee
+Hebe Camargo	Hebe Camargo
+Gemǣnre ǣhte rǣd	Kommunismus
+Wealdlīste rǣd	Anarchismus
+Ǣhtwealdes endebyrdness	Kapitalismus
+Frēodōmes þōht	Liberalismus
+Gilmrǣd	Faschismus
+Cofentreo	Coventry
+Lodi	Lodi (Lombardei)
+Ōðre Penisc Gūþ	Zweiter Punischer Krieg
+Cartaina	Karthago
+Bryttisc Museum	British Museum
+Sund	Schwimmen
+1451	1451
+Ellaspontus	Dardanellen
+Strǣtburg	Straßburg
+Gytārre	Gitarre
+Croatisc sprǣc	Kroatische Sprache
+Cesena	Cesena
+Hāmburgere	Hamburger
+Fédération Internationale de Volleyball	Fédération Internationale de Volleyball
+20e gēarhundred	20. Jahrhundert
+Stefan Raab	Stefan Raab
+Catalan sprǣc	Katalanische Sprache
+11e gēarhundred	11. Jahrhundert
+Gelēaflēasnes	Atheismus
+Cynn scī huang	Qin Shihuangdi
+Elisabeþ I Engla Cwēn	Elisabeth I.
+Cynewīse	Republik
+Þēodlices gemǣnscipes rǣd	Nationalsozialismus
+Nazi Þēodscland	Deutsches Reich 1933 bis 1945
+Christopher Columbus	Christoph Kolumbus
+Iacobus Cōc	James Cook
+Ēare	Ohr
+Nasu	Nase
+Ēage	Auge
+Scēap	Hausschaf
+Sǣhund	Haie
+Sycedēor	Säugetiere
+Ǣmette	Ameisen
+Bēo	Bienen
+Niðerlendisc sprǣc	Niederländische Sprache
+Ǣȝƿyrt	Aubergine
+Draca	Drache (Mythologie)
+Mōdor	Mutter
+Snāw	Schnee
+Wæterþōðer	Wasserball
+1865	1865
+Napoleon III Francena Casere	Napoleon III.
+Russisc sprǣc	Russische Sprache
+Hloþwig XIV Francena Cyning	Ludwig XIV.
+Vladimir Putin	Wladimir Wladimirowitsch Putin
+Loðwic-Philippus Francena Cyning	Louis-Philippe I.
+Þēodacynewīse	Commonwealth of Nations
+Hlāf	Brot
+Taurica	Krim
+Līfclēofa	Zelle (Biologie)
+Blōd	Blut
+Īwungplega	Computerspiel
+Rumǣnisc sprǣc	Rumänische Sprache
+Regn	Regen
+Medumweder	Klima
+Woruldlicu wearmung	Globale Erwärmung
+Eorþbeofung	Erdbeben
+Museum on Dēoraby	Derby Museum and Art Gallery
+Winston Churchill	Winston Churchill
+Nelson Mandela	Nelson Mandela
+10. gēarhundred	10. Jahrhundert
+Fȳrbeorg	Vulkan
+Wolcen	Wolke
+Īwungplegtōl	Spielkonsole
+Wind	Wind
+Lyfthelm	Atmosphäre (Astronomie)
+Pintel	Penis des Menschen
+Sprǣccræft	Sprachwissenschaft
+Flocc:Pulgaraland	Kategorie:Bulgarien
+Flocc:Francland	Kategorie:Frankreich
+Flocc:Glīƿdrēam	Kategorie:Musik
+Flocc:Bōccræft	Kategorie:Literatur
+Fox	Rotfuchs
+Valladolid	Valladolid
+Alexander Mæcedonia Cyning	Alexander der Große
+Hēaphandþōðer	Handball
+Hugo Chávez	Hugo Chávez
+Þēowdōm	Sklaverei
+Caffig	Kaffee
+Meolc	Milch
+Beorg	Berg
+Oferswefn	Hypnose
+Andrew Johnson	Andrew Johnson
+Miami	Miami
+Americanisce Ingefeoht	Sezessionskrieg
+Rio de Janeiro	Rio de Janeiro
+Bryttisce Rīce	Britisches Weltreich
+Albanisc sprǣc	Albanische Sprache
+Ucrægnisc sprǣc	Ukrainische Sprache
+Crabba (steorra)	Krebs (Sternbild)
+Swēonisc sprǣc	Schwedische Sprache
+Denisc sprǣc	Dänische Sprache
+Norðisc sprǣc	Norwegische Sprache
+Noam Chomsky	Noam Chomsky
+Bæmisc sprǣc	Tschechische Sprache
+Karl Marx	Karl Marx
+Lettisc sprǣc	Lettische Sprache
+Liþþuanisc sprǣc	Litauische Sprache
+Hinduismus	Hinduismus
+Wīflicu brēost	Weibliche Brust
+Mot	Atom
+Crēacisc sprǣc	Griechische Sprache
+Weorcendebyrdness	Betriebssystem
+Īrisc sprǣc	Irische Sprache
+Ambihtlic Cīnisc sprǣc/ᚱᚢᚾ	Nordchinesische Dialekte
+C. S. Lewis	C. S. Lewis
+Baku	Baku
+Hebrēisc sprǣc	Hebräische Sprache
+Azeri sprǣc	Aserbaidschanische Sprache
+Wilisc sprǣc	Walisische Sprache
+Scyttisce sprǣc	Schottisch-gälische Sprache
+John Locke	John Locke
+Friedrich Nietzsche	Friedrich Nietzsche
+Lifere	Leber
+Drēag (Fūdū)	Zombie
+Gārsecg	Ozean
+Gautama Budda	Siddhartha Gautama
+Premier League	Premier League
+Mahomet	Mohammed
+Ācweorna	Hörnchen
+Rēmisc Cirice	Römisch-katholische Kirche
+Bengalisc sprǣc	Bengalische Sprache
+Tunge	Zunge
+Folcland Īegland	Falklandinseln
+Manīeg	Isle of Man
+Wiht (īeg)	Isle of Wight
+Heortford	Hertford
+Elisabeþ II	Elisabeth II.
+ß	ß
+John F. Kennedy	John F. Kennedy
+Ronald Reagan	Ronald Reagan
+Æ	Æ
+Fernando Alonso	Fernando Alonso
+Flocc:Feneswela	Kategorie:Venezuela
+Þunreshæfen	Tórshavn
+11. Hāligmōnþes 2001. torngemōt	Terroranschläge am 11. September 2001
+Culfre	Tauben
+Trēow	Baum
+Cīese	Käse
+Wīnberge	Weintraube
+Hunig	Honig
+Eorþperu	Kartoffel
+Searuþræl	Roboter
+Searucræft	Technologie
+Feorrspreca	Telefon
+Lugo	Lugo
+Hēahdēmere þāra Geāndena Rīca American	Chief Justice of the United States
+Windows 7	Microsoft Windows 7
+Windows Vista	Microsoft Windows Vista
+World Trade Center	World Trade Center
+Nelson Rockefeller	Nelson Rockefeller
+David Rockefeller	David Rockefeller
+One World Trade Center	One World Trade Center
+Fidel Castro	Fidel Castro
+Rockefeller Center	Rockefeller Center
+Flocc:Brasil	Kategorie:Brasilien
+Flocc:Rumǣnia	Kategorie:Rumänien
+Hēafodgesceaft	Chemisches Element
+Gemot	Molekül
+Lyft	Gas
+Lyftcræft	Luftfahrzeug
+Clāðas	Kleidung
+Swēg	Schall
+Paper	Papier
+Rīm	Zahl
+Bere	Gerste
+Nirvana	Nirvana (Band)
+Weder	Wetter
+Land þǣre worulde	Liste der Staaten der Erde
+Bera	Bären
+John Adams	John Adams
+Thomas Jefferson	Thomas Jefferson
+James Madison	James Madison
+James Monroe	James Monroe
+John Quincy Adams	John Quincy Adams
+Andrew Jackson	Andrew Jackson
+Martin Van Buren	Martin Van Buren
+William Henry Harrison	William Henry Harrison
+John Tyler	John Tyler
+James K. Polk	James K. Polk
+Zachary Taylor	Zachary Taylor
+Ǣtweg	Verdauung
+Kylie Minogue	Kylie Minogue
+Āc	Eichen
+Pīntrēow	Kiefern
+Āte	Saat-Hafer
+Hwǣte	Weizen
+Corn	Getreide
+Unmeaht	Behinderung
+Gerīmbōc	Kalender
+Ādl	Krankheit
+Gregorisc gerīmbōc	Gregorianischer Kalender
+Soria	Soria
+Manisc sprǣc	Manx (Sprache)
+Bysen:Stedefindend scite Breten	Vorlage:Positionskarte Vereinigtes Königreich
+Millard Fillmore	Millard Fillmore
+Franklin Pierce	Franklin Pierce
+James Buchanan	James Buchanan
+Pireni	Pyrenäen
+Hālig Rōmānisc Rīce	Heiliges Römisches Reich
+Mongolrīce	Mongolisches Reich
+Oþomanisce Rīce	Osmanisches Reich
+Cirice Ednīwung	Reformation
+Wīcingas	Wikinger
+Sweord	Schwert
+Fȳrwǣpen	Feuerwaffe
+Iberia	Iberische Halbinsel
+Fȳrspringend	Sprengstoff
+Campwægn	Panzer
+Antwerpen	Antwerpen
+François Asselineau	François Asselineau
+Brycg (burh)	Brügge
+Blæcberige	Brombeeren
+Fenberge	Moosbeeren
+Cīnisc gōsberige	Kiwifrucht
+Retoromanisc sprǣc	Bündnerromanisch
+Īsrēam	Speiseeis
+Ceace	Kuchen
+Īsbrīw	Sorbet
+Dinegisc sprǣc	Navajo (Sprache)
+Meolcbrīw	Joghurt
+Montserrat	Montserrat
+Bysen:Location map Greenland	Vorlage:Positionskarte Grönland
+Wikicynn	Wikispecies
+Arabisc sprǣc	Arabische Sprache
+Ian Magen	Jan Mayen
+Corsica	Korsika
+Affricanisc sprǣc	Afrikaans
+Forma Þegn þæs Geānedan Cynerīces	Premierminister des Vereinigten Königreichs
+Santiago de Compostela	Santiago de Compostela
+Fiscoþ	Fischerei
+Iquique	Iquique
+La Serena (Cile)	La Serena (Chile)
+Las Condes	Las Condes
+Lebu	Lebu
+Niðerscyttisc sprǣc	Scots
+Linux (cyrnel)	Linux (Kernel)
+Darwin (æhtendebyrd)	Darwin (Betriebssystem)
+Emmen	Emmen (Drente)
+Sofiet Gesamnung	Sowjetunion
+Se Hlāford þāra Hringa	Der Herr der Ringe
+Hrūse	Erdkruste
+Sīensearu	Fotoapparat
+Gaðes	Cádiz
+Llión	León
+Fōt	Fuß
+Queen	Queen (Band)
+Freddie Mercury	Freddie Mercury
+Normandig	Normandie
+Metallica	Metallica
+Wikipǣdia:Fulgōd gewritu	Wikipedia:Exzellente Artikel
+Lēoht (dæg)	Tageslicht
+Wikipǣdia:Se Þorpes Wella	Wikipedia:Projektdiskussion
+Vermont	Vermont
+Jacksonville, Florida	Jacksonville (Florida)
+Los Ángeles (Cile)	Los Ángeles (Chile)
+Eþna	Ätna
+Æg	Ei
+Tibet	Tibet
+Handsprecend	Mobiltelefon
+Strȳta	Afrikanischer Strauß
+Corēa	Korea
+Wesend	Bisons
+Mameceaster	Manchester
+Turcas and Caicos Īegland	Turks- und Caicosinseln
+Blēocræft	Sticken
+Wulf	Wolf
+Major League Soccer	Major League Soccer
+Þōðer	Ball
+Club de Gimnasia y Esgrima La Plata	Gimnasia y Esgrima La Plata
+Nīwu Gecȳþnes	Neues Testament
+Middelseaxe	Middlesex
+San Pedro de la Paz	San Pedro de la Paz
+Scræf (fugol)	Kormorane
+Dūfedoppa	Pelikane
+Nha Trang	Nha Trang
+Podolsk	Podolsk
+Pāpa	Papst
+Rafael Correa	Rafael Correa
+5	5
+Louvre	Louvre
+Sæfern	Severn
+Temes	Themse
+Tirana	Tirana
+Motorhead	Motörhead
+Afen	Avon (Severn, Bristol)
+6	6
+Josh Duhamel	Josh Duhamel
+Stīðen Āc	Stevenage
+Crīstesmæsse	Weihnachten
+Bises	Schaltjahr
+Steve Jobs	Steve Jobs
+Indo-Europisc sprǣchīred	Indogermanische Sprachen
+Breinigerberg	Breinigerberg
+Muammar al-Gaddafi	Muammar al-Gaddafi
+Tiger	Tiger
+Moru	Wurzelgemüse
+Samsunghēap	Samsung
+Ēaster	Ostern
+Germanisca sprǣca	Germanische Sprachen
+Windows Mobile	Microsoft Windows Mobile
+GNU Frēo Gewrita Amearcunge Lēaf	GNU-Lizenz für freie Dokumentation
+John Kerry	John Kerry
+Taiwan (īeg)	Taiwan (Insel)
+Searusprecend	Smartphone
+Trōia	Troja
+Nīwe Eoforwīc (scīrung)	New York
+Ceafer	Käfer
+Scōh	Schuh
+Baðanceaster	Bath
+Īrland	Irland (Insel)
+Bradanford	Bradford
+Ceasterscīr	Cheshire
+Lonceasterscīr	Lancashire
+Norþhymbraland	Northumberland
+Dūnholmscīr	County Durham
+Lincolnscīr	Lincolnshire
+Snotingahāmscīr	Nottinghamshire
+Dēorabyscīr	Derbyshire
+Scrobbesbyrigscīr	Shropshire
+Stæffordscīr	Staffordshire
+Lægreceastrescīr	Leicestershire
+Roteland	Rutland
+Norþfolc	Norfolk
+Sūþfolc	Suffolk
+Grantabrycgscīr	Cambridgeshire
+Norþhāmtūnescīr	Northamptonshire
+Westmidlandscīr	West Midlands (Metropolitan County)
+Herefordscīr	Herefordshire
+Wigreceastrescīr	Worcestershire
+Wæringscīr	Warwickshire
+Beadanfordscīr	Bedfordshire
+Cornweal	Cornwall
+Bricgstōw	Bristol
+Defenascīr	Devon (England)
+Sumorsǣte	Somerset
+Dorsǣte	Dorset
+Gleawcesterscīr	Gloucestershire
+Oxnafordscīr	Oxfordshire
+Wiltūnscīr	Wiltshire
+Hāmtūnescīr	Hampshire
+Bearrucscīr	Berkshire
+Buccingahāmscīr	Buckinghamshire
+Ēastseaxe	Essex
+Sūþrīge	Surrey
+Cent	Kent
+Lundenceaster	City of London
+Westmoringaland	Westmorland
+Huntandūnscīr	Huntingdonshire
+Sūþseaxe	Sussex
+Seofon	Sieben
+Taylor Lautner	Taylor Lautner
+Cumbraland	Cumberland (England)
+Jeremy Renner	Jeremy Renner
+Īs	Eis
+Fæder ūre	Vaterunser
+Musée d'Orsay	Musée d’Orsay
+Hwerhwette	Gurke
+Edinburg	Edinburgh
+Hwīt	Weiß
+Sweart	Schwarz
+Chris Pine	Chris Pine
+Lordi	Lordi
+6 (getæl)	Sechs
+Ambihtlicu sprǣc	Amtssprache
+Heortæppel	Tomate
+Phong Nha-Ke Bang	Phong Nha-Ke Bang
+Entrena	Entrena
+Selena	Selena Quintanilla-Pérez
+NASA	NASA
+Merida (Feneswela)	Mérida (Venezuela)
+Atlanta	Atlanta
+Benito Mussolini	Benito Mussolini
+Bermuda	Bermuda
+Hēafod	Kopf
+Weolingtūn (Nīwe Sǣland)	Wellington
+Bryten	Großbritannien (Insel)
+Alfred Nobel	Alfred Nobel
+Camb (tō hǣre)	Kamm
+Mennisc līc	Menschlicher Körper
+Lila Downs	Lila Downs
+Andrew Garfield	Andrew Garfield
+Dottatiger	Gepard
+Rosanna Davison	Rosanna Davison
+Albany on Nīwum Eoforwīce	Albany (New York)
+Ūle	Eulen
+Anguilla	Anguilla
+Guernsey	Guernsey
+Scearpbeorgas	Spitzbergen (Inselgruppe)
+Hrycgdēor	Wirbeltiere
+Nowy Dwór Królewski	Nowy Dwór Królewski
+Faroisc sprǣc	Färöische Sprache
+Catt	Katzen
+Lytel Spēonland	Hispaniola
+Harrisburg	Harrisburg (Pennsylvania)
+Hamor	Hammer
+Picilemo	Pichilemu
+Bryttiscan Fæmne Īegland	Britische Jungferninseln
+Flēoge	Zweiflügler
+Norða	Arktis
+Hund	Hunde
+Fresisc sprǣc	Friesische Sprachen
+Antoni Gaudí	Antoni Gaudí
+Cliferfētedēor	Paarhufer
+Steorrfisc	Seesterne
+Eurasisc bleohcrāwe	Eichelhäher
+Hrōc	Saatkrähe
+Ēotaland	Jütland
+Niþeru Þēodsc sprǣc	Niederdeutsche Sprache
+Mölnlycke	Mölnlycke
+Coning	Wildkaninchen
+Cuscan Rīce	Kuschana
+Tromsīeg	Tromsø
+Sandwīc	Sandwich (Kent)
+Eormengyld Niccolò Cusano	Università degli Studi Niccolò Cusano
+Montpelier on Uermonte	Montpelier (Vermont)
+Geac	Yak
+Palistiniscre Frēogunge Þēodnes	Palästinensische Befreiungsorganisation
+Westgermanisca sprǣca	Westgermanische Sprachen
+Taylor Swift	Taylor Swift
+Cōcīega	Cookinseln
+Brocc	Europäischer Dachs
+Sealterisc sprǣc	Saterfriesische Sprache
+Middelasia	Zentralasien
+Langaland	Langeland
+Sealterland	Saterland
+Ofersǣwisc rind	Zimt
+Jackson (Mississippi)	Jackson (Mississippi)
+Concord (Nīwu Hāmtūnscīr)	Concord (New Hampshire)
+Annapolis	Annapolis (Maryland)
+Eald Corēa	Go-Joseon
+Hreaðemūs	Fledertiere
+Ēastrīce-Ungerland	Österreich-Ungarn
+Tarnobrzeg	Tarnobrzeg
+Wesle	Mustela
+Scīr	County
+Sandwīc (ǣt)	Sandwich
+Spearwa	Sperlinge
+Eormanrīc	Ermanarich
+Francisco Franco	Francisco Franco
+Tarja Halonen	Tarja Halonen
+Willis Tower	Willis Tower
+Cantwaraburg	Canterbury
+Cīna	China
+Tracter	Trichter
+Englisc lagu	Common Law
+Seolh	Robben
+Ecser	Ecser
+Silesisc gereord	Schlesisch (polnischer Dialekt)
+Zhengzhou	Zhengzhou
+Frencisc Polynesia	Französisch-Polynesien
+Roðem	Rouen
+Crīstesmæsse Īeg	Weihnachtsinsel (Australien)
+Bleohfugol	Papageien
+Cambihtere	Kakadus
+Arabea	Arabische Halbinsel
+Fȳstlāc	Boxen
+Seax	Messer
+Top Gear	Top Gear
+Tasmansǣ	Tasmansee
+Ceroke sprǣc	Cherokee (Sprache)
+Campwīg be Tannebeorge	Schlacht bei Tannenberg (1410)
+Īsbera	Eisbär
+Hand	Hand
+Tu Fu	Du Fu
+Nīwe Scotta Ēaland	Neukaledonien
+Cecoslofacia	Tschechoslowakei
+Lēaf	Blatt (Pflanze)
+Nepal Bhasa	Newari
+Valparaíso (on Cilan)	Valparaíso
+Fugolīeg, Sūþgeorgia	Bird Island (Südgeorgien)
+Annenkovīeg	Annenkov Island
+Nathalia Dill	Nathalia Dill
+Oaxaca	Oaxaca
+Tahitisc sprǣc	Tahitianische Sprache
+Flemisc sprǣc	Flämische Dialekte
+Yasser Arafat	Jassir Arafat
+Oxnaford	Oxford
+Międzyrzec Podlaski	Międzyrzec Podlaski
+Tasmania	Tasmanien
+Creto	Kreta
+Saint-Dié-des-Vosges	Saint-Dié-des-Vosges
+Eormengyld Oxnafordes	University of Oxford
+Þyrla	Hubschrauber
+Sancte Elene Īeg	St. Helena (Insel)
+Nicor	Flusspferd
+Egisca Sǣ	Ägäisches Meer
+Ichiro Mizuki	Ichirō Mizuki
+Anastacia	Anastacia
+Eufrāte	Euphrat
+James A. Garfield	James A. Garfield
+Cirice	Kirche (Organisation)
+Persisc Sǣ	Persischer Golf
+Sand	Sand
+Cyningestūn (Iamaica)	Kingston (Jamaika)
+Lafor	Leopard
+Age of Empires	Age of Empires (Spieleserie)
+Tequixquiac	Municipio Tequixquiac
+Ulysses S. Grant	Ulysses S. Grant
+Oklahoma City	Oklahoma City
+Meotedisca Mere	Asowsches Meer
+William McKinley	William McKinley
+Cawel	Weißkohl
+Foresittend þāra Geāndena Rīca	Liste der Präsidenten der Vereinigten Staaten
+Sūþgeorgia and þā Sūþsandwic Īegland	Südgeorgien und die Südlichen Sandwichinseln
+Webbsīde	Website
+Ealdfresisc sprǣc	Altfriesische Sprache
+Catalão	Catalão
+Grover Cleveland	Grover Cleveland
+Ealdhēahþēodisc	Althochdeutsch
+Ealdseaxisc sprǣc	Altsächsische Sprache
+Satan	Satan
+Wordstǣrcræft	Etymologie
+Beorglēo	Puma
+Arabas	Araber
+Proponditis	Marmarameer
+Ēagduru	Fenster
+Chester A. Arthur	Chester A. Arthur
+Riffeng	Ural
+Rīcu þāra Geāndena Rīca American	Bundesstaat der Vereinigten Staaten
+Pitcearnīega	Pitcairninseln
+Benjamin Harrison	Benjamin Harrison
+Rutherford B. Hayes	Rutherford B. Hayes
+Wīnlendisc panðer	Jaguar
+Sūþaustralia	South Australia
+Gotisc sprǣc	Gotische Sprache
+Boise	Boise
+Bāt	Boot
+Awaisc sprǣc	Guaraní (Sprache)
+Gærsbēam	Bambuseae
+Interlingua	Interlingua
+Bosporos	Bosporus
+Smyrna	Izmir
+Lemburg	Lwiw
+Cwēneland	Queensland
+Siligo	Siligo
+Puerto Montt	Puerto Montt
+Iane Austen	Jane Austen
+Tægcwondo	Taekwondo
+Middel Englisc sprǣc	Mittelenglisch
+Māorisc sprǣc	Maorische Sprache
+Hannibal	Hannibal
+Hōrdōm	Prostitution
+Twinemniendlic nama	Binäre Nomenklatur
+Victoria (Australia)	Victoria (Australien)
+Geugoslafia	Jugoslawien
+Ætla	Attila
+Scrælingas	Indianer
+Arancón	Arancón
+Willelm Heretoga of Grantanbrycge	William, Duke of Cambridge
+Toshiro Mifune	Toshirō Mifune
+Tallahassee	Tallahassee
+Sundorrīcehād	Staatliche Unabhängigkeit
+Bismarck (Norþdakota)	Bismarck (North Dakota)
+Aucland	Auckland
+Iohannes Paulus I Pāpa	Johannes Paul I.
+John Michael Talbot	John Michael Talbot
+Acrotiri and Ðecelia	Akrotiri und Dekelia
+Arara	Arara (Paraíba)
+Cnēo	Kniegelenk
+Willelm I Engla Cyning	Wilhelm I. (England)
+Campora Sancte Iohannes	Campora San Giovanni
+Sīde	Seide
+Sint-Truiden	Sint-Truiden
+Lēoðlic scātung	Eiskunstlauf
+Stefn (līfcræft)	Stamm (Biologie)
+Heanrig VIII Engla Cyning	Heinrich VIII. (England)
+Columbia (Sūþcarolīna)	Columbia (South Carolina)
+Xena: Warrior Princess	Xena – Die Kriegerprinzessin
+1880. gēar oþ 1889. gēar	1880er
+Helena (Montana)	Helena (Montana)
+Wælhwelp	Jagdhund
+Eormengyld Biobiwes	Universität Bío-Bío
+Sufa	Suva
+Muntgumniscīr	Montgomeryshire
+Eorþmistel	Basilikum
+Lēohtfȳsend	Laser
+Prēossland	Preußen
+Cheyenne (Wyoming)	Cheyenne (Wyoming)
+Norðerne healftrendel	Nordhalbkugel
+Loidis	Leeds
+Fūcgī Beorg	Fuji (Vulkan)
+Mūs	Mäuse
+Geolurēad	Orange (Farbe)
+Æcs	Axt
+Seofonbyrig	Siebenbürgen
+Tōl	Werkzeug
+Alī	ʿAlī ibn Abī Tālib
+Hrān	Ren
+Stānhencg	Stonehenge
+Ágreda	Ágreda
+Amazonas	Amazonas (Brasilien)
+Ajaccio	Ajaccio
+Rodorcræft	Raumschiff
+Lisa Gerrard	Lisa Gerrard
+Thirty Seconds to Mars	30 Seconds to Mars
+Paulínia	Paulínia
+Pierre	Pierre (South Dakota)
+Crabba	Krabben
+God Nerie þā Cwēne	God Save the Queen
+Meteūtsiht	Durchfall
+Anna Maria Jopek	Anna Maria Jopek
+Horshwæl	Walross
+Fōrhēafod	Stirn
+Haile Selassie	Haile Selassie
+Caðum	Caen
+Sonygegyld	Sony
+Mynet	Münze
+Sūðerne Healftrendel	Südhalbkugel
+Cnihtas þæm Temple	Templerorden
+Americanisc fōtball	American Football
+Tōþsticca	Zahnstocher
+Folcmorðor	Völkermord
+Hociȝ	Eishockey
+Swīnmūþa	Świnoujście
+Īrisc Sǣ	Irische See
+Tracia	Thrakien (Landschaft)
+Mongolas	Mongolen
+Mǣs	Maas
+Talcahuano	Talcahuano
+Tahitīeg	Tahiti
+Ontynung	Offenbarung des Johannes
+Abel Tasman	Abel Tasman
+Gotan	Goten
+Nettfrumfindend	Uniform Resource Locator
+Ænglisc sprǣc	Altenglisch
+Englisc folc	Engländer (Volk)
+Eoforwic	York
+Iron Maiden	Iron Maiden
+Asterix	Asterix
+Grǣg	Grau
+Wearm geard	Tropen
+Hwælhuntoþ	Walfang
+Sǣcū	Rundschwanzseekühe
+Gregorius Pāpa I	Gregor der Große
+Cȳta (lyftcræft)	Drachen
+Þunor	Thor
+Castel Goffredo	Castel Goffredo
+Roðos	Rhodos
+Sanct	Heiliger
+Wikipǣdia:FAQ	Hilfe:FAQ
+Galatasaray	Galatasaray Istanbul
+Cycene	Küche
+Wæterdraca	Echte Krokodile
+Hlæstwægn	Lastkraftwagen
+Carl Wēala Þēoden	Charles, Prince of Wales
+Villeneuve-d'Ascq	Villeneuve-d’Ascq
+Crāwe	Raben und Krähen
+Sūþtun on Defnum	Plymouth
+Bryttisca Indisca Garsecg Landscipe	Britisches Territorium im Indischen Ozean
+Dēoraby	Derby (Derbyshire)
+Francan	Franken (Volk)
+Fealcen	Falken
+Nightwish	Nightwish
+Mattheus se Godspellere	Matthäus (Evangelist)
+Mac OS	Mac OS
+Leyden	Leiden (Stadt)
+Fiðerlēasere	Kiwis
+Montehermoso	Montehermoso
+Louis the Pious	Ludwig der Fromme
+Cwēnsǣ	Weißes Meer
+Jim Morrison	Jim Morrison
+GNOME	Gnome
+Hāt	Wärme
+Spere	Speer
+Ēadig getæl	Fröhliche Zahl
+Charleston (Westvirginia)	Charleston (West Virginia)
+Mynster	Kloster
+Oxnaford Englisc Wordbōc	Oxford English Dictionary
+Carl XVI Gustaf Swēona Cyning	Carl XVI. Gustaf
+Świętochłowice	Świętochłowice
+Nile	Nile
+Zac Efron	Zac Efron
+Monte Carlo	Monte-Carlo
+Elba	Elba
+The Doors	The Doors
+Fylfōt	Swastika
+Clerke Clūdas	Clerke Rocks
+Hara	Echte Hasen
+Rīcisc edisc	Nationalpark
+Boga	Bogen (Waffe)
+Byrdling	Landschildkröten
+Bryttisc landbūnes	Britische Überseegebiete
+Handscēotend	Seitenwaffe
+Brūn	Braun
+Hjaltland	Shetland
+Byrddæg	Geburtstag
+Æx-in-Profentse	Aix-en-Provence
+Gaza	Gaza (Stadt)
+Īsbeorg	Eisberg
+Ephese	Ephesos
+Englisc wera rīcisc fōtballtēam	Englische Fußballnationalmannschaft
+Pratibha Patil	Pratibha Patil
+Minte	Minzen
+Spilcarte	Spielkarte
+Bysen:Commonscat	Vorlage:Commonscat
+Hālig Land	Heiliges Land
+Folcland Gewinn	Falklandkrieg
+Beadu be Culme	Schlacht bei Kulm
+Bēowulf	Beowulf
+Marīahæfen	Mariehamn
+Hrǣw	Leiche
+IOS	Apple iOS
+Lee Harvey Oswald	Lee Harvey Oswald
+Frumtæl	Primzahl
+Þ	Þ
+Orlando	Orlando (Florida)
+Saint Petersburg	Saint Petersburg
+Hereðaland	Hordaland
+Sogn and þa Flēotas	Sogn og Fjordane
+Meore and Romsdæl	Møre og Romsdal
+Troms	Troms
+Dǣlere	Teilbarkeit
+Australisc fōtþōðer	Australian Football
+Secglēac	Schnittlauch
+Stānweall sacunga	Stonewall
+Providencia (Cile)	Providencia (Chile)
+Punta Arenas	Punta Arenas
+Aaron	Aaron (biblische Person)
+Wu-Tang Clan	Wu-Tang Clan
+Osgar I Swēona Cyning	Oskar I. (Schweden)
+Hwēolrinnung	Fahrradfahren
+Aquilegia	Aquileia
+Hyll	Hügel
+Flocc:Cyningas	Kategorie:König
+Beorneslēah	Barnsley
+Banff	Banff (Aberdeenshire)
+Soria (scīr)	Provinz Soria
+Harold V Norrena Cyning	Harald V. (Norwegen)
+Þēodlic Dæg	Nationalfeiertag
+John Key	John Key
+Ēadweard I Engla Cyning	Eduard I. (England)
+Sūþerne Thila	Südliche Thuleinseln
+Candelmæssanīega	Candlemasinseln
+Ræt	Mäuseartige
+Vladimír Franz	Vladimír Franz
+Ariel Sharon	Ariel Scharon
+1050e	1050er
+Æneid	Aeneis
+Autaugaville, Alabama	Autaugaville
+Forma Frencisce Rīce	Französisches Kaiserreich
+Brādford	Bredevoort
+Se Holbytla	Der Hobbit
+Eocene	Eozän
+Strǣt	Straße
+Superman	Superman
+Heorotbrēr	Kreuzdorn
+Wikipǣdia:Fulgōdra gewrita teohhunga	Wikipedia:Kandidaturen von Artikeln, Listen und Portalen
+Wikipǣdia:Gōd gewrit genamunga	Wikipedia:Kandidaten für lesenswerte Artikel
+Rætswīn	Hausmeerschweinchen
+Iconium	Konya
+Emma Goldman	Emma Goldman
+Iacobus I Grēatre Bryten Cyning	Jakob I. (England)
+Crīstcirice	Christchurch
+Coronel Fabriciano	Coronel Fabriciano
+Babsk	Babsk
+Englisca Ingewinn	Englischer Bürgerkrieg
+Bengal	Bengalen
+Morgenmete	Frühstück
+1060e	1060er
+Pippen III Francena Cyning	Pippin der Jüngere
+Carl I (Grēatre Bryten Cyning)	Karl I. (England)
+Ȝealdor/ᚷᛖᚪᛚᛞᚩᚱ	Magie
+Geþofted Rīcu American	Konföderierte Staaten von Amerika
+Elpendbān	Elfenbein
+Villarrobledo	Villarrobledo
+Temuco	Temuco
+Hloðwic I Francena Cyning	Chlodwig I.
+William Wallace	William Wallace
+Bundesliga	Fußball-Bundesliga
+Fȳrland	Feuerland
+Frēols þǣre Sunnan (on Meridan)	Feria del Sol
+Maria I Engla Cwēn	Maria I. (England)
+Angelcirice	Church of England
+Engla Cyning	Liste der Herrscher Englands
+Lencten (tīd)	Fastenzeit
+Fuþorc	Runen
+Lēactric	Gartensalat
+Beadu Hǣstingum	Schlacht bei Hastings
+Ēadweard VI Engla Cyning	Eduard VI.
+Jacques-Yves Cousteau	Jacques-Yves Cousteau
+Horatio Nelson	Horatio Nelson, 1. Viscount Nelson
+Galilēa	Galiläa
+Foldlic clūt	Lithosphäre
+Þunor (weder)	Donner
+Þūma	Daumen
+Ælfrēd Micela	Alfred der Große
+Hāmlǣrung	Hausunterricht
+Teutoburg Weald Beadu	Varusschlacht
+Bysen:Cite book	Vorlage:Literatur
+O Canada	O Canada
+Biobío	Río Bío Bío
+Orcanege	Orkney
+Profentse	Provence
+Predore	Predore
+Seaxe	Sachsen (Volk)
+Willelm II Engla Cyning	Wilhelm II. (England)
+Limburgisc	Limburgisch
+Eallerīca Gotena Cyning	Alarich I.
+Tygelwīg	Tauziehen
+Boētius	Boethius
+Hunigbēo	Honigbienen
+Abbod	Abt
+Mæcedonia	Makedonien
+Sameramis	Semiramis
+Pīp	Tabakspfeife
+Aerosol	Aerosol
+Gangnihessou	Gangnihessou
+Ilfingburg	Elbląg
+Mierce	Mercia
+Þēodrīc Ēastgotena Cyning	Theoderich der Große
+Westseaxena Rīce	Wessex
+Hēahland	Highlands
+Norþhymbra Rīce	Northumbria
+Wulfila	Wulfila
+Bram Stoker's Dracula	Bram Stoker’s Dracula
+Angeow	Anjou
+2011 FIFA Frēona Woruldceampscipe	Fußball-Weltmeisterschaft der Frauen 2011
+Alexander VI Pāpa	Alexander VI.
+Æppellēaf	Duftveilchen
+Edward Braddock	Edward Braddock
+Cethāmīga	Chatham-Inseln
+Norþīg	Nordinsel (Neuseeland)
+Anne Cwēn	Anne (Großbritannien)
+Sūþīeg	Südinsel (Neuseeland)
+Husvik	Husvik
+Dziecinów	Dziecinów (Powiat Otwocki)
+Sunnstede	Sonnenwende
+Wynton Rufer	Wynton Rufer
+Kara	Kara (Band)
+Ceadmere	Tschadsee
+Getalu Rōmāniscra Cāsera	Liste der römischen Kaiser der Antike
+Heantun	Wolverhampton
+Wascas	Basken
+Minerva	Minerva
+Fȳræg	Bombe
+Ashley Tisdale	Ashley Tisdale
+Þrondham	Trøndelag
+Nīwe Woruld	Neue Welt
+Fȳrweorc	Feuerwerk
+Æsc	Eschen (Pflanzengattung)
+Galwæg	Galway
+Ēadweard Andettere	Eduard der Bekenner
+Hramsa	Bärlauch
+Scīdfarung	Skifahren
+World of Warcraft	World of Warcraft
+Byrig þāra Geāndena Rīca	Liste der Städte in den Vereinigten Staaten
+Nemniendlic cāsus	Nominativ
+Folcawanderung	Völkerwanderung
+Slayer	Slayer
+Maria Scotta Cwēn	Maria Stuart
+Indisc rīce	Liste der Bundesstaaten und Unionsterritorien in Indien
+Scield	Schild (Schutzwaffe)
+Henry V Englalandes	Heinrich V. (England)
+Sciþþia	Skythen
+Universidade Federal de Minas Gerais	Universidade Federal de Minas Gerais
+Pulgare	Bulgaren
+Lyftscip	Luftschiff
+Cnut se Micela	Knut der Große
+Saturnus	Saturn (Mythologie)
+Exanceaster	Exeter
+Sanctes Laurentes Ēa	Sankt-Lorenz-Strom
+Patricia Grace	Patricia Grace
+Mundlēow	Waschbecken
+Sūþhjaltland	Südliche Shetlandinseln
+Cartespil	Kartenspiel
+Iscimbag	Ischimbai
+Basu Heorte	Purple Heart
+Marianburg	Malbork
+Tenczynek	Tenczynek
+Rudno	Rudno (Krzeszowice)
+Rudawa	Rudawa (Zabierzów)
+Rosseg	Mainland (Orkney)
+Nīwsǣlandworulddǣl	Zealandia
+Carl Fǣtta Francena Cyning	Karl III. (Ostfrankenreich)
+Þēodisc Āþbēorscipe	Deutscher Bund
+Wikipǣdia:How to edit a page	Hilfe:Seite bearbeiten
+Cantwarabyrig eorþbeofung 2011.	Christchurch-Erdbeben vom Februar 2011
+Eorðæppelstycce	Pommes frites
+Rīnland	Rheinland
+Eormengyld Tybingenes	Eberhard Karls Universität Tübingen
+Blōdmearh	Blutwurst
+Midsumor	Mittsommerfest
+Timborwyrhta	Zimmerer
+Anlaf V Norrena Cyning	Olav V. (Norwegen)
+Ēadweard Westseaxna Eorl	Edward, Earl of Wessex
+Hacun VII Norrena Cyning	Haakon VII.
+Ecgbryht	Egbert von Wessex
+Earnulf Carendran	Arnulf von Kärnten
+Bēda	Beda Venerabilis
+Laplandes Gūþ	Lapplandkrieg
+Willelm-Alexander Niðerlanda Cyning	Willem-Alexander
+Bredspearctellend	Tabletcomputer
+Mathusal	Methusalem
+Universidade Estadual de Feira de Santana	Universidade Estadual de Feira de Santana
+Bægware	Bajuwaren
+Europisc wild gingifer	Gewöhnliche Haselwurz
+Bēowyrt	Kalmus (Art)
+Pontcysyllte Wætertyge	Pontcysyllte-Aquädukt
+Universidade Federal da Bahia	Universidade Federal da Bahia
+Centro Federal de Educação Tecnológica de Minas Gerais	Centro Federal de Educação Tecnológica de Minas Gerais
+Nēohwæl	Narwal
+Ajman	Adschman
+Harold Godwinson	Harald II. (England)
+Ȳþrīdung	Wellenreiten
+Brū	Wimper
+Port:Stǣr	Flagge Tadschikistans
+Kiæresburh	Cherbourg-Octeville
+Bresl	Brezel
+CONCACAF	CONCACAF
+Mentha arvensis	Acker-Minze
+Searoburg	Salisbury
+Lunden Ēage	London Eye
+Valdivia	Valdivia
+Pachuca de Soto	Pachuca de Soto
+Crāwlēac	Weinberg-Lauch
+Balsminte	Wasserminze
+Dweorgedosle	Polei-Minze
+Landbūnes	Liste abhängiger Gebiete
+Rēadingas	Reading
+Mængo	Mangos
+Grēate Bryten Cynerīce	Königreich Großbritannien
+Brōcminte	Rossminze
+Iane Grey Hlæfdige	Jane Grey
+Charmed	Charmed – Zauberhafte Hexen
+Grammatisc cyn	Genus
+Nica Ūphebbung	Nika-Aufstand
+Sihþ	Visuelle Wahrnehmung
+Brycgāðexe	Brückenechsen
+Hetware	Chatten
+Americanisc wera rīcisc fōtballtēam	Fußballnationalmannschaft der Vereinigten Staaten
+Maywood, Illinois	Maywood (Illinois)
+Þrēo Coreaniscu Cynerīcu	Drei Reiche von Korea
+Feðer (blæces)	Schreibstift
+Pening	Pfennig
+Bryttisca Antarctisca Landscipe	Britisches Antarktis-Territorium
+Starcraft	StarCraft
+Seofon dēadlica synna	Todsünde
+Zavodovski-īeg	Zavodovski Island
+Finger	Mittelfinger
+Midwearme geardas	Gemäßigte Zone
+Angleseg	Anglesey
+Niðerseaxisc sprǣc	Niedersächsisch
+Māse	Meisen
+Caselle Landi	Caselle Landi
+Penwiðsteort	Land’s End
+Æðelstān Engla Cyning	Æthelstan (England)
+Ras al-Khaimah	Ra’s al-Chaima
+Elene Constantinoples	Helena (Mutter Konstantins des Großen)
+Nintendo DS	Nintendo DS
+Ēse	Ase
+Nīwe Francland	Neufrankreich
+Englalandes Fana	Flagge Englands
+Cyclades	Kykladen
+Trafalgar Sǣfeoht	Schlacht von Trafalgar
+Iosephine Francena Caserin	Joséphine de Beauharnais
+Sōlate	Sonnenblume
+Cynelica Sciphere	Royal Navy
+Inbærnes	Weihrauch
+Difelinscīr	County Dublin
+Æppelcyrnel (wǣpen)	Handgranate
+Helm	Helm
+Umm Al Quwain	Umm al-Qaiwain
+Nīwes Sǣlandes þēodlīc fōtþōðerhēap	Neuseeländische Fußballnationalmannschaft
+Ingang:Stǣr	Portal:Geschichte
+Nonne Etone	Nuneaton
+Fīfte Cynewīse	Fünfte Republik
+The Oval	The Oval (Belfast)
+2010 FIFA Woruldceampscipe	Fußball-Weltmeisterschaft 2010
+Caltojar	Caltojar
+Grīpfealcen	Gerfalke
+Snāwbordfarung	Snowboard
+Ōsgeard	Asgard (Mythologie)
+Glīdflēogung	Gleitschirmfliegen
+Mageoscīr	County Mayo
+Berlanga de Duero	Berlanga de Duero
+Australisc rīce	Staaten und Territorien Australiens
+Blizzard Entertainment	Blizzard Entertainment
+Dofras	Dover
+Cannae Beadu	Schlacht von Cannae
+Herenuma	Kriegsgefangene
+Dȳfung	Tauchen
+Daguerreotype	Daguerreotypie
+Dūnholm	Durham
+Þrēotīene Landbūnessa	Dreizehn Kolonien
+Brenda Song	Brenda Song
+Lincoln	Lincoln (Lincolnshire)
+Syllīega	Scilly-Inseln
+Smallville (TV endebyrdnes)	Smallville
+Helen Clark	Helen Clark
+Būr	Zimmer
+Wēala Þēoden	Prince of Wales
+Scōnīeg	Schonen
+Milanes Bann	Mailänder Vereinbarung
+Francforta	Hotdog
+Gelocen boge	Armbrust
+Catalan Byht	Catalan Bay
+Meremægden	Meerjungfrau
+Wichlawscīr	County Wicklow
+Striuelin	Stirling
+Æðelred Unrǣd	Æthelred (England)
+Twentig Þūsend Lēowena Under þǣm Sǣ	20.000 Meilen unter dem Meer
+Baius	Bayeux
+Ballōn (lyftcræft)	Ballon
+Colneceaster	Colchester
+Meodu	Met
+Met (Grammaticcræft)	Modus (Grammatik)
+Sǣelpend	See-Elefanten
+Grytviken	Grytviken
+Fox News	Fox News Channel
+Brīw	Brei
+Ēadweard se Ieldra	Eduard der Ältere
+Iþacige	Ithaka
+Baius tæpped	Teppich von Bayeux
+Montréal Canadiens	Canadiens de Montréal
+Underburg	Vorort
+Sharjah	Schardscha
+Antrimscīr	County Antrim
+Vigdís Finnbogadóttir	Vigdís Finnbogadóttir
+Final Fantasy	Final Fantasy
+Norrena Cyning	Liste der Könige von Norwegen
+Westmynster	Westminster (London)
+Ēadmund Æðeling	Edmund I. (England)
+Rachel McAdams	Rachel McAdams
+Fermanagh	County Fermanagh
+Dūnscīr	County Down
+E Pluribus Unum	E pluribus unum
+Foresittend Franclandes	Staatspräsident (Frankreich)
+New Jersey Devils	New Jersey Devils
+Philadelphia Flyers	Philadelphia Flyers
+Yun Chi-ho	Yun Chi-ho
+Sancte Elene Īeg, Upstigeīeg and Tristan da Cunha	St. Helena, Ascension und Tristan da Cunha
+Tirowen	County Tyrone
+Jack Ruby	Jack Ruby
+Ardmachusscīr	County Armagh
+Scene	Shannon (Fluss)
+Wīnland	Vinland
+Venom (trūðhlōð)	Venom (Band)
+Luel	Carlisle
+Ēadgar Engla Cyning	Edgar (England)
+Kea	Kea (Vogelart)
+Itumbiara	Itumbiara
+A Night at the Opera	A Night at the Opera (Queen-Album)
+Queen (album)	Queen (Album)
+Þunres Hamor	Mjölnir
+Oben am jungen Rhein	Oben am jungen Rhein
+Guinness	Guinness (Bier)
+Scræfclūdas (Sūþgeorgia)	Shag Rocks
+Łobez	Łobez
+Liðere	Schleuder (Waffe)
+Thomas Cranmer	Thomas Cranmer
+Tawpomere	Lake Taupo
+Universidad de Concepción	Universidad de Concepción
+Hameldūn (Nīwe Sǣland)	Hamilton (Neuseeland)
+Stǣr þǣre Worulde	Menschheitsgeschichte
+Rēad wulf	Rotwolf
+Normandisca Forcyme	Normannische Eroberung Englands
+Vitacura	Vitacura
+Fif Scīr	Fife (Schottland)
+Stǣrwrītere	Historiker
+Carolina Hurricanes	Carolina Hurricanes
+Nebrond	Nimrod
+Tampa Bay Lightning	Tampa Bay Lightning
+Scrobbesburh	Shrewsbury
+Fæger hǣr	Blond
+Napier (Nīwe Sǣland)	Napier (Neuseeland)
+Myrra	Myrrhe
+Harold III Norrena Cyning	Harald III. (Norwegen)
+Fisc and styccu	Fish and Chips
+Brooke Fraser	Brooke Fraser
+Middeltūn þǣra de Cahaignes	Milton Keynes
+Florida Panthers	Florida Panthers
+Washington Capitals	Washington Capitals
+Īrisc fōtþōðer	Gaelic Football
+Nīwes Sǣlandes Þēodlic Stēormǣlhēap	New Zealand National Party
+West Loðene	West Lothian
+Lonceaster	Lancaster (Lancashire)
+Sūþalpis	Neuseeländische Alpen
+Midloðene	Midlothian
+Neamere	Lough Neagh
+Wyrt	Küchenkraut
+Maðante	Mantes-la-Jolie
+Ēast Loðene	East Lothian
+Fermat tæl	Fermat-Zahl
+Clackmannanscīr	Clackmannanshire
+Liccidfeld	Lichfield
+Sūþorcanege	Südliche Orkneyinseln
+Rænkīnes hātȝemet	Rankine-Skala
+Cod	Dorsche
+Gold (bleoh)	Gold (Farbe)
+Holstānburg	Sisimiut
+Micel Ficgīeg	Viti Levu
+Wrenna	Zaunkönige
+Ciricewæl	Kirkwall
+1984 (bōc)	1984 (Roman)
+Folcaþing	Folketing
+Underset gamen	Add-on
+Elig	Ely
+Getalu burga in Þēodsclande	Liste der Städte in Deutschland
+Innuendo	Innuendo
+Concepcion Hēafodcirice	Kathedrale von Concepción (Chile)
+The Game	The Game (Album)
+Bancorena burg	Bangor
+Gēol	Julfest
+Washington Redskins	Washington Redskins
+Swīma	Vertigo
+Ægelesburg	Aylesbury
+Tristania	Tristania
+Wuldor	Uller
+Lāmwic	Lerwick
+Westgeatland	Västergötland
+Rosenrot	Rosenrot (Album)
+Wīcinga Ieldu	Wikingerzeit
+Victory (scip)	HMS Victory
+Sihhem	Nablus
+Beatrix Potter	Beatrix Potter
+Ēadgar Æðeling	Edgar Ætheling
+Grēat Rōmisc Fȳr	Großer Brand Roms
+Mann	Person
+Tollund wer	Tollund-Mann
+Hēapplega	Mannschaftssport
+Levanger	Levanger
+Violetta Villas	Violetta Villas
+Ynce	Zoll (Einheit)
+Gearwung (plega)	Training (Sport)
+Diablo (gamen)	Diablo (Computerspiel)
+Anggun	Anggun
+Verizon Center	Verizon Center
+Wīfa rihta forðung	Frauenrechte
+Apaxco	Municipio Apaxco
+Cham	Ham (Bibel)
+Zune	Zune
+Nettþōðer	Netball
+Lox	Lynx
+In	IN
+Diablo	Diablo
+Wiltūn	Wilton
+Roanoke	Roanoke
+Cnut	Knut
+Acan tūn	Acton
+Eormengyld Ciles	Universidad de Chile
+Sēremōnaþ 2007	Juni 2007
+Offa Miercna Cyning	Offa von Mercien
+Mǣdmōnaþ 2006	Juli 2006
+Mǣdmōnaþ 2007.	Juli 2007
+Wēodmōnaþ 2007	August 2007
+Engel	Engel
+Sasha Cohen	Sasha Cohen
+Rachael Taylor	Rachael Taylor (Schauspielerin)
+Æðelflǣd	Ethelfleda
+Pat Benatar	Pat Benatar
+Michelle Kwan	Michelle Kwan
+Wæstm	Feldfrucht
+Beate Eriksen	Beate Eriksen
+Berhte Cent Cwēn	Bertha (Kent)
+D.C. United	D.C. United
+Eowland	Öland
+Starcraft II	StarCraft II
+Allan Kardec	Allan Kardec
+Deadache	Deadache
+Diablo III	Diablo III
+Sceadu (gyden)	Skadi
+Diablo II	Diablo II
+Atlanta Thrashers	Atlanta Thrashers
+Hwītlēachring	Zwiebelringe
+The God Delusion	Der Gotteswahn
+Canadisc fōtþōðer	Canadian Football
+Hæstingas (missenlīc gewritu)	Hastings (Begriffsklärung)
+Ealra Hālgena Ǣfen	Halloween
+Ēostre	Ostara
+Sūþtun	Sutton
+Weorcdæg	Arbeitszeit
+Seofonbyrigseaxisc sprǣc	Siebenbürgisch-Sächsisch
+Leðerhosu	Lederhose
+Acantūn on Sūþfolce	Acton (Suffolk)
+Bān	Knochen
+7 World Trade Center	7 World Trade Center
+Vampire Knight	Vampire Knight
+Wēodmōnaþ 2006	August 2006
+Ælfrīc Abbod of Egoneshame	Ælfric Grammaticus
+Ælle Sūþseaxna cyning	Ælle (Sussex)
+Æðelbald West-Seaxna Cyning	Æthelbald (Wessex)
+Æðelrǣd	Æthelred (Mercia)
+Æðelstān	Æthelstan
+Æðelstān Sūþseaxa Cyning	Æthelstan (Sussex)
+Ælfweard West-Seaxes	Æthelweard (Wessex)
+Bēagel	Bagel
+Rēcels	Räucherwerk
+Iapanisc āttorcopplic crabba	Japanische Riesenkrabbe
+Stromnæss, Sūþgeorgia	Stromness (Südgeorgien)
+Woruldlic Gemōt þāra Ciricena	Ökumenischer Rat der Kirchen
+Blæcesburg, Virginia	Blacksburg (Virginia)
+Harriet Miers	Harriet Miers
+Dūnhēafod	Launceston (Cornwall)
+Ériu	Ériu
+Marjorie Estiano	Marjorie Estiano
+Ítróttarfelag Fuglafjarðar	ÍF Fuglafjørður
+Fotþōðer	Football
+Transformers	Transformers (Begriffsklärung)
+Oresundes brycg	Öresundbrücke
+Ieshaiah	Isaiah
+Denegield	Danegeld
+Spell Twēgra Burga	Eine Geschichte aus zwei Städten
+Morbid Angel	Morbid Angel
+John Ashcroft	John Ashcroft
+Alexander Ovechkin	Alexander Michailowitsch Owetschkin
+Orosius	Orosius
+Alexis Tsipras	Alexis Tsipras
+Dufenal I Scotta	Donald I.
+Constontinus I Scotta Cyning	Konstantin I. (Schottland)
+Joseph Serchuk	Joseph Serchuk
+Seolfor (bleoh)	Silber (Farbe)
+Babez for breakfast	Babez for Breakfast
+Philip Jaisohn	Philip Jaisohn
+Widukind	Widukind (Sachsen)
+Wælheall Herig	Walhalla
+Æbbandūn	Abingdon (Oxfordshire)
+Law & Order	Law & Order
+Westmannland	Västmanland
+Hengest	Hengest
+Moretoin	Mortain
+Leaves' Eyes	Leaves’ Eyes
+Jeanette Biedermann	Jeanette Biedermann
+Corn Flakes	Cornflakes
+Amol	Amol
+Penda Miercna Cyning	Penda
+Dūnstān	Dunstan von Canterbury
+Mælcolm II Scotta Cyning	Malcolm II.
+Ēadgar Scotta Cyning	Edgar (Schottland)
+Ofergewiht	Übergewicht
+Constontinus II Scotta Cyning	Konstantin II. (Schottland)
+Pak Hon-yong	Pak Hon-yong
+Americanisc frēona rīcisc fōtballtēam	Fußballnationalmannschaft der Vereinigten Staaten (Frauen)
+Obituary	Obituary
+Mǣdmōnaþ 2005	Juli 2005
+Winterfylleþ 2005	Oktober 2005
+Berserca	Berserker
+Jordan Galland	Jordan Galland
+Acrassicauda	Acrassicauda
+Bēam	Beam
+Minoru Yamasaki	Minoru Yamasaki
+Offa	Offa
+Tom	River Tame (River Trent)
+Canceler	Kanzler
+Pulgara Cyning	Liste der Herrscher von Bulgarien
+Cuneglæsse	Gewöhnliche Hundszunge
+Ēadmund se Martyr	Edmund von Ostanglien
+Australisca Witenagemōt	Australisches Parlament
+Lao	Lao
+Wīfel	Curculionoidea
+Agalloch	Agalloch
+Godspell Mattheus	Evangelium nach Matthäus
+Ēadweard Cyning Næss	King Edward Point
+Uzumaki/ᚢᛋᚢᛗᚪᛦᛁ	Uzumaki
+Wīn	WIN
+Palestinisce Landscipas	Palästinensische Autonomiegebiete
+Ajattara	Ajattara
+James Ēa	James River (Chesapeake Bay)
+Ȝ	Ȝ
+Gærsīeg, Sūþgeorgia	Grass Island
+Nazarēth	Nazareth
+Ænglisc grammaticcræft	Altenglische Grammatik
+Rise of Nations	Rise of Nations
+Kate Sheppard	Kate Sheppard
+Geþingedōm	Verwaltungsgliederung Schottlands
+Getalu Smallville-belimpdǣla	Smallville/Episodenliste
+Kwara Rīce	Kwara
+Windlesōra	Windsor (Berkshire)
+Ēastermōnaþ 2005	April 2005
+Heo Jong-suk	Heo Jong-suk
+Caroline Zhang	Caroline Zhang
+America's Cup	America’s Cup
+Wīnlendisc cystel	Amerikanische Kastanie
+Rædwald Ēastengla Cyning	Raedwald
+Ēadbald	Eadbald von Kent
+Oswiu Norþhymbra Cyning	Oswiu
+Brian Jacques	Brian Jacques
+Agmodesham	Amersham
+Paramore	Paramore
+Recedham	Rochdale
+Illative cāsus	Illativ
+Herelic munucregol	Militärorden
+Ǣȝhnōg	Eggnog
+Coritiba Foot Ball Club	Coritiba FC
+Tansonnhates Geondrīciscum Lyfthæfene	Flughafen Tan-Son-Nhat
+Þresc stīele	Thrash Metal
+The Chronicles of Narnia	Die Chroniken von Narnia
+Aliud	Aliud (Spanien)
+Iacub Colas	Jakub Kolas
+Baraona	Baraona
+James Hetfield	James Hetfield
+Keane	Keane
+Medinaceli	Medinaceli
+Láchar	Láchar
+Burgo de Osma-Ciudad de Osma	El Burgo de Osma-Ciudad de Osma
+Suellacabras	Suellacabras
+Yanguas	Yanguas
+Get Heavy	Get Heavy
+Pensacola	Pensacola (Florida)
+The Arockalypse	The Arockalypse
+Anath	Anat (Göttin)
+San Esteban de Gormaz	San Esteban de Gormaz
+The Monsterican Dream	The Monsterican Dream
+Barbourscīr, Westvirginia	Barbour County (West Virginia)
+Duval Scīr, Florida	Duval County (Florida)
+Hāmtūnscīr Scīr, West Virginia	Hampshire County (West Virginia)
+Rēadgrot mid flīetan	Rote Grütze
+Niðerseaxiscu hūs	Hallenhaus
+Samsung Galaxy Note	Samsung Galaxy Note
+Perfume	Perfume
+Beadu Cealdre Hȳðe	Schlacht von Cold Harbor
+Rōwrenoc (Virginia)	Roanoke (Virginia)
+Sūþtūn Hōh	Sutton Hoo
+Tuidi	Tweed (Vereinigtes Königreich)
+Sǣbeorg	Tiefseeberg
+Dornwaraceaster	Dorchester (Dorset)
+Chris Pratt	Chris Pratt
+Walhshalh	Walsall
+Bēdesford, Virginia	Bedford (Virginia)
+Ēadƿeard Æðeling Scīr, Virginia	Prince Edward County
+Angul	Angeln (Region)
+Fiðele	Fiddle
+Cambihtuc	Nymphensittich
+Masters of the Universe	Masters of the Universe
+Hwælsang	Walgesang
+Boston Breakers	Boston Breakers (WPS)
+Lanercscīr	Lanarkshire
+Wyr, Orcanege	Wyre (Insel)
+Dasaratha Maurya	Dasaratha
+Þrīnessunnandæg	Trinitatis
+Brecenscīr	Brecknockshire
+Anna Ēastengla Cyning	Anna (East Anglia)
+Simeon Varlamov	Semjon Alexandrowitsch Warlamow
+Cannae	Cannae
+Debauchery	Debauchery
+Wettersteinplatz	U-Bahnhof Wettersteinplatz
+Punt	Tübinger Stocherkahn
+Olympia-Einkaufszentrum	U-Bahnhof Olympia-Einkaufszentrum
+Þunresbeorg mōr	Thorsberger Moor
+Niht (gyden)	Nott
+Tamer	Tamar (England)
+Scīrburna	Sherborne
+Mexicanisc frēona rīcisc fōtballtēam	Mexikanische Fußballnationalmannschaft der Frauen
+Læland	Lolland
+Bukan	Bukan
+God Hates Us All	God Hates Us All
+Gemǣne Rīca of Australie	Generalgouverneur von Australien
+FC Gold Pride	FC Gold Pride
+Geþacasteort	Thatcher Peninsula
+Ælmer	Eilmer von Malmesbury
+Grahamland	Grahamland
+Wikipǣdia:Sceortpæþ	Wikipedia:Shortcuts
+Die Deutschen Inschriften	Die Deutschen Inschriften
+Mirai Nagasu	Mirai Nagasu
+Eormengyld Juraj Dobrila on Pula	Juraj Dobrila Universität Pula
+Dopenid	Blässhühner
+Swearttægelhara	Eselhase
+Sybelhūs on Lundne	Banqueting House
+Beadu þæs Bogn	Schlacht am Boyne
+Puebla FC	Puebla FC
+MorphOS	MorphOS
+Minga Guazú	Minga Guazú
+Atari Jaguar	Atari Jaguar
+Hēffe Wehbig	Haifa Wehbe
+Ulfretūn	Newbury (Berkshire)
+Tæppa	Wasserhahn
+Tīdunghēap	Newsgroup
+Nile (trūðhlōð)	Nile (Band)
+Ilfing	Elbląg (Fluss)
+Scēaþ	Scheide (Behälter)
+Stǣr Angelþēode ciricean	Historia ecclesiastica gentis Anglorum
+Rēan	Rán
+Vindicationīeg	Vindication Island
+Tæfingstoc	Tavistock (Devon)
+Negombo	Negombo
+Selesdūn	Selsdon
+Þrimilcemōnaþ 2005	Mai 2005
+Blecinga īeg	Blekinge
+Lox (catte)	Luchse
+Gewuldorbeagungīeg (on Sūþorcanege)	Coronation-Insel
+Lǣden-ofgangena stæfrǣwa	Liste lateinisch-basierter Alphabete
+Æfterra Gēola 2005.	Januar 2005
+Huntandūn	Huntingdon
+Wyrd	Wurd
+Scotburg ēa	Kongeå
+Hoym	Hoym
+Hude (Oldenburg)	Hude (Oldenburg)
+Tomtun	Tamworth
+City of Heroes	City of Heroes
+Ambihtlicu Cīnisc sprǣc	Hochchinesisch
+Leþ Hæfen	Leith Harbour
+Mans	Maine (Frankreich)
+Hwicce	Königreich Hwicce
+Falster	Falster
+Janus (Windows beta)	Microsoft Windows 3
+Ealdfriþ	Aldfrith
+Difelinburg	Dublin Castle
+SOX leoht-fæt	Natriumdampflampe
+Association of Volleyball Professionals	Association of Volleyball Professionals
+Madrynhȳð	Puerto Madryn
+Solmōnaþ 2005	Februar 2005
+Hāligmōnaþ 2005	September 2005
+Atlanta Beat	Atlanta Beat
+Wuduhen	Wekaralle
+Gawain and se Grēna Cniht	Sir Gawain and the Green Knight
+Maroare	Mährer (Volksgruppe)
+Centro Federal de Educação Tecnológica Celso Suckow da Fonseca	Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+Chrono Trigger	Chrono Trigger
+Cippanhamm	Chippenham
+Télépopmusik	Télépopmusik
+Getæl dēora swēga	Tierlautbezeichnungen
+Berewicscīr	Berwickshire
+Axanmynster	Axminster
+Ægelesþrep	Aylesford
+Bloomesdæg	Bloomsday
+Banffscīr	Banffshire
+Barca	Barce (Libyen)
+Beordan īeg	Bardney
+Bardanstapol	Barnstaple
+Bellingshausenīeg	Bellingshausen (Südsandwichinseln)
+Rīdungfȳrramm	Bemannter Torpedo
+Wedrebi	Wetherby (Stadt)
+Adreminte	Mutterkraut
+Stæfford	Stafford
+Almarza	Almarza
+Abejar	Abejar
+Aldealpozo	Aldealpozo
+Calatañazor	Calatañazor
+Besliwdifca	Besljudiwka
+Arcos de Jalón	Arcos de Jalón
+Almenar de Soria	Almenar de Soria
+Coscurita	Coscurita
+Vinuesa	Vinuesa
+Cabrejas del Pinar	Cabrejas del Pinar
+Villasayas	Villasayas
+Castillejo de Robledo	Castillejo de Robledo
+Ergo Proxy	Ergo Proxy
+Ciria	Ciria
+Salduero	Salduero
+Carrascosa de Abajo	Carrascosa de Abajo
+Yelo	Yelo
+Montenegro de Cameros	Montenegro de Cameros
+Ucero	Ucero
+Langa de Duero	Langa de Duero
+Grēatu Scōl of Sealterlande	Schulzentrum Saterland
+Caracena	Caracena
+Cubo de la Solana	Cubo de la Solana
+Morón de Almazán	Morón de Almazán
+Montejo de Tiermes	Montejo de Tiermes
+Stromnæs	Stromness (Orkney)
+Weogornaceasterscīrsēaw	Worcestershiresauce
+Picilemwes eorþbeofung 2010 gēares	Erdbeben in Pichilemu 2010
+Getalu ambihtlicra sprǣca	Liste der Amtssprachen
+Maybach Exelero	Maybach Exelero
+Īslendisc frēona rīcisc fōtþōðerhēap	Isländische Fußballnationalmannschaft der Frauen
+Worulde Fanan	Flags of the World
+Dēaðas in 2005. gēare	Nekrolog 2005
+York University	York University
+Hrēþmōnaþ 2005	März 2005
+Cirenceaster	Cirencester
+Strēoneshalh	Whitby
+Skræling	Skraelinger
+Gēolmōnaþ 2004	Dezember 2004
+Brytenwealda	Bretwalda
+Glamorgan	Glamorgan
+Winterfylleþ 2004	Oktober 2004
+Sǣearmlandes Rīcisc Edisc	Fiordland-Nationalpark
+Gafolbyrðen in Þēodisclande	Steuerrecht (Deutschland)
+Port Authority of New York and New Jersey	Port Authority of New York and New Jersey
+Getalu īega be landware	Liste der bevölkerungsreichsten Inseln der Erde
+Cwatbrycg	Bridgnorth
+Street Fighter IV	Street Fighter IV
+Help:Innoþ	Hilfe:Übersicht
+Wikipǣdia:Tutorial	Wikipedia:Tutorial
+Wīntrēow	Kletterpflanze
+Brycgstōwīeg	Bristol Island
+Twilight of the Thunder God	Twilight of the Thunder God
+Pontifícia Universidade Católica de Minas Gerais	Pontifícia Universidade Católica de Minas Gerais
+Deorwente	Derwent (Derbyshire)
+Universidad de los Andes (Cile)	Universidad de los Andes (Chile)
+Oenoīeg	Oeno
+3 World Trade Center	Three World Trade Center
+Landa getalu be lēodweardcynne	Liste der Regierungssysteme nach Staat
+Granta	Cam (Fluss)
+Los Angeles Sol	Los Angeles Sol
+Rūnstæfisc gerīmbōc	Kalenderstab
+Waneting	Wantage
+Hāligmōnaþ 2006	September 2006
+Hrodulf se rēadnosoda hrāndēor	Rudolph, the Red-Nosed Reindeer
+2009–10 NHL tīma	NHL 2009/10
+John Clare	John Clare
+Molinos de Duero	Molinos de Duero
+Elpendīeg	Elephant Island
+Getæl īega	Liste der Insellisten (nach Staat)
+Faroisce cwidas	Färöische Balladen
+Dærentamūða	Dartmouth (Devon)
+Elenesburh	Helensburgh
+Exanmūþa	Exmouth (Devon)
+Sūþern Strēamflēot	Kangerlussuaq
+Tottaness	Totnes
+Mældūn	Maldon (Essex)
+Burgstall Gegenpoint	Burgstall Gegenpoint
+Burns Niht	Burns Supper
+Vrahovice	Vrahovice
+Gafolford	Camelford
+Walhshalh Weald	Walsall Wood
+Hlydanford	Lydford
+Gēatland	Gotland
+Būc	Magen
+Candelmæssanīeg	Candlemas Island
+Loppestre	Hummerartige
+Blōtmōnaþ 2004	November 2004
+Sculdorscēotend	Langwaffe
+Nīwes Sǣlandes Weorces Stēormǣlhēap	New Zealand Labour Party
+Stēamwægn	Dampfwagen
+Simeon II Pulgara Cyning	Simeon Sakskoburggotski
+Heortæppelbroþ	Tomatensuppe
+Chicago Red Stars	Chicago Red Stars (NWSL)
+Cutey Honey	Cutie Honey
+Clarenceīeg, Sūþhjaltland	Clarence Island
+Umm Culþþūm	Umm Kulthum
+Germanisc Hǣðenscipe	Germanische Religion
+2 World Trade Center	Two World Trade Center
+Cōcīeg (þāra Sūþsandwic Īeglanda)	Cook-Insel (Südsandwichinseln)
+Cooperīeg	Cooper-Insel (Südgeorgien)
+Universidade Tecnológica Federal do Paraná	Universidade Tecnológica Federal do Paraná
+Stæffordscīr hord	Schatz von Staffordshire
+Gemyndigung Twintorra	National September 11 Memorial and Museum
+Swamphæn	Purpurhühner
+Froggmann	Kampfschwimmer
+Roanoke Express	Roanoke Express
+Beadu Omdurmanes	Schlacht von Omdurman
+Cridiantūn	Crediton
+Crumbaþynscīr	Cromartyshire
+Ninus	Ninos
+Lundene Foreweard (1839.)	Londoner Konferenz (1838–1839)
+Hellraiser	Hellraiser – Das Tor zur Hölle
+Rǣdels þæs Sandes	Das Rätsel der Sandbank
+Harrogætes hord	Depotfund von Harrogate
+Æsir–Vanir þurhgefeht	Wanenkrieg
+Elisabeþ Cwēn Land	Queen Elizabeth Land
+Wikipǣdia:Ambihtsecghof	Wikipedia:Botschaft
+Sēo Rād tō Wiganshwearfe	Der Weg nach Wigan Pier
+Mǣþ	Mähen
+National Hockey League	National Hockey League
+Striuelinscīr	Stirlingshire
+Dorceceaster	Dorchester (Oxfordshire)
+Seleciricescīr	Selkirkshire
+Perþscīr	Perthshire
+2010 WPS tīma	Women’s Professional Soccer 2010
+Flyhthæfen	Flughafen
+Drēag	Draugr
+Mare	Nachtalb
+Dormceaster	Durobrivae
+Sandeg, Orcanege	Sanday
+Sundrodland	City of Sunderland
+Beadu Fossalta	Schlacht bei Fossalta
+Egilseg	Egilsay
+Leskovīeg	Leskov Island (Südsandwichinseln)
+Major Antônio Couto Pereira Stadium	Estádio Major Antônio Couto Pereira
+Ēaster-ǣfen	Ostersamstag
+Nīwes Sǣlandes Grēne Stēormǣlhēap	Green Party of Aotearoa New Zealand
+Stǣrlice gemynddagas	Historische Jahrestage
+Pecland	Peak-District-Nationalpark
+Uzumaki	Uzumaki – Spiral Into Horror
+4 World Trade Center	Four World Trade Center
+KMFDM	KMFDM
+Women's Professional Soccer	Women’s Professional Soccer
+Sǣweardþrēat	Küstenwache
+Agnes Monica	Agnes Monica
+Montaguīeg	Montagu Island
+Windlesōra and Mægdenhȳþ	Windsor and Maidenhead
+Wīdsīð	Widsith
+Evile	Evile
+Pasquier Quesnel	Pasquier Quesnel
+Eoh	Ihwa
+Feoh (rūnstæf)	Fehu
+Flocc:Ƿeras	Kategorie:Männer
+Flocc:Ƿīf	Kategorie:Frau
+Flocc:Þēodscland	Kategorie:Deutschland
+Flocc:Italia	Kategorie:Italien
+Flocc:Geānedu Rīcu American	Kategorie:Vereinigte Staaten
+Flocc:Russland	Kategorie:Russland
+Flocc:Canada	Kategorie:Kanada
+Flocc:Geānede Cynerīce	Kategorie:Vereinigtes Königreich
+Flocc:Spēonland	Kategorie:Spanien
+Flocc:Cīna	Kategorie:China
+Flocc:Iapan	Kategorie:Japan
+Flocc:Australia	Kategorie:Australien
+Flocc:Mexico	Kategorie:Mexiko
+Flocc:Indea	Kategorie:Indien
+Flocc:Saudisc Arabea	Kategorie:Saudi-Arabien
+Flocc:Israhēl	Kategorie:Israel
+Flocc:Turcland	Kategorie:Türkei
+Flocc:Sūðaffrica	Kategorie:Südafrika
+Flocc:Ǣgypt	Kategorie:Ägypten
+Flocc:Persealand	Kategorie:Iran
+Flocc:Nīwe Sǣland	Kategorie:Neuseeland
+Flocc:Argentina	Kategorie:Argentinien
+Axa on Defenum	River Axe (Lyme Bay)
+Traversayīega	Traversayinseln
+Wergyld	Wergeld
+Siebenbürgen	Siebenbürgen (Band)
+Sky Blue FC	Sky Blue FC (WPS)
+Flocc:Afghanistan	Kategorie:Afghanistan
+Flocc:Algeria	Kategorie:Algerien
+Flocc:Ēastrīce	Kategorie:Österreich
+Flocc:Bangladesc	Kategorie:Bangladesch
+Flocc:Cūba	Kategorie:Kuba
+Flocc:Sigelhearwenaland	Kategorie:Äthiopien
+Flocc:Indonesia	Kategorie:Indonesien
+Flocc:Irac	Kategorie:Irak
+Flocc:Niðerland	Kategorie:Niederlande
+Flocc:Nigeria	Kategorie:Nigeria
+Flocc:Pacistan	Kategorie:Pakistan
+Flocc:Pōlaland	Kategorie:Polen
+Flocc:Portugal	Kategorie:Portugal
+Flocc:Sudan	Kategorie:Sudan
+Flocc:Tansania	Kategorie:Tansania
+Flocc:Ucrægna	Kategorie:Ukraine
+Flocc:Fietnam	Kategorie:Vietnam
+Flocc:Rōmānisc Cāsere	Kategorie:Römisches Reich
+Flocc:Sycedēor	Kategorie:Säugetiere
+Flocc:Fugolas	Kategorie:Vögel
+Flocc:Plantan	Kategorie:Pflanzen
+Flocc:Stǣr	Kategorie:Geschichte
+Flocc:Ferscipe	Kategorie:Gesellschaft
+Flocc:Gelēafan	Kategorie:Religion
+Flocc:Plegan	Kategorie:Sport
+Flocc:Sprǣc	Kategorie:Sprache
+Flocc:Eorþ	Kategorie:Erde
+Victor Iusccenco	Wiktor Juschtschenko
+Slowly We Rot	Slowly We Rot
+Surtur Rising	Surtur Rising
+Thila-īeg	Morrell-Insel
+Gealdor	Galster
+Lēo Hlāford Wǣponcyning	Lord Lyon King of Arms
+Godmundesceaster	Godmanchester
+Saint Louis Athletica	Saint Louis Athletica
+Palmerland	Palmerland
+Pagetbeorg	Mount Paget
+Handfisc	Handfische
+Phil Keaggy	Phil Keaggy
+World Trade Center 5 Torr	World Trade Center 5
+Hedingelei	Headingley
+Hocig	Hockeysport
+Frēodōm	Freedom
+MTB	Motortorpedoboot (Großbritannien)
+Īsensmiþ	Schmied
+Visokoi-īeg	Visokoi Island
+Willisīega	Willisinseln
+Wiogoraceastre	Worcester
+Geondrīciscra laga fōtþōðer	International Rules Football
+Mōr	Moor
+Pickersgillīega	Pickersgill-Inseln
+Três Pontas	Três Pontas
+Swǣfisc cnotta	Suebenknoten
+Truso	Truso
+Saundersīeg	Saunders Island (Südsandwichinseln)
+Ānlāfes Æþelinges Hæfen	Prince Olav Harbour
+Sydneycofa	Sydney Cove
+The Miracles	The Miracles
+Siissisoq	Siissisoq
+Tasca1:	Tironische Noten
+Kupriyanovīega	Kupriyanov-Inseln
+Rankine	Rankine
+Eormengyld Finis Terrae	Universidad Finis Terrae
+Loch a' Choire	Tarn (Gewässer)
+Smith & Wesson 500	Smith & Wesson Model 500
+Richard Pearse	Richard Pearse
+Philadelphia Independence	Philadelphia Independence
+Flocc:Scīrung	Kategorie:Begriffsklärung
+Flocc:Olympisc Gamen	Kategorie:Olympische Spiele
+Flocc:Crīstendōm	Kategorie:Christentum
+Flocc:Alladōm	Kategorie:Islam
+Offa, Nigeria	Offa (Nigeria)
+Decatur	Decatur
+Wilcumanīega	Welcome-Inseln
+Ātmǣl	Haferbrei
+Earn	Adler (Biologie)
+Skaugum	Skaugum
+Bresl/ᚱᚢᚾ	Kringel
+Scyrte	Rock (Kleidung)
+Elpend	Elefanten
+Bochotnica	Bochotnica
+Universidade do Estado de Minas Gerais	Universidade do Estado de Minas Gerais
+Adesa	Dechsel (Werkzeug)
+Sceota	Forelle
+Flocc:Wikipedia categorization	Kategorie:Wikipedia:Kategorien
+Flocc:Sidaþing	Kategorie:Kultur
+Flocc:Gēar	Kategorie:Jahr
+Flocc:Worulddǣl	Kategorie:Kontinent
+Flocc:Lyftcræftas	Kategorie:Luftfahrzeug
+Wikipǣdia:Gecorene gemynddagas	Wikipedia:Hauptseite/Jahrestage
+Wikipǣdia:Tutorial (Editing)	Wikipedia:Tutorial/3
+Bysen:Stēorungsunnanendebyrdnes	Vorlage:Navigationsleiste Sonnensystem
+Wikipǣdia:Nīwe ēacan	Wikipedia:Hauptseite/Schon gewusst
+Wikipǣdia:Wikibōceras	Wikipedia:Wikipedianer
+Scearseax	Rasierhobel
+Wikipǣdia:Snell bīcniend	Hilfe:Nachschlagen
+Wikipǣdia:Recentchanges	Hilfe:Letzte Änderungen
+Basu	Purpur (Farbe)
+Flocc:Flēogeball	Kategorie:Volleyball
+Flocc:Wikipedia bots	Kategorie:Benutzer:Bot
+Port:Gefērscipe	Portal:Gesellschaft
+Bysen:Cquote	Vorlage:Zitat
+Flocc:Þēodisc	Kategorie:Deutscher
+Eormengyld ''Guglielmo Marconi''	Università degli Studi „Guglielmo Marconi“
+Catherine	Catherine
+Wikipǣdia:Bewitendas	Wikipedia:Administratoren
+Flocc:Lēode	Kategorie:Person
+Wikipǣdia:Bēna tō and fram bewitendhāde	Wikipedia:Kandidaturen
+Flocc:Tīd	Kategorie:Zeit
+Flocc:Bodiȝlār	Kategorie:Anatomie
+Wikipǣdia:Betwuxsprǽclice bendas	Hilfe:Internationalisierung
+Flocc:Leornung	Kategorie:Bildung
+Cyningesbeorg	Königsberg (Preußen)
+Ægypt	Ägypten
+Yulia Lipnitskaya	Julija Wjatscheslawowna Lipnizkaja
+Flocc:Ūtwitan	Kategorie:Philosoph
+Bysen:Bot	Vorlage:Bot
+Wikipǣdia:Hwæt Wikipǣdia Nis	Wikipedia:Was Wikipedia nicht ist
+Canada	Kanada
+Flocc:Ungerland	Kategorie:Ungarn
+Flocc:Belgice	Kategorie:Belgien
+Flocc:Cipros	Kategorie:Republik Zypern
+Flocc:Cecland	Kategorie:Tschechien
+Flocc:Denemearc	Kategorie:Dänemark
+Flocc:Estland	Kategorie:Estland
+Flocc:Finnland	Kategorie:Finnland
+Flocc:Crecaland	Kategorie:Griechenland
+Flocc:Lettland	Kategorie:Lettland
+Flocc:Īsland	Kategorie:Island
+Flocc:Letseburg	Kategorie:Luxemburg
+Flocc:Liþuania	Kategorie:Litauen
+Flocc:Melita	Kategorie:Malta
+Flocc:Swēoland	Kategorie:Schweden
+Flocc:Slofacia	Kategorie:Slowakei
+Flocc:Īrland Cynewīse	Kategorie:Irland
+Flocc:Fulgōd ȝeƿritu	Kategorie:Wikipedia:Exzellent
+Flocc:Spærcletelle gamen	Kategorie:Computerspiele
+Heofon	Himmel (Religion)
+Fresland	Friesland
+Flocc:Microsoft	Kategorie:Microsoft
+Wikipǣdia:Edit summary	Hilfe:Zusammenfassung und Quellen
+Flocc:Land on Europan	Kategorie:Staat in Europa
+Flocc:Europe	Kategorie:Europa
+Flocc:Wikipedia:Help	Kategorie:Wikipedia:Hilfe
+Lefenax	Lennox (Schottland)
+Help:Mōtungtramet	Hilfe:Diskussionsseiten
+Bysen:Documentation	Vorlage:Dokumentation
+Wikipǣdia:Protected pages	Wikipedia:Geschützte Seiten
+Flocc:Wikibōceras	Kategorie:Benutzer:
+Wikipǣdia:Gemǣnscipes Ingang	Wikipedia:Autorenportal
+Flocc:Brūcendsprǣc	Kategorie:Benutzer:nach Sprache
+Wikipǣdia:Fīf styde	Wikipedia:Grundprinzipien
+Wikipǣdia:Bealu	Wikipedia:Vandalismus
+Instituto Federal da Bahia	Instituto Federal da Bahia
+Bysen:Softredirect	Vorlage:Interwiki redirect
+Bysen:Delete	Vorlage:Löschen
+Snægel	Schnecken
+Bryttisce Wealdendas	Liste der britischen Monarchen
+Flocc:Searucræft	Kategorie:Technologie
+Flocc:Sprǣca	Kategorie:Einzelsprache als Thema
+Flocc:Gerīmbōc	Kategorie:Kalender
+Flocc:Hāliȝdagas	Kategorie:Feiertag
+Help:Onbregdan nīwne tramet	Hilfe:Neuen Artikel anlegen
+Flocc:Wikipǣdia	Kategorie:Wikipedia
+Flocc:Pages with broken file links	Kategorie:Wikipedia:Defekter Dateilink
+Wikipǣdia:Manual of Style	Wikipedia:Formatierung
+Bysen:Navbox	Vorlage:Erweiterte Navigationsleiste
+Handspearctellend	Mobilgerät
+Cūþburga	Cuthburga
+Flocc:Byrig on Persum	Kategorie:Ort im Iran
+Angelfresisca sprǣca	Anglo-friesische Sprachen
+Bysen:!-	Vorlage:!-
+Bysen:!!	Vorlage:!!
+Bysen:Unicode	Vorlage:Unicode
+Bysen:Clear	Vorlage:Absatz
+Bysen:Color	Vorlage:Blau
+Bysen:Anchor	Vorlage:Anker
+Wikipǣdia:List of articles all languages should have	Wikipedia:Artikel, die es in allen Wikipedias geben sollte
+Flocc:Affrica	Kategorie:Afrika
+Flocc:Mǣdmōnaþ	Kategorie:Juli
+Flocc:Þorpas	Kategorie:Dorf
+Flocc:Bēc	Kategorie:Buchwesen
+Flocc:Mōnþas	Kategorie:Monat
+Bysen:Wikisource	Vorlage:Wikisource
+Bysen:Babel	Vorlage:Babel
+Bysen:Commons	Vorlage:Commons
+Bysen:NavPeriodicTable	Vorlage:Periodensystem
+Wikipǣdia:Fulgōdra gewrita hwætgōdnesse	Wikipedia:Kandidaturen von Artikeln, Listen und Portalen/Kriteriendarstellung
+Bysen:Brūcend de	Vorlage:User de
+Bysen:Brūcend de-1	Vorlage:User de-1
+Bysen:Brūcend el	Vorlage:User el
+Bysen:Brūcend es	Vorlage:User es
+Bysen:Brūcend de-3	Vorlage:User de-3
+Bysen:Brūcend en-3	Vorlage:User en-3
+Bysen:Brūcend el-1	Vorlage:User el-1
+Bysen:Brūcend en-1	Vorlage:User en-1
+Bysen:Brūcend en-2	Vorlage:User en-2
+Bysen:Brūcend eo-2	Vorlage:User eo-2
+Bysen:Brūcend en-4	Vorlage:User en-4
+Bysen:Brūcend fi	Vorlage:User fi
+Bysen:Brūcend en-0	Vorlage:User en-0
+Bysen:Brūcend es-4	Vorlage:User es-4
+Bysen:Brūcend en	Vorlage:User en
+Bysen:Brūcend de-2	Vorlage:User de-2
+Bysen:Brūcend es-1	Vorlage:User es-1
+Bysen:Brūcend fi-1	Vorlage:User fi-1
+Bysen:Brūcend fr-1	Vorlage:User fr-1
+Bysen:Brūcend he-2	Vorlage:User he-2
+Bysen:Brūcend it-3	Vorlage:User it-3
+Bysen:User sk	Vorlage:User sk
+Bysen:Brūcend fr-2	Vorlage:User fr-2
+Bysen:Brūcend ja	Vorlage:User ja
+Bysen:Brūcend ja-1	Vorlage:User ja-1
+Bysen:Brūcend it-1	Vorlage:User it-1
+Bysen:Brūcend fr	Vorlage:User fr
+Cosco	Cusco
+Flocc:Solmōnaþ	Kategorie:Februar
+Flocc:1949	Kategorie:1949
+Bysen:Stedefindend scite/Writ	Vorlage:Positionskarte/Info
+Flocc:Ceorfdēor	Kategorie:Insekten
+Bysen:Fs mid	Vorlage:Football squad mid
+Flocc:Asia	Kategorie:Asien
+Flocc:Cile	Kategorie:Chile
+Flocc:21e gēarhundred	Kategorie:21. Jahrhundert
+Flocc:Lesotho	Kategorie:Lesotho
+Flocc:Brūcend uk	Kategorie:User uk
+Flocc:Sūðamerica	Kategorie:Südamerika
+Flocc:Brūcend uk-M	Kategorie:User uk-M
+Flocc:1918	Kategorie:1918
+Flocc:1954	Kategorie:1954
+Flocc:Ǣt	Kategorie:Lebensmittel
+Flocc:1946	Kategorie:1946
+Bysen:Fs player	Vorlage:Football squad player
+Flocc:Gyldfōtþōðer	Kategorie:Fußball
+Flocc:1945	Kategorie:1945
+Bysen:Mod	Vorlage:Modulo
+Flocc:1926	Kategorie:1926
+Bysen:NowCommons	Vorlage:NowCommons
+Bysen:Brūcend sv	Vorlage:User sv
+Flocc:1920	Kategorie:1920
+Bysen:Brūcend it	Vorlage:User it
+Bysen:Brūcend uk	Vorlage:User uk
+Bysen:Brūcend es-2	Vorlage:User es-2
+Bysen:Infobox Football club	Vorlage:Infobox Fußballklub
+Bysen:Welcome	Vorlage:Willkommen
+Bysen:Mōnþas	Vorlage:Navigationsleiste Monate
+Bysen:Scire in Irlande	Vorlage:Navigationsleiste Grafschaften der Republik Irland
+Bysen:Click	Vorlage:Click
+Flocc:Brūcend fr-1	Kategorie:User fr-1
+Bysen:Wikiquote	Vorlage:Wikiquote
+Bysen:Affrica	Vorlage:Navigationsleiste Staaten in Afrika
+Bysen:Infobox television	Vorlage:Infobox Fernsehsendung
+Flocc:Americisc Awendung Wig	Kategorie:Amerikanische Revolution
+Bysen:Geānedu Rīcu American	Vorlage:Navigationsleiste Verwaltungseinheiten in den Vereinigten Staaten
+Bysen:Cyþþubox ieg	Vorlage:Infobox Insel
+Flocc:Circolwyrde gamen	Kategorie:Computerspiel
+Flocc:Americanisc stǣr	Kategorie:Geschichte der Vereinigten Staaten
+Bysen:Rnd	Vorlage:Siground
+Bysen:Infobox Country	Vorlage:Infobox Staat
+Bysen:Max	Vorlage:Max
+Bysen:Infobox Mīlitisc Gemōt	Vorlage:Infobox Militärischer Konflikt
+Bysen:Infobox U.S. Scīr	Vorlage:Infobox County (Vereinigte Staaten)
+Bysen:Cleanup	Vorlage:Überarbeiten
+Flocc:Crabbas	Kategorie:Krabben
+Bysen:Cite journal	Vorlage:Cite journal
+Bysen:Lang-ar	Vorlage:ArS
+Bysen:Cite news	Vorlage:Cite news
+Bysen:Featured article	Vorlage:Exzellent
+Flocc:Paris	Kategorie:Paris
+Flocc:Brūcend en-4	Kategorie:User en-4
+Flocc:Brūcend en	Kategorie:User en
+Flocc:Croatia	Kategorie:Kroatien
+Flocc:Brūcend en-2	Kategorie:User en-2
+Bysen:Infobox	Vorlage:Infobox
+Flocc:Francena cyningas	Kategorie:König (Frankreich)
+Flocc:Stafas	Kategorie:Alphabet
+Wikipǣdia:Gecorene gemynddagas/23 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/23
+Wikipǣdia:Gecorene gemynddagas/4 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/4
+Wikipǣdia:Gecorene gemynddagas/22 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/22
+Bysen:Lang-da	Vorlage:DaS
+Wikipǣdia:Gecorene gemynddagas/30 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/30
+Wikipǣdia:Gecorene gemynddagas/18 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/18
+Wikipǣdia:Gecorene gemynddagas/28 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/28
+Bysen:Legend	Vorlage:Farblegende
+Wikipǣdia:Gecorene gemynddagas/14 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/14
+Wikipǣdia:Gecorene gemynddagas/25 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/25
+Wikipǣdia:Gecorene gemynddagas/10 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/10
+Wikipǣdia:Gecorene gemynddagas/15 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/15
+Wikipǣdia:Gecorene gemynddagas/31 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/31
+Wikipǣdia:Gecorene gemynddagas/12 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/12
+Wikipǣdia:Gecorene gemynddagas/30 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/30
+Wikipǣdia:Gecorene gemynddagas/3 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/3
+Wikipǣdia:Gecorene gemynddagas/27 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/27
+Bysen:Cite web	Vorlage:Cite web
+Wikipǣdia:Gecorene gemynddagas/21 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/21
+Wikipǣdia:Gecorene gemynddagas/8 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/8
+Wikipǣdia:Gecorene gemynddagas/20 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/20
+Wikipǣdia:Gecorene gemynddagas/23 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/23
+Wikipǣdia:Gecorene gemynddagas/28 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/28
+Bysen:Imdb title	Vorlage:IMDb Titel
+Wikipǣdia:Gecorene gemynddagas/31 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/31
+Wikipǣdia:Gecorene gemynddagas/1 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/1
+Wikipǣdia:Gecorene gemynddagas/14 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/14
+Wikipǣdia:Gecorene gemynddagas/25 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/25
+Wikipǣdia:Gecorene gemynddagas/6 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/6
+Wikipǣdia:Gecorene gemynddagas/24 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/24
+Wikipǣdia:Gecorene gemynddagas/9 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/9
+Wikipǣdia:Gecorene gemynddagas/18 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/18
+Wikipǣdia:Gecorene gemynddagas/17 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/17
+Wikipǣdia:Gecorene gemynddagas/27 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/27
+Flocc:Stǣr þæs Geānedan Cynerīces	Kategorie:Geschichte der Britischen Inseln
+Wikipǣdia:Gecorene gemynddagas/20 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/20
+Wikipǣdia:Gecorene gemynddagas/1 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/1
+Wikipǣdia:Gecorene gemynddagas/5 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/5
+Wikipǣdia:Gecorene gemynddagas/8 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/8
+Wikipǣdia:Talk page	Wikipedia:Diskussionsseiten
+Wikipǣdia:Gecorene gemynddagas/15 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/15
+Bysen:Brūcend nl-1	Vorlage:User nl-1
+Bysen:Infobox Winodland	Vorlage:Infobox Ort in Polen
+Bysen:Min	Vorlage:Min
+Bysen:Wiktionarypar2	Vorlage:Wiktionary
+Bysen:Brūcend nl-2	Vorlage:User nl-2
+Bysen:Infobox Ice Hockey Player	Vorlage:Infobox Eishockeyspieler
+Flocc:Byrig on Dēnum	Kategorie:Ort in Dänemark
+Bysen:Lang-ang	Vorlage:AngS
+Flocc:Eorþtilþ	Kategorie:Landwirtschaft
+Wikipǣdia:Gecorene gemynddagas/26 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/26
+Wikipǣdia:Gecorene gemynddagas/26 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/26
+Wikipǣdia:Gecorene gemynddagas/12 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/12
+Wikipǣdia:Gecorene gemynddagas/25 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/25
+Wikipǣdia:Gecorene gemynddagas/10 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/10
+Wikipǣdia:Gecorene gemynddagas/31 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/31
+Wikipǣdia:Gecorene gemynddagas/6 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/6
+Wikipǣdia:Gecorene gemynddagas/6 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/6
+Wikipǣdia:Gecorene gemynddagas/18 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/18
+Wikipǣdia:Gecorene gemynddagas/17 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/17
+Wikipǣdia:Gecorene gemynddagas/27 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/27
+Wikipǣdia:Gecorene gemynddagas/19 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/19
+Wikipǣdia:Gecorene gemynddagas/2 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/2
+Wikipǣdia:Gecorene gemynddagas/2 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/2
+Wikipǣdia:Gecorene gemynddagas/10 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/10
+Wikipǣdia:Gecorene gemynddagas/1 Ēastermōnaþ	Wikipedia:Hauptseite/Jahrestage/April/1
+Wikipǣdia:Gecorene gemynddagas/31 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/31
+Wikipǣdia:Gecorene gemynddagas/12 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/12
+Wikipǣdia:Gecorene gemynddagas/26 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/26
+Wikipǣdia:Gecorene gemynddagas/17 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/17
+Wikipǣdia:Gecorene gemynddagas/5 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/5
+Wikipǣdia:Gecorene gemynddagas/16 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/16
+Wikipǣdia:Gecorene gemynddagas/31 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/31
+Wikipǣdia:Gecorene gemynddagas/12 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/12
+Wikipǣdia:Gecorene gemynddagas/15 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/15
+Wikipǣdia:Gecorene gemynddagas/19 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/19
+Wikipǣdia:Gecorene gemynddagas/16 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/16
+Wikipǣdia:Gecorene gemynddagas/13 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/13
+Wikipǣdia:Gecorene gemynddagas/2 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/2
+Wikipǣdia:Gecorene gemynddagas/9 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/9
+Wikipǣdia:Gecorene gemynddagas/10 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/10
+Wikipǣdia:Gecorene gemynddagas/5 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/5
+Wikipǣdia:Gecorene gemynddagas/29 Sēremōnaþ	Wikipedia:Hauptseite/Jahrestage/Juni/29
+Wikipǣdia:Gecorene gemynddagas/14 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/14
+Wikipǣdia:Gecorene gemynddagas/6 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/6
+Wikipǣdia:Gecorene gemynddagas/18 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/18
+Wikipǣdia:Gecorene gemynddagas/23 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/23
+Wikipǣdia:Gecorene gemynddagas/1 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/1
+Wikipǣdia:Gecorene gemynddagas/20 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/20
+Wikipǣdia:Gecorene gemynddagas/30 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/30
+Wikipǣdia:Gecorene gemynddagas/11 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/11
+Wikipǣdia:Gecorene gemynddagas/9 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/9
+Wikipǣdia:Gecorene gemynddagas/29 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/29
+Wikipǣdia:Gecorene gemynddagas/2 Ēastermōnaþ	Wikipedia:Hauptseite/Jahrestage/April/2
+Wikipǣdia:Gecorene gemynddagas/12 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/12
+Wikipǣdia:Gecorene gemynddagas/29 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/29
+Wikipǣdia:Gecorene gemynddagas/24 Sēremōnaþ	Wikipedia:Hauptseite/Jahrestage/Juni/24
+Wikipǣdia:Gecorene gemynddagas/25 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/25
+Wikipǣdia:Gecorene gemynddagas/21 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/21
+Wikipǣdia:Gecorene gemynddagas/29 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/29
+Wikipǣdia:Gecorene gemynddagas/29 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/29
+Wikipǣdia:Gecorene gemynddagas/5 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/5
+Wikipǣdia:Gecorene gemynddagas/25 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/25
+Wikipǣdia:Gecorene gemynddagas/22 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/22
+Wikipǣdia:Gecorene gemynddagas/9 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/9
+Wikipǣdia:Gecorene gemynddagas/12 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/12
+Wikipǣdia:Gecorene gemynddagas/11 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/11
+Wikipǣdia:Gecorene gemynddagas/19 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/19
+Wikipǣdia:Gecorene gemynddagas/24 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/24
+Wikipǣdia:Gecorene gemynddagas/13 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/13
+Wikipǣdia:Gecorene gemynddagas/20 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/20
+Wikipǣdia:Gecorene gemynddagas/5 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/5
+Wikipǣdia:Gecorene gemynddagas/15 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/15
+Wikipǣdia:Gecorene gemynddagas/23 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/23
+Wikipǣdia:Gecorene gemynddagas/13 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/13
+Wikipǣdia:Gecorene gemynddagas/15 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/15
+Wikipǣdia:Gecorene gemynddagas/15 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/15
+Wikipǣdia:Gecorene gemynddagas/4 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/4
+Wikipǣdia:Gecorene gemynddagas/8 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/8
+Wikipǣdia:Gecorene gemynddagas/18 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/18
+Wikipǣdia:Gecorene gemynddagas/4 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/4
+Wikipǣdia:Gecorene gemynddagas/4 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/4
+Wikipǣdia:Gecorene gemynddagas/21 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/21
+Wikipǣdia:Gecorene gemynddagas/1 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/1
+Wikipǣdia:Gecorene gemynddagas/3 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/3
+Wikipǣdia:Gecorene gemynddagas/4 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/4
+Wikipǣdia:Gecorene gemynddagas/13 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/13
+Wikipǣdia:Gecorene gemynddagas/28 Sēremōnaþ	Wikipedia:Hauptseite/Jahrestage/Juni/28
+Wikipǣdia:Gecorene gemynddagas/7 Sēremōnaþ	Wikipedia:Hauptseite/Jahrestage/Juni/7
+Wikipǣdia:Gecorene gemynddagas/6 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/6
+Wikipǣdia:Gecorene gemynddagas/25 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/25
+Wikipǣdia:Gecorene gemynddagas/27 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/27
+Wikipǣdia:Gecorene gemynddagas/6 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/6
+Wikipǣdia:Gecorene gemynddagas/15 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/15
+Wikipǣdia:Gecorene gemynddagas/10 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/10
+Wikipǣdia:Gecorene gemynddagas/26 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/26
+Wikipǣdia:Gecorene gemynddagas/20 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/20
+Wikipǣdia:Gecorene gemynddagas/16 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/16
+Wikipǣdia:Gecorene gemynddagas/14 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/14
+Wikipǣdia:Gecorene gemynddagas/25 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/25
+Wikipǣdia:Gecorene gemynddagas/12 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/12
+Wikipǣdia:Gecorene gemynddagas/23 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/23
+Wikipǣdia:Gecorene gemynddagas/22 Sēremōnaþ	Wikipedia:Hauptseite/Jahrestage/Juni/22
+Wikipǣdia:Gecorene gemynddagas/16 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/16
+Wikipǣdia:Gecorene gemynddagas/30 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/30
+Wikipǣdia:Gecorene gemynddagas/4 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/4
+Wikipǣdia:Gecorene gemynddagas/3 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/3
+Wikipǣdia:Gecorene gemynddagas/30 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/30
+Wikipǣdia:Gecorene gemynddagas/8 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/8
+Wikipǣdia:Gecorene gemynddagas/1 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/1
+Wikipǣdia:Gecorene gemynddagas/14 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/14
+Wikipǣdia:Gecorene gemynddagas/7 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/7
+Wikipǣdia:Gecorene gemynddagas/19 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/19
+Wikipǣdia:Gecorene gemynddagas/28 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/28
+Wikipǣdia:Gecorene gemynddagas/20 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/20
+Wikipǣdia:Gecorene gemynddagas/6 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/6
+Wikipǣdia:Gecorene gemynddagas/7 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/7
+Wikipǣdia:Gecorene gemynddagas/21 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/21
+Wikipǣdia:Gecorene gemynddagas/1 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/1
+Wikipǣdia:Gecorene gemynddagas/14 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/14
+Wikipǣdia:Gecorene gemynddagas/28 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/28
+Wikipǣdia:Gecorene gemynddagas/27 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/27
+Wikipǣdia:Gecorene gemynddagas/8 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/8
+Wikipǣdia:Gecorene gemynddagas/11 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/11
+Wikipǣdia:Gecorene gemynddagas/22 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/22
+Wikipǣdia:Gecorene gemynddagas/28 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/28
+Wikipǣdia:Gecorene gemynddagas/1 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/1
+Wikipǣdia:Gecorene gemynddagas/2 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/2
+Wikipǣdia:Gecorene gemynddagas/4 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/4
+Wikipǣdia:Gecorene gemynddagas/22 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/22
+Wikipǣdia:Gecorene gemynddagas/20 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/20
+Wikipǣdia:Gecorene gemynddagas/28 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/28
+Wikipǣdia:Gecorene gemynddagas/17 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/17
+Wikipǣdia:Gecorene gemynddagas/3 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/3
+Bysen:Lang-sr	Vorlage:SrS
+Wikipǣdia:Gecorene gemynddagas/7 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/7
+Wikipǣdia:Gecorene gemynddagas/24 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/24
+Wikipǣdia:Gecorene gemynddagas/21 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/21
+Wikipǣdia:Gecorene gemynddagas/6 Sēremōnaþ	Wikipedia:Hauptseite/Jahrestage/Juni/6
+Wikipǣdia:Gecorene gemynddagas/11 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/11
+Wikipǣdia:Gecorene gemynddagas/8 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/8
+Wikipǣdia:Gecorene gemynddagas/15 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/15
+Wikipǣdia:Gecorene gemynddagas/10 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/10
+Wikipǣdia:Gecorene gemynddagas/16 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/16
+Wikipǣdia:Gecorene gemynddagas/14 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/14
+Wikipǣdia:Gecorene gemynddagas/17 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/17
+Wikipǣdia:Gecorene gemynddagas/24 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/24
+Wikipǣdia:Gecorene gemynddagas/21 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/21
+Wikipǣdia:Gecorene gemynddagas/5 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/5
+Wikipǣdia:Gecorene gemynddagas/3 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/3
+Wikipǣdia:Gecorene gemynddagas/7 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/7
+Wikipǣdia:Gecorene gemynddagas/26 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/26
+Wikipǣdia:Gecorene gemynddagas/14 Sēremōnaþ	Wikipedia:Hauptseite/Jahrestage/Juni/14
+Flocc:Beorgas	Kategorie:Berg
+Bysen:Brūcend ru	Vorlage:User ru
+Flocc:20e gēarhundred	Kategorie:20. Jahrhundert
+Bysen:IPA	Vorlage:IPA-Text
+Bysen:Bēc þǣre Nīwan Gecȳþnesse	Vorlage:Linkbox Neues Testament
+Bysen:USpresidents	Vorlage:Navigationsleiste Präsidenten der Vereinigten Staaten
+Wikipǣdia:Gecorene gemynddagas/7 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/7
+Wikipǣdia:Gecorene gemynddagas/29 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/29
+Flocc:Bysen Brūcend Box Spræc	Kategorie:Vorlage:Babel-Sprache
+Wikipǣdia:Gecorene gemynddagas/28 Ēastermōnaþ	Wikipedia:Hauptseite/Jahrestage/April/28
+Flocc:Hwæsingatūn	Kategorie:Washington
+Flocc:Wihta	Kategorie:Fabelwesen
+Wikipǣdia:Gecorene gemynddagas/30 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/30
+Wikipǣdia:Gecorene gemynddagas/22 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/22
+Wikipǣdia:Gecorene gemynddagas/31 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/31
+Wikipǣdia:Gecorene gemynddagas/23 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/23
+Wikipǣdia:Gecorene gemynddagas/17 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/17
+Wikipǣdia:Gecorene gemynddagas/30 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/30
+Wikipǣdia:Gecorene gemynddagas/9 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/9
+Wikipǣdia:Gecorene gemynddagas/8 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/8
+Bysen:Sortname	Vorlage:SortKeyName
+Flocc:Gebēd	Kategorie:Gebet
+Wikipǣdia:Gecorene gemynddagas/29 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/29
+Wikipǣdia:Gecorene gemynddagas/2 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/2
+Wikipǣdia:Gecorene gemynddagas/27 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/27
+Wikipǣdia:Gecorene gemynddagas/26 Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März/26
+Wikipǣdia:Gecorene gemynddagas/Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar
+Flocc:19e gēarhundred	Kategorie:19. Jahrhundert
+Flocc:Wrīteras	Kategorie:Autor
+Flocc:Eormengyld	Kategorie:Universität
+Bysen:Lang-cs	Vorlage:CsS
+Bysen:Lang-he	Vorlage:HeS
+Bysen:Infobox OS	Vorlage:Infobox Betriebssystem
+Bysen:Both	Vorlage:Booland
+Bysen:Brūcend pt-1	Vorlage:User pt-1
+Flocc:Æfterra Gēola	Kategorie:Januar
+Bysen:Lang-fa	Vorlage:FaS
+Bysen:Brūcend pl	Vorlage:User pl
+Bysen:Brūcend nl	Vorlage:User nl
+Wikipǣdia:Gecorene gemynddagas/12 Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober/12
+Bysen:Brūcend no-2	Vorlage:User no-2
+Wikipǣdia:Gecorene gemynddagas/11 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/11
+Bysen:Australia	Vorlage:Navigationsleiste Bundesstaaten und Territorien Australiens
+Wikipǣdia:Gecorene gemynddagas/5 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/5
+Wikipǣdia:Gecorene gemynddagas/11 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/11
+Wikipǣdia:Gecorene gemynddagas/3 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/3
+Wikipǣdia:Gecorene gemynddagas/24 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/24
+Bysen:Rtl-lang	Vorlage:Rtl-lang
+Bysen:Tlx	Vorlage:Vorlage
+Bysen:CAN	Vorlage:CAN
+Bysen:Lang-de	Vorlage:DeS
+Bysen:Lang-la	Vorlage:LaS
+Flocc:Wucu	Kategorie:Woche
+Bysen:Lang-af	Vorlage:AfS
+Wikipǣdia:Gecorene gemynddagas/Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember
+Bysen:Infobox Album	Vorlage:Infobox Musikalbum
+Bysen:User	Vorlage:Benutzer
+Wikipǣdia:Gecorene gemynddagas/16 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/16
+Wikipǣdia:Gecorene gemynddagas/9 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/9
+Wikipǣdia:Gecorene gemynddagas/7 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/7
+Wikipǣdia:Gecorene gemynddagas/19 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/19
+Wikipǣdia:Gecorene gemynddagas/13 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/13
+Wikipǣdia:Gecorene gemynddagas/12 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/12
+Wikipǣdia:Gecorene gemynddagas/2 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/2
+Wikipǣdia:Gecorene gemynddagas/7 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/7
+Wikipǣdia:Gecorene gemynddagas/4 Ēastermōnaþ	Wikipedia:Hauptseite/Jahrestage/April/4
+Wikipǣdia:Gecorene gemynddagas/22 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/22
+Wikipǣdia:Gecorene gemynddagas/4 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/4
+Wikipǣdia:Gecorene gemynddagas/19 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/19
+Wikipǣdia:Gecorene gemynddagas/18 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/18
+Wikipǣdia:Gecorene gemynddagas/4 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/4
+Wikipǣdia:Gecorene gemynddagas/2 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/2
+Wikipǣdia:Gecorene gemynddagas/21 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/21
+Wikipǣdia:Gecorene gemynddagas/20 Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli/20
+Wikipǣdia:Gecorene gemynddagas/18 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/18
+Wikipǣdia:Gecorene gemynddagas/24 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/24
+Wikipǣdia:Brōðra rǣdscēawung	Wikipedia:Review
+Flocc:Flyhthæfenan on Fietname	Kategorie:Flughafen in Vietnam
+Bysen:Brūcend pl-1	Vorlage:User pl-1
+Flocc:Gebed	Kategorie:Liturgisches Gebet
+Flocc:Cyningas of Englalande	Kategorie:Monarch (England)
+Bysen:Brūcend fr-3	Vorlage:User fr-3
+Bysen:Imdb name	Vorlage:IMDb Name
+Flocc:Tunisia	Kategorie:Tunesien
+Bysen:Wikispell	Vorlage:Wikinews
+Bysen:Brūcend lt	Vorlage:User lt
+Bysen:Cc-by-sa-2.0	Vorlage:Bild-CC-by-sa/2.0
+Bysen:Oppose	Vorlage:Kontra
+Bysen:Coord/link	Vorlage:CoordinateLINK
+Bysen:Infobox UK place	Vorlage:Infobox Ort im Vereinigten Königreich
+Bysen:Brūcend is-1	Vorlage:User is-1
+Bysen:Brūcend is-2	Vorlage:User is-2
+Bysen:Brūcend is	Vorlage:User is
+Bysen:Brūcend de-0	Vorlage:User de-0
+Bysen:Dagas þǣre wuce	Vorlage:Navigationsleiste Wochentage
+Flocc:Þēodisc burg	Kategorie:Ort in Deutschland
+Flocc:Norþ Carolīna	Kategorie:North Carolina
+Flocc:Puerto Rico	Kategorie:Puerto Rico
+Flocc:Byrig þāra Geāndena Rīca American	Kategorie:Ort in den Vereinigten Staaten
+Bysen:Lang-ru	Vorlage:RuS
+Bysen:Country data East Germany	Vorlage:Olympiabilanz
+Bysen:Browsebar	Vorlage:Index
+Flocc:Brittisca Here	Kategorie:British Army
+Bysen:Disambig	Vorlage:Begriffsklärung
+Bysen:Doi	Vorlage:DOI
+Flocc:Coreanisc stǣr	Kategorie:Koreanische Geschichte
+Bysen:Brūcend ksh	Vorlage:User ksh
+Bysen:Infobox Film	Vorlage:Infobox Film
+Bysen:Lang-en	Vorlage:EnS
+Bysen:Lang-id	Vorlage:IdS
+Bysen:Period end	Vorlage:Erdzeitalter:Ende
+Flocc:Byrig on Belgum	Kategorie:Ort in Belgien
+Bysen:Brūcend sv-2	Vorlage:User sv-2
+Bysen:Brūcend it-2	Vorlage:User it-2
+Bysen:Lang-fr	Vorlage:FrS
+Bysen:Betwuxwici	Vorlage:Wikipedia
+Flocc:Byrig in þǣm Niðerlandum	Kategorie:Ort in den Niederlanden
+Wikipǣdia:Gecorene gemynddagas/Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September
+Bysen:Coord	Vorlage:Coordinate
+Bysen:Brūcend pt-3	Vorlage:User pt-3
+Flocc:Byrig on Lincolnscīre	Kategorie:Ort in Lincolnshire
+Bysen:Brūcend pt-2	Vorlage:User pt-2
+Flocc:Wyoming	Kategorie:Wyoming
+Wikipǣdia:Gecorene gemynddagas/14 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/14
+Wikipǣdia:Gecorene gemynddagas/20 Sēremōnaþ	Wikipedia:Hauptseite/Jahrestage/Juni/20
+Wikipǣdia:Gecorene gemynddagas/22 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/22
+Wikipǣdia:Gecorene gemynddagas/9 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/9
+Wikipǣdia:Gecorene gemynddagas/13 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/13
+Wikipǣdia:Gecorene gemynddagas/1 Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar/1
+Wikipǣdia:Gecorene gemynddagas/14 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/14
+Wikipǣdia:Gecorene gemynddagas/6 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/6
+Bysen:Brūcend fr-4	Vorlage:User fr-4
+Flocc:Grēneland	Kategorie:Grönland
+Wikipǣdia:Gecorene gemynddagas/Winterfylleþ	Wikipedia:Hauptseite/Jahrestage/Oktober
+Bysen:Brūcend la-1	Vorlage:User la-1
+Bysen:Land on Europan	Vorlage:Navigationsleiste Staaten in Europa
+Flocc:User sk	Kategorie:User sk
+Flocc:Brūcend eo	Kategorie:User eo
+Flocc:Brūcend fr	Kategorie:User fr
+Flocc:Brūcend cy	Kategorie:User cy
+Flocc:Brūcend got	Kategorie:User got
+Flocc:Brūcend ang	Kategorie:User ang
+Flocc:Brūcend la	Kategorie:User la
+Flocc:Brūcend lt	Kategorie:User lt
+Flocc:Brūcend pt	Kategorie:User pt
+Flocc:Brūcend sv	Kategorie:User sv
+Flocc:Brūcend fr-3	Kategorie:User fr-3
+Flocc:Brūcend cy-3	Kategorie:User cy-3
+Flocc:Brūcend ang-3	Kategorie:User ang-3
+Flocc:Brūcend it-3	Kategorie:User it-3
+Flocc:Brūcend pl-3	Kategorie:User pl-3
+Flocc:Brūcend fi-1	Kategorie:User fi-1
+Flocc:Brūcend cy-1	Kategorie:User cy-1
+Flocc:Brūcend ang-1	Kategorie:User ang-1
+Flocc:Brūcend nl-1	Kategorie:User nl-1
+Flocc:Brūcend pl-1	Kategorie:User pl-1
+Flocc:Brūcend fr-4	Kategorie:User fr-4
+Flocc:Brūcend cy-4	Kategorie:User cy-4
+Flocc:Brūcend ang-4	Kategorie:User ang-4
+Flocc:Brūcend it-4	Kategorie:User it-4
+Flocc:Brūcend pl-4	Kategorie:User pl-4
+Flocc:Brūcend fr-2	Kategorie:User fr-2
+Flocc:Brūcend cy-2	Kategorie:User cy-2
+Flocc:Brūcend ang-2	Kategorie:User ang-2
+Flocc:Brūcend it-2	Kategorie:User it-2
+Flocc:Brūcend la-2	Kategorie:User la-2
+Flocc:Brūcend pl-2	Kategorie:User pl-2
+Flocc:Brūcend sv-2	Kategorie:User sv-2
+Flocc:Brūcend fr-M	Kategorie:User fr-M
+Flocc:Brūcend cy-M	Kategorie:User cy-M
+Flocc:Brūcend is-M	Kategorie:User is-M
+Flocc:Brūcend lt-N	Kategorie:User lt-M
+Flocc:Brūcend nl-M	Kategorie:User nl-M
+Flocc:Brūcend ru-M	Kategorie:User ru-M
+Flocc:Feormung	Kategorie:Unterhaltung
+Flocc:Hēafodstōlas þæs Sericus Gārsecges	Kategorie:Hauptstadt in Australien und Ozeanien
+Flocc:Law & Order	Kategorie:Law & Order
+Flocc:Turcas and Caicos Īegland	Kategorie:Turks- und Caicosinseln
+Bysen:Sūþhjaltland	Vorlage:Navigationsleiste Inseln der Südlichen Shetlandinseln
+Flocc:Byrig on Canadan	Kategorie:Ort in Kanada
+Flocc:Īega	Kategorie:Insel
+Flocc:Sericus Garsecg	Kategorie:Pazifischer Ozean
+Flocc:User sk-N	Kategorie:User sk-M
+Flocc:Brūcend de	Kategorie:User de
+Flocc:Brūcend de-2	Kategorie:User de-2
+Flocc:Brūcend de-3	Kategorie:User de-3
+Flocc:Brūcend de-4	Kategorie:User de-4
+Flocc:Brūcend el	Kategorie:User el
+Flocc:Brūcend el-1	Kategorie:User el-1
+Flocc:Brūcend el-2	Kategorie:User el-2
+Flocc:Brūcend el-3	Kategorie:User el-3
+Flocc:Brūcend el-4	Kategorie:User el-4
+Flocc:Brūcend el-N	Kategorie:User el-M
+Flocc:Sūþgeorgia and þā Sūþsandwic Īegland	Kategorie:Südgeorgien und die Südlichen Sandwichinseln
+Flocc:Brūcend en-3	Kategorie:User en-3
+Flocc:Brūcend en-5	Kategorie:User en-5
+Flocc:Brūcend en-M	Kategorie:User en-M
+Flocc:Brūcend eo-2	Kategorie:User eo-2
+Flocc:Brūcend es	Kategorie:User es
+Flocc:Brūcend es-1	Kategorie:User es-1
+Flocc:Brūcend es-2	Kategorie:User es-2
+Flocc:Puilla	Kategorie:Apulien
+Flocc:Brūcend es-3	Kategorie:User es-3
+Flocc:Brūcend es-4	Kategorie:User es-4
+Flocc:Brūcend es-N	Kategorie:User es-M
+Flocc:Brūcend fi	Kategorie:User fi
+Flocc:Brūcend fi-M	Kategorie:User fi-M
+Flocc:Brūcend fo	Kategorie:User fo
+Flocc:Brūcend fo-1	Kategorie:User fo-1
+Flocc:Brūcend fo-2	Kategorie:User fo-2
+Flocc:Brūcend fo-4	Kategorie:User fo-4
+Flocc:Brūcend fo-M	Kategorie:User fo-M
+Flocc:Brūcend is	Kategorie:User is
+Flocc:Brūcend is-1	Kategorie:User is-1
+Flocc:Brūcend is-2	Kategorie:User is-2
+Flocc:Brūcend is-3	Kategorie:User is-3
+Flocc:Brūcend is-4	Kategorie:User is-4
+Bysen:Brūcend la-3	Vorlage:User la-3
+Flocc:Frencisc Guiana	Kategorie:Französisch-Guayana
+Ǣht	Eigentum
+Flocc:Hebrēisc sprǣc	Kategorie:Hebräisch
+Flocc:Brūcend pt-3	Kategorie:User pt-3
+Flocc:Brūcend pl-N	Kategorie:User pl-M
+Flocc:Brūcend pt-1	Kategorie:User pt-1
+Wikipǣdia:Gecorene gemynddagas/17 Gēolmōnaþ	Wikipedia:Hauptseite/Jahrestage/Dezember/17
+Wikipǣdia:Gecorene gemynddagas/Mǣdmōnaþ	Wikipedia:Hauptseite/Jahrestage/Juli
+Bysen:Lang-be	Vorlage:BeS
+Wikipǣdia:Tutorial (Formatting)	Wikipedia:Tutorial/4
+Flocc:Brūcend it	Kategorie:User it
+Flocc:Brūcend it-1	Kategorie:User it-1
+Flocc:Rīcu þāra Geāndena Rīca American	Kategorie:Bundesstaat der Vereinigten Staaten
+Flocc:Brūcend ksh	Kategorie:User ksh
+Flocc:Brūcend la-1	Kategorie:User la-1
+Wikipǣdia:Gecorene gemynddagas/29 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/29
+Flocc:Brūcend la-3	Kategorie:User la-3
+Flocc:Brūcend la-4	Kategorie:User la-4
+Wikipǣdia:Gecorene gemynddagas/5 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/5
+Bysen:Cite doi	Vorlage:BibDOI
+Flocc:Pulgara cyningas	Kategorie:Monarch (Bulgarien)
+Flocc:Fȳrbeorgas	Kategorie:Vulkan
+Flocc:Dēorabyscīr	Kategorie:Derbyshire
+Flocc:Byrig on Latie	Kategorie:Ort im Latium
+Flocc:Feohtan	Kategorie:Kampfkunst
+Flocc:Blōtmōnaþ	Kategorie:November
+Wikipǣdia:Babel	Wikipedia:Babel
+Flocc:Byrig on Australie	Kategorie:Ort in Australien
+Flocc:Hāligmōnaþ	Kategorie:September
+Flocc:Winterfylleþ	Kategorie:Oktober
+Flocc:Sǣ	Kategorie:Meer
+Flocc:Gēolmōnaþ	Kategorie:Dezember
+Flocc:Wēodmōnaþ	Kategorie:August
+Flocc:Þrimilcemōnaþ	Kategorie:Mai
+Flocc:Brandenburg	Kategorie:Brandenburg
+Flocc:Englaland	Kategorie:England
+Wikipǣdia:Gecorene gemynddagas/22 Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November/22
+Flocc:Ēastermōnaþ	Kategorie:April
+Bysen:IPA2	Vorlage:IPA2
+Flocc:Līfnamrǣden	Kategorie:Taxonomie
+Bysen:Lang-it	Vorlage:ItS
+Flocc:Gestorfen in 988	Kategorie:Gestorben 988
+Flocc:Wæter	Kategorie:Wasser
+Flocc:Hēafod and swēor	Kategorie:Kopf
+Flocc:Geboren in 121	Kategorie:Geboren 121
+Wikipǣdia:MediaWiki namespace	Hilfe:MediaWiki-Namensraum
+Flocc:180	Kategorie:180
+Flocc:Gestorfen in 180	Kategorie:Gestorben 180
+Flocc:Drincas	Kategorie:Getränk
+Flocc:Gestorfen in 2005	Kategorie:Gestorben 2005
+Flocc:450	Kategorie:450
+Flocc:Geboren in 1974	Kategorie:Geboren 1974
+Flocc:Geboren in 1899	Kategorie:Geboren 1899
+Flocc:Oklahoma	Kategorie:Oklahoma
+Flocc:Geboren in 1954	Kategorie:Geboren 1954
+Flocc:850	Kategorie:850
+Flocc:Geboren in 850	Kategorie:Geboren 850
+Flocc:Hwītrussland	Kategorie:Weißrussland
+Flocc:Alberta	Kategorie:Alberta
+Flocc:Ontario	Kategorie:Ontario
+Flocc:Nīwe Scotland	Kategorie:Nova Scotia
+Flocc:899	Kategorie:899
+Flocc:Gestorfen in 899	Kategorie:Gestorben 899
+Flocc:Geocon Landscipe	Kategorie:Yukon
+Flocc:Massachusetts	Kategorie:Massachusetts
+Flocc:924	Kategorie:924
+Flocc:Gestorfen in 924	Kategorie:Gestorben 924
+Flocc:Land on Affrice	Kategorie:Staat in Afrika
+Bysen:Canadan underrīce	Vorlage:Navigationsleiste Provinzen und Territorien Kanadas
+Flocc:Geboren in 1239	Kategorie:Geboren 1239
+Flocc:1249	Kategorie:1249
+Flocc:1289	Kategorie:1289
+Flocc:1305	Kategorie:1305
+Flocc:Gestorfen in 1305	Kategorie:Gestorben 1305
+Flocc:1307	Kategorie:1307
+Wikipǣdia:Gecorene gemynddagas/Blōtmōnaþ	Wikipedia:Hauptseite/Jahrestage/November
+Bysen:Brūcend pt-4	Vorlage:User pt-4
+Bysen:Brūcend es-3	Vorlage:User es-3
+Flocc:Ēa Franclandes	Kategorie:Fluss in Frankreich
+Flocc:Brūcend pt-2	Kategorie:User pt-2
+Flocc:Brūcend pt-4	Kategorie:User pt-4
+Flocc:Brūcend pt-N	Kategorie:User pt-M
+Flocc:Brūcend ru	Kategorie:User ru
+Flocc:Brūcend sv-M	Kategorie:User sv-M
+Flocc:1634	Kategorie:1634
+Flocc:1638	Kategorie:1638
+Flocc:1719	Kategorie:1719
+Flocc:Gestorfen in 1719	Kategorie:Gestorben 1719
+Flocc:121	Kategorie:121
+Bysen:Lang	Vorlage:Lang
+Wikipǣdia:Gecorene gemynddagas/21 Hāligmōnaþ	Wikipedia:Hauptseite/Jahrestage/September/21
+Bysen:Next period	Vorlage:Erdzeitalter:Nächstes
+Flocc:Trēowu	Kategorie:Baum
+Bysen:Infobox ea	Vorlage:Infobox Fluss
+Flocc:Geboren in 1634	Kategorie:Geboren 1634
+Flocc:Geboren in 1638	Kategorie:Geboren 1638
+Flocc:Geboren in 1852	Kategorie:Geboren 1852
+Flocc:Geboren in 1892	Kategorie:Geboren 1892
+Flocc:Geboren in 1918	Kategorie:Geboren 1918
+Flocc:Geboren in 1945	Kategorie:Geboren 1945
+Flocc:Geboren in 1949	Kategorie:Geboren 1949
+Flocc:Geboren in 1981	Kategorie:Geboren 1981
+Flocc:Geboren in 1993	Kategorie:Geboren 1993
+Flocc:1715	Kategorie:1715
+Wikipǣdia:Gecorene gemynddagas/Ēastermōnaþ	Wikipedia:Hauptseite/Jahrestage/April
+Bysen:Period color	Vorlage:Erdzeitalter:Farbe
+Flocc:11e gēarhundred	Kategorie:11. Jahrhundert
+Flocc:988	Kategorie:988
+Flocc:10e gēarhundred	Kategorie:10. Jahrhundert
+Flocc:7e gēarhundred	Kategorie:7. Jahrhundert
+Flocc:1239	Kategorie:1239
+Flocc:Gestorfen in 1307	Kategorie:Gestorben 1307
+Flocc:Corsica	Kategorie:Korsika
+Flocc:Gestorfen in 1715	Kategorie:Gestorben 1715
+Flocc:Sardinia	Kategorie:Sardinien
+Bysen:Lang-hi	Vorlage:HiS
+Flocc:Florida	Kategorie:Florida
+Flocc:Francena caseras	Kategorie:Kaiser (Frankreich)
+Flocc:Nevada	Kategorie:Nevada
+Flocc:Nebraska	Kategorie:Nebraska
+Flocc:Norþ Dakota	Kategorie:North Dakota
+Flocc:Nīwe Eoforwīc	Kategorie:New York
+Flocc:Rhode Īeg	Kategorie:Rhode Island
+Flocc:Louisiāna	Kategorie:Louisiana
+Flocc:Marianland	Kategorie:Maryland
+Flocc:Maine	Kategorie:Maine
+Flocc:Minnesota	Kategorie:Minnesota
+Flocc:Michigan	Kategorie:Michigan
+Flocc:Mississippi	Kategorie:Mississippi
+Flocc:Missouri	Kategorie:Missouri
+Flocc:Vermont	Kategorie:Vermont
+Flocc:Virginia	Kategorie:Virginia
+Flocc:Idaho	Kategorie:Idaho
+Flocc:Iowa	Kategorie:Iowa
+Flocc:Arkansas	Kategorie:Arkansas
+Flocc:Alaska	Kategorie:Alaska
+Flocc:Arizona	Kategorie:Arizona
+Flocc:Alabama	Kategorie:Alabama
+Flocc:Ohio	Kategorie:Ohio
+Flocc:Westvirginia	Kategorie:West Virginia
+Flocc:Wisconsin	Kategorie:Wisconsin
+Flocc:Indiāna	Kategorie:Indiana
+Flocc:Illinois	Kategorie:Illinois
+Flocc:Kansas	Kategorie:Kansas
+Flocc:California	Kategorie:Kalifornien
+Flocc:Kentucky	Kategorie:Kentucky
+Flocc:Connecticut	Kategorie:Connecticut
+Flocc:Colorado	Kategorie:Colorado
+Flocc:Texas	Kategorie:Texas
+Flocc:Hawaii	Kategorie:Hawaii
+Bysen:Fs end	Vorlage:Football squad end
+Flocc:Ōðru Woruldgūþ	Kategorie:Zweiter Weltkrieg
+Flocc:Nīwes Sǣlandes byrig	Kategorie:Ort in Neuseeland
+Flocc:Hundas	Kategorie:Haushund
+Flocc:Cattas	Kategorie:Katzen
+Wikipǣdia:Gecorene gemynddagas/16 Solmōnaþ	Wikipedia:Hauptseite/Jahrestage/Februar/16
+Wikipǣdia:Gecorene gemynddagas/25 Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August/25
+Flocc:1066	Kategorie:1066
+Flocc:Gestorfen in 1066	Kategorie:Gestorben 1066
+Flocc:Angola	Kategorie:Angola
+Flocc:Botswana	Kategorie:Botswana
+Flocc:Elpendbānrima	Kategorie:Elfenbeinküste
+Flocc:Æriþrea	Kategorie:Eritrea
+Flocc:Gabon	Kategorie:Gabun
+Flocc:Gambia	Kategorie:Gambia
+Flocc:Guinea	Kategorie:Guinea
+Flocc:Camerun	Kategorie:Kamerun
+Flocc:Grēnenæs Īega	Kategorie:Kap Verde
+Flocc:Cenia	Kategorie:Kenia
+Flocc:Liberia	Kategorie:Liberia
+Flocc:Libia	Kategorie:Libyen
+Flocc:Morocco	Kategorie:Marokko
+Flocc:Mauritania	Kategorie:Mauretanien
+Flocc:1451	Kategorie:1451
+Flocc:Namibia	Kategorie:Namibia
+Flocc:Caribisc Sǣ	Kategorie:Karibisches Meer
+Flocc:Delaware	Kategorie:Delaware
+Flocc:Georgia (America)	Kategorie:Georgia
+Flocc:Montāna	Kategorie:Montana
+Bysen:Merge	Vorlage:Redundanz
+Flocc:Tennessee	Kategorie:Tennessee
+Bysen:Sūðamerica	Vorlage:Navigationsleiste Staaten in Südamerika
+Flocc:Baden-Wyrttemberg	Kategorie:Baden-Württemberg
+Flocc:1852	Kategorie:1852
+Flocc:1892	Kategorie:1892
+Flocc:Gestorfen in 1926	Kategorie:Gestorben 1926
+Flocc:1973	Kategorie:1973
+Flocc:Gestorfen in 1973	Kategorie:Gestorben 1973
+Flocc:1975	Kategorie:1975
+Flocc:1981	Kategorie:1981
+Flocc:Gestorfen in 1982	Kategorie:Gestorben 1982
+Flocc:2004	Kategorie:2004
+Flocc:Gestorfen in 2004	Kategorie:Gestorben 2004
+Flocc:2005	Kategorie:2005
+Flocc:2006	Kategorie:2006
+Flocc:2007	Kategorie:2007
+Flocc:2008	Kategorie:2008
+Flocc:Ēa	Kategorie:Fluss
+Bysen:Brūcend el-2	Vorlage:User el-2
+Bysen:Brūcend fo-1	Vorlage:User fo-1
+Bysen:Brūcend fo-3	Vorlage:User fo-3
+Bysen:Brūcend la-2	Vorlage:User la-2
+Bysen:Brūcend no-1	Vorlage:User no-1
+Bysen:Brūcend pl-2	Vorlage:User pl-2
+Bysen:Brūcend pt	Vorlage:User pt
+Flocc:Sūþsudan	Kategorie:Südsudan
+Flocc:Cead	Kategorie:Tschad
+Flocc:Uganda	Kategorie:Uganda
+Flocc:Rōmānisce Cāseras	Kategorie:Kaiser (Rom)
+Flocc:Brūcend nl	Kategorie:User nl
+Flocc:Sūþhjaltland	Kategorie:Südliche Shetlandinseln
+Flocc:Brūcend no-1	Kategorie:User no-1
+Flocc:Brūcend no-2	Kategorie:User no-2
+Flocc:Brūcend no	Kategorie:User no
+Flocc:Niðerlanda Cyningas	Kategorie:König (Niederlande)
+Flocc:Norrena cyningas	Kategorie:König (Norwegen)
+Flocc:Swēona cyningas	Kategorie:König (Schweden)
+Flocc:Armenia	Kategorie:Armenien
+Flocc:Bahrain	Kategorie:Bahrain
+Flocc:Feorrsīen	Kategorie:Fernsehen
+Flocc:Angelcirice	Kategorie:Church of England
+Flocc:14e gēarhundred	Kategorie:14. Jahrhundert
+Flocc:13e gēarhundred	Kategorie:13. Jahrhundert
+Flocc:2e gēarhundred	Kategorie:2. Jahrhundert
+Flocc:4e gēarhundred	Kategorie:4. Jahrhundert
+Flocc:5e gēarhundred	Kategorie:5. Jahrhundert
+Flocc:18e gēarhundred	Kategorie:18. Jahrhundert
+Flocc:6e gēarhundred	Kategorie:6. Jahrhundert
+Flocc:Arabea	Kategorie:Arabien
+Flocc:Seaxland-Anhalt	Kategorie:Sachsen-Anhalt
+Flocc:Niðerseaxland	Kategorie:Niedersachsen
+Flocc:Russe	Kategorie:Russe
+Flocc:Unƿǣre lēode	Kategorie:Fiktive Person
+Flocc:Bægwaraland	Kategorie:Bayern
+Flocc:Superman	Kategorie:Superman
+Flocc:Ēage	Kategorie:Auge
+Flocc:Corn	Kategorie:Getreide
+Flocc:Nīweoforwīcburg	Kategorie:New York City
+Flocc:Norþfolc	Kategorie:Norfolk
+Flocc:Norþhāmtūnescīr	Kategorie:Northamptonshire
+Flocc:NBC	Kategorie:National Broadcasting Company
+Flocc:Gamen	Kategorie:Urlaub und Erholung
+Flocc:Snotingahāmscīr	Kategorie:Nottinghamshire
+Flocc:15e gēarhundred	Kategorie:15. Jahrhundert
+Flocc:Georgia (land)	Kategorie:Georgien
+Flocc:Cambodia	Kategorie:Kambodscha
+Flocc:Stǣr þæs Cynerices Greatbryttenes	Kategorie:Britische Geschichte
+Flocc:Iamaica	Kategorie:Jamaika
+Bysen:Lang-hy	Vorlage:HyS
+Flocc:Scotta cyningas	Kategorie:König (Schottland)
+Flocc:Bryttiscan Fæmne Īegland	Kategorie:Britische Jungferninseln
+Flocc:Corēa	Kategorie:Korea
+Flocc:Burma	Kategorie:Myanmar
+Flocc:Taprabane	Kategorie:Sri Lanka
+Flocc:Tacgicastan	Kategorie:Tadschikistan
+Flocc:Ēasttimor	Kategorie:Osttimor
+Flocc:Turcmenistan	Kategorie:Turkmenistan
+Flocc:Usbecastan	Kategorie:Usbekistan
+Flocc:Geānedan Arabiscan Bregorīce	Kategorie:Vereinigte Arabische Emirate
+Flocc:9e gēarhundred	Kategorie:9. Jahrhundert
+Flocc:Sofiet Gesamnung	Kategorie:Sowjetunion
+Bysen:Bēc þǣre Ealdan Gecȳþnesse	Vorlage:Linkbox Altes Testament
+Wikipǣdia:Sēðung þurfed	Wikipedia:Citation needed
+Bysen:Brūcend de-4	Vorlage:User de-4
+Flocc:Wēalas	Kategorie:Wales
+Flocc:Foresittendas þāra Geāndena Rīca American	Kategorie:Präsident der Vereinigten Staaten
+Flocc:Europisc stǣr	Kategorie:Europäische Geschichte
+Flocc:Hascemisce Cynerīce þæs Iordanes	Kategorie:Jordanien
+Flocc:Bosnia and Herzegovina	Kategorie:Bosnien und Herzegowina
+Flocc:Norþweg	Kategorie:Norwegen
+Flocc:Barbados	Kategorie:Barbados
+Flocc:Paraguay	Kategorie:Paraguay
+Flocc:Ficgiege	Kategorie:Fidschi
+Flocc:Lēohtenstān	Kategorie:Liechtenstein
+Flocc:Uruguay	Kategorie:Uruguay
+Flocc:Andorra	Kategorie:Andorra
+Flocc:Serbia	Kategorie:Serbien
+Flocc:Ecuador	Kategorie:Ecuador
+Flocc:Peru	Kategorie:Peru
+Flocc:Bolifia	Kategorie:Bolivien
+Flocc:Albania	Kategorie:Albanien
+Flocc:Monaco	Kategorie:Monaco
+Flocc:Land on Norðamerican	Kategorie:Staat in Nordamerika
+Flocc:Mūþ	Kategorie:Mund
+Flocc:Wyrta	Kategorie:Gemüse
+Flocc:Ofet	Kategorie:Obst
+Flocc:Nīwu Gecȳþnes	Kategorie:Neues Testament
+Flocc:Musea	Kategorie:Museum
+Flocc:Rímcræft	Kategorie:Mathematische Funktion
+Flocc:Landscipas Swēolandes	Kategorie:Verwaltungsprovinz (Schweden)
+Flocc:Stǣrlice Sprǣccræft	Kategorie:Historische Linguistik
+Flocc:Dūnholmscīr	Kategorie:County Durham
+Flocc:Manga	Kategorie:Manga
+Flocc:Oferhæleðas	Kategorie:Superheld
+Flocc:Calpis	Kategorie:Gibraltar
+Flocc:Beadwe	Kategorie:Schlacht
+Flocc:Weorcendebyrdnessa	Kategorie:Betriebssystem
+Flocc:Mexicorīce	Kategorie:Mexikanischer Bundesstaat
+Flocc:Hidalgo Rīce	Kategorie:Hidalgo (Bundesstaat)
+Flocc:Hetwaraland	Kategorie:Hessen
+Flocc:Canadan underrīce and landscipas	Kategorie:Kanada nach Provinz oder Territorium
+Flocc:Lunden	Kategorie:London
+Flocc:Lincolnscīr	Kategorie:Lincolnshire
+Flocc:Hēafodstōlas in American	Kategorie:Ort in Amerika
+Bysen:Incubator	Vorlage:Incubator
+Flocc:Dæg þæs gēares	Kategorie:Tag
+Flocc:Wikimedian geweorc	Kategorie:Wikimedia
+Flocc:Byrig on Buccingahamscīre	Kategorie:Ort in Buckinghamshire
+Flocc:Help	Kategorie:Hilfe:
+Flocc:Wiltūnscīr	Kategorie:Wiltshire (Unitary Authority)
+Flocc:Wigreceastrescīr	Kategorie:Worcestershire
+Flocc:Americanisce Ingefeoht	Kategorie:Sezessionskrieg
+Flocc:Byrig on Tuscanie	Kategorie:Ort in der Toskana
+Flocc:Wyrt	Kategorie:Gewürzpflanze
+Flocc:Dēor	Kategorie:Vielzellige Tiere
+Flocc:Hweorfdēor	Kategorie:Wirbeltiere
+Flocc:Pitcearnīega	Kategorie:Pitcairninseln
+Flocc:Cægman Īegland	Kategorie:Cayman Islands
+Flocc:Folcland Īegland	Kategorie:Falklandinseln
+Flocc:Land on Sūðamerican	Kategorie:Staat in Südamerika
+Flocc:Colombia	Kategorie:Kolumbien
+Flocc:Anime	Kategorie:Anime
+Flocc:Oxnafordscīr	Kategorie:Oxfordshire
+Flocc:Hociȝ	Kategorie:Hockeysport
+Flocc:Heortfordscīr	Kategorie:Hertfordshire
+Flocc:Sicilia	Kategorie:Sizilien
+Flocc:Grantabrycgscīr	Kategorie:Cambridgeshire
+Flocc:Þēodacynewīse	Kategorie:Commonwealth of Nations
+Flocc:Līþ	Kategorie:Alkoholhaltiges Getränk
+Flocc:Spearctellas	Kategorie:Spielkonsole
+Flocc:Englisc scīr	Kategorie:Englische Grafschaft
+Flocc:Æþelingas	Kategorie:Prinz
+Flocc:Sūþrige	Kategorie:Surrey
+Flocc:Defenascīr	Kategorie:Devon
+Flocc:Rōmāniscu Folclār	Kategorie:Römische Mythologie
+Flocc:Bēor	Kategorie:Bier
+Flocc:Sang	Kategorie:Lied
+Flocc:Eormengyld byrig	Kategorie:Hochschul- oder Universitätsstadt
+Flocc:Hēafodstōlas	Kategorie:Hauptstadt
+Flocc:Byrig on Paraguay	Kategorie:Ort in Paraguay
+Flocc:Ēastseaxe	Kategorie:Essex
+Flocc:Middelasia	Kategorie:Zentralasien
+Flocc:Indisca Underworulddǣl	Kategorie:Südasien
+Flocc:NFL	Kategorie:National Football League
+Flocc:Tuscania	Kategorie:Toskana
+Flocc:Latium	Kategorie:Latium
+Flocc:Lonceasterscīr	Kategorie:Lancashire
+Flocc:Hāmtūnescīr	Kategorie:Hampshire
+Flocc:Brūcend pl	Kategorie:User pl
+Flocc:Gleawcesterscīr	Kategorie:Gloucestershire
+Flocc:Rōmānisca sprǣca	Kategorie:Romanische Sprachen
+Flocc:Fōr	Kategorie:Verkehrswesen
+Flocc:Sund	Kategorie:Schwimmsport
+Flocc:Hēapplegan	Kategorie:Mannschaftssport
+Flocc:Toys	Kategorie:Spielzeug
+Flocc:Hīwscipe	Kategorie:Familie
+Flocc:Cornweall	Kategorie:Cornwall
+Flocc:Cīna Caseras	Kategorie:Kaiser (China)
+Flocc:Antarctica	Kategorie:Antarktika
+Flocc:Norðamerica	Kategorie:Nordamerika
+Flocc:Sangestre	Kategorie:Sänger
+Flocc:Euxinus	Kategorie:Schwarzes Meer
+Flocc:Meras	Kategorie:See
+Flocc:Sweartbeorg	Kategorie:Montenegro
+Flocc:Indisc Gārsecg	Kategorie:Indischer Ozean
+Flocc:Wægnas	Kategorie:Automobil
+Bysen:Brūcend af-2	Vorlage:User af-2
+Wealhmoru	Karotte
+Flocc:Byrig on Francum	Kategorie:Ort in Frankreich
+Flocc:Cent	Kategorie:Kent
+Flocc:Byrig on Fietname	Kategorie:Ort in Vietnam
+Flocc:Byrig on þǣm Ucrægnan	Kategorie:Ort in der Ukraine
+Flocc:Beorgas on Brettum	Kategorie:Berg im Vereinigten Königreich
+Flocc:Scotland	Kategorie:Schottland
+Flocc:Hēafodstōlas in Europe	Kategorie:Hauptstadt in Europa
+Flocc:Hēafodstōlas in Asie	Kategorie:Hauptstadt in Asien
+Flocc:Norðerne Īrland	Kategorie:Nordirland
+Flocc:Nīwesǣlendisc bōccræft	Kategorie:Neuseeländische Literatur
+Bysen:CompactTOC	Vorlage:TOC
+Flocc:Geāsparedu līc	Kategorie:Mumie
+Flocc:Wendelsǣ	Kategorie:Mittelmeerraum
+Flocc:Byrig on Finnum	Kategorie:Ort in Finnland
+Flocc:Byrig on Cile	Kategorie:Ort in Chile
+Flocc:Wikipedia tutorial	Kategorie:Wikipedia:Tutorial
+Flocc:World Trade Center	Kategorie:World Trade Center
+Flocc:Loidis	Kategorie:Leeds
+Flocc:Australisc Hēafodburg Landscipe	Kategorie:Australian Capital Territory
+Flocc:Angleseg	Kategorie:Anglesey
+Bysen:Lang-pl	Vorlage:PlS
+Bysen:Brūcend pl-3	Vorlage:User pl-3
+Bysen:Brūcend pl-4	Vorlage:User pl-4
+Flocc:Flæmingaland	Kategorie:Flandern
+The Narrative	The Narrative
+Flocc:Ēastengla cyningas	Kategorie:König (East Anglia)
+Flocc:Miercna cyningas	Kategorie:König (Mercia)
+Flocc:Norþhymbra cyningas	Kategorie:König (Northumbria)
+Flocc:Westseaxna cyningas	Kategorie:König (Wessex)
+Trojany (Masovian Voivodship)	Trojany (Woiwodschaft Masowien)
+Flocc:Willelm Shakespeare	Kategorie:William Shakespeare
+Flocc:Byrig þāra Faroiscan Īegena	Kategorie:Ort auf den Färöern
+Flocc:Sigelhearwena Cāseras	Kategorie:Kaiser (Äthiopien)
+Flocc:Land on Asie	Kategorie:Staat in Asien
+Flocc:Windows gamen	Kategorie:Windows-Spiel
+Bysen:Landskap	Vorlage:Navigationsleiste Landschaften Schwedens
+Flocc:Wicibōceras in þǣm Geānlǣhtum Rīcum American	Kategorie:Benutzer:aus den Vereinigten Staaten
+Bysen:Nigerie Rīce	Vorlage:Navigationsleiste Verwaltungsgliederung Nigerias
+Bysen:Brūcend la-4	Vorlage:User la-4
+Bysen:Brūcend it-4	Vorlage:User it-4
+Bysen:Brūcend is-4	Vorlage:User is-4
+Bysen:Brūcend is-3	Vorlage:User is-3
+Bysen:Brūcend fo-2	Vorlage:User fo-2
+Bysen:Brūcend fo	Vorlage:User fo
+Bysen:Brūcend el-4	Vorlage:User el-4
+Bysen:Brūcend el-3	Vorlage:User el-3
+Bysen:Brūcend cy-3	Vorlage:User cy-3
+Bysen:Brūcend cy-2	Vorlage:User cy-2
+Bysen:Brūcend cy-1	Vorlage:User cy-1
+Bysen:Brūcend cy	Vorlage:User cy
+Bysen:Lang-ti	Vorlage:TiS
+Bysen:Lang-sq	Vorlage:SqS
+Bysen:Lang-ro	Vorlage:RoS
+Bysen:Lang-es	Vorlage:EsS
+Bysen:Lang-cy	Vorlage:CyS
+Bysen:Lang-bn	Vorlage:BnS
+Flocc:Westmidlandscīr	Kategorie:West Midlands (Metropolitan County)
+Flocc:West Loðene	Kategorie:West Lothian
+Flocc:Wæringscīr	Kategorie:Warwickshire
+Flocc:Wīcinga Ieldu	Kategorie:Wikingerzeit
+Wikipǣdia:Gecorene gemynddagas/Wēodmōnaþ	Wikipedia:Hauptseite/Jahrestage/August
+Flocc:Seolh	Kategorie:Robben
+Flocc:Engla cyningas	Kategorie:Angelsächsischer König
+Flocc:Quebec	Kategorie:Québec
+Flocc:Ostsǣ	Kategorie:Ostsee
+Flocc:Dēaþstīele glīwdrēame clīwene	Kategorie:Death-Metal-Band
+Flocc:Clackmannanscīr	Kategorie:Clackmannanshire
+Flocc:Gūþ	Kategorie:Krieg
+Flocc:Ēast Loðene	Kategorie:East Lothian
+Flocc:Elisabeþ II	Kategorie:Elisabeth II.
+Flocc:Fermanagh	Kategorie:County Fermanagh
+Flocc:Tirowen	Kategorie:County Tyrone
+Flocc:Fif Scīr	Kategorie:Fife (Schottland)
+Flocc:Lēoðlic scātung	Kategorie:Eiskunstlauf
+Bysen:Lang-zh	Vorlage:ZhS
+Bysen:Lang-mn	Vorlage:MnS
+Bysen:Lang-sv	Vorlage:SvS
+Flocc:Frencisc Polynesia	Kategorie:Französisch-Polynesien
+Flocc:Germanisca sprǣca	Kategorie:Germanische Sprachen
+Flocc:Herefordscīr	Kategorie:Herefordshire
+Flocc:Rōmānisc stǣr	Kategorie:Geschichte Roms
+Flocc:Īshocig	Kategorie:Eishockey
+Wikipǣdia:Edit conflicts	Hilfe:Bearbeitungskonflikt
+Flocc:Īrland	Kategorie:Irland (Insel)
+Flocc:Constantinopolis	Kategorie:Istanbul
+Wikipǣdia:Page history	Hilfe:Versionen
+Flocc:Kwara Rīce	Kategorie:Kwara
+Flocc:Mintan	Kategorie:Lamiaceae
+Flocc:Lægreceastrescīr	Kategorie:Leicestershire
+Flocc:Langbeardnaland	Kategorie:Lombardei
+Wikipǣdia:Snellbred	Hilfe:Bearbeitungshilfe
+Wikipǣdia:Sundortácnu	Hilfe:Sonderzeichen
+Flocc:Midloðene	Kategorie:Midlothian
+Flocc:Rōwrenoc on Virginie	Kategorie:Roanoke (Virginia)
+Flocc:Rōm	Kategorie:Rom
+Flocc:Norþhymbraland	Kategorie:Northumberland
+Flocc:Rūncræft	Kategorie:Rune
+Flocc:Roteland	Kategorie:Rutland
+Flocc:Sancte Elene Īeg, Upstigeīeg and Tristan da Cunha	Kategorie:St. Helena, Ascension und Tristan da Cunha
+Flocc:Hjaltland	Kategorie:Shetlandinseln
+Flocc:Scipu	Kategorie:Schiff
+Flocc:Scrobbesbyrigscīr	Kategorie:Shropshire (Unitary Authority)
+Flocc:Napoleon I Francena Casere	Kategorie:Napoléon Bonaparte
+Flocc:NHL	Kategorie:National Hockey League
+Flocc:Byrig on Nīwum Hāmtūnscīre	Kategorie:Ort in New Hampshire
+Flocc:Byrig on Dūnholmscīre	Kategorie:Ort in County Durham
+Flocc:Byrig on Dēorabyscīre	Kategorie:Ort in Derbyshire
+Flocc:Byrig on Lonceasterscīre	Kategorie:Ort in Lancashire
+Flocc:Americanisc fōtball	Kategorie:American Football
+Flocc:Stæffordscīr	Kategorie:Staffordshire
+Flocc:Bermuda	Kategorie:Bermuda
+Flocc:Bearrucscīr	Kategorie:Berkshire
+Flocc:Norþgermanisca sprǣca	Kategorie:Skandinavische Sprachen
+Flocc:São Paulo	Kategorie:São Paulo
+Flocc:Ucrægnisc sprǣc	Kategorie:Ukrainische Sprache
+Flocc:Byrig on Grantabrycgscīre	Kategorie:Ort in Cambridgeshire
+Flocc:Byrig on Cornweallum	Kategorie:Ort in Cornwall
+Flocc:Byrig on Cent	Kategorie:Ort in Kent
+Flocc:Byrig on Midloðene	Kategorie:Ort in Midlothian
+Flocc:Byrig on Oxnafordscīre	Kategorie:Ort in Oxfordshire
+Flocc:Byrig on Westmidlandscīre	Kategorie:Ort in West Midlands (Metropolitan County)
+Flocc:Dȳfung	Kategorie:Tauchen
+Flocc:Byrig on Stæffordscīre	Kategorie:Ort in Staffordshire
+Flocc:Ardmachusscīr	Kategorie:County Armagh
+Flocc:Byrig on Wigreceastrescīre	Kategorie:Ort in Worcestershire
+Flocc:Byrig on Wæringscīre	Kategorie:Ort in Warwickshire
+Flocc:Wichlawscīr	Kategorie:County Wicklow
+Flocc:Nīwre Gecȳþnesse bōc	Kategorie:Buch des Neuen Testaments
+Flocc:Antrimscīr	Kategorie:County Antrim
+Flocc:Mageoscīr	Kategorie:County Mayo
+Flocc:Celtisc sprǣc	Kategorie:Keltische Sprachen
+Flocc:Fōtþōðer	Kategorie:Football
+Flocc:Bryttisce Scīre	Kategorie:Grafschaft im Vereinigten Königreich
+Flocc:Landscipas Denemearce	Kategorie:Halbinsel (Dänemark)
+Flocc:Wendelsǣs īega	Kategorie:Insel (Mittelmeer)
+Flocc:Orcanege	Kategorie:Orkneyinseln
+Flocc:Byrig on Brasile	Kategorie:Ort in Brasilien
+Flocc:Byrig on Ēastseaxum	Kategorie:Ort in East Sussex
+Flocc:Byrig on Polum	Kategorie:Ort in Polen
+Flocc:Sealterland	Kategorie:Saterland
+Flocc:Brūcend fo-3	Kategorie:User fo-3
+Flocc:Lēode ȝehered in Ƿælhealle Heriȝe	Kategorie:Walhalla
+Flocc:Bretta Æþelingas	Kategorie:Prinz (Vereinigtes Königreich)
+Flocc:Personal life	Kategorie:Alltagskultur
+Bysen:Year in other calendars	Vorlage:Linkbox Andere Kalender
+Flocc:Brūcend en-1	Kategorie:User en-1
+Flocc:Geboren in 1946	Kategorie:Geboren 1946
+Flocc:Brūcend de-1	Kategorie:User de-1
+Flocc:Geboren in 1920	Kategorie:Geboren 1920
+Flocc:Germanisc mægþ	Kategorie:Germanen
+Flocc:Īrisce Scīre	Kategorie:Grafschaft in Irland
+Universidade Fundação Mineira de Educação e Cultura	Universidade Fundação Mineira de Educação e Cultura
+Bysen:Bo	Vorlage:Bo
+Bysen:Kylie Minogue	Vorlage:Navigationsleiste Kylie Minogue
+Wikipǣdia:Gecorene gemynddagas/Sēremōnaþ	Wikipedia:Hauptseite/Jahrestage/Juni
+Wikipǣdia:Gecorene gemynddagas/Æfterra Gēola	Wikipedia:Hauptseite/Jahrestage/Januar
+Wikipǣdia:Gecorene gemynddagas/Hrēþmōnaþ	Wikipedia:Hauptseite/Jahrestage/März
+Wikipǣdia:Gecorene gemynddagas/Þrimilcemōnaþ	Wikipedia:Hauptseite/Jahrestage/Mai
+Wikipǣdia:Tutorial (Talk pages)	Wikipedia:Tutorial/5
+Wikipǣdia:Tutorial (Related site links)	Wikipedia:Tutorial/1
+Bysen:Gerīmbōc gēaresdaga	Vorlage:Kalender Jahrestage
+Bysen:Portas	Vorlage:Alle Portale
+Wikipǣdia:New User Welcome	Wikipedia:Begrüßung
+Wikipǣdia:10 þing þe þu nāst ymbe Wicipǣdian	Wikipedia:Zehn Dinge über Wikipedia, die du vielleicht noch nicht weißt
+Bysen:Brūcend ang-2	Vorlage:User ang-2
+Bysen:Brūcend ang-1	Vorlage:User ang-1
+Bysen:Brūcend ang-3	Vorlage:User ang-3
+Bysen:Brūcend cy-4	Vorlage:User cy-4
+Bysen:SGSSI	Vorlage:Navigationsleiste Inseln von Südgeorgien und den Südlichen Sandwichinseln
+Bysen:Brūcend fo-4	Vorlage:User fo-4
+Wikipǣdia:Tutorial (Wrap-up and more info)	Wikipedia:Tutorial/6
+Bysen:Lang-sco	Vorlage:ScoS
+Bysen:Monat Name-Zahl	Vorlage:Monat Name-Zahl
+Wikipǣdia:Ádihtoðes FAQ	Hilfe:FAQ zum Bearbeiten
+Swǣfe	Schwaben
+Wikipǣdia:Protection log	Wikipedia:Löschkandidaten/Archiv:Seitenschutz-Logbuch
+Wikipǣdia:Block log	Wikipedia:Löschkandidaten/Archiv:Benutzerblockaden-Logbuch
+Wikipǣdia:Deletion log	Wikipedia:Löschkandidaten/Archiv:Lösch-Logbuch
+Hindberge	Himbeere
+Læsse Asia	Kleinasien
+Wikipǣdia:Upload log	Wikipedia:Löschkandidaten/Archiv:Datei-Logbuch
+Bysen:Imdb	Vorlage:IMDb
+Lorde	Lorde
+Georgius Grantanbrycge Æþeling	George of Cambridge
+Woruldhandelstede	Liste der World Trade Center
+Yun Hyon-seok	Yun Hyon-seok
+Broods	Broods
+Syndrig:RecentChanges	Spezial:Letzte Änderungen
+Flocc:Byrig on Langbeardum	Kategorie:Ort in der Lombardei
+Flocc:Gestorfen in 1975	Kategorie:Gestorben 1975
+Tæfl	Hnefatafl
+Bysen:Sūþorcanege	Vorlage:Navigationsleiste Inseln der Südlichen Orkneyinseln

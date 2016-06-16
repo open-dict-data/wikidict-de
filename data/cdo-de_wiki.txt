@@ -1,0 +1,2435 @@
+Hĭ-ciŭ	Afrika
+Nĭk-buōng	Japan
+Nàng Mī-ciŭ	Südamerika
+Nò̤-ŭi	Norwegen
+Ĭng-gáik-làng	England
+Sŭ-gáik-làng	Schottland
+Ŭi-ī-sê̤ṳ	Wales
+Báe̤k Ái-ī-làng	Nordirland
+Ái-ī-làng	Irland
+Hungary	Ungarn
+Să̤-băng-ngà	Spanien
+Mī-guók	Vereinigte Staaten
+Bī-lé-sì	Belgien
+Luxembourg	Luxemburg
+Ṳ̄-dêu	Universum
+Dê-giù	Erde
+Sĕng-mêng	Leben
+Sī	Tod
+Nè̤ng	Mensch
+Huăng-hī	Glück
+George Washington	George Washington
+Wikidata	Wikidata
+Hŭng-làng	Finnland
+Sôi-diēng	Schweden
+Dăng-măk	Dänemark
+Pŏ̤-làng	Polen
+Lithuania	Litauen
+É-dâi-lé	Italien
+Sô̤i-sê̤ṳ	Schweiz
+Ó̤-dê-lé	Österreich
+Hĭ-lé-nà̤	Griechenland
+Tū-ī-gì	Türkei
+Bì-ciū	Bier
+Può-dò̤-ngà	Portugal
+Ĕu-ciŭ	Europa
+Ā-ciŭ	Asien
+Báe̤k Mī-ciŭ	Nordamerika
+Nàng-gĭk-ciŭ	Antarktika
+Wikipedia	Wikipedia
+Hò̤-làng	Niederlande
+Ĭng-gĕng	Penis
+PHP	PHP
+Niū-iók-chê	New York City
+Washington, D.C.	Washington, D.C.
+Gô-gĭng-săng	San Francisco
+Báik-lìng	Berlin
+Los Angeles	Los Angeles
+Diêng-nō̤	Computer
+Sŭ-là̤-sié	Zürich
+Barack Obama	Barack Obama
+Uruguay	Uruguay
+MediaWiki	MediaWiki
+Lùng-dŭng	London
+Bă-là̤	Paris
+Mĕ̤k-să̤-gŏ̤	Mexiko
+Dâi-să̤-iòng	Atlantischer Ozean
+Tái-bìng-iòng	Pazifischer Ozean
+California	Kalifornien
+Boston	Boston
+Lā̤-bái-ék	Montag
+Huōi-sĭng	Mars (Planet)
+Kenya	Kenia
+Ethiopia	Äthiopien
+Gŭng-ciō (nguòng-siū)	Herrschertitel
+Ghana	Ghana
+Lā̤-bái-nê	Dienstag
+Lā̤-bái-săng	Mittwoch
+Lā̤-bái-sé	Donnerstag
+Lā̤-bái-ngô	Freitag
+Lā̤-bái-lĕ̤k	Samstag
+Lā̤-bái-nĭk	Sonntag
+Săi (mà-kuŏ dông-ŭk)	Löwe
+Huák-guók	Frankreich
+Kēng	Haushund
+Ĭng-guók	Vereinigtes Königreich
+Mà	Hauskatze
+Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók	Volksrepublik China
+Huák-ngṳ̄	Französische Sprache
+Wiktionary	Wiktionary
+Ngṳ̀	Fische
+Ciū	Alkoholisches Getränk
+Bă-să̤	Brasilien
+Ngò̤-lò̤-sṳ̆	Russland
+Hāi	Meer
+Alabama	Alabama
+Wikimedia	Wikimedia
+Jimmy Wales	Jimmy Wales
+Dáik-guók	Deutschland
+Belarus	Weißrussland
+Dáik-ngṳ̄	Deutsche Sprache
+Bĭng-dō̤	Island
+Estonia	Estland
+Tū-sĭng	Saturn (Planet)
+Hĭ-gĭ	Flugzeug
+Ciéng-cĕng	Krieg
+1	Eins
+2	Zwei
+3	Drei
+4	Vier
+5	Fünf
+0	Null
+George W. Bush	George W. Bush
+Latvia	Lettland
+Ukraine	Ukraine
+Ciék-káik	Tschechien
+Slovakia	Slowakei
+Slovenia	Slowenien
+Moldova	Moldawien
+Romania	Rumänien
+Bulgaria	Bulgarien
+Lò̤-mā	Rom
+Macedonia Gê̤ṳng-huò-guók	Mazedonien
+Albania	Albanien
+Croatia	Kroatien
+Bosnia gâe̤ng Herzegovina	Bosnien und Herzegowina
+Azerbaijan	Aserbaidschan
+Andorra	Andorra
+Cyprus	Republik Zypern
+Georgia (guók-gă)	Georgien
+Kazakhstan	Kasachstan
+Malta	Malta
+Monaco	Monaco
+Montenegro	Montenegro
+Vaticano	Vatikanstadt
+San Marino	San Marino
+Gū-bă	Kuba
+Belize	Belize
+Barbados	Barbados
+Java	Java (Programmiersprache)
+Éng-dô-nà̤-să̤-ā	Indonesien
+Tū-ī-gì-ngṳ̄	Türkische Sprache
+Nàng-hĭ	Südafrika
+Algeria	Algerien
+Wiki Dù-cṳ̆-guāng	Wikisource
+Uzbekistan	Usbekistan
+Huà-să	Warschau
+Può-dò̤-ciū	Wein
+Cūi	Wasser
+Chà	Holz
+Diêng-sê	Fernsehen
+Chile	Chile
+Ià-sŭ	Jesus Christus
+Galileo Galilei	Galileo Galilei
+Cūi-sĭng	Merkur (Planet)
+Lĭk-sṳ̄	Geschichte
+Gĭng-sĭng	Venus (Planet)
+Ngṳ̄-ngiòng	Sprache
+Ái	Liebe
+Mŭk-sĭng	Jupiter (Planet)
+Ngṳ̀ng-ò̤	Milchstraße
+Tiĕng-uòng-sĭng	Uranus (Planet)
+Hāi-uòng-sĭng	Neptun (Planet)
+Tiĕng-ùng	Astronomie
+Sĭng-gă-pŏ̤	Singapur
+Kuŏ-hŏk	Wissenschaft
+Mìng-uòng-sĭng	Pluto
+Ciŏng-lài	Zukunft
+Séng-mū Mā-lé-ā	Maria (Mutter Jesu)
+Liechtenstein	Liechtenstein
+Adolf Hitler	Adolf Hitler
+Dâ̤-nê-ché̤ṳ Sié-gái Dâi-ciéng	Zweiter Weltkrieg
+Wiki Gáu-kuŏ-cṳ̆	Wikibooks
+Wiki Ngṳ̄-liŏh	Wikiquote
+Wiki Dâi-hŏk	Wikiversity
+Cṳ̆ng	Uhr
+Ubuntu	Ubuntu
+Linux	Linux
+Só-hŏk	Mathematik
+Lá-dĭng-ngṳ̄	Latein
+Bahrain	Bahrain
+Armenia	Armenien
+Serbia	Serbien
+Nguŏk-giù	Mond
+Istanbul	Istanbul
+Ó̤-ciŭ	Australien
+Ŭk-lī	Physik
+Argentina	Argentinien
+Peru	Peru
+Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók	Nordkorea
+Gāng-puŏ-câi	Kambodscha
+Gū-làng-gĭng	Koran
+Kṳ̄ng-lṳ̀ng	Dinosaurier
+Ĭ-sṳ̆-làng-gáu	Islam
+Lì	Birnen
+Lùng-lùng	Rad
+Huò-bìng	Frieden
+Nṳ̄-gái	Frau
+Gū-chiŏng-kĕ̤ng	Anus
+Nìng-mùng	Zitrone
+Huă	Blüte
+Napoléon Bonaparte	Napoleon Bonaparte
+Sĕng-lī	Physiologie
+Hèng-sĭng	Stern
+Nĭk-tàu	Sonne
+Victor Hugo	Victor Hugo
+Dâi-iòng-ciŭ	Ozeanien
+Tái-iòng-hiê	Sonnensystem
+Ngāi	Zahn
+Kĭng	Wasserstoff
+Wiki Gê̤ṳng-hiōng	Wikimedia Commons
+Cṳ̆	Buch
+Nĭk	Tag
+Dĕ̤ng Timor	Osttimor
+Màng-buŏ	Nacht
+Nièng	Jahr
+Ó̤-sṳ̆-lṳ̆k	Oslo
+Lī-sṳ̆-buōng	Lissabon
+Táng	Kohlenstoff
+Dâng	Stickstoff
+Iōng	Sauerstoff
+Giàng-sĭng	Planet
+Kleopatra 7-sié	Kleopatra VII.
+Ĭng-ngŏk	Musik
+É-dâi-lé-ngṳ̄	Italienische Sprache
+Séng Peterburg	Sankt Petersburg
+Chad	Tschad
+Lé̤ṳ	Aluminium
+Sĭng-să̤-làng	Neuseeland
+Éng-dô	Indien
+Tuvalu	Tuvalu
+Tiék	Eisen
+Tonga	Tonga
+Samoa	Samoa
+Solomon Gùng-dō̤	Salomonen
+Vanuatu	Vanuatu
+Papua New Guinea	Papua-Neuguinea
+William Shakespeare	William Shakespeare
+Palau	Palau
+Nauru	Nauru
+Micronesia Lièng-băng	Föderierte Staaten von Mikronesien
+Iòng (gĭng-sṳ̆k)	Blei
+Marshall Gùng-dō̤	Marshallinseln
+Kiribati	Kiribati
+Mūng-gū	Mongolei
+Fiji	Fidschi
+Venezuela	Venezuela
+Guók-cié chiông-gì	Schach
+Genghis Khan	Dschingis Khan
+Maine	Maine
+Mā	Hauspferd
+Ū-ké	Waffe
+Dông-ŭk	Tier
+Suriname	Suriname
+Paraguay	Paraguay
+Guyana	Guyana
+Ecuador	Ecuador
+Colombia	Kolumbien
+Hŭk-gáu	Buddhismus
+Bolivia	Bolivien
+Dè̤ng	Kupfer
+Trinidad gâe̤ng Tobago	Trinidad und Tobago
+Sĭk-ŭk	Pflanzen
+Séng Vincent gâe̤ng Grenadines	St. Vincent und die Grenadinen
+New Hampshire	New Hampshire
+Séng Lucia	St. Lucia
+Séng Kitts gâe̤ng Nevis	St. Kitts und Nevis
+Cĭng-kṳ̄ng	Pilze
+Jamaica	Jamaika
+Grenada	Grenada
+Massachusetts	Massachusetts
+Guatemala	Guatemala
+Bahamas	Bahamas
+Connecticut	Connecticut
+Giĕ	Haushuhn
+Antigua gâe̤ng Barbuda	Antigua und Barbuda
+Hawaii	Hawaii
+Honduras	Honduras
+Dominica	Dominica
+Dominica Gê̤ṳng-huò-guók	Dominikanische Republik
+Dṳ̆	Hausschwein
+Báe̤k-bĭng-iòng	Arktischer Ozean
+Haiti	Haiti
+El Salvador	El Salvador
+Ĭ-lāng	Iran
+Iraq	Irak
+Alaska	Alaska
+Costa Rica	Costa Rica
+Ī-sáik-liĕk	Israel
+Panama	Panama
+Yemen	Jemen
+Bâng-dŭk	Viren
+Pŏ̤-làng-ngṳ̄	Polnische Sprache
+Jordan	Jordanien
+Nicaragua	Nicaragua
+Florida	Florida
+Kyrgyzstan	Kirgisistan
+Arizona	Arizona
+Kuwait	Kuwait
+Lō̤-kuŏ	Laos
+Lebanon	Libanon
+Oregon	Oregon
+Maldives	Malediven
+Mī-ciŭ	Amerika
+Utah	Utah
+Ngù	Hausrind
+Mā-lài-să̤-ā	Malaysia
+Miēng-diêng	Myanmar
+Nepal	Nepal
+Oman	Oman
+Pakistan	Pakistan
+Qatar	Katar
+Saudi Ā-lá-báik	Saudi-Arabien
+Sri Lanka	Sri Lanka
+Joseph Stalin	Josef Stalin
+Syria	Syrien
+Platon	Platon
+Tajikistan	Tadschikistan
+Dṳ̆ng-huà Mìng-guók	Republik China (Taiwan)
+Aristoteles	Aristoteles
+Tái-guók	Thailand
+Huōi-chiă	Zug (Eisenbahn)
+Turkmenistan	Turkmenistan
+Ā-lá-báik Lièng-hăk Dâi-gŭng-guók	Vereinigte Arabische Emirate
+Băh-gĭng	Platin
+Uŏk-nàng	Vietnam
+Dâi-hàng Mìng-guók	Südkorea
+Afghanistan	Afghanistan
+Gĭng	Gold
+Suez Ông-ò̤	Sueskanal
+Bangladesh	Bangladesch
+Mali	Mali
+Sokrates	Sokrates
+Angola	Angola
+Bhutan	Bhutan
+Ùng-lài	Brunei
+Tanzania	Tansania
+Cūi-ngṳ̀ng	Quecksilber
+Hĭ-lĭ-pĭng	Philippinen
+Dṳ̆ng-hĭ Gê̤ṳng-huò-guók	Zentralafrikanische Republik
+Isaac Newton	Isaac Newton
+Albert Einstein	Albert Einstein
+Uòng-sáik	Gelb
+Togo	Togo
+Tunisia	Tunesien
+Zambia	Sambia
+Zimbabwe	Simbabwe
+Báe̤k-gĭng	Peking
+Nàng Sudan	Südsudan
+Benin	Benin
+Botswana	Botswana
+Wiki Sĭng-ùng	Wikinews
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Comoros	Komoren
+Congo Gê̤ṳng-huò-guók	Republik Kongo
+Congo Mìng-ciō Gê̤ṳng-huò-guók	Demokratische Republik Kongo
+Djibouti	Dschibuti
+Chiáh-dô̤ Guinea	Äquatorialguinea
+Eritrea	Eritrea
+Gabon	Gabun
+Gambia	Gambia
+Guinea	Guinea
+Guinea-Bissau	Guinea-Bissau
+Côte d'Ivoire	Elfenbeinküste
+Cameroon	Kamerun
+Cabo Verde	Kap Verde
+Lesotho	Lesotho
+Liberia	Liberia
+Libya	Libyen
+Madagascar	Madagaskar
+Malawi	Malawi
+Mauritania	Mauretanien
+Mauritius	Mauritius
+Morocco	Marokko
+Mozambique	Mosambik
+Namibia	Namibia
+Niger	Niger
+Nigeria	Nigeria
+Charles Darwin	Charles Darwin
+Uganda	Uganda
+Rwanda	Ruanda
+Séng Tomé gâe̤ng Príncipe	São Tomé und Príncipe
+Senegal	Senegal
+Seychelles	Seychellen
+Carl Linnaeus	Carl von Linné
+Sierra Leone	Sierra Leone
+Somalia	Somalia
+Julius Caesar	Gaius Iulius Caesar
+Sudan	Sudan
+Swaziland	Swasiland
+Kê̤ṳng	Regenbogen
+Lièng-hăk-guók	Vereinte Nationen
+Dê-cék	Geologie
+Dê-lī	Geographie
+Sĭng-câung	Herz
+Puòi-hŭ	Haut
+Ngàng-sáik	Farbe
+Làng-sáik	Blau
+Ngṳ̀ng	Silber
+Sék	Zinn
+Michigan	Michigan
+Illinois	Illinois
+North Dakota	North Dakota
+South Dakota	South Dakota
+Montana	Montana
+Wyoming	Wyoming
+Idaho	Idaho
+Washington	Washington (Staat)
+Nevada	Nevada
+Éng-dô-iòng	Indischer Ozean
+Kosovo	Kosovo
+Colorado	Colorado
+分類:Hŭng-lôi	Kategorie:!Hauptkategorie
+Chicago	Chicago
+Dĕ̤ng-tiĕng	Winter
+Chŭng-tiĕng	Frühling
+Hâ-tiĕng	Sommer
+Chiŭ-tiĕng	Herbst
+Saddam Hussein	Saddam Hussein
+Osama bin Laden	Osama bin Laden
+Să̤-băng-ngà-ngṳ̄	Spanische Sprache
+Philadelphia	Philadelphia
+Tĭ-tṳ̆	Webspinnen
+Guō-sĭk	Frucht
+Cièng	Geld
+Virginia	Virginia
+West Virginia	West Virginia
+Huăng-ciĕu	Spanischer Pfeffer
+Niū-iók-ciŭ	New York (Bundesstaat)
+Rhode Island	Rhode Island
+Kŏng-tṳ̀ng	Insekten
+Maryland	Maryland
+Delaware	Delaware
+Vladimir Lenin	Wladimir Iljitsch Lenin
+Ohio	Ohio
+Pennsylvania	Pennsylvania
+Augustus	Augustus
+Microsoft Windows	Microsoft Windows
+New Jersey	New Jersey
+Hŭng-làng-ngṳ̄	Finnische Sprache
+Indiana	Indiana
+Ké-chiă	Automobil
+Georgia	Georgia
+Texas	Texas
+North Carolina	North Carolina
+South Carolina	South Carolina
+Manila	Manila
+Dĕ̤ng-gĭng	Präfektur Tokio
+Uòng-lì	Ananas
+Mississippi	Mississippi (Staat)
+Tennessee	Tennessee
+New Mexico	New Mexico
+Ngà-diēng	Athen
+Minnesota	Minnesota
+Baghdad	Bagdad
+Wisconsin	Wisconsin
+Iowa	Iowa
+Nebraska	Nebraska
+Kansas	Kansas
+Hŏng-giāng	Zigarette
+Missouri	Missouri
+Louisiana	Louisiana
+Kentucky	Kentucky
+Arkansas	Arkansas
+Oklahoma	Oklahoma
+Madonna	Madonna (Künstlerin)
+Aceh	Aceh
+Séng-gĭng	Bibel
+Phnom Penh	Phnom Penh
+Hù Cé-mìng Chê	Ho-Chi-Minh-Stadt
+Ò̤-nô̤i	Hanoi
+Cĭng Ià-sŭ Gáu-huôi	Wahre Jesus-Kirche
+Ĭng-ngṳ̄	Englische Sprache
+Màng-gók	Bangkok
+Kuala Lumpur	Kuala Lumpur
+Bangka Belitung Gùng-dō̤	Bangka-Belitung
+Dài-báe̤k	Taipeh
+Concepción	Concepción (Chile)
+Bengkulu	Bengkulu (Provinz)
+Końskowola	Końskowola
+Nê-iōng-huá-táng	Kohlenstoffdioxid
+Jambi	Jambi (Provinz)
+Siè	Schlangen
+Lampung	Lampung (Provinz)
+Guŏng-sók	Lichtgeschwindigkeit
+Riau	Riau
+Riau Gùng-dō̤	Kepulauan Riau
+Nàng Sumatra	Sumatera Selatan
+Lò̤-mā Dá̤-guók	Römische Kaiserzeit
+Mì-niōng	Microsoft
+Kó-lū-hŭ	Kurów
+Huá-hŏk	Chemie
+Sièng-sŏng	Salzsäure
+Ôi-sĭng	Satellit (Astronomie)
+Kă-giù	Fußball
+Să̤ Sumatra	Sumatera Barat
+Mā-dáik-lī	Madrid
+Michael Jackson	Michael Jackson
+Cê̤ṳ-iù	Freiheit
+Cṳ̆-niòng-giāng	Mädchen
+Sék-nà̤	Sydney
+Liŏh-sáik	Grün
+È̤ng-sáik	Rot
+Huōi	Feuer
+Sĭng Nàng Wales	New South Wales
+Nile Ò̤	Nil
+Banten	Banten
+Dṳ̆ng Jawa	Jawa Tengah
+Chēng-chiū-sĭng	Komet
+Dĕ̤ng Jawa	Jawa Timur
+Jakarta	Jakarta
+Ăng-kā-lá	Ankara
+Să̤ Jawa	Jawa Barat
+Yogyakarta	Yogyakarta
+Dṳ̆ng Kalimantan	Kalimantan Tengah
+Dĕ̤ng Kalimantan	Kalimantan Timur
+Báe̤k Kalimantan	Kalimantan Utara
+Nàng Kalimantan	Kalimantan Selatan
+Hŏk-hâu	Schule
+Să̤ Kalimantan	Kalimantan Barat
+Dâi-hŏk	Universität
+Wikipedia:Să-buàng	Wikipedia:Spielwiese
+Chió	Haus
+Dê-dù	Karte (Kartografie)
+Ò̤	Fluss
+Osasco	Osasco
+Chiĕng-lī-giáng	Teleskop
+分類:Dài-uăng lĭk-sṳ̄	Kategorie:Taiwanische Geschichte
+Curitiba	Curitiba
+Sĕng-lìng	Wald
+分類:Uŏk-nàng lĭk-sṳ̄	Kategorie:Vietnamesische Geschichte
+Cĭng-ngiòng	Buch der Sprichwörter
+Kūng-cṳ̄	Konfuzius
+Hà	Zehnfußkrebse
+分類:Só-hŏk	Kategorie:Mathematik
+Bali	Bali
+Ĕu-nguòng	Euro
+Mī-gĭng	US-Dollar
+Dâi-lièu	Liao-Dynastie
+Hòng-ciŭ	Hangzhou
+Gĭ-dók-gáu	Christentum
+Dĕ̤ng Nusa Tenggara	Nusa Tenggara Timur
+Să̤ Nusa Tenggara	Nusa Tenggara Barat
+Dṳ̆ng Sulawesi	Sulawesi Tengah
+Gĭng-guók	Jin-Dynastie (1125–1234)
+Gorontalo	Gorontalo
+Báe̤k Sulawesi	Sulawesi Utara
+Dĕ̤ng-nàng Sulawesi	Sulawesi Tenggara
+Nàng Sulawesi	Sulawesi Selatan
+Să̤ Sulawesi	Westsulawesi
+Seattle	Seattle
+Dêu	Reis
+Maluku	Maluku
+Báe̤k Maluku	Nordmolukken
+Papua	Papua (Provinz)
+Să̤ Papua	Papua Barat
+Cēu	Vögel
+Siū-dŭ	Hauptstadt
+Può-dò̤-ngà-ngṳ̄	Portugiesische Sprache
+Nguŏk	Monat
+Uòng Hiêng-huàng	Huang Xianfan
+Cōng	Diamant
+Nĭk-buōng-ngṳ̄	Japanische Sprache
+Báik-kuŏ-ciòng-cṳ̆	Enzyklopädie
+Tàu Hiĕk	Wikipedia:Hauptseite
+Saratov	Saratow
+Làng-giù	Basketball
+Olympic Ông-dông-huôi	Olympische Spiele
+Diòng-gĕ̤ng	Jangtsekiang
+Che Guevara	Che Guevara
+Mò̤ Dĕk-dŭng	Mao Zedong
+Să̤-ăng	Xi’an
+Lá-sák	Lhasa
+Séng-gău	Geschlechtsverkehr
+Ĭng-dô̤	Vagina
+Diék-hŏk	Philosophie
+分類:Ché̤ṳk-káik chēng-dṳ̀	Kategorie:Wikipedia:Schnelllöschen
+Gáung-kìng	Klavier
+Dà	Tee
+Marco Polo	Marco Polo
+Hebe Camargo	Hebe Camargo
+Gê̤ṳng-sāng-ciō-ngiê	Kommunismus
+Cṳ̆-buōng-ciō-ngiê	Kapitalismus
+Mìng-cŭk	Nation
+Carthago	Karthago
+Uōng-hiĕk liù-lāng-ké	Webbrowser
+Siù-cūi	Schwimmen
+分類:Tiĕng-ùng	Kategorie:Astronomie
+Hŭk	Buddha
+Lī Bĕk	Li Bai
+Dù-cṳ̆-guāng	Bibliothek
+Sĕng-tái	Ökologie
+Céng-dê	Politik
+Mìng-ciō	Demokratie
+Cìng-dièu	Qin-Dynastie
+Nobel Ciōng	Nobelpreis
+Cìng Sṳ̄-huòng	Qin Shihuangdi
+Dṳ̆ng-dĕ̤ng	Mittlerer Osten
+Háng-dièu	Han-Dynastie
+Làu Băng	Han Gaozu
+Háng Ùng-dá̤	Han Wendi
+Háng Gīng-dá̤	Han Jingdi
+Háng Ū-dá̤	Han Wudi
+Sĕng-ŭk	Lebewesen
+Rabindranath Tagore	Rabindranath Thakur
+Háng Guŏng-ū-dá̤	Han Guangwu di
+Gŭng-ciō-cié-dô	Monarchie
+Siâ-huôi-ciō-ngiê	Sozialismus
+Cṳ̆ng-chói	Kuss
+Nguòng-dièu	Yuan-Dynastie
+Háng Hióng-dá̤	Han Xiandi
+Nazi Dáik-guók	Deutsches Reich 1933 bis 1945
+Christopher Columbus	Christoph Kolumbus
+Dâng Huò	Zheng He
+Panama Ông-ò̤	Panamakanal
+Céng-dièu	Jin-Dynastie (265–420)
+Nàng-bĭng-iòng	Südlicher Ozean
+Uòng-ò̤	Gelber Fluss
+Sṳ̆-mā Ièng	Jin Wudi
+Ngê	Ohr
+Pé	Nase
+Mĕ̤k-ciŭ	Auge
+Hŭng-muòng	Stechmücken
+Săi-ngṳ̀	Haie
+Lŏk-dò̤	Altweltkamele
+Mā-ngiê	Ameisen
+Sùi-dièu	Sui-Dynastie
+Hò̤-làng-ngṳ̄	Niederländische Sprache
+Sùi Ùng-dá̤	Sui Wendi
+Sùi Iòng-dá̤	Sui Yangdi
+Să̤-hâ	Westliche Xia-Dynastie
+Sóng-dièu	Song-Dynastie
+Diêu Kuŏng-êng	Song Taizu
+Sóng Cĭng-cŭng	Song Zhenzong
+Sóng Sìng-cŭng	Song Shenzong
+Sóng Hŭi-cŭng	Song Huizong
+Sóng Gŏ̤-cŭng	Song Gaozong
+Sóng Lī-cŭng	Song Lizong
+Sóng Duăng-cŭng	Song Duanzong
+Ögedei	Ögedei Khan
+Güyük	Güyük Khan
+Möngke	Möngke Khan
+Kublai	Kublai Khan
+Huă-chái	Blumenkohl
+Giò (sĭk-ŭk)	Aubergine
+Siók	Schnee
+Niè-giāng	Kind
+Cā-tàu	Morgen (Tageszeit)
+Hŭng-cṳ̆ng	Minute
+Ngò̤-lò̤-sṳ̆-ngṳ̄	Russische Sprache
+Huák-lŭk	Recht
+Hièng-huák	Verfassung
+Háng-ngṳ̄	Chinesische Sprachen
+Sá̤-bàu	Zelle (Biologie)
+Háik	Blut
+Hié (ké-guăng)	Lunge
+Romania-ngṳ̄	Rumänische Sprache
+Bulgaria-ngṳ̄	Bulgarische Sprache
+Ṳ̄	Regen
+Dê-cīng	Erdbeben
+Cūi-căi	Hochwasser
+Hāi-lâung	Tsunami
+Hùng	Wolke
+Hŭng-tăi	Tropischer Wirbelsturm
+Hŭng	Wind
+Georgia-ngṳ̄	Georgische Sprache
+Háng-cê	Chinesische Schrift
+Dièu-siēng-cê	Koreanisches Alphabet
+Lá-dĭng cê-mō̤	Lateinisches Alphabet
+Ùng-hŏk	Literatur
+分類:Ĭng-ngŏk	Kategorie:Musik
+分類:Ùng-hŏk	Kategorie:Literatur
+È̤ng-làu-máe̤ng	Der Traum der Roten Kammer
+Hù-lì	Fuchs (Säugetier)
+Harry Potter	Harry Potter
+Chiū-ìng	Masturbation
+Siâ-huôi	Gesellschaft (Soziologie)
+Gáu-ṳ̆k	Bildung
+Nàng-gái	Mann
+Ìng-guòng	Menschenrechte
+Temür	Timur Khan
+Gŭng-sê̤ṳ	Militär
+Gă-pĭ	Kaffee
+Săng	Berg
+Khayisan	Külüq Khan
+Ayurbarwada	Buyantu Khan
+Shidibala	Suddhipala
+Yesün Temür	Yesun Timur Khan
+Sŏng Dṳ̆ng-săng	Sun Yat-sen
+Hiŏng-gē̤ng	Hongkong
+Miami	Miami
+Ragibagh	Arigaba
+Tugh Temür	Toqa Timur
+Kuśala	Qutugku Khan
+Hàng Ciéng	Koreakrieg
+Rinchinbal	Irinchinbal
+Toghon Temür	Toghan Timur
+Siū-ék	Seoul
+Siông-hāi	Shanghai
+Ùng-huá Dâi-gáik-mêng	Kulturrevolution
+Chĭng-dièu	Qing-Dynastie
+Uŏk-nàng Ciéng-cĕng	Vietnamkrieg
+Thomas Edison	Thomas Alva Edison
+Armenia-ngṳ̄	Armenische Sprache
+Ukraine-ngṳ̄	Ukrainische Sprache
+HTML	Hypertext Markup Language
+Steven Spielberg	Steven Spielberg
+Mŏ̤h-ngiòng	Mo Yan
+Sôi-diēng-ngṳ̄	Schwedische Sprache
+Dăng-măk-ngṳ̄	Dänische Sprache
+Nò̤-ŭi-ngṳ̄	Norwegische Sprache
+Luxembourg-ngṳ̄	Luxemburgische Sprache
+Ciék-káik-ngṳ̄	Tschechische Sprache
+Karl Marx	Karl Marx
+Nĕng-nĕng	Weibliche Brust
+Guŏng	Licht
+Hĭ-lé-nà̤-ngṳ̄	Griechische Sprache
+Ái-ī-làng-ngṳ̄	Irische Sprache
+Kié-ngò̤	Pinguine
+Pŏ̤-sṳ̆-ngṳ̄	Persische Sprache
+Cŭng-gáu	Religion
+Hàng-guók-ngṳ̄	Koreanische Sprache
+Cháung-sié-gé	1. Buch Mose
+Chók-Ăi-gĭk-gé	2. Buch Mose
+Háng-ngṳ̄ Guăng-uâ	Nordchinesische Dialekte
+Uŏk-nàng-ngṳ̄	Vietnamesische Sprache
+Sigmund Freud	Sigmund Freud
+Tái-guók-ngṳ̄	Thailändische Sprache
+Mā-lài-ngṳ̄	Malaiische Sprache
+Mūng-gū-ngṳ̄	Mongolische Sprache
+Bandar Seri Begawan	Bandar Seri Begawan
+Hĭ-báik-lài-ngṳ̄	Hebräische Sprache
+Ŭi-ī-sê̤ṳ-ngṳ̄	Walisische Sprache
+Sŭ-gáik-làng-ngṳ̄	Schottisch-gälische Sprache
+Vientiane	Vientiane
+Lō̤-cṳ̄	Laozi
+Găng-câung	Leber
+Sṳ̆-mā Chiĕng	Sima Qian
+Tó	Kaninchen
+Ciŏ Hĭ	Zhu Xi
+Cìng-gāng	Emotion
+Dâi-iòng	Ozean
+Victoria Nṳ̄-uòng	Victoria (Vereinigtes Königreich)
+Sék-giă-mèu-nà̤	Siddhartha Gautama
+Mŭk-hâng-mĕk-dáik	Mohammed
+Hŭ-ngék	Atem
+Ṳ̀-gă	Konfuzianismus
+Bók-lō̤	Abdomen
+Dô̤-gáu	Daoismus
+Chói-siĕk	Zunge
+Dâiu-gáuk	Hals
+Chói	Mund
+Elizabeth 2-sié	Elisabeth II.
+Dòng-dièu	Tang-Dynastie
+Dòng Gŏ̤-cū	Tang Gaozu
+Dòng Tái-cŭng	Tang Taizong
+Dòng Gŏ̤-cŭng	Tang Gaozong
+Ū Cáik-tiĕng	Wu Zetian
+Dòng Hièng-cŭng	Tang Xuanzong (Li Longji)
+Dòng Sé̤ṳk-cŭng	Tang Suzong
+Dòng Dâi-cŭng	Tang Daizong
+Dòng Dáik-cŭng	Tang Dezong
+Cê-mō̤	Buchstabe
+Siēu-hŏk	Grundschule
+Mìng-dièu	Ming-Dynastie
+Ciŏ Nguòng-ciŏng	Hongwu
+Ronald Reagan	Ronald Reagan
+Gióng-ùng Huòng-dá̤	Jianwen
+Īng-lŏk Huòng-dá̤	Yongle
+Hùng-hĭ Huòng-dá̤	Hongxi
+Sŏng-dáik Huòng-dá̤	Xuande
+Mìng Ĭng-cŭng	Zhengtong
+Gīng-tái Huòng-dá̤	Jingtai
+Sìng-huá Huòng-dá̤	Chenghua (Ming-Kaiser)
+Hùng-dé Huòng-dá̤	Hongzhi
+Céng-dáik Huòng-dá̤	Zhengde
+Gă-cêng Huòng-dá̤	Jiajing
+Lè̤ng-kéng Huòng-dá̤	Longqing
+Uâng-lĭk Huòng-dá̤	Wanli
+Tái-chiŏng Huòng-dá̤	Taichang
+Tiĕng-kiē Huòng-dá̤	Tianqi
+Sùng-dĭng Huòng-dá̤	Chongzhen
+Gĭng Céng-nĭk	Kim Jong-il
+Nguòng-só ciŭ-gĭ-biēu	Periodensystem
+Chăng-màng	Blindheit
+Sá̤-kṳ̄ng	Bakterien
+Chéu	Baum
+Può-dò̤	Weintraube
+Huăng-giāng-sṳ̀	Kartoffel
+Tòng	Zucker
+Uòng-dâu	Sojabohne
+Séng-sék	Information
+Bó̤-cāi	Zeitung
+Diêng-uâ	Telefon
+Ùng-huá	Kultur
+Huáng-ngṳ̄	Sanskrit
+Dâi-diòng	Dickdarm
+Siēu-diòng	Dünndarm
+Ĭ-hŏk	Medizin
+Sièng	Speisesalz
+Huá-hŏk nguòng-só	Chemisches Element
+Unix	Unix
+Ùi-gì	Go (Spiel)
+Káh-dièu-nó̤h	Spielzeug
+Diêng-īng	Film
+Gĭng-sṳ̆k	Metalle
+Kă-dăk-chiă	Fahrrad
+Mièng-huă	Baumwollfaser
+Sók-dô	Geschwindigkeit
+Sì-găng	Zeit
+Cāi	Papier
+Só-lâiu	Kunststoff
+Miêng-cék	Flächeninhalt
+Gŭng-chióh	Meter
+Iù-diĕng-bău	Mais
+Duâi-măk	Gerste
+Dĕ̤ng-nàng-ā	Südostasien
+Sīng-iòng	Shenyang
+Tṳ̀ng-kéng	Chongqing
+Tiĕng-cĭng	Tianjin
+Ū-háng	Wuhan
+Gū Ăi-gĭk	Altes Ägypten
+Gū Hĭ-lé-nà̤	Antikes Griechenland
+Hṳ̀ng	Bären
+Britney Spears	Britney Spears
+Ngàng	Krebs (Medizin)
+Măk	Weizen
+Cié-sē̤	Sorghumhirsen
+Pó̤-sióng	Behinderung
+Lĭk-huák	Kalender
+Sìng-gĭng-bâng	Psychische Störung
+Gregorius Lĭk-huák	Gregorianischer Kalender
+Tutankhamun	Tutanchamun
+Nguŏk-gĭng	Menstruation
+Mà-chiók	Mah-Jongg
+Ông-ò̤	Kanal (Wasserbau)
+Detroit	Detroit
+Diòng-siàng	Chinesische Mauer
+Gĭng-cê-ták	Pyramide (Bauwerk)
+Osman Dá̤-guók	Osmanisches Reich
+Guók-nô̤i sĕng-sāng cūng-dĭk	Bruttoinlandsprodukt
+Diêng	Elektrizität
+Ché̤ṳng	Feuerwaffe
+Lòng-gĭ-ché̤ṳng	Maschinengewehr
+Sáung-buàng	Abakus (Rechenhilfsmittel)
+Tāng-káik	Panzer
+Chāu-muòi	Gartenerdbeere
+Liĕk-chiĕ	Litschibaum
+Ià-cī	Kokospalme
+Tò̤	Pfirsich
+Cáung-ngṳ̄	Zhuang (Sprache)
+Siŏng-ngṳ̄	Xiang (Sprache)
+Mì-ngù-ī-ngṳ̄	Uigurische Sprache
+Lâung-gŏ̤	Kuchen
+Wiki Ŭk-cṳ̄ng	Wikispecies
+Nĕng-dáe̤k	Büstenhalter
+Ā-lá-báik-ngṳ̄	Arabische Sprache
+Dièu-siēng Tái-cŭng	Taejong
+Lù Ū-hièng	Roh Moo-hyun
+Páuk Céng-hĭ	Park Chung-hee
+Siĕng-ìng-ciōng	Kakteengewächse
+Iòng-bék	Bleistift
+Gă-sĭ	Möbel
+Dó̤h	Tisch
+Ó̤-muòng	Macau
+Liòng Cīng-ĭng	Leung Chun-ying
+Iē-giāng	Stuhl (Möbel)
+Hù Gīng-dò̤	Hu Jintao
+Sĭk Gê̤ṳng-bìng	Xi Jinping
+Dòng-gêng-lĕ̤k	Giraffe
+Chĭng-dáung	Shenzhen
+Guōng-dĕ̤ng	Guangdong
+Guōng-să̤	Guangxi
+Sŭ-lièng	Sowjetunion
+Kiák-sióng-gĭ	Fotoapparat
+Kagoshima-gâing	Präfektur Kagoshima
+C ngṳ̄-ngiòng	C (Programmiersprache)
+Kă	Fuß
+Ciēng	Geckos
+Dô-dâing	Echsen
+Giĕng-tàu	Schulter
+Wikipedia:Bō̤-ciéng hō̤ ùng	Wikipedia:Exzellente Artikel
+Sié-gái	Welt
+Wikipedia:Duâi chéu â	Wikipedia:Projektdiskussion
+Busan	Busan
+Lèng-huă	Indische Lotosblume
+Vermont	Vermont
+Denver	Denver
+Guōng-ciŭ	Guangzhou
+Ciōng Gái-sĭk	Chiang Kai-shek
+Gŏng Dĕk-mìng	Jiang Zemin
+Ŭng Gă-bō̤	Wen Jiabao
+Nàng-gĭng	Nanjing
+Làu Dáik-huà	Andy Lau
+Diŏng Hŏk-iū	Jacky Cheung
+Báe̤k-gĭng Dâi-hŏk	Peking-Universität
+Chĭng-huà Dâi-hŏk	Tsinghua-Universität
+Ŭ-lū-mŭk-cà̤	Ürümqi
+Gŏng-sŭ	Jiangsu
+Ciék-gŏng	Zhejiang
+Dâing Siēu-bìng	Deng Xiaoping
+Lò̤-mā Gê̤ṳng-huò-guók	Römische Republik
+Câung-kṳ̆	Tibet
+Să̤-câung	Autonomes Gebiet Tibet
+Ciŭ Ŏng-lài	Zhou Enlai
+Dṳ̆ng-guók Gê̤ṳng-sāng-dōng	Kommunistische Partei Chinas
+Chiū-gĭ	Mobiltelefon
+Dò̤-nēu	Afrikanischer Strauß
+Kŏng-hĭ Huòng-dá̤	Kangxi
+Dièu-siēng	Korea
+Lī Káik-giòng	Li Keqiang
+Gŏ̤ Hèng-giông	Gao Xingjian
+Ciŏ Ṳ̀ng-gĭ	Zhu Rongji
+Lī Bèng	Li Peng
+Lòng	Wolf
+Bìng-iōng	Pjöngjang
+Sĭng-iók Séng-gĭng	Neues Testament
+9	Neun
+Kiék	Skorpione
+Gièng-lè̤ng Huòng-dá̤	Qianlong
+Dṳ̆ng-guók Dâi-lṳ̆k	Festlandchina
+Háik-lṳ̀ng-gĕ̤ng-sēng	Heilongjiang
+Mā Ĭng-gāu	Ma Ying-jeou
+Lè̤	Hausesel
+Wikipedia:Cék-liông ô-lī-kó̤ gì ùng-ciŏng	Wikipedia:Lesenswerte Artikel
+Sé-chiŏng	Sichuan
+Gô-iók Séng-gĭng	Altes Testament
+Séng-dáng-cáik	Weihnachten
+Săng-gáe̤k-hìng	Dreieck
+Muammar Gaddafi	Muammar al-Gaddafi
+Lâu-hū	Tiger
+Daejeon	Daejeon
+Daegu	Daegu
+Sié-cŭng Dĕk-biék Cê̤ṳ-dé-chê	Sejong (Stadt)
+Incheon	Incheon
+Gyeonggi Dô̤	Gyeonggi-do
+Bô-uăk-cáik	Ostern
+Ò̤-báe̤k	Hebei
+Bŏk Hĭ-lài	Bo Xilai
+GNU Cê̤ṳ-iù Ùng-dáung Hṳ̄-kō̤-céng	GNU-Lizenz für freie Dokumentation
+Uŏng Cĭng-ôi	Wang Jingwei
+Dìng Cūi-biēng	Chen Shui-bian
+Dài-uăng	Taiwan (Insel)
+À̤	Schuh
+Ngṳ̀ng-hòng	Bank
+Lū Séng	Lu Xun
+7	Sieben
+8	Acht
+Lĕ̤k	Hirsche
+Hù	See
+Sáung-tàu	Knoblauch
+Chái-guă	Gurke
+Dō̤	Insel
+Băh-sáik	Weiß
+Ŭ-sáik	Schwarz
+6	Sechs
+Moshchena	Moschtschena
+Huăng-kê	Tomate
+George H. W. Bush	George H. W. Bush
+Paltoga	Paltoga
+Quảng Bình	Quảng Bình
+Atlanta	Atlanta
+Benito Mussolini	Benito Mussolini
+Sṳ̀-diēng	Wörterbuch
+Tàu	Kopf
+Hiê-lìng-dóng	Wellington
+Dâi Bók-liĕk-diĕng Dō̤	Großbritannien (Insel)
+Las Vegas	Las Vegas
+10	Zehn
+Alfred Nobel	Alfred Nobel
+Tàu-sĕ̤	Kamm
+Guòng-lĭk	Macht
+Mà-hùng-cēu	Eulen
+Dēng-cṳ̆ng	Stunde
+Ké-chiông	Meteorologie
+Đà Nẵng	Đà Nẵng
+Káh-chiók	Elster
+Làng-huă	Orchideen
+Gă-săk	Schaben
+Ngáuk-ngṳ̀	Krokodile
+Lā-lì	Schuppentiere
+Nàng-muōi-sĭng	Leuchtkäfer
+Holocene	Holozän
+Hāi-báu	Hundsrobben
+Bà̤-bá-cēu	Zaunkönig
+Ciáh-giāng	Feldsperling
+Niccolò Cusano Dâi-hŏk	Università degli Studi Niccolò Cusano
+Long An	Long An
+Thái Nguyên	Thái Nguyên (Provinz)
+Herodotus	Herodot
+Othello	Othello
+Nĭk-buōng-hāi	Japanisches Meer
+Dĕ̤ng-ā	Ostasien
+Dĕ̤ng-ĕu	Osteuropa
+Vĩnh Phúc	Vĩnh Phúc
+Chĕ̤ng	Winterzwiebel
+Liù-giù-guók	Königreich Ryūkyū
+Dièu-siēng uòng-dièu	Joseon-Dynastie
+Gŏ̤-là̤	Goryeo
+Dâi-hàng Dá̤-guók	Kaiserreich Korea
+Buŏk-hāi-guók	Balhae
+Gŏ̤-gău-là̤	Goguryeo
+Bì-bà-dâu-giék	Fledertiere
+Báik-cá̤	Baekje
+Sĭng-lò̤	Silla
+Tàu-huók	Haar
+Hàng Hĭ	Han Fei
+Uòng-dá̤	Huangdi
+Diéu-ngṳ̀-dài Liĕk-dō̤	Senkaku-Inseln
+Gê̤ṳng-huò-dōng (Mī-guók)	Republikanische Partei
+Dṳ̆ng-guók	China
+Mìng-ciō-dōng (Mī-guók)	Demokratische Partei (Vereinigte Staaten)
+Cūi-tiák	Fischotter
+Sìng-dŭ	Chengdu
+Buò-gŭng-ĭng	Löwenzahn (Taraxacum)
+Tá	Qualle
+Dâng-ciŭ	Zhengzhou
+Muāng-ciŭ-guók	Mandschukuo
+Gù-cŭi	Turteltauben
+Só̤h	Seil
+Dṳ̆ng-guók Guók-mìng-dōng	Kuomintang
+Ngâng	Schwanengans
+Ĕng-gŏ̤	Papageien
+Gŏ̤-giāng-hié	Taiwan-Oper
+Gă-huák	Addition
+Dài-uăng-sēng	Taiwan (Provinz)
+Dŏ̤	Messer
+Băng-mā	Zebra
+Guók-cié biĕu-cūng cṳ̆-hô̤	Internationale Standardbuchnummer
+Đồng Nai	Đồng Nai
+Sóc Trăng	Sóc Trăng (Provinz)
+Quảng Ngãi	Quảng Ngãi (Provinz)
+Hà Tĩnh	Hà Tĩnh (Provinz)
+Cà Mau	Cà Mau (Provinz)
+Quảng Nam	Quảng Nam
+Bến Tre	Bến Tre (Provinz)
+Khánh Hòa	Khánh Hòa
+Káh-gă-ngṳ̄	Hakka (Sprache)
+Sơn La	Sơn La (Provinz)
+Huŏng-ngiòng	Dialekt
+Lev Trotsky	Leo Trotzki
+Quảng Ninh	Quảng Ninh
+Lạng Sơn	Lạng Sơn (Provinz)
+Bắc Ninh	Bắc Ninh (Provinz)
+Gáng-ngṳ̄	Gan (Sprache)
+Sṳ̆-mā Guŏng	Sima Guang
+Mà-hṳ̀ng	Großer Panda
+Muāng-ngṳ̄	Mandschurische Sprache
+Chiū	Hand
+Dô Hū	Du Fu
+Gùng-dō̤	Archipel
+Niŏh-niŏh	Blatt (Pflanze)
+Bŭk-buó	Wasserfall
+Yasser Arafat	Jassir Arafat
+Câung-ngṳ̄	Tibetische Sprache
+Ngù-ngṳ̄	Wu (Sprache)
+Tasmania	Tasmanien
+Ì-cô̤	Seife
+Hŭk-săng	Foshan
+Ciĕu-huò Tiĕng-huòng	Hirohito
+Al-Qaeda	Al-Qaida
+Mò̤-táuk-chiă	Motorrad
+Ò̤-mā	Flusspferd
+Anastacia	Anastacia
+Sĕk Gái	Zehn Gebote
+Huă-báu	Leopard
+Să̤-ngiù	Nashörner
+Lò̤-buàng	Kompass
+Buáng-dō̤	Halbinsel
+Sĭng-giŏng	Xinjiang
+Mŭk-guă	Papaya
+Mì-sĕng-só	Vitamin
+Gái-làng-chái	Weißkohl
+Giáng	Spiegel
+Ciŭ-dièu	Zhou-Dynastie
+Kāng-muòng-giāng	Fenster
+Băh Gṳ̆ng	Weißes Haus
+Gīng-chák	Polizei
+Hók-ciŭ-uâ	Fuzhou-Dialekt
+Báe̤k-hāi-dô̤	Hokkaidō
+Giŏng	Ingwer
+Nobel Huò-bìng Ciōng	Friedensnobelpreis
+Sáu	Husten
+Hák-chê	Niesen
+Káung-mìng	Schlaf
+Gèng-hāi	Aralsee
+Dé̤ṳk	Bambuseae
+Hù Cé-mìng	Hồ Chí Minh
+Hòa Bình	Hòa Bình (Provinz)
+Sŭ Sék	Su Shi
+Queensland	Queensland
+Tù	Boden (Bodenkunde)
+Ù-huă-guō	Echte Feige
+Hưng Yên	Hưng Yên (Provinz)
+Dòng-dô	Länge (Physik)
+Kon Tum	Kon Tum (Provinz)
+Hậu Giang	Hậu Giang
+Máe̤ng	Traum
+Yên Bái	Yên Bái (Provinz)
+Bắc Giang	Bắc Giang (Provinz)
+Thừa Thiên-Huế	Thừa Thiên-Huế
+Bắc Kạn	Bắc Kạn (Provinz)
+Lai Châu	Lai Châu (Provinz)
+Hà Nam	Hà Nam
+Lào Cai	Lào Cai (Provinz)
+Mìng-dĕ̤ng-ngṳ̄	Min Dong
+Hannibal	Hannibal
+Mìng-báe̤k-ngṳ̄	Min Bei
+Mìng-nàng-ngṳ̄	Min Nan
+Thanh Hóa	Thanh Hóa (Provinz)
+Kiên Giang	Kiên Giang
+Quảng Trị	Quảng Trị
+Nghệ An	Nghệ An
+An Giang	An Giang
+Tây Ninh	Tây Ninh (Provinz)
+Phú Thọ	Phú Thọ (Provinz)
+Duâi-sĭng-sĭng	Gorillas
+Trà Vinh	Trà Vinh (Provinz)
+Bạc Liêu	Bạc Liêu (Provinz)
+Gia Lai	Gia Lai
+Tiền Giang	Tiền Giang
+Bình Phước	Bình Phước
+Đồng Tháp	Đồng Tháp
+Thái Bình	Thái Bình (Provinz)
+Hà Giang	Hà Giang (Provinz)
+Đắk Lắk	Đắk Lắk
+Cáung-cŭk	Zhuang
+Bình Định	Bình Định (Provinz)
+Lâm Đồng	Lâm Đồng
+Đắk Nông	Đắk Nông
+Phú Yên	Phú Yên
+Hải Dương	Hải Dương (Provinz)
+Dièu-ciŭ-uâ	Teochew
+Iók-hâng Hók Ĭng	Evangelium nach Johannes
+Dài-uăng-uâ	Taiwanische Sprache
+Muòng	Tür
+Chiēng-gák	Nagel (Anatomie)
+Cao Bằng	Cao Bằng (Provinz)
+Bình Dương	Bình Dương
+Bình Thuận	Bình Thuận
+Bà Rịa-Vũng Tàu	Bà Rịa-Vũng Tàu
+Ninh Bình	Ninh Bình (Provinz)
+Ninh Thuận	Ninh Thuận
+Nam Định	Nam Định (Provinz)
+Điện Biên	Điện Biên
+Sìng-lṳ̀ng	Jackie Chan
+Méng	Gesicht
+Ùng-ngiòng-ùng	Klassisches Chinesisch
+Gāng-lāng	Olivenbaum
+Săng-ôi-ék-tā̤	Dreifaltigkeit
+Sŏng-cṳ̄	Sunzi
+Sĭng-săng	Lehrer
+Cleveland	Cleveland
+Dăk-lâi Lā-mà	Dalai Lama
+Huă-sĕng	Erdnuss
+100	Hundert
+Kă-kók-tàu	Kniegelenk
+Hâing	Aprikose
+Ngāng-giáng	Brille
+Cê̤ṳ-lài-huōi	Streichholz
+Chê-diòng	Markt
+Nàng Dṳ̆ng-guók Hāi	Südchinesisches Meer
+Dièu-siēng Sié-cŭng	Sejong
+Hăk-gĭng	Legierung
+Bĭng-siŏng	Kühlschrank
+Nobel Ùng-hŏk Ciōng	Nobelpreis für Literatur
+Huăng-sṳ̀	Süßkartoffel
+Uòng-hāi	Gelbes Meer
+Akihito	Akihito
+Newton ông-dông-hŏk dêng-lŭk	Newtonsche Gesetze
+Să̤-guă	Wassermelone
+Biobío Dâi-hŏk	Universität Bío-Bío
+Huòng-dá̤	Kaiser
+Ìng-mìng-bê	Renminbi
+Tā̤-cék	Volumen
+Cèng-sáik	Orange (Farbe)
+Gă-sĭ-huă	Werkzeug
+Ĭ-sĕng	Arzt
+Iéng (cēu)	Schwalben
+Kó	Hose
+Lô-gă Hók Ĭng	Evangelium nach Lukas
+Mìng-ciō-dōng	Demokratische Partei
+Ciŏng-tàu	Mauerziegel
+Tiō-uòng	Ellipse
+Sìng-huák	Multiplikation
+Sé̤ṳ-dù Hèng-diông	Apostelgeschichte des Lukas
+Uòng-dô̤ Sĕk-nê Sĭng-cô̤	Tierkreiszeichen
+Huá-siŏh	Fossil
+Gēng-huák	Subtraktion
+Cī-cī	Same (Pflanze)
+Chiĕk	Krabben
+Gă-dŏ̤	Schere
+Niêu	Urin
+Ăng-hŭi	Anhui
+Ngiăh	Stirn
+Sĭ-piĕng	Buch der Psalmen
+Chungcheong Báe̤k-dô̤	Chungcheongbuk-do
+Chungcheong Nàng-dô̤	Chungcheongnam-do
+Gangwon Dô̤ (Dâi-hàng Mìng-guók)	Gangwon-do
+Nô̤i Mūng-gū	Innere Mongolei
+Gĭng Nĭk-sìng	Kim Il-sung
+Gyeongsang Nàng-dô̤	Gyeongsangnam-do
+Gyeongsang Báe̤k-dô̤	Gyeongsangbuk-do
+Jeolla Báe̤k-dô̤	Jeollabuk-do
+Jeolla Nàng-dô̤	Jeollanam-do
+Jeju Dĕk-biék Cê̤ṳ-dé-dô̤	Jeju-do
+Huăng-cièng-giāng	Münze
+Bă-biĕk-ták	Turmbau zu Babel
+Ulsan	Ulsan
+Gwangju	Gwangju
+Chó	Essig
+Kangwŏn Dô̤ (Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók)	Kangwŏn-do
+Michael Jordan	Michael Jordan
+Lé-ê-gé	3. Buch Mose
+Gṳ̆ng-gṳ̆ng	Wurzel (Pflanze)
+Bì-bà (cūi-guō)	Japanische Wollmispel
+Hamlet	Hamlet
+Huà Guók-hŭng	Hua Guofeng
+Sāng	Regenschirm
+Làu Hiēu-pŏ̤	Liu Xiaobo
+Hók-gióng	Fujian
+Mūng-gū-cŭk	Mongolen
+Mĕk-sê Liŏh	Offenbarung des Johannes
+Hièng-câung	Xuanzang
+Gū-chiŏng	Gesäß
+Mìng-chòng	Bett
+Hāi-nàng	Hainan
+Háng-ngṳ̄ Pĭng-ĭng	Pinyin
+Uōng-dĕ̤ng	Ferner Osten
+Băh-gák	Felsentaube
+Găng-sé̤ṳk	Gansu
+Taliban	Taliban
+Huŏi-sáik	Grau
+Sĭng-mêng-gé	5. Buch Mose
+Sŭ-ciŭ	Suzhou (Jiangsu)
+Ŭng-ciŭ	Wenzhou
+Háng-cŭk	Han-Chinesen
+Nìng-pŏ̤	Ningbo
+Chói-chiŭ	Barthaar
+Cāi-iêu	Drachen
+Hăk-ī-bĭng	Harbin
+Mā-kì	Egel
+1000	Tausend
+Mìng-só-gé	4. Buch Mose
+Cáu-sèng	Küche
+Hùng-nàng	Yunnan
+Lō̤-uă	Raben und Krähen
+Guók-lĭk Gău-tŭng Dâi-hŏk	Chiao-Tung-Nationaluniversität
+Guók-lĭk Chĭng-huà Dâi-hŏk	Tsing-Hua-Nationaluniversität
+Săng-dĕ̤ng	Shandong
+È̤ng-ĕ̤ng	Hundertfüßer
+Ò̤-nàng	Henan
+Mì-mò̤	Augenbraue
+Bók-sài	Bauchnabel
+Lièu-nìng	Liaoning
+Hióng-liông	Vektor
+Cretaceous	Kreide (Geologie)
+Tochigi-gâing	Präfektur Tochigi
+Dàu	Spielwürfel
+Cūi-nà̤	Zement
+Gék-lìng	Jilin
+Dĕ̤ng Dṳ̆ng-guók Hāi	Ostchinesisches Meer
+Hāi-chĕk	Piraterie
+Gūi	Gespenst
+Bóng-dó̤	Abfall
+Hù-nàng	Hunan
+Jurassic	Jura (Geologie)
+Chĭng-hāi	Qinghai
+Mì-ngù-ī-cŭk	Uiguren
+Ă-piéng	Opium
+Chiū-cī	Ring (Schmuck)
+Hù-báe̤k	Hubei
+Săng-să̤	Shanxi
+Cĕ̤ng-sáik	Braun
+Giòng-găng	Vergewaltigung
+Gói-ciŭ	Guizhou
+Triassic	Trias (Geologie)
+Sék-sáuk	Echte Grillen
+Cāi-piéu	Banknote
+SQL	SQL
+Hù Sék	Hu Shi
+Iók-cṳ̆-ā-gé	Buch Josua
+Cŏng-cṳ̄	Zhuangzi
+Cṳ̀-hĭ Tái-hâiu	Cixi
+Kan Naoto	Naoto Kan
+Miyagi-gâing	Präfektur Miyagi
+模板:Commons category	Vorlage:Commonscat
+Lò̤-mā Cṳ̆	Brief des Paulus an die Römer
+Pău-ŭk-siáng	Parabel (Mathematik)
+Dô̤-dáik	Moral
+Iwate-gâing	Präfektur Iwate
+Ĭ-siòng-chiă	Nähmaschine
+Dièu-siēng Lò̤-dông-dōng	Partei der Arbeit Koreas
+Nàng-báe̤k-dièu	Südliche und Nördliche Dynastien
+Chái Ĭ-lìng	Jolin Tsai
+Pì-lĭk-bī Cṳ̆	Brief des Paulus an die Philipper
+Ngā-gŏ-cṳ̆	Hoheslied
+模板:Taxobox	Vorlage:Taxobox
+分類:Guók-uòng	Kategorie:König
+Diŏng Ngiê-mèu	Zhang Yimou
+Gĭng Céng-ŏng	Kim Jong-un
+Liù-giù-ngṳ̄	Ryūkyū-Sprachen
+Céng-ngṳ̄	Jin (Sprache)
+Mìng-ngṳ̄	Min (Sprache)
+Gŏng-să̤	Jiangxi
+Nìng-hâ	Ningxia
+Lùng-sùng	Drachenboot
+Noda Yoshihiko	Yoshihiko Noda
+Yingluck Shinawatra	Yingluck Shinawatra
+Siŏh-gă-cŏng	Shijiazhuang
+Kuóh-dà̤	Fuzhou Tanka
+Chṳ̄	Mäuseartige
+Ciŏ-hāi	Zhuhai
+Sáng-tàu	Shantou
+Dâng-gŏng	Zhanjiang
+Mùi-ciŭ	Meizhou (Guangdong)
+Chĭng-uōng	Qingyuan
+Dĕ̤ng-uāng	Dongguan
+Dṳ̆ng-săng-chê	Zhongshan
+Dièu-ciŭ	Chaozhou
+Tàng-táik	Welsartige
+Gé̤ṳk-huă	Chrysanthemen
+Mĕ̤k-lê-huă-dà	Jasmintee
+Sofie gì Sié-gái	Sofies Welt
+Ordovician	Ordovizium
+Silurian	Silur
+Mièu-lĭk	Landkreis Miaoli
+Dāng-nòng	Gallenblase
+Devonian	Devon (Geologie)
+Hók-ciŭ	Fuzhou
+Nàng-bìng	Nanping
+Buò-dièng	Putian
+Săng-mìng	Sanming
+Ciòng-ciŭ	Quanzhou
+Â-muòng	Xiamen
+Ciŏng-ciŭ	Zhangzhou
+Lṳ̀ng-ngàng	Longyan
+Nìng-dáik	Ningde
+Să̤-nìng	Xining
+Să̤-iù-gé	Die Reise nach Westen
+Săng-guók Iēng-ngiê	Die Geschichte der Drei Reiche
+Cūi-hū	Die Räuber vom Liang-Schan-Moor
+Ā-dŏng	Adam
+Aomori-gâing	Präfektur Aomori
+Fukushima-gâing	Präfektur Fukushima
+Tái-nguòng	Taiyuan
+Hải Phòng	Hải Phòng
+Sĭng-dé̤ṳk (gâing)	Landkreis Hsinchu
+Dâi-lièng	Dalian
+Hĭ-Pŏ̤ Ciéng-cĕng	Perserkriege
+Permian	Perm (Geologie)
+Cambrian	Kambrium
+Iòng-ciók	Kerze
+Chiba-gâing	Präfektur Chiba
+Pău	Pampelmuse
+Lô-dáik-gé	Buch Rut
+Mà-hù	Großlibellen
+Dáng-ī-lī	Buch Daniel
+Páuk-káik	Poker
+Mô̤	Hut
+Gŏ̤-lìng-dŏ̤ Cièng Cṳ̆	1. Brief des Paulus an die Korinther
+Aichi-gâing	Präfektur Aichi
+Lī-ngṳ̀	Karpfen
+Muāng-ciŭ	Mandschurei
+Sê̤ṳ-sṳ-gé	Buch der Richter
+Pŏ̤-lìng-chái	Spinat
+Akita-gâing	Präfektur Akita
+Dê̤ṳ	Essstäbchen
+Mĕ̤k-lê	Jasminum
+Nàng-dàu	Landkreis Nantou
+Gié-tiàng-chiă	Taxi
+Â-hài	Kinn
+Gŭ	Fruchtkörper
+Ibaraki-gâing	Präfektur Ibaraki
+Lài-gŭng	Donner
+Siĕu-sŏng	Salpetersäure
+Ngù-giāng-kó	Jeans
+Bō̤-siŏh	Schmuckstein
+Lièu-că̤ Cé-ê	Liaozhai Zhiyi
+Gáu-kuŏ-cṳ̆	Lehrbuch
+Chāu-māng	Kurzfühlerschrecken
+Diòng-chŭng	Changchun
+Milan Kundera	Milan Kundera
+Lâung	Hühnerei
+Ū-ì-săng-chê	Wuyishan
+Lĕ̤k-sé Sê̤ṳ-giông	Tian’anmen-Massaker
+Diêu Ciē-iòng	Zhao Ziyang
+Hù Iêu-băng	Hu Yaobang
+Fukuda Yasuo	Yasuo Fukuda
+Sṳ̀ng-chéu (Sṳ̀ng-báh)	Kieferngewächse
+Gī-hò̤-chiă	Zirkel
+Táng-sŏng	Kohlensäure
+Liòng-chióh	Lineal
+Chăng-màng-chṳ̄	Maulwürfe
+Dṳ̆ng-hâ Iâ cĭ Máe̤ng	Ein Sommernachtstraum
+Tié-tàu-să-hô	Barbier
+Mā-kō̤ Hók Ĭng	Evangelium nach Markus
+Diê (dông-ŭk)	Austern (Lebensmittel)
+Kaesŏng	Kaesŏng
+Hwanghae Báe̤k-dô̤	Hwanghae-pukto
+P'yŏng'an Báe̤k-dô̤	P’yŏngan-pukto
+Hamgyŏng Báe̤k-dô̤	Hamgyŏng-pukto
+Hamgyŏng Nàng-dô̤	Hamgyŏng-namdo
+P'yŏng'an Nàng-dô̤	P’yŏngan-namdo
+Namp'o	Namp’o
+Ryanggang Dô̤	Ryanggang-do
+Tò̤-huòng	Taoyuan
+Sŭk-mī	Klebreis
+Gĭng-dŭ	Präfektur Kyōto
+Ōsaka-hū	Präfektur Ōsaka
+Cék-ngṳ̀	Goldfisch
+Fukuoka-gâing	Präfektur Fukuoka
+Ehime-gâing	Präfektur Ehime
+Gŏ̤-lìng-dŏ̤, Hâiu Cṳ̆	2. Brief des Paulus an die Korinther
+Sā̤-ĭ-gĭ	Waschmaschine
+Gék	Mandarine
+Gé̤ṳ	Säge
+Yamagata-gâing	Präfektur Yamagata
+Éu-dê-huòng	Kindergarten
+Dài-uăng Hāi-hiĕk	Formosastraße
+Lù-guói	Aloen
+Yamaguchi-gâing	Präfektur Yamaguchi
+Kanagawa-gâing	Präfektur Kanagawa
+Nagano-gâing	Präfektur Nagano
+Iĕng-huă	Feuerwerk
+Mì-pŏ̤-lù	Mikrowellenherd
+Saitama-gâing	Präfektur Saitama
+Mie-gâing	Präfektur Mie
+Hĭ-báik-lài Cṳ̆	Brief an die Hebräer
+Gă-lăk-tái Cṳ̆	Brief des Paulus an die Galater
+Muàng-ngṳ̀	Aalartige
+Céng-gŏng	Jinjiang (Quanzhou)
+Siŏng-dièu	Shang-Dynastie
+Gunma-gâing	Präfektur Gunma
+Hyōgo-gâing	Präfektur Hyōgo
+Miyazaki-gâing	Präfektur Miyazaki
+Kumamoto-gâing	Präfektur Kumamoto
+Ă-cì	Singzikaden
+Koizumi Jun'ichirō	Jun’ichirō Koizumi
+Liĕk-uòng-gé-liŏk Siông	1. Buch der Könige
+Ī-sê̤ṳ-táik-cṳ̆	Buch Ester
+Diòng-dô-cṳ̆	Kohelet
+Hatoyama Yukio	Yukio Hatoyama
+Gŏ̤-lò̤-să̤ Cṳ̆	Brief des Paulus an die Kolosser
+Ngā-gáuk Cṳ̆	Brief des Jakobus
+Iók-hâng Ék Cṳ̆	1. Brief des Johannes
+Pì-lé-muòng Cṳ̆	Brief des Paulus an Philemon
+Táik-sák-lò̤-nà̤-giă, Hâiu Cṳ̆	2. Brief des Paulus an die Thessalonicher
+Táik-sák-lò̤-nà̤-giă Cièng Cṳ̆	1. Brief des Paulus an die Thessalonicher
+Bī-dáik Cièng Cṳ̆	1. Brief des Petrus
+Bī-dáik Hâiu Cṳ̆	2. Brief des Petrus
+Tì-mò̤-tái Cièng Cṳ̆	1. Brief des Paulus an Timotheus
+Dòng-lòng	Fangschrecken
+Gifu-gâing	Präfektur Gifu
+Ishikawa-gâing	Präfektur Ishikawa
+Nara-gâing	Präfektur Nara
+Wakayama-gâing	Präfektur Wakayama
+Shizuoka-gâing	Präfektur Shizuoka
+Shiga-gâing	Präfektur Shiga
+Iók-hâng Nê Cṳ̆	2. Brief des Johannes
+Iók-hâng Săng Cṳ̆	3. Brief des Johannes
+Iù-dâi Cṳ̆	Brief des Judas
+Tì-mò̤-tái Hâiu Cṳ̆	2. Brief des Paulus an Timotheus
+Tì-dŏ̤ Cṳ̆	Brief des Paulus an Titus
+Nùng-mìng	Landwirt
+Ī-sê̤ṳ-lá-cṳ̆	Buch Esra
+Nà̤-hĭ-mī-cṳ̆	Nehemia
+Iók-ngī-cṳ̆	Buch Joel
+Băh-lô	Seidenreiher
+Chŭng-cáik	Chinesisches Neujahrsfest
+Sō-siè	Schlüssel
+Abe Shinzō	Shinzō Abe
+Asō Tarō	Tarō Asō
+Séng-cṳ̆-tā̤	Ägyptische Hieroglyphen
+Niigata-gâing	Präfektur Niigata
+Yamanashi-gâing	Präfektur Yamanashi
+Shimane-gâing	Präfektur Shimane
+Toyama-gâing	Präfektur Toyama
+Okayama-gâing	Präfektur Okayama
+Piăng	Rücken
+Piĕ	Brief
+Sáik-màng	Farbenfehlsichtigkeit
+Carboniferous	Karbon
+Ciŏng-huá	Landkreis Changhua
+Fukui-gâing	Präfektur Fukui
+Ōita-gâing	Präfektur Ōita
+Tottori-gâing	Präfektur Tottori
+Nùng-lĭk	Chinesischer Kalender
+Kōchi-gâing	Präfektur Kōchi
+Uâng-iū īng-lĭk dêng-lŭk	Newtonsches Gravitationsgesetz
+Chèng-gēng	Seidenspinner
+Dài-uăng Nĭk-buōng Sì-dâi	Taiwan unter japanischer Herrschaft
+Páuk Gê̤ṳng-hiê	Park Geun-hye
+Dài-nàng	Tainan
+Cĕng	Nadel
+Muāng-cŭk	Mandschu
+Kìng-giāng	Zange
+Anna Karenina	Anna Karenina
+Tài-nè̤ng	Tötungsdelikt
+Gáung-gṳ̆ng	Bewehrungsstahl
+Tiè-mà	Weinen
+Swadesh hŏk-sĭng-sṳ̀ liĕk-biēu	Swadesh-Liste
+Dŭng-nìng-guók	Königreich Tungning
+Hùng-lìng	Landkreis Yunlin
+Diāng	Kochgeschirr
+Kă-cāi	Zehe (Fuß)
+Lāng	Speichel
+Diò-să-hô	Koch
+Bĭng-lòng	Betelnusspalme
+Dâi-céng Tiĕng-huòng	Taishō
+Băng-sièng Lā-mà	Penchen Lama
+Mŭk-gê̤ṳng	Straucheibisch
+Muòi-huă	Ume
+Cĕ̤ng-chéu	Chinesische Hanfpalme
+Muòi-kṳ̄ng	Schimmelpilz
+Gĭng-cá̤	Wirtschaft
+Sĕ̤ng-săng-giāng	Zwillinge
+Mĕ̤k-tiák	Wimper
+Nguòng-cṳ̄-bék	Kugelschreiber
+Norodom Sihanouk	Norodom Sihanouk
+Saga-gâing	Präfektur Saga
+Tokushima-gâing	Präfektur Tokushima
+Lòng-dâung	Schwarzes Bilsenkraut
+Lòi-sĭ-gā	Schraubendreher
+Kēng-muōi-dăi	Kolbenhirse
+Kagawa-gâing	Präfektur Kagawa
+Mū-dăng	Strauch-Pfingstrose
+Thaksin Shinawatra	Thaksin Shinawatra
+Uòng-dăi	Rispenhirse
+Kê	Ebenholzbäume
+Săng-guók (Dièu-siēng)	Drei Reiche von Korea
+Bék	Schreibstift
+Ŭng-dìng	Staub
+Huăng-siŏh-liù	Echte Guave
+Duâi-tàu-giáng	Lupe
+Gă-ngiê (gâing)	Landkreis Chiayi
+Ĭ-gŭng	Großeltern
+Puái-dáu	Mittag
+Huōi-căi	Brand
+Chiū-ló̤h	Handschuh
+Nagasaki-gâing	Präfektur Nagasaki
+Hâ-dièu	Xia-Dynastie
+Cá̤-nàng	Jinan
+Dṳ̆ng-guók Káung-nĭk Ciéng-cĕng	Zweiter Japanisch-Chinesischer Krieg
+Sarawak	Sarawak
+Hŭng-cūi	Feng Shui
+Chiéu	Lachen
+Ngô̤-mâng gâe̤ng Piĕng-giéng	Stolz und Vorurteil
+Oda Nobunaga	Oda Nobunaga
+Dăng-hù	Koralle
+Lī Sìng-uāng	Rhee Syng-man
+Iòng-bék-chó̤	Radiergummi
+Nàng-chiŏng	Nanchang
+Tokugawa Ieyasu	Tokugawa Ieyasu
+Bók-séu-gáung	Rostfreier Stahl
+Sáu-chiū	Besen
+Dŭk-cài	Autokratie
+Kŭng-dièu	Klimaanlage
+Diòng-să	Changsha
+Pèng	Anstrichmittel
+Mìng-dê Tiĕng-huòng	Meiji
+Kă-âu-dăng	Ferse
+Ā-mò̤-sê̤ṳ-cṳ̆	Buch Amos
+Ŏ̤-bă-dī-ā-cṳ̆	Buch Obadja
+Itō Hirobumi	Itō Hirobumi
+Nguŏh	Jade
+Dâu-hô	Tofu
+Mì-hèu	Makaken
+Mī-giă-cṳ̆	Buch Micha
+Bù-sák	Bodhisattva
+Hăk-gĭ-cṳ̆	Haggai
+Ī-să̤-giék	Ezechiel
+Chiū-biēu	Armbanduhr
+ASP.NET	ASP.NET
+Iók-nā-cṳ̆	Buch Jona
+Sabah	Sabah
+Ià-lé-mī-ăi-gŏ̤	Klagelieder Jeremias
+Tái-gáng	Eunuch
+Nàng-nìng	Nanning
+Ê-só	Mononatriumglutamat
+Nā-ŭng-cṳ̆	Nahum
+Hăk-bă-gók-cṳ̆	Habakuk
+Sák-gā-lé-ă-cṳ̆	Sacharja
+Guók-gê̤ṳng Nô̤i-ciéng	Chinesischer Bürgerkrieg
+Uŏk-nàng Gê̤ṳng-huò-guók	Südvietnam
+Chiĕu-chê	Supermarkt
+Ciŏng Cṳ̄-ì	Zhang Ziyi
+Lák-tàu	Glatze
+Gulliver Lṳ̄-hèng-gé	Gullivers Reisen
+Gŏ̤-hṳ̀ng	Kaohsiung
+Naha-chê	Naha
+Buŏk-hāi	Golf von Bohai
+Báh-chói	Gähnen
+Hâung Ṳ̄	Xiang Yu
+Putrajaya	Putrajaya
+Kŏng-mìng	Kunming
+Nĭk-guŏng-dĕng	Leuchtstofflampe
+Jane Eyre	Jane Eyre
+Johor	Johor
+Ngâung	Geistige Behinderung
+Huòi-cŭk	Hui-Chinesen
+Làng-ciŭ	Lanzhou
+Hŏ̤-să̤-cṳ̆	Hosea
+Tiék-cĭng	Rost
+Dĕ̤ng-kiĕ	Sepien
+Lìng Cáik-sṳ̀	Lin Zexu
+Săng-guók	Zeit der Drei Reiche
+Chŭng-chiŭ Sì-dâi	Zeit der Frühlings- und Herbstannalen
+Ciéng-guók Sì-dâi	Zeit der Streitenden Reiche
+Puō-ngì	Puyi
+Mā-lăk-gă	Malakka (Bundesstaat)
+Oracle	Oracle (Datenbanksystem)
+Hăk-bùi	Hefei
+Huák-lùng-gŭng	Falun Gong
+Kelantan	Kelantan
+Lŏk-iòng	Luoyang
+Toyotomi Hideyoshi	Toyotomi Hideyoshi
+Câung-cŭk	Tibeter
+Pulau Pinang	Penang
+Hamasaki Ayumi	Ayumi Hamasaki
+Să̤-huăng-ngā-cṳ̆	Buch Zefanja
+Dâi-nĭk-buōng Dá̤-guók	Japanisches Kaiserreich
+Hṳ̆ng-nù	Xiongnu
+Mâing-cṳ̄	Mengzi
+Kedah	Kedah
+Perak	Perak
+Hŏk-ôi	Akademischer Grad
+Gié-lìng	Guilin
+Terengganu	Terengganu
+Selangor	Selangor
+Iòng (dông-ŭk)	Ziegenartige
+Hāi-kāu	Haikou
+Chāu-buōng sĭk-ŭk	Krautige Pflanze
+Pahang	Pahang
+Bă-là̤ Séng-mū-iêng (Siēu-siók)	Der Glöckner von Notre-Dame
+Chiông-gì	Xiangqi
+Yun Chi-ho	Yun Chi-ho
+Gói-iòng	Guiyang
+Gáung-bék	Füllfederhalter
+Ngù Dìng-iēng	Ngô Đình Diệm
+Gô-dā̤	Vergangenheit
+Dĭng-hiŏng-kó̤	Sardellen
+Miêng	Nudel
+Hiêng-câi	Gegenwart
+Lèng-gēng	Longan
+Mì-lĕk-hŭk	Maitreya
+Guăng-ĭng	Avalokiteshvara
+Bìng-dĕ̤ng	Landkreis Pingtung
+Gēu-gī	Gemeiner Bocksdorn
+Lĕ̤k-dèu-gáuk	Rippe
+Ciŏng-bìng	Zhangping
+Ciŏng-puō	Zhangpu
+Ciéu-ăng	Zhao’an
+Dâng Sìng-gŭng	Zheng Chenggong
+Céng-huò	Zhenghe
+Ciá-ìng	Zherong
+Nguŏk-biāng	Mondkuchen
+Ciŭ Īng-kŏng	Zhou Yongkang
+Ciŭ-nìng	Zhouning
+Cṳ̆-gák Liông	Zhuge Liang
+Ció-ĭng Hù-hô̤	Zhuyin
+Pàng-hù-gâing	Landkreis Penghu
+Tù-kēng	Maulwurfsgrillen
+Dṳ̆ng-guók Ìng-mìng Gāi-huóng-gŭng	Volksbefreiungsarmee
+Sìng-ū Tiĕng-huòng	Jimmu
+Ciē-chái	Nori
+Dennis Rodman	Dennis Rodman
+È̤ng-dà	Schwarzer Tee
+Cò̤ Chó̤	Cao Cao
+Lièng-gŏng	Lianjiang (Fuzhou)
+Tài-tàu	Enthauptung
+Cūi-ngù	Bockkäfer
+Hiŏng-siàng	Xiangcheng (Zhangzhou)
+Buŏi	Fliegen (Fortbewegung)
+Ŭi-nà̤-sṳ̆ Sĕng-lī-nè̤ng	Der Kaufmann von Venedig
+Ū-ì-săng	Wuyi-Gebirge
+Ŭ-sŭ-lī-gĕ̤ng	Ussuri
+Tiĕng-huòng	Tennō
+Kăi-hŭng	Kaifeng
+Sĭng-dài-bê	Neuer Taiwan-Dollar
+Sák-mū-ngī-gé-hâiu-cṳ̆	2. Buch Samuel
+Lăk-dâi-cé-liŏk Hâ	2. Buch der Chronik
+Liĕk-uòng-gé-liŏk Hâ	2. Buch der Könige
+Mièu-cŭk	Miao
+Nguòng Sié-kāi	Yuan Shikai
+Gă-lṳ̀ng Huòng-dá̤	Gia Long
+John Wesley	John Wesley (Prediger)
+Perlis	Perlis
+Negeri Sembilan	Negeri Sembilan
+Labuan	Labuan
+Lṳ̀ng	Long (Mythologie)
+Iòng-iù-gàu	Petroleumlampe
+Cần Thơ	Cần Thơ
+Gĭng-cŭk	Vietnamesen
+Ciĕng-bò̤	Champa
+Diòng-gáu-sê̤ṳ	Missionar
+Uōng-dâi Cièng-tiàng	Große Erwartungen (Roman)
+Niōng-bēng	Decke (Bauteil)
+Rasŏn	Rasŏn
+Guăng Ṳ̄	Guan Yu
+Ŭ-gŭi	Schildkröten
+Tá̤	Schublade
+Gê̤ṳng-huò-dōng	Republikanische Partei (Begriffsklärung)
+Bō̤-dâi Huòng-dá̤	Bảo Đại
+Siê-iù	Sojasauce
+Ŭ-lṳ̀ng-dà	Oolong
+Huōi-lṳ̀ng-guō	Drachenfrucht
+Gê̤ṳng-sāng-dōng	Kommunistische Partei
+Chái Ĭng-ùng	Tsai Ing-wen
+Băh-cṳ̄ng-nè̤ng	Europid
+Ŏ̤-mì-tò̤-hŭk	Amitabha
+Ngiè-làng	Landkreis Yilan
+Ciŭ Giĕk-lùng	Jay Chou
+Orhan Pamuk	Orhan Pamuk
+Hà-puō	Xiapu
+Carpineto Romano	Carpineto Romano
+Ngū-dâi Sĕk-guók	Fünf Dynastien und Zehn Reiche
+Cō̤	Chinesische Jujube
+Tā̤-ṳ̆k	Sportunterricht
+Sĭng-báe̤k	Neu-Taipeh
+Dài-dṳ̆ng	Taichung
+Làu Bê	Liu Bei
+Huă-lièng	Landkreis Hualien
+Gĭng-muòng	Kinmen
+Dài-dĕ̤ng	Landkreis Taitung
+Sĭng-dé̤ṳk (chê)	Hsinchu
+Gă-ngiê (chê)	Chiayi
+Giĕ-lè̤ng	Keelung
+Jun Ji-hyun	Jun Ji-hyun
+Ngiè	Hausgans
+Dièu-siēng Gŏ̤-cŭng	Gojong
+Hók-chiăng	Fuqing
+Gáuk-gáuk	Knochen
+Amuro Namie	Namie Amuro
+Diêng-tù	Batterie (Elektrotechnik)
+Gê̤ṳ-gê̤ṳ	Unterarmgehstütze
+Nakashima Mika	Mika Nakashima
+Hù-lì-mà	Feuerwiesel
+Gŏ̤-ák-guŏ	Schnellkochtopf
+Chagang Dô̤	Chagang-do
+Óng-chái	Wasserspinat
+Ké̤ṳk-siăh	Bettler
+Sŏng-ngù	Wu-Dynastie
+Băh-cŭk	Bai
+Mùi-liĕk	Meilie
+Gū-săng	Gu Shan
+Â-dáu	Nachmittag
+Huòng Tái-gĭk	Huang Taiji
+Guŏng-sê̤ṳ Huòng-dá̤	Guangxu
+Alan Dawa Dolma	Alan Dawa Dolma
+Takeshi Kaneshiro	Takeshi Kaneshiro
+Sông-dê Huòng-dá̤	Shunzhi
+Nū-ī-hăk-cà̤	Nurhaci
+Iòng-muòi	Myrica rubra
+Sŏng Guòng	Sun Quan
+Cò̤ Pī	Cao Pi
+Ciōng Gĭng-guók	Chiang Ching-kuo
+Uòng Mì	Wang Wei
+Lī Dĕng-hŭi	Lee Teng-hui
+Ṳ̆ng-céng Huòng-dá̤	Yongzheng
+Dùng-dê Huòng-dá̤	Tongzhi
+Dŭng-huòng	Dunhuang
+Să-mŏk	Erg (Sahara)
+Hiŏng-iòng-guă	Chayote
+Uòng Ăng-sĭk	Wang Anshi
+Tokugawa Yoshimune	Tokugawa Yoshimune
+Săng-ā	Sanya (Hainan)
+Dài-uăng Mìng-ciō-guók	Republik Formosa
+Seo Jae-pil	Philip Jaisohn
+Guók-ngṳ̄	Nationalsprache
+Sṳ̆k-háng	Shu Han
+Cò̤-ngôi	Wei-Dynastie
+Hiŏng-gŭ	Shiitake
+Mŭk-ngī	Judasohr
+Sā̤-tŏng	Badekultur
+Gă-kéng Huòng-dá̤	Jiaqing
+Páuk Hièng-īng	Pak Hon-yong
+Dièu-siēng Sié-cū	Sejo
+Dô̤-guŏng Huòng-dá̤	Daoguang
+Hièng-hŭng Huòng-dá̤	Xianfeng
+Hùng Séu-ciòng	Hong Xiuquan
+Gĭng-kiŏk	Peking-Oper
+Bău Cīng	Bao Zheng
+Báik-guá	Acht Trigramme
+Sṳ̆-mā Hé	Sima Yi
+Áng-pŭng	Juwelwespe
+Hŭng-sṳ̆k	Konvention
+Ièu-cŭk	Yao
+Biék	Weichschildkröten
+Dièu-siēng Tái-cū	Taejo
+Báik-nguŏk-cáik	Mondfest
+Guŏng-Dṳ̆ng Huòng-dá̤	Nguyễn Huệ
+Lò̤ Giĕk-sôi	Jerry Norman
+Ngà̤ Táuk-sĭng	Watchman Nee
+Liŏh-chiông-gĭ	Videorekorder
+Dâng-chái	Mytilidae
+Gā-cō̤	Flöhe
+Mā-tái Hók Ĭng	Evangelium nach Matthäus
+Sĕk-cê-gá	Kreuz (Christentum)
+Tè̤ng-chō̤	Chinesischer Raupenpilz
+Ī-hók-sū Cṳ̆	Brief des Paulus an die Epheser
+Sìng	Sing
+Mā-cū (Sìng)	Mazu
+Mìng	Ming (Begriffsklärung)
+Uŏk-nàng Gê̤ṳng-sāng-dōng	Kommunistische Partei Vietnams
+Kū-guă	Bittermelone
+Mìng-miâng Huòng-dá̤	Minh Mạng
+Chék Gié-guŏng	Qi Jiguang
+Dĭk Ìng-giĕk	Di Renjie
+Dṳ̆ng-huà Mìng-guók Guók-gŭng	Streitkräfte der Republik China
+Ì-cŭk	Yi (Volk)
+Dâing Lâ̤-gŭng	Teresa Teng
+Mìng-sìng Huòng-hâiu	Myeongseong
+Natsukawa Rimi	Rimi Natsukawa
+Lṳ̄ Séu-lièng	Annette Lu
+Sê̤ṳ-dáik Huòng-dá̤	Tự Đức
+Lìng Hŭi-ĭng	Lin Huiyin
+Cṳ̀-ciŏng	Keramikfliese
+Ngù Săng-gié	Wu Sangui
+Hĭng-sŏng Dâi-iêng-gŭng	Daewon-gun
+Gŏ̤ Dé-sêng	Gao Zhisheng
+Dêu-uòng	Di Xin
+Hàng Hàng	Han Han
+Hók-ciŭ Dâi-hŏk	Fuzhou-Universität
+Huăng-giāng	Ausländer
+Tiăng-dŏng	Wohnzimmer
+Ók-dāu	Bügeleisen
+Liŏh-dà	Grüner Tee
+Liŏh-dâu	Mungbohne
+Dièu-siēng-cŭk	Koreaner
+Yu Kil-chun	Yu Gil-jun
+Mò̤-bék	Schreibpinsel
+Páuk Hông-ciŏ	Pak Pong-ju
+Hŭk-dáng Dâi-hŏk	Fudan-Universität
+Kŭmgang-săng Guăng-guŏng Dê-kṳ̆	Touristenregion Kŭmgang-san
+Hòng-ciŭ Să̤-hù	Westsee
+Gă-săk-giāng	Kleinstwagen
+Gái-chái	Brauner Senf
+Siông-hāi Gău-tŭng Dâi-hŏk	Jiaotong-Universität Shanghai
+Bù-sìng	Echte Fliegen
+Diŏng Hiēu-kĭng	Tiong Hiew King
+Ciū-ciòng	Jiuquan
+Hŭ-huò-hô̤-dĕk	Hohhot
+Ngù Chĭng-nguòng	Go Seigen
+Hà-iù	Fischsauce
+Băh-ngiê	Termiten
+Băh-uâ-cê	Pe̍h-ōe-jī
+Ngièng Hók	Yan Fu
+Páu-diông	Knallkörper
+Hṳ̆ng-dòng	Thorax
+Mā-cū (Dō̤)	Matsu-Inseln
+Ăng-kă̤	Anxi (Quanzhou)
+Să̤-cŏng	Anzug
+Ìng-cṳ̄	Menschensohn
+Hiroshima-gâing	Präfektur Hiroshima
+Chiēng-cāi	Finger
+Hwanghae Nàng-dô̤	Hwanghae-namdo
+Hók-tīng	Fuding
+Siĕu-ciū	Baijiu
+Dùng-cé	Genosse
+Gióng-iòng	Jianyang (Nanping)
+Mìng-kă̤	Mingxi
+Guōng-guă	Wachskürbis
+Hùng-siĕu	Yunxiao
+Káh-gă	Hakka
+Bâng-ā	Stummheit
+Nàng-gĭng Dâi-hŏk	Universität Nanjing
+Chék-nguŏk-buáng	Geisterfest
+Hù-siŭ	Ostasiatischer Schlammpeitzger
+Huò-sĭng	Heshen
+Bō̤-sĕng Dâi-dá̤	Baosheng Dadi
+Siĕ Lòng	Shi Lang
+Tái-sông	Taishun
+Chŏng-nàng	Cangnan
+Mìng-nàng-nè̤ng	Hoklo
+Lī Siòng-sêu	Witness Lee
+Ngṳ̀-uòng	Fiskeboller
+Lìng Sĕng	Lin Sen
+Siĕ Mìng-dáik	Shih Ming-teh
+Dièu-siēng Buáng-dō̤ lĭk-sṳ̄	Geschichte Koreas
+Cáe̤ng	Zongzi
+Sinŭiju Dĕk-biék Hèng-céng-kṳ̆	Besondere Verwaltungsregion Sinŭiju
+Dìng Gīng-ê̤ṳng	Chen Jingrun
+Hók-gióng tū-làu	Tulou
+Chĭng-mìng	Qingming-Fest
+Nê-hù	Erhu
+Pū-tŭng-uâ	Hochchinesisch
+Siă-cŭk	She
+Mē̤ng-giāng	Schmetterlingsmücken
+Mĭk-pŭng	Echte Bienen
+Okinawa-gâing	Präfektur Okinawa
+Diòng-lŏ̤h	Changle
+Nàng-ā	Südasien
+Gióng-nìng	Jianning
+Gŭng-sĭ	Personenvereinigung
+Tŏng-diè-dáing	Badehaus
+Tì-kŭ	Japanische Makrele
+Ŭ-cṳ̄ng-nè̤ng	Schwarze
+Nàng-uŏk-guók	Nan-Yue
+Chèng-chṳ̄	Wühlmäuse
+Kiŏng-cŭk	Qiang
+Chèng	Kulturboden
+Wiki Bô-lâung-diòng	Wikipedia:Enzyklopädie/Wikimedia Incubator
+Nà̤-gŭ	Bhikkhuni
+Bĭng-dê̤ṳ	Wassereis (Lebensmittel)
+Wikipedia:Sū-iū ngṳ̄-ngiòng bēng-buōng gì Wikipedia	Wikipedia:Sprachen
+Ngṳ̆k-huòng-dâi-dá̤	Yu Di
+Chiók	Trinken
+À̤-liák	Pantoffel
+Lī-dièu	Kaiser der Lý-Dynastie
+Cé̤ṳk	Reis-Congee
+Mìng-ciō Céng-buô-dōng	Demokratische Fortschrittspartei
+Ì-cô̤-hūng	Waschmittel
+Pàng-hù Gùng-dō̤	Penghu-Inseln
+Hāi-chŏng	Haicang
+Muōi-sì	Wasserkastanie
+Dĕ̤ng-săng	Dongshan (Zhangzhou)
+Cĭk-mī	Jimei
+Mìng-gĕ̤ng	Min Jiang (Fujian)
+Dùng-ăng	Tong’an
+Dài-gĕ̤ng	Taijiang (Fuzhou)
+Lṳ̀ng-hāi	Longhai
+Siŏh-săi	Shishi (Quanzhou)
+Siòng-ăng	Xiang’an
+Mìng-âu	Minhou
+Siêu-ū	Shaowu
+Ôi	Magen
+Chŏng-săng	Cangshan (Fuzhou)
+Ciŭ Ū-uòng	Wu (Zhou-König)
+Diòng-tái	Changtai
+Diòng-tĭng	Changting
+Cṳ̆-dó̤h	Schreibtisch
+Siàng-siŏng	Chengxiang
+Chèng-lòi	Sumpfdeckelschnecken
+Lī-siàng	Licheng (Quanzhou)
+Ciòng-gē̤ng	Quangang
+Sô̤i	Sitzen
+Siĕu	Dizi (Instrument)
+Sêu-nìng	Shouning
+Káh-dièu	Spielverhalten
+Lŏk-gŏng	Luojiang (Quanzhou)
+Â-muòng Dâi-hŏk	Xiamen-Universität
+Dô̤-sê̤ṳ	Daoshi
+Kŭ-chèng	Gutian
+Dâi-dièng	Datian
+Dáik-huá	Dehua
+Huà-ăng	Hua’an
+Nìng-huá	Ninghua
+Iù-kă̤	Youxi
+Chĭng-liù	Qingliu
+Să-gâing	Sha (Sanming)
+Gāi-gáik Kăi-huóng	Reform- und Öffnungspolitik
+Lièng-siàng	Liancheng
+Sông-chiŏng-gâing	Shunchang
+Lò̤-nguòng	Luoyuan
+Bìng-nàng	Pingnan (Ningde)
+Bìng-tàng	Pingtan
+Nàng-ăng	Nan’an (Quanzhou)
+Dṳ̀-huák	Division (Mathematik)
+Hù-lù	Flaschenkürbis
+Ciŏng-lŏk	Jiangle
+Diêng-dĕng	Leuchtmittel
+Tiék-guăng-ĭng	Tieguanyin
+Hù-lī	Huli
+Īng-dêng	Yongding (Longyan)
+Sṳ̀ Cài-hâiu	Xu Caihou
+Céng-ăng	Jin’an (Fuzhou)
+Gū-làu	Gulou (Fuzhou)
+Séu-sê̤ṳ	Xiuyu
+Īng-chŭng	Yongchun
+Ciĕu-siàng	Jiaocheng (Ningde)
+Siĕng-iù	Xianyou
+Iòng-bìng-kṳ̆	Yanping
+Sĭng-lò̤-kṳ̆	Xinluo
+Puō-siàng	Pucheng (Nanping)
+Săng-nguòng	Sanyuan (Sanming)
+Hàng-gŏng	Hanjiang (Putian)
+Hŭng-dĕk	Fengze
+Lié-siàng	Licheng (Putian)
+Siông-hòng-gâing	Shanghang
+Sṳ̀ng-kă̤-gâing	Songxi
+Ū-bìng	Wuping
+Nàng-cêng	Nanjing (Zhangzhou)
+Chŭng-hŭng	Frühlingsanfang
+Hók-ăng	Fu’an
+Mìng-chiăng	Minqing
+Gióng-ĕu	Jian’ou
+Mā-muōi	Mawei
+Īng-tái	Yongtai (Fuzhou)
+Lṳ̀ng-ùng	Longwen
+Sṳ̆-mìng	Siming
+Hiê-ăng	Hui’an
+Bìng-huò	Pinghe
+Tái-nìng	Taining
+Guŏng-dĕk	Guangze
+Īng-ăng	Yong’an
+Ùng-dé̤ṳk	Feder-Spargel
+分類:Dáik-guók	Kategorie:Deutschland
+分類:É-dâi-lé	Kategorie:Italien
+分類:Mī-guók	Kategorie:Vereinigte Staaten
+分類:Ngò̤-lò̤-sṳ̆	Kategorie:Russland
+分類:Dṳ̆ng-guók	Kategorie:China
+分類:Nĭk-buōng	Kategorie:Japan
+分類:Ó̤-ciŭ	Kategorie:Australien
+Iĕk-cūi-ké	Warmwasser
+分類:Éng-nà̤	Kategorie:Indonesien
+分類:Hàng-guók	Kategorie:Südkorea
+分類:Tái-guók	Kategorie:Thailand
+分類:Uŏk-nàng	Kategorie:Vietnam
+分類:Buô-ṳ̄ dông-ŭk	Kategorie:Säugetiere
+分類:Cēu	Kategorie:Vögel
+分類:Cĭng-kṳ̄ng	Kategorie:Pilze
+分類:Sĭk-ŭk	Kategorie:Pflanzen
+分類:Ŭk-lī	Kategorie:Physik
+分類:Huá-hŏk	Kategorie:Chemie
+分類:Lĭk-sṳ̄	Kategorie:Geschichte
+分類:Dê-lī	Kategorie:Geographie
+分類:Siâ-huôi	Kategorie:Gesellschaft
+分類:Mī-sŭk	Kategorie:Bildende Kunst
+分類:Cŭng-gáu	Kategorie:Religion
+分類:Tā̤-ṳ̆k	Kategorie:Sport
+分類:Kuŏ-hŏk	Kategorie:Wissenschaft
+分類:Gióng-dé̤ṳk-ŭk	Kategorie:Bauwerk
+Gū Lò̤-mā	Römisches Reich
+Liù-giāng	Körbchenmuscheln (Familie)
+Mìng-uŏk	Min-Yue
+Cūi-kì	Nacktschnecke
+分類:Sĕng-tái	Kategorie:Ökologie
+Sák-mū-ngī-gé-cièng-cṳ̆	1. Buch Samuel
+分類:Disambig	Kategorie:Begriffsklärung
+分類:Diék-hŏk	Kategorie:Philosophie
+分類:Sĭng-lī	Kategorie:Psychologie
+分類:Hŭk-gáu	Kategorie:Buddhismus
+分類:Gĭ-dók-gáu	Kategorie:Christentum
+分類:Ĭ-sṳ̆-làng-gáu	Kategorie:Islam
+分類:Iù-tái-gáu	Kategorie:Judentum
+Tiĕng-cĭng Dâi-hŏk	Tianjin-Universität
+Dĭ-dă	Suona
+Hô-dê̤ṳ	Yuba
+Gùng	Rock (Kleidung)
+Cháe̤	Schwammkürbis
+Tuyên Quang	Tuyên Quang (Provinz)
+Iraq gâe̤ng Levant Ĭ-sṳ̆-làng-guók	Islamischer Staat (Organisation)
+Ì-ngṳ̄	Yi (Sprache)
+Tău-dò̤-nó̤h	Diebstahl
+Ciĕ-muài	Sesam
+Abu Bakr al-Baghdadi	Abu Bakr al-Baghdadi
+分類:Ùng-huá	Kategorie:Kultur
+分類:Dê-cék	Kategorie:Geologie
+Dìng-dièu	Tran-Dynastie
+Wikipedia:Dŏng-nièng gĭng-dáng	Wikipedia:Hauptseite/Jahrestage
+模板:Tái-iòng-hiê	Vorlage:Navigationsleiste Sonnensystem
+Ciē-sáik	Purpur (Farbe)
+Gâng	Schweiß
+Duâi-tàu-chái	Speiserübe
+Huăng-siông	Mango
+分類:Dáik-guók ìng-ŭk	Kategorie:Deutscher
+分類:Mī-guók ìng-ŭk	Kategorie:US-Amerikaner
+分類:Iēng-uòng	Kategorie:Schauspieler
+分類:Ĭng-guók ìng-ŭk	Kategorie:Brite
+分類:Huák-guók ìng-ŭk	Kategorie:Franzose
+模板:Chess diagram	Vorlage:Schachbrett
+Wikipedia:Hèng-céng Ìng-uòng	Wikipedia:Administratoren
+分類:Dṳ̆ng-guók mìng-cŭk	Kategorie:Ethnie in China
+分類:Ìng-ŭk	Kategorie:Person
+分類:Cék-ngiĕk	Kategorie:Beruf
+Wikipedia:Gĭ-ké-nè̤ng	Wikipedia:Bots
+分類:Sì-găng	Kategorie:Zeit
+分類:Gĕ̤ng-tiàng	Kategorie:Ingenieurwissenschaft
+分類:Cài-lâiu	Kategorie:Material
+分類:Ĭ-hŏk	Kategorie:Medizin
+分類:Céng-dê	Kategorie:Politik
+分類:Gáu-ṳ̆k	Kategorie:Bildung
+Ăi-gĭk	Ägypten
+模板:Bot	Vorlage:Bot
+Gă-nā-dâi	Kanada
+分類:Iù-hié	Kategorie:Spiel
+分類:Ĕu-ciŭ guók-gă	Kategorie:Staat in Europa
+分類:Ĕu-ciŭ	Kategorie:Europa
+模板:Documentation	Vorlage:Dokumentation
+分類:Ê̤ṳng-hô	Kategorie:Benutzer:nach Sprache
+模板:Softredirect	Vorlage:Interwiki redirect
+Wikipedia:維基數據	Wikipedia:Wikidata
+模板:Chēng	Vorlage:Löschen
+分類:Ngṳ̄-ngiòng	Kategorie:Einzelsprache als Thema
+分類:Lĭk-huák	Kategorie:Kalender
+分類:Wikipedia	Kategorie:Wikipedia
+Wikipedia:Mò̤ hô-cáik sĭng-mìng	Wikipedia:Impressum
+模板:!-	Vorlage:!-
+模板:Smallcaps	Vorlage:Kapitälchen
+模板:Nowrap	Vorlage:Nowrap
+Wikipedia:Ék-chiék Wikipedia dŭ găi-dŏng ô gì ùng	Wikipedia:Artikel, die es in allen Wikipedias geben sollte
+分類:Hĭ-ciŭ	Kategorie:Afrika
+模板:Wikisource	Vorlage:Wikisource
+模板:Babel	Vorlage:Babel
+模板:Commons	Vorlage:Commons
+Wikipedia:列明來源	Wikipedia:Literatur
+模板:User eo-1	Vorlage:User eo-1
+模板:User eo-3	Vorlage:User eo-3
+模板:User de	Vorlage:User de
+模板:User de-1	Vorlage:User de-1
+模板:User es	Vorlage:User es
+模板:User de-3	Vorlage:User de-3
+模板:User en-3	Vorlage:User en-3
+模板:User en-1	Vorlage:User en-1
+模板:User en-2	Vorlage:User en-2
+模板:User eo-2	Vorlage:User eo-2
+模板:User en-4	Vorlage:User en-4
+模板:User en	Vorlage:User en
+模板:User de-2	Vorlage:User de-2
+模板:User es-1	Vorlage:User es-1
+模板:User fr-1	Vorlage:User fr-1
+模板:User it-3	Vorlage:User it-3
+模板:User fr-2	Vorlage:User fr-2
+模板:User ja	Vorlage:User ja
+模板:User ja-1	Vorlage:User ja-1
+模板:User it-1	Vorlage:User it-1
+模板:User fr	Vorlage:User fr
+分類:Ā-ciŭ	Kategorie:Asien
+分類:Nàng Mī-ciŭ	Kategorie:Südamerika
+分類:Mā-lài-să̤-ā	Kategorie:Malaysia
+模板:Mod	Vorlage:Modulo
+模板:User it	Vorlage:User it
+模板:User es-2	Vorlage:User es-2
+模板:Huăng-ngìng	Vorlage:Willkommen
+分類:Dièu-lâiu	Kategorie:Würzmittel
+模板:Click	Vorlage:Click
+分類:User fr-1	Kategorie:User fr-1
+模板:Image label	Vorlage:Image label
+模板:Wiki gĕ̤ng-tiàng	Vorlage:Navigationsleiste Wikimedia-Projekte
+模板:Steady	Vorlage:Unverändert
+模板:Guók-gă	Vorlage:Infobox Staat
+模板:Cite journal	Vorlage:Cite journal
+模板:Infobox 公司	Vorlage:Infobox Unternehmen
+模板:Wikibooks	Vorlage:Wikibooks
+模板:Hō̤ gì ùng-ciŏng	Vorlage:Exzellent
+分類:User en-4	Kategorie:User en-4
+分類:User en	Kategorie:User en
+分類:User zh	Kategorie:User zh
+分類:User zh-M	Kategorie:User zh-M
+分類:User en-2	Kategorie:User en-2
+模板:Infobox	Vorlage:Infobox
+模板:User eo	Vorlage:User eo
+模板:User zh	Vorlage:User zh
+分類:Gáuk-guók gì lĭk-sṳ̄	Kategorie:Geschichte nach Staat
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 23 hô̤	Wikipedia:Hauptseite/Jahrestage/September/23
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 22 hô̤	Wikipedia:Hauptseite/Jahrestage/September/22
+模板:Legend	Vorlage:Farblegende
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 17 hô̤	Wikipedia:Hauptseite/Jahrestage/September/17
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 15 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/15
+模板:Cite web	Vorlage:Cite web
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 28 hô̤	Wikipedia:Hauptseite/Jahrestage/September/28
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 22 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/22
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 2 hô̤	Wikipedia:Hauptseite/Jahrestage/November/2
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 9 hô̤	Wikipedia:Hauptseite/Jahrestage/November/9
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 1 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/1
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 5 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/5
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 8 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/8
+分類:Īng-sĭk	Kategorie:Essen und Trinken
+模板:MongolUnicode	Vorlage:MongolUnicode
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 6 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/6
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 17 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/17
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 2 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/2
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 16 hô̤	Wikipedia:Hauptseite/Jahrestage/September/16
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 19 hô̤	Wikipedia:Hauptseite/Jahrestage/September/19
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 25 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/25
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 10 hô̤	Wikipedia:Hauptseite/Jahrestage/November/10
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 21 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/21
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 15 hô̤	Wikipedia:Hauptseite/Jahrestage/September/15
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 4 hô̤	Wikipedia:Hauptseite/Jahrestage/September/4
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 8 hô̤	Wikipedia:Hauptseite/Jahrestage/September/8
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 4 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/4
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 1 hô̤	Wikipedia:Hauptseite/Jahrestage/September/1
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 6 hô̤	Wikipedia:Hauptseite/Jahrestage/September/6
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 25 hô̤	Wikipedia:Hauptseite/Jahrestage/September/25
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 10 hô̤	Wikipedia:Hauptseite/Jahrestage/September/10
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 26 hô̤	Wikipedia:Hauptseite/Jahrestage/September/26
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 20 hô̤	Wikipedia:Hauptseite/Jahrestage/September/20
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 4 hô̤	Wikipedia:Hauptseite/Jahrestage/November/4
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 30 hô̤	Wikipedia:Hauptseite/Jahrestage/September/30
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 7 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/7
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 19 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/19
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 27 hô̤	Wikipedia:Hauptseite/Jahrestage/September/27
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 11 hô̤	Wikipedia:Hauptseite/Jahrestage/September/11
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 8 hô̤	Wikipedia:Hauptseite/Jahrestage/November/8
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 1 hô̤	Wikipedia:Hauptseite/Jahrestage/November/1
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 7 hô̤	Wikipedia:Hauptseite/Jahrestage/November/7
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 11 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/11
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 3 hô̤	Wikipedia:Hauptseite/Jahrestage/November/3
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 20 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/20
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 16 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/16
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 14 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/14
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 18 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/18
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 24 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/24
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 3 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/3
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 7 hô̤	Wikipedia:Hauptseite/Jahrestage/September/7
+分類:Săng	Kategorie:Berg
+模板:IPA	Vorlage:IPA-Text
+分類:Céng-dê-gă	Kategorie:Politiker
+分類:Mī-ciŭ	Kategorie:Amerika
+分類:Gáuk-guók gì ìng-ŭk	Kategorie:Person nach Staatsangehörigkeit
+分類:Gŭng-sê̤ṳ	Kategorie:Militärwesen
+模板:Increase	Vorlage:Gestiegen
+模板:Ciŭ-gĭ-biēu	Vorlage:Navigationsleiste Periodensystem
+模板:User nl	Vorlage:User nl
+模板:Infobox 網站	Vorlage:Infobox Website
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 12 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/12
+模板:Decrease	Vorlage:Gefallen
+模板:User no-2	Vorlage:User no-2
+模板:Image label end	Vorlage:Image label end
+模板:Documentation subpage	Vorlage:Dokumentation/Dokuseite
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 5 hô̤	Wikipedia:Hauptseite/Jahrestage/November/5
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 13 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/13
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 3 hô̤	Wikipedia:Hauptseite/Jahrestage/September/3
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 24 hô̤	Wikipedia:Hauptseite/Jahrestage/September/24
+模板:Purge	Vorlage:Purge
+模板:Lang-la	Vorlage:LaS
+分類:Cìng-gāng	Kategorie:Emotion
+模板:Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók Hèng-céng-kṳ̆	Vorlage:Navigationsleiste Administrative Gliederung Volksrepublik China
+模板:Userpage	Vorlage:Wikipedia-Benutzer
+模板:Non-free logo	Vorlage:Bild-LogoSH
+模板:User	Vorlage:Benutzer
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 12 hô̤	Wikipedia:Hauptseite/Jahrestage/September/12
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 2 hô̤	Wikipedia:Hauptseite/Jahrestage/September/2
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk 6 hô̤	Wikipedia:Hauptseite/Jahrestage/November/6
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 18 hô̤	Wikipedia:Hauptseite/Jahrestage/September/18
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 10 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/10
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 9 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/9
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk 23 hô̤	Wikipedia:Hauptseite/Jahrestage/Oktober/23
+模板:Image label small	Vorlage:Image label small
+模板:User fr-3	Vorlage:User fr-3
+分類:User ja-M	Kategorie:User ja-M
+模板:Gì-ngiê	Vorlage:Begriffsklärung
+分類:Dièu-siēng lĭk-sṳ̄	Kategorie:Koreanische Geschichte
+模板:User no-3	Vorlage:User no-3
+模板:User nan	Vorlage:User zh-min-nan
+模板:User nan-1	Vorlage:User zh-min-nan-1
+模板:User ksh	Vorlage:User ksh
+模板:User yue-3	Vorlage:User zh-yue-3
+模板:AUS	Vorlage:AUS
+模板:User yue-1	Vorlage:User zh-yue-1
+模板:Lang-en	Vorlage:EnS
+分類:Sĕng-ŭk	Kategorie:Lebewesen
+Wikipedia:Dŏng-nièng gĭng-dáng/9 nguŏk	Wikipedia:Hauptseite/Jahrestage/September
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 14 hô̤	Wikipedia:Hauptseite/Jahrestage/September/14
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 9 hô̤	Wikipedia:Hauptseite/Jahrestage/September/9
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 13 hô̤	Wikipedia:Hauptseite/Jahrestage/September/13
+Wikipedia:Dŏng-nièng gĭng-dáng/10 nguŏk	Wikipedia:Hauptseite/Jahrestage/Oktober
+分類:User vi-3	Kategorie:User vi-3
+模板:User la-1	Vorlage:User la-1
+分類:User wuu	Kategorie:User wuu
+分類:User fr	Kategorie:User fr
+分類:User ja	Kategorie:User ja
+分類:User la	Kategorie:User la
+分類:User fr-3	Kategorie:User fr-3
+分類:User it-3	Kategorie:User it-3
+分類:User ja-3	Kategorie:User ja-3
+分類:User fr-2	Kategorie:User fr-2
+分類:User it-2	Kategorie:User it-2
+分類:User ja-2	Kategorie:User ja-2
+分類:User la-2	Kategorie:User la-2
+分類:User wuu-M	Kategorie:User wuu-M
+分類:User ko-M	Kategorie:User ko-M
+分類:User fr-M	Kategorie:User fr-M
+分類:User it-M	Kategorie:User it-M
+分類:User nl-M	Kategorie:User nl-M
+模板:User yue	Vorlage:User zh-yue
+分類:Ùng-cê	Kategorie:Schrift
+分類:Dô̤-gáu	Kategorie:Daoismus
+分類:Dō̤	Kategorie:Insel
+分類:User de	Kategorie:User de
+分類:User de-2	Kategorie:User de-2
+分類:User de-3	Kategorie:User de-3
+分類:User de-M	Kategorie:User de-M
+分類:User en-3	Kategorie:User en-3
+分類:User en-M	Kategorie:User en-M
+分類:User es	Kategorie:User es
+分類:User es-1	Kategorie:User es-1
+分類:User es-2	Kategorie:User es-2
+分類:User es-3	Kategorie:User es-3
+分類:User es-M	Kategorie:User es-M
+分類:Chió	Kategorie:Bauform (Wohngebäude)
+分類:User it	Kategorie:User it
+分類:User it-1	Kategorie:User it-1
+分類:User ja-1	Kategorie:User ja-1
+分類:User ko	Kategorie:User ko
+分類:Mī-guók gì ciŭ	Kategorie:Bundesstaat der Vereinigten Staaten
+分類:User ko-1	Kategorie:User ko-1
+分類:User ko-2	Kategorie:User ko-2
+分類:User ko-3	Kategorie:User ko-3
+分類:User ksh	Kategorie:User ksh
+分類:User ksh-M	Kategorie:User ksh-M
+分類:User la-1	Kategorie:User la-1
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 29 hô̤	Wikipedia:Hauptseite/Jahrestage/September/29
+分類:User la-3	Kategorie:User la-3
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 5 hô̤	Wikipedia:Hauptseite/Jahrestage/September/5
+模板:Information	Vorlage:Information
+分類:Huâng-cô̤i	Kategorie:Kriminalität
+Sáik-mō̤	Tierläuse
+分類:Séng-sék	Kategorie:Informationswissenschaft
+分類:Hāi	Kategorie:Meer
+Hŭng-siéng	Ventilator
+分類:Guōng-dĕ̤ng	Kategorie:Guangdong
+分類:Hók-gióng	Kategorie:Fujian
+分類:Ciék-ciĕ dông-ŭk	Kategorie:Gliederfüßer
+分類:User nan	Kategorie:User zh-min-nan
+分類:User nan-1	Kategorie:User zh-min-nan-1
+分類:User nan-2	Kategorie:User zh-min-nan-2
+分類:User nan-3	Kategorie:User zh-min-nan-3
+分類:User nan-M	Kategorie:User zh-min-nan-M
+分類:Hĭ-ciŭ guók-gă	Kategorie:Staat in Afrika
+分類:Gáuk-guók gì gáu-ṳ̆k	Kategorie:Bildung nach Staat
+Wikipedia:Dŏng-nièng gĭng-dáng/11 nguŏk	Wikipedia:Hauptseite/Jahrestage/November
+模板:User ja-2	Vorlage:User ja-2
+模板:User ja-3	Vorlage:User ja-3
+分類:User vi	Kategorie:User vi
+分類:User vi-1	Kategorie:User vi-1
+分類:User vi-2	Kategorie:User vi-2
+分類:User vi-M	Kategorie:User vi-M
+分類:Ciék-gŏng	Kategorie:Zhejiang
+分類:Ĭng-ngŏk-gă	Kategorie:Musiker
+模板:Lang	Vorlage:Lang
+Wikipedia:Dŏng-nièng gĭng-dáng/09 nguŏk 21 hô̤	Wikipedia:Hauptseite/Jahrestage/September/21
+分類:Hŏk-sŭk	Kategorie:Akademische Bildung
+Bì-bà (ngŏk-ké)	Pipa
+分類:Gì-lôi	Kategorie:Strategiespiel
+分類:Ò̤	Kategorie:Fluss
+Cūi-siĕng	Strauß-Narzisse
+模板:User la-2	Vorlage:User la-2
+模板:User no-1	Vorlage:User no-1
+模板:User zh-1	Vorlage:User zh-1
+模板:User zh-2	Vorlage:User zh-2
+模板:User zh-3	Vorlage:User zh-3
+Nùng-mìng-gĕ̤ng	Mingong
+分類:Dâi-hàng Mìng-guók ìng-ŭk	Kategorie:Südkoreaner
+分類:Sôi-diēng ìng-ŭk	Kategorie:Schwede
+分類:Nĭk-buōng ìng-ŭk	Kategorie:Japaner
+分類:Dài-uăng ìng-ŭk	Kategorie:Taiwaner
+分類:User nl	Kategorie:User nl
+分類:User zh-1	Kategorie:User zh-1
+分類:User zh-3	Kategorie:User zh-3
+分類:User zh-2	Kategorie:User zh-2
+分類:Cāi	Kategorie:Papier
+分類:Ông-ò̤	Kategorie:Kanal
+分類:Uŏk-nàng ìng-ŭk	Kategorie:Vietnamese
+分類:Sùi-dièu huòng-dá̤	Kategorie:Kaiser der Sui-Dynastie
+分類:Sóng-dièu huòng-dá̤	Kategorie:Kaiser der Song-Dynastie
+分類:Dòng-dièu huòng-dá̤	Kategorie:Kaiser der Tang-Dynastie
+分類:Mìng-dièu huòng-dá̤	Kategorie:Kaiser der Ming-Dynastie
+分類:Ngò̤-lò̤-sṳ̆ ìng-ŭk	Kategorie:Russe
+分類:Hiŏng-gē̤ng ìng-ŭk	Kategorie:Person (Hongkong)
+分類:Ciĕk-káik ìng-ŭk	Kategorie:Tscheche
+分類:Tái-guók ìng-ŭk	Kategorie:Thailänder
+Uŏk-ngṳ̄	Kantonesische Sprache
+分類:Sáng	Kategorie:Familienname
+分類:Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók	Kategorie:Nordkorea
+分類:Dṳ̆ng-guók ìng-ŭk	Kategorie:Chinese
+分類:Dièu-siēng	Kategorie:Korea
+分類:Dài-uăng	Kategorie:Taiwan
+分類:Dièu-siēng Mìng-ciō-ciō-ngiê Ìng-mìng Gê̤ṳng-huò-guók ìng-ŭk	Kategorie:Nordkoreaner
+分類:Liù-giù-guók	Kategorie:Königreich Ryūkyū
+分類:Dâi-iòng-ciŭ guók-gă	Kategorie:Staat in Australien und Ozeanien
+分類:Báe̤k Mī-ciŭ guók-gă	Kategorie:Staat in Nordamerika
+分類:Cūi-guō	Kategorie:Obst
+分類:Niōng-tā̤ dông-ŭk	Kategorie:Weichtiere
+分類:Só-cê	Kategorie:Zahlensystem
+分類:Gióng-dé̤ṳk cài-lâiu	Kategorie:Baustoff
+分類:Dông-ŭk	Kategorie:Vielzellige Tiere
+分類:Ciáh-tùi dông-ŭk	Kategorie:Wirbeltiere
+分類:Ìng-guòng	Kategorie:Menschenrechte
+分類:Ū-ké	Kategorie:Waffe
+分類:Nàng Mī-ciŭ guók-gă	Kategorie:Staat in Südamerika
+分類:Gă-sĭ	Kategorie:Möbelstück
+分類:Ké-chiông	Kategorie:Meteorologie
+分類:Dṳ̆ng Mī-ciŭ	Kategorie:Mittelamerika
+分類:Hiŏng-gē̤ng	Kategorie:Hongkong
+分類:Ĭ-siòng	Kategorie:Kleidung
+分類:Cáik-nĭk	Kategorie:Festival
+分類:Kuàng-ciék dông-ŭk	Kategorie:Ringelwürmer
+分類:Bâng	Kategorie:Krankheit
+分類:Kiŏng-diòng dông-ŭk	Kategorie:Nesseltiere
+分類:Gùng-dō̤	Kategorie:Inselgruppe
+分類:Káh-dièu-nó̤h	Kategorie:Spielzeug
+分類:Gă-dìng	Kategorie:Familie
+分類:Dṳ̆ng-guók huòng-dá̤	Kategorie:Kaiser (China)
+分類:Huòng-dá̤	Kategorie:Kaiser
+分類:Nguòng-dièu huòng-dá̤	Kategorie:Kaiser der Yuan-Dynastie
+分類:Céng-dièu huòng-dá̤	Kategorie:Kaiser der Jin-Dynastie (265–420)
+分類:Chĭng-dièu huòng-dá̤	Kategorie:Kaiser der Qing-Dynastie
+分類:Báe̤k Mī-ciŭ	Kategorie:Nordamerika
+分類:Gŏ̤-chiū	Kategorie:Sänger
+分類:Hù	Kategorie:See
+分類:Só-hŏk-gă	Kategorie:Mathematiker
+模板:Infobox ngṳ̄-ngiòng	Vorlage:Infobox Sprache
+分類:Tiĕng-căi	Kategorie:Naturkatastrophe
+分類:Gô-dā̤ gì guók-gă	Kategorie:Historischer Staat
+Vĩnh Long	Vĩnh Long (Provinz)
+分類:Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók	Kategorie:Volksrepublik China
+Cāi-puŏi	Wellpappe
+分類:Giông-kŏng	Kategorie:Gesundheit
+分類:Sĕng-lī	Kategorie:Physiologie
+分類:Â-muòng	Kategorie:Xiamen
+Trojany	Trojany (Woiwodschaft Masowien)
+模板:Infobox color	Vorlage:Infobox Farbe
+分類:Ā-ciŭ guók-gă	Kategorie:Staat in Asien
+分類:Mī-ciŭ guók-gă	Kategorie:Staat in Amerika
+模板:User yue-2	Vorlage:User zh-yue-2
+模板:User nan-2	Vorlage:User zh-min-nan-2
+分類:Ŭng-ciŭ	Kategorie:Wenzhou
+分類:Cò̤-ngôi huòng-dá̤	Kategorie:Kaiser der Wei-Dynastie
+分類:Dṳ̆ng Mī-ciŭ guók-gă	Kategorie:Staat in Mittelamerika
+分類:Sŏng-ngù huòng-dá̤	Kategorie:Kaiser der Wu-Dynastie
+分類:Bēng-guòng	Kategorie:Urheberrecht
+分類:Biēu-cìng	Kategorie:Mimik
+分類:Hók-ciŭ	Kategorie:Fuzhou
+分類:Ôi-sĕng	Kategorie:Hygiene
+分類:Ciòng-ciŭ	Kategorie:Quanzhou
+分類:Dṳ̆ng-huà Mìng-guók	Kategorie:Republik China
+分類:Sṳ̆k-háng huòng-dá̤	Kategorie:Kaiser der Shu Han
+分類:User cdo	Kategorie:User cdo
+分類:User cdo-M	Kategorie:User cdo-M
+模板:Image label begin	Vorlage:Image label begin
+模板:Dṳ̆ng-huà Mìng-guók Hèng-céng-kṳ̆	Vorlage:Navigationsleiste Verwaltungsgliederung der Republik China
+Ĭ-mā	Großmutter
+分類:Sĕng-uăk	Kategorie:Alltagskultur
+模板:User vi	Vorlage:User vi
+分類:User en-1	Kategorie:User en-1
+分類:User de-1	Kategorie:User de-1
+分類:Gă-sĭ-huă	Kategorie:Werkzeug
+Lăk-dâi-cé-liŏk Siông	1. Buch der Chronik
+Wikipedia:失效鏈接	Wikipedia:Defekte Weblinks
+Liù-giù	Ryūkyū-Inseln
+模板:User nan-3	Vorlage:User zh-min-nan-3
+模板:User wuu	Vorlage:User wuu
+Hāi-chái	Japanischer Blatttang
+模組:Citation/CS1/Whitelist	Modul:Citation/CS1/Whitelist
+Gŭng-ô-nguòng	Öffentlicher Dienst
+Hù-diĕk	Tagfalter
+Chái-tàu	Garten-Rettich
+分類:Buò-dièng	Kategorie:Putian
+模板:Ping	Vorlage:Antwort
+Yun Hyon-seok	Yun Hyon-seok
+特殊:最近其改變	Spezial:Letzte Änderungen
+模組:HtmlBuilder	Modul:HtmlBuilder
+Gê-nṳ̄	Hure

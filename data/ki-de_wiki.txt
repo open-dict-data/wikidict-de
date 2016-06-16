@@ -1,0 +1,435 @@
+Abĩrika	Afrika
+Japan	Japan
+Amerika ya Kuthini	Südamerika
+Ngeretha	England
+Macartsa	Ungarn
+United States	Vereinigte Staaten
+Binirandi	Finnland
+Cuindeni	Schweden
+Ndenimaki	Dänemark
+Rithuĩnia	Litauen
+Itari	Italien
+Ngiriki	Griechenland
+Takĩ	Türkei
+Wikipedia	Wikipedia
+Netharandi	Niederlande
+Los Angeles	Los Angeles
+Kenya	Kenia
+Ethiopia	Äthiopien
+Ghana	Ghana
+Baranja	Frankreich
+Esperanto	Esperanto
+China	Volksrepublik China
+Wiktionary	Wiktionary
+Brazil	Brasilien
+Racia	Russland
+Wikimedia	Wikimedia
+Jimmy Wales	Jimmy Wales
+Njĩrĩmani	Deutschland
+Azerbaijan	Aserbaidschan
+Canimarino	San Marino
+Intel	Intel
+Indonesia	Indonesien
+Abĩrika ya Kuthini	Südafrika
+Algeria	Algerien
+Mai	Wasser
+Terebiceni	Fernsehen
+Singapore	Singapur
+Wikibooks	Wikibooks
+Bahrain	Bahrain
+Armenia	Armenien
+İstanbul	Istanbul
+Australia	Australien
+Physics	Physik
+Argentina	Argentinien
+Peru	Peru
+Bayorojĩ	Biologie
+Mount Everest	Mount Everest
+Napoleon	Napoleon Bonaparte
+Hydrogen	Wasserstoff
+Helium	Helium
+Lithium	Lithium
+Beryllium	Beryllium
+Carbon	Kohlenstoff
+Nitrogen	Stickstoff
+Oxygen	Sauerstoff
+Chad	Tschad
+Sodium	Natrium
+Magnesium	Magnesium
+Aluminium	Aluminium
+Silicon	Silicium
+Phosphorous	Phosphor
+Iron	Eisen
+Potasium	Kalium
+Calcium	Calcium
+Titanium	Titan (Element)
+Ecuador	Ecuador
+Copper	Kupfer
+Mĩmera	Pflanzen
+Zinc	Zink
+Fungi	Pilze
+Jamaica	Jamaika
+Haiti	Haiti
+Iraq	Irak
+Panama	Panama
+Yemen	Jemen
+Virus	Viren
+Laos	Laos
+Malaysia	Malaysia
+Burma	Myanmar
+Pakistan	Pakistan
+Sri Lanka	Sri Lanka
+Syria	Syrien
+Thailand	Thailand
+United Arab Emirates	Vereinigte Arabische Emirate
+Platinum	Platin
+Vietnam	Vietnam
+South Korea	Südkorea
+Afghanistan	Afghanistan
+Gold	Gold
+Bangladesh	Bangladesch
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Tanzania	Tansania
+Isaac Newton	Isaac Newton
+Zimbabwe	Simbabwe
+Sũdana ya Kuthini	Südsudan
+Benin	Benin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Republic of the Congo	Republik Kongo
+Democratic Republic of the Congo	Demokratische Republik Kongo
+Djibouti	Dschibuti
+Gabon	Gabun
+Gambia	Gambia
+Côte d'Ivoire	Elfenbeinküste
+Cameroon	Kamerun
+Lesotho	Lesotho
+Madagascar	Madagaskar
+Malawi	Malawi
+Namibia	Namibia
+Nigeria	Nigeria
+Uganda	Uganda
+Rwanda	Ruanda
+Somalia	Somalia
+Julius Caesar	Gaius Iulius Caesar
+Sũdana	Sudan
+Usain Bolt	Usain Bolt
+Piemonte	Piemont
+Valle d'Aosta	Aostatal
+Emilia-Romagna	Emilia-Romagna
+Chicago	Chicago
+Uetersen	Uetersen
+Augustus	Augustus
+Campania	Kampanien
+Puglia	Apulien
+Biblia	Bibel
+Kanitha wa Jesũ wa ma	Wahre Jesus-Kirche
+Dong Hoi	Đồng Hới
+Concepción	Concepción (Chile)
+Microsoft	Microsoft
+Kemu	Chemie
+Ankara	Ankara
+Nairobi	Nairobi
+Osasco	Osasco
+Curitiba	Curitiba
+Monzón	Monzón
+Almazán	Almazán
+Bill Gates	Bill Gates
+Main Page	Wikipedia:Hauptseite
+Cipiyu	Hauptprozessor
+Penza	Pensa
+Frank Lloyd Wright	Frank Lloyd Wright
+Category:Candidates for speedy deletion	Kategorie:Wikipedia:Schnelllöschen
+Niels Bohr	Niels Bohr
+Bengi ya Thĩ	Weltbank
+Ndemookirathĩ	Demokratie
+Kĩheo ya Nobero	Nobelpreis
+Mount Kilimajaro	Kilimandscharo
+Mammal	Säugetiere
+WHO	Weltgesundheitsorganisation
+Thayathi cia ndũire	Naturwissenschaft
+Tsunami	Tsunami
+Logic	Logik
+Algorithm	Algorithmus
+Thomas Edison	Thomas Alva Edison
+Michael Faraday	Michael Faraday
+Henry Ford	Henry Ford
+Cancún	Cancún
+Atomu	Atom
+Erwin Schrodinger	Erwin Schrödinger
+Ronald Reagan	Ronald Reagan
+Metha Njokereri	Periodensystem
+Bacteria	Bakterien
+Robot	Roboter
+Macini	Maschine
+Injiniarini	Ingenieurwissenschaften
+Gatheti	Zeitung
+Microsoft obici	Microsoft Office
+Bobbio	Bobbio
+AIDS	AIDS
+Thiori ya Seti	Mengenlehre
+Abacus	Abakus (Rechenhilfsmittel)
+Piacenza	Piacenza
+Taranto	Tarent
+ISO	Internationale Organisation für Normung
+Province ya Piacenza	Provinz Piacenza
+Province ya Taranto	Provinz Tarent
+Wikipedia:Community Portal	Wikipedia:Projektdiskussion
+GPS	Global Positioning System
+Friedrich Schiller	Friedrich Schiller
+Moshchena	Moschtschena
+Paltoga	Paltoga
+Kihuruta	Schmetterlinge
+Paradigm	Paradigma
+Gĩgĩkũyũ	Kikuyu (Sprache)
+Linus Torvalds	Linus Torvalds
+Thayathi cia social	Sozialwissenschaften
+İzmir	Izmir
+Siligo	Siligo
+Markup languages	Auszeichnungssprache
+IBM	IBM
+John Michael Talbot	John Michael Talbot
+Mawatho matano ma Newton	Newtonsche Gesetze
+Radio Studio 54 Network	Radio Studio 54 Network
+Neural networks	Neuronales Netz
+Montehermoso	Montehermoso
+Ford	Ford
+Template:Commonscat	Vorlage:Commonscat
+Toyota	Toyota
+Cartesian Coordinates	Kartesisches Koordinatensystem
+Agazzano	Agazzano
+Alseno	Alseno
+Besenzone	Besenzone
+Bettola	Bettola
+Borgonovo Val Tidone	Borgonovo Val Tidone
+Cadeo	Cadeo
+Calendasco	Calendasco
+Caminata	Caminata
+Caorso	Caorso
+Carpaneto Piacentino	Carpaneto Piacentino
+Castel San Giovanni	Castel San Giovanni
+Castell'Arquato	Castell’Arquato
+Castelvetro Piacentino	Castelvetro Piacentino
+Cerignale	Cerignale
+Coli	Coli (Emilia-Romagna)
+Corte Brugnatella	Corte Brugnatella
+Cortemaggiore	Cortemaggiore
+Farini	Farini (Emilia-Romagna)
+Ferriere	Ferriere
+Fiorenzuola d'Arda	Fiorenzuola d’Arda
+Gazzola	Gazzola
+Gossolengo	Gossolengo
+Gragnano Trebbiense	Gragnano Trebbiense
+Gropparello	Gropparello
+Lugagnano Val d'Arda	Lugagnano Val d’Arda
+Monticelli d'Ongina	Monticelli d’Ongina
+Morfasso	Morfasso
+Nibbiano	Nibbiano
+Ottone	Ottone (Emilia-Romagna)
+Pecorara	Pecorara
+Pianello Val Tidone	Pianello Val Tidone
+Piozzano	Piozzano
+Podenzano	Podenzano
+Ponte dell'Olio	Ponte dell’Olio
+Pontenure	Pontenure
+Rivergaro	Rivergaro
+Rottofreno	Rottofreno
+San Giorgio Piacentino	San Giorgio Piacentino
+San Pietro in Cerro	San Pietro in Cerro
+Sarmato	Sarmato
+Travo	Travo
+Vernasca	Vernasca
+Vigolzone	Vigolzone
+Villanova sull'Arda	Villanova sull’Arda
+Zerba	Zerba
+Ziano Piacentino	Ziano Piacentino
+RFID	RFID
+Cybernetics	Kybernetik
+Bioinformatics	Bioinformatik
+Euclidean Geometry	Euklidische Geometrie
+Macini ya Turing	Turingmaschine
+Silicon Valley	Silicon Valley
+Maywood	Maywood (Illinois)
+Kĩrĩnyaga	Mount-Kenya-Massiv
+Boolean Logic	Boolesche Algebra
+Jomo Kenyatta	Jomo Kenyatta
+Thomas Kuhn	Thomas S. Kuhn
+Fujitsu	Fujitsu
+Ũramati ũũgĩ	Wissensmanagement
+Tectonics	Tektonik
+Banovci (Nijemci)	Banovci (Nijemci)
+Microscope	Mikroskop
+Tigranes II	Tigranes II.
+Cyberspace	Cyberspace
+Trpinja	Trpinja
+Palestine	Staat Palästina
+Anggun	Anggun
+Fuzzy Logic	Fuzzylogik
+Ũtuĩria na ũthondeki	Forschung und Entwicklung
+Ngũgĩ wa Thiong'o	Ngũgĩ wa Thiong’o
+Gatagati mkoa, Kenya	Central (Kenia)
+Bengi ya Gũkũria Abĩrika	Afrikanische Entwicklungsbank
+Hithitorĩ ya Kemu	Geschichte der Chemie
+Caribbean	Karibik
+Dobra	Dobra (Bolesławiec)
+Genrich Altshuller	Genrich Saulowitsch Altschuller
+RMF FM	RMF FM
+Ucero	Ucero
+Barca	Barca (Soria)
+Kikuyu	Kikuyu (Ort)
+Category:German	Kategorie:Deutschland
+Category:Italy	Kategorie:Italien
+Category:USA	Kategorie:Vereinigte Staaten
+Category:Urusi	Kategorie:Russland
+Category:Spain	Kategorie:Spanien
+Category:Turkey	Kategorie:Türkei
+Ngima	Ugali
+Category:South Korea	Kategorie:Südkorea
+Category:Thayathi cia ndũire	Kategorie:Naturwissenschaft
+Category:Kemu	Kategorie:Chemie
+Category:Sport	Kategorie:Sport
+Category:Thayathi	Kategorie:Wissenschaft
+Nyamű	Kenya Wildlife Service
+Wikipedia:Administrators	Wikipedia:Administratoren
+Category:Medicine	Kategorie:Medizin
+Category:Politics	Kategorie:Politik
+Egypt	Ägypten
+Template:Bot	Vorlage:Bot
+Canada	Kanada
+Category:Rũraya	Kategorie:Europa
+Template:Documentation	Vorlage:Dokumentation
+Template:Softredirect	Vorlage:Interwiki redirect
+Template:Delete	Vorlage:Löschen
+Wikipedia:Statistics	Wikipedia:Statistik
+Template:Navbox	Vorlage:Erweiterte Navigationsleiste
+Category:Abĩrika	Kategorie:Afrika
+Template:Babel	Vorlage:Babel
+Template:Commons	Vorlage:Commons
+Template:User af-1	Vorlage:User af-1
+Template:User als-1	Vorlage:User als-1
+Template:User ar-1	Vorlage:User ar-1
+Template:User az	Vorlage:User az
+Template:User bar-1	Vorlage:User bar-1
+Template:User eo-1	Vorlage:User eo-1
+Template:User da-2	Vorlage:User da-2
+Template:User ca-4	Vorlage:User ca-4
+Template:User be-2	Vorlage:User be-2
+Template:User da-1	Vorlage:User da-1
+Template:User cs-1	Vorlage:User cs-1
+Template:User bg-1	Vorlage:User bg-1
+Template:User eo-3	Vorlage:User eo-3
+Template:User de	Vorlage:User de
+Template:User de-1	Vorlage:User de-1
+Template:User eu	Vorlage:User eu
+Template:User et-1	Vorlage:User et-1
+Template:User el	Vorlage:User el
+Template:User es	Vorlage:User es
+Template:User de-3	Vorlage:User de-3
+Template:User en-3	Vorlage:User en-3
+Template:User el-1	Vorlage:User el-1
+Template:User en-1	Vorlage:User en-1
+Template:User en-2	Vorlage:User en-2
+Template:User eo-2	Vorlage:User eo-2
+Template:User en-4	Vorlage:User en-4
+Template:User fi	Vorlage:User fi
+Template:User en-0	Vorlage:User en-0
+Template:User en	Vorlage:User en
+Template:User de-2	Vorlage:User de-2
+Template:User es-1	Vorlage:User es-1
+Template:User fa	Vorlage:User fa
+Template:User fi-1	Vorlage:User fi-1
+Template:User fr-1	Vorlage:User fr-1
+Template:User ia-2	Vorlage:User ia-2
+Template:User hi-1	Vorlage:User hi-1
+Template:User hr	Vorlage:User hr
+Template:User he-1	Vorlage:User he-1
+Template:User hu	Vorlage:User hu
+Template:User id-3	Vorlage:User id-3
+Template:User io-3	Vorlage:User io-3
+Template:User it-3	Vorlage:User it-3
+Template:User ja-4	Vorlage:User ja-4
+Template:User sk	Vorlage:User sk
+Template:User tr-2	Vorlage:User tr-2
+Template:User fr-2	Vorlage:User fr-2
+Template:User ja	Vorlage:User ja
+Template:User ja-1	Vorlage:User ja-1
+Template:User it-1	Vorlage:User it-1
+Template:User hr-1	Vorlage:User hr-1
+Template:User fr	Vorlage:User fr
+Template:User gsw-1	Vorlage:User gsw-1
+Category:Amerika ya Kuthini	Kategorie:Südamerika
+Category:Football	Kategorie:Fußball
+Template:Mod	Vorlage:Modulo
+Template:User uk	Vorlage:User uk
+Template:User es-2	Vorlage:User es-2
+Template:Welcome	Vorlage:Willkommen
+Template:Bururi wa Abĩrika	Vorlage:Navigationsleiste Staaten in Afrika
+Template:User zh	Vorlage:User zh
+Template:Legend	Vorlage:Farblegende
+Template:User ru-4	Vorlage:User ru-4
+Template:User nl-1	Vorlage:User nl-1
+Template:User nl-2	Vorlage:User nl-2
+Category:America	Kategorie:Amerika
+Template:Mikoa cia Italy	Vorlage:Navigationsleiste Regionen Italiens
+Template:User pt-1	Vorlage:User pt-1
+Template:User oc-4	Vorlage:User oc-4
+Template:User pl	Vorlage:User pl
+Template:User nl	Vorlage:User nl
+Template:User no-2	Vorlage:User no-2
+Template:Emergency-bot-shutoff	Vorlage:Emergency-bot-shutoff
+Template:User pl-1	Vorlage:User pl-1
+Template:User lt	Vorlage:User lt
+Template:User nds-1	Vorlage:User nds-1
+Template:User ar	Vorlage:User ar
+Template:User ksh	Vorlage:User ksh
+Template:User no	Vorlage:User no
+Template:User sv-2	Vorlage:User sv-2
+Template:User lb-1	Vorlage:User lb-1
+Template:User la-1	Vorlage:User la-1
+Category:Template documentation	Kategorie:Vorlage:nur Dokumentation
+Category:User be-2	Kategorie:User be-2
+Template:User pdc-1	Vorlage:User pdc-1
+Category:User sk-N	Kategorie:User sk-M
+Template:User la-3	Vorlage:User la-3
+Category:Province ya Piacenza	Kategorie:Provinz Piacenza
+Template:User sv-1	Vorlage:User sv-1
+Template:User sw-1	Vorlage:User sw-1
+Template:User ka-1	Vorlage:User ka-1
+Category:Thayathi cia social	Kategorie:Sozialwissenschaft
+Template:User ru-2	Vorlage:User ru-2
+Template:User es-3	Vorlage:User es-3
+Template:User ko-3	Vorlage:User ko-3
+Category:Kenya	Kategorie:Kenia
+Template:User ca-3	Vorlage:User ca-3
+Template:User cs-3	Vorlage:User cs-3
+Template:User la-2	Vorlage:User la-2
+Template:User li-1	Vorlage:User li-1
+Template:User mk-1	Vorlage:User mk-1
+Template:User nn-2	Vorlage:User nn-2
+Template:User no-1	Vorlage:User no-1
+Template:User pt	Vorlage:User pt
+Template:User ru-1	Vorlage:User ru-1
+Template:User sk-1	Vorlage:User sk-1
+Template:User sk-2	Vorlage:User sk-2
+Template:User sr-1	Vorlage:User sr-1
+Template:User sxu-1	Vorlage:User sxu-1
+Template:User uk-4	Vorlage:User uk-4
+Template:User vo-1	Vorlage:User vo-1
+Template:User zh-1	Vorlage:User zh-1
+Template:User zh-2	Vorlage:User zh-2
+Template:User pfl-1	Vorlage:User pfl-1
+Category:Mirimu	Kategorie:Krankheit
+Template:User sl-1	Vorlage:User sl-1
+Trojany	Trojany (Woiwodschaft Masowien)
+Template:User wep-1	Vorlage:User wep-1
+Template:User tokipona-1	Vorlage:User toki-1
+Template:User pdt-1	Vorlage:User pdt-1
+Template:User eur-1	Vorlage:User eur-1
+Template:User sli-1	Vorlage:User sli-1
+Category:Mikoa cia Kenya	Kategorie:Provinz in Kenia
+Template:User vls-1	Vorlage:User vls-1
+Template:User sh-2	Vorlage:User sh-2
+Special:RecentChanges	Spezial:Letzte Änderungen

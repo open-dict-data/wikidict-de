@@ -1,0 +1,1298 @@
+Aprika	Afrika
+Siapan	Japan
+Saut Amerika	Südamerika
+Nowe	Norwegen
+Inglan	England
+Skotlan	Schottland
+Wels	Wales
+Noten Aialan	Nordirland
+Ripablik bilong Aialan	Irland
+Hangari	Ungarn
+Spen	Spanien
+Ol Yunaitet Stet	Vereinigte Staaten
+Beljiam	Belgien
+Giraun	Erde
+Pinlan	Finnland
+Suwidan	Schweden
+Denmak	Dänemark
+Polan	Polen
+Lituwenia	Litauen
+Itali	Italien
+Suwisalan	Schweiz
+Ostria	Österreich
+Gris	Griechenland
+Teki	Türkei
+Posugol	Portugal
+Yurop	Europa
+Esia	Asien
+Not Amerika	Nordamerika
+Wikipedia	Wikipedia
+Ol Nitelan	Niederlande
+Niu Yok Siti	New York City
+Wasington DC	Washington, D.C.
+Berlin	Berlin
+Berne	Bern
+Intanet	Internet
+Barack Obama	Barack Obama
+Landen	London
+Kairo	Kairo
+Paris	Paris
+Meksiko	Mexiko
+Solwara Atlantik	Atlantischer Ozean
+Solwara Pasifik	Pazifischer Ozean
+Mande	Montag
+Janueri	Januar
+Februeri	Februar
+Mas	März
+Epril	April
+Me	Mai
+Jun	Juni
+Julai	Juli
+Ogas	August
+Septemba	September
+Oktoba	Oktober
+Novemba	November
+Disemba	Dezember
+Tunde	Dienstag
+Trinde	Mittwoch
+Fonde	Donnerstag
+Fraide	Freitag
+Sarere	Samstag
+Sande	Sonntag
+Frens	Frankreich
+Esperanto	Esperanto
+Yunaitet Kingdom	Vereinigtes Königreich
+Ol Manmeri Ripablik bilong Saina	Volksrepublik China
+Tok Frens	Französische Sprache
+Wiktionary	Wiktionary
+Rasia	Russland
+San Paulu	São Paulo
+Siamani	Deutschland
+Belaras	Weißrussland
+Tok Jeman	Deutsche Sprache
+Aislan	Island
+God	Gott
+Estonia	Estland
+George Walker Bush	George W. Bush
+Latvia	Lettland
+Yukren	Ukraine
+Sek Ripablik	Tschechien
+Slovakia	Slowakei
+Vilnius	Vilnius
+Romenia	Rumänien
+Balgeria	Bulgarien
+Rom	Rom
+Albenia	Albanien
+Greenland	Grönland
+Krowesia	Kroatien
+Azerbaijan	Aserbaidschan
+Andora	Andorra
+Saipras	Republik Zypern
+San Marino	San Marino
+Brussels	Stadt Brüssel
+Indonisia	Indonesien
+Saut Aprika	Südafrika
+Woso	Warschau
+Tok Aislan	Isländische Sprache
+Jisas	Jesus Christus
+Histori	Geschichte
+Tokples	Sprache
+Yurenes (planet)	Uranus (Planet)
+Nicolas Sarkozy	Nicolas Sarkozy
+Estronomi	Astronomie
+Ubuntu	Ubuntu
+Szczecin	Stettin
+Ol matematik	Mathematik
+U2	U2 (Band)
+Tok Latin	Latein
+Armenia	Armenien
+Sebia	Serbien
+Mun (i stap long heven)	Mond
+Ostrelia	Australien
+Save long laip	Biologie
+Not Koria	Nordkorea
+Islam	Islam
+Lyon	Lyon
+Sofia	Sofia
+San	Sonne
+Osenia	Ozeanien
+Wikimedia Commons	Wikimedia Commons
+Buk	Buch
+De	Tag
+Yia	Jahr
+Oslo	Oslo
+Katowice	Katowice
+Planet	Planet
+Lille	Lille
+Mosko	Moskau
+Tok Itali	Italienische Sprache
+Niu Silan	Neuseeland
+India	Indien
+Tuvalu	Tuvalu
+Tonga	Tonga
+Samoa	Samoa
+Solomon Ailans	Salomonen
+Vanuatu	Vanuatu
+Papua Niugini	Papua-Neuguinea
+Nauru	Nauru
+Ol Masol Ailan	Marshallinseln
+Kiribas	Kiribati
+Fiji	Fidschi
+Abus	Tier
+At	Kunst
+Budisim	Buddhismus
+Sayor	Pflanzen
+Irak	Irak
+Israel	Israel
+Panama	Panama
+Yemen	Jemen
+Tok Polan	Polnische Sprache
+Amerika (Kontinen)	Amerika
+Malaysia	Malaysia
+Platon	Platon
+Ripablik bilong Saina	Republik China (Taiwan)
+Aristoteles	Aristoteles
+Tailan	Thailand
+Vietnam	Vietnam
+Saut Koria	Südkorea
+Socrates	Sokrates
+Bhutan	Bhutan
+Brunai	Brunei
+Albert Einstein	Albert Einstein
+Yelo (kala)	Gelb
+Beijing	Peking
+Gabon	Gabun
+Gandi	Mohandas Karamchand Gandhi
+Lesoto	Lesotho
+Naijiria	Nigeria
+Senegal	Senegal
+Sierra Leone	Sierra Leone
+Julius Caesar	Gaius Iulius Caesar
+Save long giraun	Geographie
+Kala	Farbe
+Blu (kala)	Blau
+Bill Clinton	Bill Clinton
+Yerusalem	Jerusalem
+Kolorado	Colorado
+Chicago	Chicago
+Tok Spen	Spanische Sprache
+Mani	Geld
+Uetersen	Uetersen
+Augustus Caesar	Augustus
+Trajan	Trajan
+Tokyo	Präfektur Tokio
+Bagdad	Bagdad
+Stockholm	Stockholm
+Dublin	Dublin
+Reykjavik	Reykjavík
+Talin	Tallinn
+Riga	Riga
+Bratislava	Bratislava
+Budapest	Budapest
+Katolik	Katholizismus
+Baibel	Bibel
+Ho Chi Minh City	Ho-Chi-Minh-Stadt
+Tru Jisas Lotu	Wahre Jesus-Kirche
+Tokples Inglis	Englische Sprache
+Andorra la Vella	Andorra la Vella
+Kuala Lumpur	Kuala Lumpur
+Taipei	Taipeh
+Đồng Hới	Đồng Hới
+Concepción	Concepción (Chile)
+Ottawa	Ottawa
+Końskowola	Końskowola
+2000	2000
+2003	2003
+2002	2002
+2001	2001
+2008	2008
+2004	2004
+2005	2005
+2006	2006
+2007	2007
+1901	1901
+1902	1902
+1903	1903
+1904	1904
+1905	1905
+1907	1907
+1906	1906
+1908	1908
+1909	1909
+1992	1992
+1991	1991
+1990	1990
+1993	1993
+1994	1994
+1995	1995
+1996	1996
+1910	1910
+1911	1911
+1912	1912
+1913	1913
+1914	1914
+1915	1915
+1916	1916
+1997	1997
+1998	1998
+1999	1999
+1917	1917
+1918	1918
+1920	1920
+1919	1919
+1921	1921
+1922	1922
+1923	1923
+1924	1924
+Kurów	Kurów
+1989	1989
+1988	1988
+1987	1987
+1986	1986
+1985	1985
+1984	1984
+1983	1983
+1982	1982
+1981	1981
+1980	1980
+1970	1970
+1971	1971
+1972	1972
+1973	1973
+1974	1974
+1975	1975
+1976	1976
+1977	1977
+1978	1978
+1979	1979
+1969	1969
+Benedict XVI	Benedikt XVI.
+1968	1968
+1967	1967
+1966	1966
+1965	1965
+1964	1964
+Palermo	Palermo
+Soka	Fußball
+1963	1963
+1962	1962
+Madrid	Madrid
+Michael Jackson	Michael Jackson
+Göttingen	Göttingen
+Kambra	Canberra
+Ret (kala)	Rot
+1961	1961
+Dakar	Dakar
+Grup:Ol templet bilong tokples	Kategorie:Vorlage:
+1960	1960
+Freetown	Freetown
+Wes Papua	West-Neuguinea
+Skul	Schule
+Osasku	Osasco
+Ples balus Dong Hoi	Flughafen Dong Hoi
+Kuritiba	Curitiba
+Jonathan Winters	Jonathan Winters
+Sean Connery	Sean Connery
+Kongzi	Konfuzius
+Corbin Bleu	Corbin Bleu
+Grup:Ol matematik	Kategorie:Mathematik
+Euro	Euro
+Jason Lee	Jason Lee (Schauspieler)
+Lotu Kristen	Christentum
+Kontinen	Kontinent
+Kapitol	Hauptstadt
+Monzón	Monzón
+Mun (taim)	Monat
+1948	1948
+1949	1949
+Almazán	Almazán
+1956	1956
+1941	1941
+1945	1945
+1958	1958
+1926	1926
+1947	1947
+1944	1944
+1952	1952
+Tokples Siapan	Japanische Sprache
+Ensaiklopedia	Enzyklopädie
+Fran pes	Wikipedia:Hauptseite
+1959	1959
+1957	1957
+Frank Lloyd Wright	Frank Lloyd Wright
+Betlehem	Bethlehem
+Pilosopi	Philosophie
+Grup:All articles proposed for deletion	Kategorie:Wikipedia:Schnelllöschen
+Piano	Klavier
+Ti	Tee
+Hebe Camargo	Hebe Camargo
+Grup:Estronomi	Kategorie:Astronomie
+Carcassonne	Carcassonne
+Sahara	Sahara
+1801	1801
+1802	1802
+1803	1803
+1804	1804
+1805	1805
+1806	1806
+1807	1807
+1808	1808
+1809	1809
+1810	1810
+1811	1811
+1812	1812
+1813	1813
+1814	1814
+1815	1815
+1816	1816
+1817	1817
+1818	1818
+1819	1819
+1820	1820
+1821	1821
+1822	1822
+1823	1823
+1824	1824
+1825	1825
+1826	1826
+1827	1827
+Buda	Buddha
+Politikis	Politik
+Gavman	Regierung
+Kantri	Staat
+Kamel	Altweltkamele
+1828	1828
+1829	1829
+1830	1830
+1831	1831
+1832	1832
+1833	1833
+1834	1834
+1835	1835
+1836	1836
+1837	1837
+1838	1838
+1839	1839
+1840	1840
+1841	1841
+1842	1842
+1843	1843
+1844	1844
+Tok Rasia	Russische Sprache
+Toksave long ol raits bilong ol manmeri long olgeta hap bilong dispela giraun	Allgemeine Erklärung der Menschenrechte
+Tok Balgeria	Bulgarische Sprache
+Nelson Mandela	Nelson Mandela
+Lajik	Logik
+Grama	Grammatik
+Ikonimikis	Wirtschaftswissenschaft
+Yen bilong Siapan	Yen
+Stadi bilong pasin bilong ol tokples	Sprachwissenschaft
+Hangul	Koreanisches Alphabet
+Grup:Pranis	Kategorie:Frankreich
+"Weird Al" Yankovic	Weird Al Yankovic
+Alexander Makedon	Alexander der Große
+Edukesen	Bildung
+Famili	Familie
+Kopi	Kaffee
+Sol	Seoul
+Tokples long Albenia	Albanische Sprache
+Valencia	Valencia
+Tok Denmak	Dänische Sprache
+Tok Nowe	Norwegische Sprache
+Tok Slovakia	Slowakische Sprache
+Tok Hangari	Ungarische Sprache
+Tok Lituwenia	Litauische Sprache
+Tok Belaras	Weißrussische Sprache
+Tok Gris	Griechische Sprache
+Tok Aialan	Irische Sprache
+Imel	E-Mail
+Tokples Pesia	Persische Sprache
+Lotu	Religion
+Tok Koria	Koreanische Sprache
+Tok Vietnam	Vietnamesische Sprache
+Georg Wilhelm Friedrich Hegel	Georg Wilhelm Friedrich Hegel
+Judaisim	Judentum
+Immanuel Kant	Immanuel Kant
+Saikolosi	Psychologie
+Sidarta	Siddhartha Gautama
+Martin Luther	Martin Luther
+Elisabet II	Elisabeth II.
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+David Beckham	David Beckham
+Gordon Brown	Gordon Brown
+Tebol bilong ol elemen	Periodensystem
+Diwai	Baum
+Kubuntu	Kubuntu
+Grup:Romenia	Kategorie:Rumänien
+Egrikalsa	Landwirtschaft
+Elektroniks	Elektronik
+Ol kantri	Liste der Staaten der Erde
+Kensa	Krebs (Medizin)
+Soria	Soria
+Ponferrada	Ponferrada
+Templet:Location map Iceland	Vorlage:Positionskarte Island
+Villarreal	Villarreal
+Templet:Location map Samoa	Vorlage:Positionskarte Samoa
+Kokonas	Kokospalme
+Ferdinand de Saussure	Ferdinand de Saussure
+Unserdeutsch	Unserdeutsch
+Kyushu	Kyūshū
+Honshu	Honshū
+Shikoku	Shikoku
+Ista Ailan	Osterinsel
+Bensheim	Bensheim
+Queen	Queen (Band)
+Freddie Mercury	Freddie Mercury
+Wol	Welt
+Vemont	Vermont
+Koria	Korea
+1925	1925
+1927	1927
+1955	1955
+1954	1954
+1953	1953
+1951	1951
+1950	1950
+1946	1946
+1943	1943
+1942	1942
+1940	1940
+1939	1939
+1938	1938
+1937	1937
+1936	1936
+1935	1935
+1934	1934
+1933	1933
+1932	1932
+1931	1931
+1930	1930
+1929	1929
+Pyongyang	Pjöngjang
+Nupela Testamen	Neues Testament
+Nha Trang	Nha Trang
+Maya Angelou	Maya Angelou
+Pop	Papst
+Rafael Correa	Rafael Correa
+Busares	Bukarest
+1928	1928
+Olpela Testamen	Altes Testament
+Indo-Yuropien famili bilong tokples	Indogermanische Sprachen
+Breinigerberg	Breinigerberg
+Gyeonggi	Gyeonggi-do
+Ol Tokples Siamanik	Germanische Sprachen
+Sosiolosi	Soziologie
+Taiwan	Taiwan (Insel)
+Bahai	Bahaitum
+Aialan	Irland (Insel)
+7	7
+Wik	Woche
+Antropolosi	Anthropologie
+Ailan	Insel
+Moshchena	Moschtschena
+Akiolosi	Archäologie
+George H. W. Bush	George H. W. Bush
+Paltoga	Paltoga
+Quang Binh Provins	Quảng Bình
+Protestan	Protestantismus
+Bryan Cranston	Bryan Cranston
+Bikpela Briten	Großbritannien (Insel)
+Kadinol daireksion	Himmelsrichtung
+Lila Downs	Lila Downs
+Famili bilong tokples	Sprachfamilie
+Pichilemu	Pichilemu
+Pukpuk	Krokodile
+Amerika	Amerika (Begriffsklärung)
+El Burgo Ranero	El Burgo Ranero
+Bercianos del Real Camino	Bercianos del Real Camino
+Kokomo	Nashornvögel
+Danny DeVito	Danny DeVito
+Jerry Springer	Jerry Springer
+Sentrel Amerika	Zentralamerika
+Kaunti	County
+Ecser	Ecser
+Zhengzhou	Zhengzhou
+Avril Lavigne	Avril Lavigne
+Rouen	Rouen
+Valery Leontiev	Waleri Jakowlewitsch Leontjew
+Tok Hawai	Hawaiische Sprache
+Hiri Motu	Hiri Motu
+Niu Kaledonia	Neukaledonien
+Marlon Brando	Marlon Brando
+Tok Pisin	Tok Pisin
+Mošovce	Mošovce
+Ajetiv bilong nambawan kain	Adjektiv
+Kristen Otodos	Orthodoxe Kirchen
+Ido	Ido (Sprache)
+44 yia i go bipo Jisas	44 v. Chr.
+Bislama	Bislama
+Hokkaido	Hokkaidō
+Charles Bronson	Charles Bronson
+Borneo	Borneo
+Siligo	Siligo
+Apia	Apia
+Pot Mosbi	Port Moresby
+.ru	.ru
+.ad	.ad
+Cork	Cork
+Arancón	Arancón
+.fi	.fi
+.am	.am
+.de	.de
+.fr	.fr
+Melanesia	Melanesien
+.au	.au
+.cz	.cz
+Maket	Markt
+.at	.at
+Pot Vila	Port Vila
+Auckland Grammar School	Auckland Grammar School
+.us	.us
+.es	.es
+.gr	.gr
+.pl	.pl
+.uk	.uk
+Kaukau	Süßkartoffel
+Yokohama	Yokohama
+.al	.al
+.az	.az
+.ee	.ee
+.bg	.bg
+.jp	.jp
+.it	.it
+Lubuntu	Lubuntu
+.dk	.dk
+.ca	.ca
+.ch	.ch
+Maikroekonomiks	Makroökonomie
+.be	.be
+Ágreda	Ágreda
+.by	.by
+.fj	.fj
+.cl	.cl
+.is	.is
+.lt	.lt
+.pt	.pt
+.bt	.bt
+Hobat	Hobart
+Niugini	Neuguinea
+.et	.et
+.tv	.tv
+.eg	.eg
+23 yia i go bipo Jisas	23 v. Chr.
+.se	.se
+.cy	.cy
+.kz	.kz
+.hu	.hu
+.ua	.ua
+.mx	.mx
+.kh	.kh
+.no	.no
+.id	.id
+.tr	.tr
+.eu	.eu
+.ht	.ht
+.sk	.sk
+Julia Gillard	Julia Gillard
+.to	.to
+.lv	.lv
+Saikoanalisis	Psychoanalyse
+.kg	.kg
+.mh	.mh
+.kr	.kr
+.ki	.ki
+.tj	.tj
+.kp	.kp
+Frank Gorshin	Frank Gorshin
+.ro	.ro
+.vn	.vn
+.nr	.nr
+.ke	.ke
+.vu	.vu
+.na	.na
+.ye	.ye
+.ws	.ws
+.sm	.sm
+.tk	.tk
+Kevin Rudd	Kevin Rudd
+.pg	.pg
+Plak bilong Siapan	Flagge Japans
+Jim Morrison	Jim Morrison
+Dan Castellaneta	Dan Castellaneta
+Molinaseca	Molinaseca
+.nu	.nu
+The Doors	The Doors
+Pécs	Pécs
+Sios	Sakralbau
+Plak bilong Pinlan	Flagge Finnlands
+Templet:Commons category	Vorlage:Commonscat
+Morgan Freeman	Morgan Freeman
+Plak bilong Albenia	Flagge Albaniens
+Dire Straits	Dire Straits
+Richard Attenborough	Richard Attenborough
+Templet:Taxobox	Vorlage:Taxobox
+Burjassot	Burjassot
+János Áder	János Áder
+Viktor Orbán	Viktor Orbán
+Niu Briten	Neubritannien
+Otto Sander	Otto Sander
+San Justo de la Vega	San Justo de la Vega
+Xubuntu	Xubuntu
+Plak bilong Solomon Ailans	Flagge der Salomonen
+Nonvailens	Gewaltlosigkeit
+Debrecen	Debrecen
+Plak bilong Kanada	Flagge Kanadas
+Harrison Ford	Harrison Ford
+Plak bilong Andora	Flagge Andorras
+Kimi ga Yo	Kimi Ga Yo
+Szeged	Szeged
+Plak bilong Ostrelia	Flagge Australiens
+Plak bilong Hangari	Flagge Ungarns
+Plak bilong Azerbaijan	Flagge Aserbaidschans
+Plak bilong Nowe	Flagge Norwegens
+Robin Williams	Robin Williams
+Gary Oldman	Gary Oldman
+Tauns long Burgos provins	Liste der Gemeinden in der Provinz Burgos
+Ol taun bilong León provins	Liste der Gemeinden in der Provinz León
+Tauns long Soria provins	Liste der Gemeinden in der Provinz Soria
+Plak bilong Aislan	Flagge Islands
+Plak bilong Indonisia	Flagge Indonesiens
+Plak bilong Skotlan	Flagge Schottlands
+Miskolc	Miskolc
+Donald Sutherland	Donald Sutherland
+Peter O'Toole	Peter O’Toole
+Eli Wallach	Eli Wallach
+Mickey Rooney	Mickey Rooney
+Plak bilong Tuvalu	Flagge Tuvalus
+Holly Hunter	Holly Hunter
+Kristen	Christ
+Stet	Gliedstaat
+Meditesen	Meditation
+James Garner	James Garner
+Joey King	Joey King
+Pacific Games	Pazifikspiele
+Plak bilong Kiribas	Flagge Kiribatis
+Saut Ailan	Südinsel (Neuseeland)
+Plak bilong Spen	Flagge Spaniens
+Dziecinów	Dziecinów (Powiat Otwocki)
+Haus bilong binen	Bienenwabe
+Michael Caine	Michael Caine
+Steve Irwin	Steve Irwin
+Plak bilong Saut Koria	Flagge Südkoreas
+Plak bilong Slovenia	Flagge Sloweniens
+Plak bilong Romenia	Flagge Rumäniens
+Grup:Manmeri bilong Hangari	Magyaren
+Dunedin	Dunedin
+Kamikaze	Shimpū Tokkōtai
+Grajal de Campos	Grajal de Campos
+Phu Quoc	Phú Quốc
+Wikipedia:Save long senisim pes	Hilfe:Seite bearbeiten
+Lệ Thủy	Lệ Thủy
+Buai	Betelnusspalme
+Brobergen	Brobergen
+Daka	Betelpfeffer
+Klostu Tudak	Twilight – Bis(s) zum Morgengrauen
+Plak bilong Niu Silan	Flagge Neuseelands
+Kaunti Cork	County Cork
+St. Peter's College, Auckland	St Peter’s College (Auckland)
+Siaman Niugini	Deutsch-Neuguinea
+Behaviourisim	Behaviorismus
+Samuel L. Jackson	Samuel L. Jackson
+Caltojar	Caltojar
+Berlanga de Duero	Berlanga de Duero
+Kumul	Paradiesvögel
+Christopher Lee	Christopher Lee
+Helen Clark	Helen Clark
+Lev Vygotsky	Lew Semjonowitsch Wygotski
+Plak bilong Fiji	Flagge Fidschis
+Plak bilong Papua Niugini	Flagge Papua-Neuguineas
+Plak bilong Nauru	Flagge Naurus
+Plak bilong Vanuatu	Flagge Vanuatus
+Plak bilong Wels	Flagge von Wales
+Mike Myers	Mike Myers
+Zelda Williams	Zelda Williams
+Plak bilong Tonga	Flagge Tongas
+Plak bilong Samoa	Flagge Samoas
+Plak bilong Palau	Flagge Palaus
+Christopher Plummer	Christopher Plummer
+E pluribus unum	E pluribus unum
+Expo 2010	Expo 2010
+James Woods	James Woods
+Nancy Reagan	Nancy Reagan
+Ol provinis bilong Swidan	Landskap (Schweden)
+Plak bilong ol Masol Ailan	Flagge der Marshallinseln
+Kina	Kina
+Bogenvil	Bougainville
+Plak bilong Niue	Flagge Niues
+Roger Ebert	Roger Ebert
+Bill Cosby	Bill Cosby
+Niu Ailan ailan	Neuirland
+Jimmie Johnson	Jimmie Johnson
+Rabaul	Rabaul
+Saksak	Sago
+Plak bilong Hawai	Flagge Hawaiis
+Nesenel mak bilong Ostrelia	Wappen Australiens
+Eartha Kitt	Eartha Kitt
+Phyllis Diller	Phyllis Diller
+Plak bilong Polinesia bilong Pranis	Flagge Französisch-Polynesiens
+Rhea Perlman	Rhea Perlman
+Ian McShane	Ian McShane
+Plak bilong Nofok Ailan	Flagge der Norfolkinsel
+Shelley Duvall	Shelley Duvall
+Plak bilong Guam	Flagge Guams
+Julie Newmar	Julie Newmar
+Carol Channing	Carol Channing
+Dixie Carter	Dixie Carter
+Makó	Makó
+Joan Rivers	Joan Rivers
+Camponaraya	Camponaraya
+Elizabeth Peña	Elizabeth Peña
+Edie McClurg	Edie McClurg
+Plak bilong Tokelau	Flagge Tokelaus
+Yumi, Yumi, Yumi	Yumi, Yumi, Yumi
+Nesenel mak bilong Papua Niugini	Wappen Papua-Neuguineas
+Marcus Stephen	Marcus Stephen
+Małgorzata Braunek	Małgorzata Braunek
+Carl Reiner	Carl Reiner
+Martin Landau	Martin Landau
+Tate Donovan	Tate Donovan
+Dick Van Dyke	Dick Van Dyke
+Don Ameche	Don Ameche
+Brad Bird	Brad Bird
+Wallace Shawn	Wallace Shawn
+Gary Coleman	Gary Coleman
+Rip Torn	Rip Torn
+Jeff Gordon	Jeff Gordon
+Hal Holbrook	Hal Holbrook
+Richard Griffiths	Richard Griffiths
+Donald Pleasence	Donald Pleasence
+Michael Somare	Michael Somare
+Apisai Ielemia	Apisai Ielemia
+Plak bilong Wolis na Futuna	Flagge von Wallis und Futuna
+Madang (provins)	Madang Province
+Michael Jeter	Michael Jeter
+Brad Dourif	Brad Dourif
+Craig T. Nelson	Craig T. Nelson
+Larry the Cable Guy	Larry the Cable Guy
+Olaf Stapledon	Olaf Stapledon
+Burgess Meredith	Burgess Meredith
+Richard Schiff	Richard Schiff
+Nicanor Parra	Nicanor Parra
+David Cross	David Cross
+Bobcat Goldthwait	Bobcat Goldthwait
+Bry-sur-Marne	Bry-sur-Marne
+Con Dao	Côn Đảo
+Richard Kiel	Richard Kiel
+Derek Sikua	Derek Sikua
+Valencia de Don Juan	Valencia de Don Juan
+Cesar Romero	Cesar Romero
+Sarah Vowell	Sarah Vowell
+Jackie Gleason	Jackie Gleason
+Buk bilong Momon	Buch Mormon
+Astorga	Astorga
+Fernanda Torres	Fernanda Torres
+Ham Lini	Ham Lini
+Ples balus Tan Son Nhat	Flughafen Tan-Son-Nhat
+Michael Clarke Duncan	Michael Clarke Duncan
+Aliud	Aliud (Spanien)
+Baraona	Baraona
+Medinaceli	Medinaceli
+Burgo de Osma-Ciudad de Osma, Soria	El Burgo de Osma-Ciudad de Osma
+Suellacabras	Suellacabras
+Yanguas	Yanguas
+San Esteban de Gormaz	San Esteban de Gormaz
+Comares	Comares
+.nl	.nl
+Alcoy	Alcoy
+Goroka	Goroka
+Daru	Daru
+Espinosa de los Monteros (Burgos)	Espinosa de los Monteros (Burgos)
+Matt Frewer	Matt Frewer
+Don Knotts	Don Knotts
+Carrot Top	Carrot Top (Komiker)
+Alotau	Alotau
+Seeheim-Jugenheim	Seeheim-Jugenheim
+Mike Connors	Mike Connors
+Madang (taun)	Madang
+Simbu	Chimbu Province
+Priaranza del Bierzo	Priaranza del Bierzo
+Lae	Lae
+Magani	Wallabys
+Arawa	Arawa (Papua-Neuguinea)
+O Arise, All You Sons	O Arise All You Sons of This Land
+Sobrado	Sobrado (A Coruña)
+Brisbane Broncos	Brisbane Broncos
+Wes Niu Briten	West New Britain Province
+Blupela kumul	Blauparadiesvogel
+Is Sepik	East Sepik Province
+Cacabelos	Cacabelos
+Ralph Waite	Ralph Waite
+Histori long Koria	Geschichte Koreas
+Paul Winchell	Paul Winchell
+Mansilla de las Mulas	Mansilla de las Mulas
+Atapuerca	Atapuerca
+Oro	Oro Province
+Sandaun	Sandaun Province
+Is Niu Briten	East New Britain Province
+Ben Stein	Ben Stein
+Sahagún	Sahagún
+Almarza	Almarza
+Abejar	Abejar
+Aldealpozo	Aldealpozo
+Calatañazor	Calatañazor
+Arcos de Jalón	Arcos de Jalón
+Almenar de Soria	Almenar de Soria
+Coscurita	Coscurita
+Vinuesa	Vinuesa
+Cabrejas del Pinar	Cabrejas del Pinar
+Villasayas	Villasayas
+Castillejo de Robledo	Castillejo de Robledo
+Ciria	Ciria
+Salduero	Salduero
+Carrascosa de Abajo	Carrascosa de Abajo
+Yelo (Spen)	Yelo
+Montenegro de Cameros	Montenegro de Cameros
+Ucero	Ucero
+Langa de Duero	Langa de Duero
+Caracena	Caracena
+Cubo de la Solana	Cubo de la Solana
+Morón de Almazán	Morón de Almazán
+Montejo de Tiermes	Montejo de Tiermes
+Barca, Soria	Barca (Soria)
+Niu Ailan	New Ireland Province
+Kinsale	Kinsale
+Trabadelo	Trabadelo
+Hospital de Órbigo	Hospital de Órbigo
+Villafranca del Bierzo	Villafranca del Bierzo
+Sepik	Sepik
+Westen Provins	Western Province (Papua-Neuguinea)
+Sauten Hailans	Southern Highlands Province
+Westen Hailans	Western Highlands Province
+Isten Hailans	Eastern Highlands Province
+Morobe	Morobe Province
+Buñol	Buñol
+Bill Cobbs	Bill Cobbs
+Enga	Enga Province
+Manus	Manus Province
+Sentral Provins	Central Province (Papua-Neuguinea)
+Milen Be	Milne Bay Province
+Gulf Provins	Gulf Province (Papua-Neuguinea)
+Villadangos del Páramo	Villadangos del Páramo
+Vega de Valcarce	Vega de Valcarce
+Valverde de la Virgen	Valverde de la Virgen
+Calzada del Coto	Calzada del Coto
+Valdesamario	Valdesamario
+Marion Barry	Marion Barry
+Espinosa del Camino (Burgos)	Espinosa del Camino
+Villares de Órbigo	Villares de Órbigo
+Orbaneja Riopico (Burgos)	Orbaneja Ríopico
+Paul L. Smith	Paul L. Smith
+Molinos de Duero	Molinos de Duero
+Budka Suflera	Budka Suflera
+Mendi	Mendi
+Vanimo	Vanimo
+Kavieng	Kavieng
+Maun Hagen	Mount Hagen
+Kokopo	Kokopo
+Popondetta	Popondetta
+Lorengau	Lorengau
+Wewak	Wewak
+Tabubil	Tabubil
+Casey Kasem	Casey Kasem
+Plak bilong Ista Ailan	Flagge der Osterinsel
+Gan	Schusswaffe
+Takuu	Takuu
+Ples balus	Flughafen
+Kerema (taun)	Kerema
+Tim Conway	Tim Conway
+Nesenel Alains Pati	National Alliance Party
+Lamington (maunten)	Lamington (Vulkan)
+Grup:Siamani	Kategorie:Deutschland
+Grup:Itali	Kategorie:Italien
+Grup:Ol Yunaitet Stet	Kategorie:Vereinigte Staaten
+Grup:Kanada	Kategorie:Kanada
+Grup:Yunaitet Kingdom	Kategorie:Vereinigtes Königreich
+Grup:Spen	Kategorie:Spanien
+Grup:Siapan	Kategorie:Japan
+Grup:Ostrelia	Kategorie:Australien
+Grup:India	Kategorie:Indien
+Grup:Isrel	Kategorie:Israel
+Grup:Ijip	Kategorie:Ägypten
+Grup:Niu Silan	Kategorie:Neuseeland
+Grup:Indonisia	Kategorie:Indonesien
+Grup:Irak	Kategorie:Irak
+Grup:Polan	Kategorie:Polen
+Grup:Saut Koria	Kategorie:Südkorea
+Grup:Tailan	Kategorie:Thailand
+Grup:Yukren	Kategorie:Ukraine
+Grup:Vietnam	Kategorie:Vietnam
+Grup:Ol pisin	Kategorie:Vögel
+Grup:Ol Sayor	Kategorie:Pflanzen
+Grup:Save long Laip	Kategorie:Biologie
+Grup:Kemistri	Kategorie:Chemie
+Grup:Histori	Kategorie:Geschichte
+Grup:Save long giraun	Kategorie:Geographie
+Grup:Sosaiti	Kategorie:Gesellschaft
+Grup:Lotu	Kategorie:Religion
+Grup:Saiens	Kategorie:Wissenschaft
+Grup:Giraun	Kategorie:Erde
+Mun	Mun
+Oña (Burgos)	Oña (Burgos)
+Zazuar (Burgos)	Zazuar
+Lerma (Burgos)	Lerma (Burgos)
+Holan	Holan
+Jaramillo de la Fuente (Burgos)	Jaramillo de la Fuente
+Ol tokples bilong Papua Niugini	Sprachen Papua-Neuguineas
+Grup:Ol pes bilong kliaim ol link	Kategorie:Begriffsklärung
+Grup:Pilosopi	Kategorie:Philosophie
+Grup:Saikolosi	Kategorie:Psychologie
+Grup:Budisim	Kategorie:Buddhismus
+Grup:Kristen	Kategorie:Christentum
+Grup:Islam	Kategorie:Islam
+Pangu Pati	Pangu Party
+Benedicta Boccoli	Benedicta Boccoli
+Conrad Bain	Conrad Bain
+Grup:Kontinen	Kategorie:Kontinent
+Templet:Footer SolarSystem	Vorlage:Navigationsleiste Sonnensystem
+Kerema, Estonia	Kerema (Pühalepa)
+Templet:Babel bokis	Vorlage:Userbox
+Grup:Ekonomikis	Kategorie:Wirtschaftswissenschaft
+Wikipedia:Administrators	Wikipedia:Administratoren
+Grup:Manmeri	Kategorie:Person
+Wikipedia:AutoWikiBrowser	Wikipedia:AutoWikiBrowser
+Grup:Politikis	Kategorie:Politik
+Grup:Saiens bilong ai	Kategorie:Optik
+Ijip	Ägypten
+Templet:Bot	Vorlage:Bot
+Kanada	Kanada
+Grup:Hangari	Kategorie:Ungarn
+Grup:Estonia	Kategorie:Estland
+Grup:Gris	Kategorie:Griechenland
+Grup:Latvia	Kategorie:Lettland
+Grup:Aislan	Kategorie:Island
+Grup:Lituwenia	Kategorie:Litauen
+Grup:Slovakia	Kategorie:Slowakei
+Wikipedia:Copyrights	Wikipedia:Lizenzbestimmungen
+Grup:Ol kantri long Yurop	Kategorie:Staat in Europa
+Grup:Yurop	Kategorie:Europa
+Templet:Template doc	Vorlage:Dokumentation
+Grup:Yusa tokples	Kategorie:Benutzer:nach Sprache
+Wikipedia:Faipela lo	Wikipedia:Grundprinzipien
+Templet:Softredirect	Vorlage:Interwiki redirect
+Templet:Delete	Vorlage:Löschen
+Grup:Ol tokples	Kategorie:Einzelsprache als Thema
+Grup:Grama	Kategorie:Grammatik
+Solija	Soldat
+Grup:Ol siti na taun bilong kantri	Kategorie:Ort nach Staat
+Templet:Navbox	Vorlage:Erweiterte Navigationsleiste
+Templet:Shortcut	Vorlage:Shortcut
+Nina Andrycz	Nina Andrycz
+Templet:!-	Vorlage:!-
+Templet:!!	Vorlage:!!
+Templet:Loop	Vorlage:Grafische Zeitleiste/Loop
+Templet:Unicode	Vorlage:Unicode
+Templet:Clear	Vorlage:Absatz
+Templet:Color	Vorlage:Blau
+Templet:Nowrap	Vorlage:Nowrap
+Templet:Anchor	Vorlage:Anker
+Wikipedia:Ol pes i mas stap long Wikipedia	Wikipedia:Artikel, die es in allen Wikipedias geben sollte
+Grup:Elektroniks	Kategorie:Elektronik
+Templet:Babel	Vorlage:Babel
+Templet:Commons	Vorlage:Commons
+Templet:User ar-1	Vorlage:User ar-1
+Templet:User ast-1	Vorlage:User ast-1
+Templet:User az	Vorlage:User az
+Templet:Yusa eo-1	Vorlage:User eo-1
+Templet:See also	Vorlage:Siehe auch
+Templet:User da	Vorlage:User da
+Templet:User ca-1	Vorlage:User ca-1
+Templet:User cs-1	Vorlage:User cs-1
+Templet:User eo-3	Vorlage:User eo-3
+Templet:User de	Vorlage:User de
+Templet:User de-1	Vorlage:User de-1
+Templet:User el	Vorlage:User el
+Templet:User es	Vorlage:User es
+Templet:User de-3	Vorlage:User de-3
+Templet:User en-3	Vorlage:User en-3
+Templet:User en-1	Vorlage:User en-1
+Templet:User en-2	Vorlage:User en-2
+Templet:User eo-2	Vorlage:User eo-2
+Templet:User en-4	Vorlage:User en-4
+Templet:User en-0	Vorlage:User en-0
+Templet:User en	Vorlage:User en
+Templet:User de-2	Vorlage:User de-2
+Templet:User es-1	Vorlage:User es-1
+Templet:User fa	Vorlage:User fa
+Templet:User fr-1	Vorlage:User fr-1
+Templet:User gl-1	Vorlage:User gl-1
+Templet:User hu-N	Vorlage:User hu
+Templet:User sk	Vorlage:User sk
+Templet:User tr-2	Vorlage:User tr-2
+Templet:User fr-2	Vorlage:User fr-2
+Templet:User ja	Vorlage:User ja
+Templet:User ja-1	Vorlage:User ja-1
+Templet:User it-1	Vorlage:User it-1
+Templet:User fr	Vorlage:User fr
+Templet:Unsigned	Vorlage:Unsigniert
+Grup:Azerbaijan	Kategorie:Aserbaidschan
+Grup:Esia	Kategorie:Asien
+Grup:Soria provins	Kategorie:Provinz Soria
+Grup:Castile na León	Kategorie:Kastilien und León
+Templet:Mod	Vorlage:Modulo
+Templet:User es-2	Vorlage:User es-2
+Templet:NewUser	Vorlage:Willkommen
+Grup:Lingwistikis	Kategorie:Sprachwissenschaft
+Templet:ITA	Vorlage:ITA
+Templet:Cc-by-sa-3.0	Vorlage:Bild-CC-by-sa/3.0
+Grup:Yusa fr-1	Kategorie:User fr-1
+Templet:Rnd	Vorlage:Siground
+Templet:Steady	Vorlage:Unverändert
+Templet:Infobokis Kantri	Vorlage:Infobox Staat
+Templet:Fi icon	Vorlage:FiS
+Templet:Str left	Vorlage:Str left
+Templet:Cite journal	Vorlage:Cite journal
+Grup:Yusa en-4	Kategorie:User en-4
+Grup:Yusa en	Kategorie:User en
+Grup:Yusa en-2	Kategorie:User en-2
+Templet:Infobokis	Vorlage:Infobox
+Templet:Yusa eo	Vorlage:User eo
+Templet:User zh	Vorlage:User zh
+Templet:Legend	Vorlage:Farblegende
+Templet:Cc-by-2.5	Vorlage:Bild-CC-by/2.5
+Templet:Ol daireksion	Vorlage:Linkbox Himmelsrichtungen
+Templet:Wiktionary	Vorlage:Wiktionary
+Grup:Egrikalsa	Kategorie:Landwirtschaft
+Templet:Infobokis Setelmen	Vorlage:Infobox Ort
+Templet:User ru	Vorlage:User ru
+Templet:IPA	Vorlage:IPA-Text
+Grup:Ol planet bilong Sola Sistem	Kategorie:Planet des Sonnensystems
+Grup:Language user templates	Kategorie:Vorlage:Babel-Sprache
+Templet:Babel bokis-N	Vorlage:Babel field M
+Templet:Babel bokis-1	Vorlage:Babel field 1
+Wikipedia:Buk Bilong GFDL	Wikipedia:GNU Free Documentation License
+Templet:Cc-by-sa-2.5	Vorlage:Bild-CC-by-sa/2.5
+Templet:PD-USGov	Vorlage:Bild-PD-US
+Templet:Tok-cs	Vorlage:CsS
+Templet:Infobokis Plak	Vorlage:Infobox Flagge
+Templet:Infobokis Planet	Vorlage:Infobox Planet
+Grup:Politikis long kontinen	Kategorie:Politik nach Kontinent
+Templet:Infobokis Websait	Vorlage:Infobox Website
+Templet:SCO	Vorlage:SCO
+Templet:Documentation subpage	Vorlage:Dokumentation/Dokuseite
+Templet:CcTLD	Vorlage:Navigationsleiste ccTLD
+Templet:POL	Vorlage:POL
+Templet:Tok-de	Vorlage:DeS
+Templet:Cc-by-3.0	Vorlage:Bild-CC-by/3.0
+Templet:Tok-la	Vorlage:LaS
+Templet:Harim stori	Vorlage:Gesprochene Version
+Templet:Unreferenced	Vorlage:Belege fehlen
+Templet:Babel bokis-4	Vorlage:Babel field 4
+Grup:Ples balus long Vietnam	Kategorie:Flughafen in Vietnam
+Templet:Emergency-bot-shutoff	Vorlage:Emergency-bot-shutoff
+Templet:User pl-1	Vorlage:User pl-1
+Templet:Redirect	Vorlage:Weiterleitungshinweis
+Templet:Age in days	Vorlage:Tagesdifferenz
+Templet:Cc-by-sa-2.0	Vorlage:Bild-CC-by-sa/2.0
+Templet:JULIANDAY	Vorlage:JULIANDAY
+Templet:FIAV	Vorlage:FIAV
+Templet:UNO	Vorlage:UNO
+Templet:Infobokis Kontinen	Vorlage:Infobox Kontinent
+Templet:User de-0	Vorlage:User de-0
+Templet:Ol de bilong dispela wik	Vorlage:Navigationsleiste Wochentage
+Templet:Gregorian serial date	Vorlage:Gsd
+Grup:Yusa ja-N	Kategorie:User ja-M
+Templet:Tok-ru	Vorlage:RuS
+Templet:Disambig	Vorlage:Begriffsklärung
+Grup:Niuspepa	Kategorie:Zeitung
+Templet:User no	Vorlage:User no
+Templet:Tok-en	Vorlage:EnS
+Templet:Babel bokis-3	Vorlage:Babel field 3
+Templet:User it-2	Vorlage:User it-2
+Templet:Nts	Vorlage:Nts
+Templet:Convert	Vorlage:Einheitenumrechnung
+Templet:InterWiki	Vorlage:Wikipedia
+Templet:FranPesolIntawiki	Wikipedia:Hauptseite/Interwikis
+Templet:Coord	Vorlage:Coordinate
+Templet:Europe topic	Vorlage:Navigationsleiste Staaten in Europa
+Grup:Yusa sk	Kategorie:User sk
+Grup:Yusa eo	Kategorie:User eo
+Grup:Yusa fr	Kategorie:User fr
+Grup:Yusa hu-N	Kategorie:User hu-M
+Grup:Yusa ja	Kategorie:User ja
+Grup:Yusa th	Kategorie:User th
+Grup:Yusa fr-3	Kategorie:User fr-3
+Grup:Yusa ja-3	Kategorie:User ja-3
+Grup:Yusa pl-1	Kategorie:User pl-1
+Grup:Yusa hu-4	Kategorie:User hu-4
+Grup:Yusa fr-2	Kategorie:User fr-2
+Grup:Yusa hu-2	Kategorie:User hu-2
+Grup:Yusa it-2	Kategorie:User it-2
+Grup:Yusa ja-2	Kategorie:User ja-2
+Grup:Yusa fr-N	Kategorie:User fr-M
+Grup:Yusa ru-N	Kategorie:User ru-M
+Grup:Ol kapitol bilong Osenia	Kategorie:Hauptstadt in Australien und Ozeanien
+Grup:Yusa bi	Kategorie:User bi
+Grup:Yusa bi-1	Kategorie:User bi-1
+Grup:Yusa bi-2	Kategorie:User bi-2
+Grup:Yusa bi-3	Kategorie:User bi-3
+Grup:Yusa bi-N	Kategorie:User bi-M
+Grup:Yusa ca	Kategorie:User ca
+Grup:Yusa ca-1	Kategorie:User ca-1
+Grup:Ailan	Kategorie:Insel
+Grup:Quang Binh provins	Kategorie:Quảng Bình
+Grup:Yusa sk-N	Kategorie:User sk-M
+Grup:Yusa de	Kategorie:User de
+Grup:Yusa de-2	Kategorie:User de-2
+Grup:Yusa de-3	Kategorie:User de-3
+Grup:Yusa de-N	Kategorie:User de-M
+Grup:Yusa dsb	Kategorie:User dsb
+Grup:Yusa dsb-1	Kategorie:User dsb-1
+Grup:Yusa el	Kategorie:User el
+Grup:Yusa el-N	Kategorie:User el-M
+Grup:Yusa en-0	Kategorie:User en-0
+Grup:Yusa en-3	Kategorie:User en-3
+Grup:Yusa en-N	Kategorie:User en-M
+Grup:Yusa eo-1	Kategorie:User eo-1
+Grup:Yusa eo-2	Kategorie:User eo-2
+Grup:Yusa eo-3	Kategorie:User eo-3
+Grup:Yusa eo-4	Kategorie:User eo-4
+Grup:Yusa es	Kategorie:User es
+Grup:Yusa es-1	Kategorie:User es-1
+Grup:Yusa eu	Kategorie:User eu
+Grup:Yusa eu-1	Kategorie:User eu-1
+Grup:Yusa hsb	Kategorie:User hsb
+Grup:Yusa hsb-1	Kategorie:User hsb-1
+Grup:Yusa hu	Kategorie:User hu
+Grup:Yusa hu-1	Kategorie:User hu-1
+Grup:Yusa hu-3	Kategorie:User hu-3
+Grup:Politikis long kantri	Kategorie:Politik nach Staat
+Grup:Yusa it	Kategorie:User it
+Grup:Yusa it-1	Kategorie:User it-1
+Grup:Yusa ja-1	Kategorie:User ja-1
+Grup:Ol stet bilong Ol Yunaitet Stet	Kategorie:Bundesstaat der Vereinigten Staaten
+Templet:Ol taun long Soria	Vorlage:Navigationsleiste Gemeinden in der Provinz Soria
+Grup:Ol provins bilong Vietnam	Kategorie:Provinz in Vietnam
+Templet:Ol provins bilong Papua Niugini	Vorlage:Navigationsleiste Verwaltungsgliederung Papua-Neuguineas
+Grup:Ol provins bilong Papua Niugini	Kategorie:Provinz von Papua-Neuguinea
+Grup:Lukluk bilong manmeri	Kategorie:Sehen
+Grup:Yusa ru-1	Kategorie:User ru-1
+Wikipedia:Babel	Wikipedia:Babel
+Templet:Tdeprecated	Vorlage:Veraltete Vorlage
+Templet:Cc-by-sa-1.0	Vorlage:Bild-CC-by-sa/1.0
+Templet:User sv-1	Vorlage:User sv-1
+Templet:Babel bokis-2	Vorlage:Babel field 2
+Grup:7	Kategorie:7
+Templet:PD-old-70	Vorlage:Bild-PD-alt
+Grup:Paradisaeidae	Kategorie:Paradiesvögel
+Grup:Saiens long Manmeri na Ples	Kategorie:Sozialwissenschaft
+Grup:Ol kantri long Aprika	Kategorie:Staat in Afrika
+Grup:Yusa ru	Kategorie:User ru
+Grup:Yusa ru-2	Kategorie:User ru-2
+Grup:Yusa ru-3	Kategorie:User ru-3
+Grup:Yusa ru-4	Kategorie:User ru-4
+Grup:Yusa th-1	Kategorie:User th-1
+Grup:Yusa tpi	Kategorie:User tpi
+Grup:Yusa tpi-1	Kategorie:User tpi-1
+Grup:Yusa tpi-4	Kategorie:User tpi-4
+Grup:Yusa vi	Kategorie:User vi
+Templet:Lang	Vorlage:Lang
+Templet:User hsb-1	Vorlage:User hsb-1
+Grup:Vemont	Kategorie:Vermont
+Grup:Kolorado	Kategorie:Colorado
+Templet:ENG	Vorlage:ENG
+Templet:Merge	Vorlage:Redundanz
+Grup:Politikis long PNG	Kategorie:Politik (Papua-Neuguinea)
+Templet:User hu-1	Vorlage:User hu-1
+Templet:User no-1	Vorlage:User no-1
+Templet:User ru-1	Vorlage:User ru-1
+Grup:Ubuntu	Kategorie:Ubuntu
+Grup:Manmeri bilong Belaras	Kategorie:Person (Weißrussland)
+Grup:Manmeri bilong Papua Niugini	Kategorie:Papua-Neuguineer
+Grup:Intanet kod	Kategorie:Länderspezifische Top-Level-Domain
+Grup:User no-2	Kategorie:User no-2
+Grup:User no	Kategorie:User no
+Grup:Armenia	Kategorie:Armenien
+Grup:Bhutan	Kategorie:Bhutan
+Grup:Ples balus	Kategorie:Flughafen
+Grup:Ol nesenel plak	Kategorie:Nationalflagge
+Grup:Not Koria	Kategorie:Nordkorea
+Grup:Manmeri bilong Nauru	Kategorie:Nauruer
+Grup:Manmeri bilong Ostrelia	Kategorie:Australier
+Grup:Vanuatu	Kategorie:Vanuatu
+Grup:Korea	Kategorie:Korea
+Grup:Papua Niugini	Kategorie:Papua-Neuguinea
+Grup:Ol kantri long Pasifik	Kategorie:Staat in Australien und Ozeanien
+Grup:Ol kantri long Not Amerika	Kategorie:Staat in Nordamerika
+Grup:Ol maunten bilong Papua Niugini	Kategorie:Berg in Papua-Neuguinea
+Templet:Incubator	Vorlage:Incubator
+Grup:Ol Abus	Kategorie:Vielzellige Tiere
+Grup:Ol kantri long Saut Amerika	Kategorie:Staat in Südamerika
+Grup:Ol bokis bilong musik	Kategorie:Musikinstrument
+Grup:Piano	Kategorie:Klavier
+Grup:Ol kapitol bilong kantri	Kategorie:Hauptstadt
+Grup:Akiolosi	Kategorie:Archäologie
+Grup:Ilektrisiti	Kategorie:Elektrischer Strom
+Grup:Yusa pl	Kategorie:User pl
+Grup:Famili	Kategorie:Familie
+Templet:Infobokis Tokples	Vorlage:Infobox Sprache
+Grup:Ol kapitol bilong Not Amerika	Kategorie:Hauptstadt in Nordamerika
+Grup:Ol ailan bilong Papua Niugini	Kategorie:Insel (Papua-Neuguinea)
+Grup:Kalsa bilong Papua Niugini	Kategorie:Kultur (Papua-Neuguinea)
+Grup:Ol kapitol bilong Yurop	Kategorie:Hauptstadt in Europa
+Grup:Ol kapitol bilong Esia	Kategorie:Hauptstadt in Asien
+Templet:CompactTOC	Vorlage:TOC
+Templet:WAL	Vorlage:WAL
+Templet:Tok-pl	Vorlage:PlS
+Saina (kainkain mining)	China (Begriffsklärung)
+Trojany	Trojany (Woiwodschaft Masowien)
+Grup:Ol kantri long Esia	Kategorie:Staat in Asien
+Grup:Ol kantri long Amerika	Kategorie:Staat in Amerika
+Templet:Tok-is	Vorlage:IsS
+Grup:Westen Provins	Kategorie:Western Province (Papua-Neuguinea)
+Grup:Westen Hailans	Kategorie:Western Highlands Province
+Grup:Bogenvil	Kategorie:Bougainville (autonome Region)
+Grup:Ol kantri long Sentrel Amerika	Kategorie:Staat in Mittelamerika
+Grup:Sentral Provins	Kategorie:Central Province (Papua-Neuguinea)
+Grup:Is Niu Briten	Kategorie:East New Britain Province
+Grup:Is Sepik	Kategorie:East Sepik Province
+Grup:Isten Hailans	Kategorie:Eastern Highlands Province
+Grup:Enga	Kategorie:Enga Province
+Grup:Gulf	Kategorie:Gulf Province (Papua-Neuguinea)
+Grup:Aialan	Kategorie:Irland (Insel)
+Grup:Linux	Kategorie:Linux
+Grup:Madang	Kategorie:Madang Province
+Grup:Manus	Kategorie:Manus Province
+Grup:Milen Be	Kategorie:Milne Bay Province
+Grup:Sandaun	Kategorie:Sandaun Province
+Grup:Oro	Kategorie:Oro Province
+Grup:Simbu	Kategorie:Chimbu Province
+Grup:Tebol bilong ol elemen	Kategorie:Periodensystem
+Grup:Sauten Hailans	Kategorie:Southern Highlands Province
+Grup:León provins	Kategorie:Provinz León
+Grup:Valencia provins	Kategorie:Provinz Valencia
+Grup:Burgos provins	Kategorie:Provinz Burgos
+Grup:Ol yunit bilong taim	Kategorie:Zeiteinheit
+Grup:Alicante provins	Kategorie:Provinz Alicante
+Grup:Morobe	Kategorie:Morobe Province
+Grup:Niu Ailan	Kategorie:New Ireland Province
+Grup:Ol siti na taun bilong Brasil	Kategorie:Ort in Brasilien
+Grup:Politikis long Osenia	Kategorie:Politik (Australien und Ozeanien)
+Templet:EUR	Vorlage:EU
+Grup:Wes Niu Briten	Kategorie:West New Britain Province
+Templet:PD-textlogo	Vorlage:PD-textlogo
+Grup:Yusa en-1	Kategorie:User en-1
+Grup:Yusa de-1	Kategorie:User de-1
+Templet:Ol taun bilong León provins	Vorlage:Navigationsleiste Gemeinden in der Provinz León
+Templet:User dsb-1	Vorlage:User dsb-1
+Templet:User hu-2	Vorlage:User hu-2
+Templet:User th-2	Vorlage:User th-2
+Templet:User tpi-1	Vorlage:User tpi-1
+Templet:User hu-4	Vorlage:User hu-4
+Templet:User hu-3	Vorlage:User hu-3
+Templet:Cc-by-2.0-de	Vorlage:Bild-CC-by/2.0/de
+Templet:User tpi-4	Vorlage:User tpi-4
+Templet:User bi	Vorlage:User bi
+Templet:Yunaitet Kingdom ol konstituent na afiliesion	Vorlage:Navigationsleiste Landesteile und Überseegebiete Großbritannien und Nordirland
+Templet:User bi-1	Vorlage:User bi-1
+Sipesol:Nupela senis	Spezial:Letzte Änderungen

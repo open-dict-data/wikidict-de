@@ -1,0 +1,2356 @@
+ئافرىقا	Afrika
+ياپونىيە	Japan
+جەنۇبىي ئامېرىكا	Südamerika
+نورۋېگىيە	Norwegen
+Shotlandiye	Schottland
+Wélsh	Wales
+ۋېنگرىيە	Ungarn
+ئىسپانىيە	Spanien
+ئامېرىكا قوشما شىتاتلىرى	Vereinigte Staaten
+بېلگىيە	Belgien
+ليۇكسېمبۇرگ	Luxemburg
+يەر شارى	Erde
+گېئورگى ۋاشىنگتون	George Washington
+فىنلاندىيە	Finnland
+شۋېتسىيە	Schweden
+دانىيە	Dänemark
+لەھىستان	Polen
+لىتۋا	Litauen
+ئىتالىيە	Italien
+شۋېتسارىيە	Schweiz
+ئاۋستىرىيە	Österreich
+گرېتسىيە	Griechenland
+تۈركىيە جۇمھۇرىيىتى	Türkei
+پورتۇگالىيە	Portugal
+ياۋروپا	Europa
+ئاسىيا	Asien
+شىمالىي ئامېرىكا	Nordamerika
+ۋىكىپېدىيە	Wikipedia
+گوللاندىيە	Niederlande
+Nyu York Shehiri	New York City
+ۋاشىنگتون	Washington, D.C.
+San Fransisko	San Francisco
+Bérlin	Berlin
+Los Anjélés	Los Angeles
+كومپيۇتېر	Computer
+بېرن	Bern
+Jenwe	Genf
+سيۇرىخ	Zürich
+خەلقارالىق تور	Internet
+باراك ئوباما	Barack Obama
+ئۇرۇگۋاي	Uruguay
+London	London
+كايرو	Kairo
+پارىژ	Paris
+مېكسىكا	Mexiko
+Kaliforniye Shitati	Kalifornien
+Boston	Boston
+مارس	Mars (Planet)
+كېنىيە	Kenia
+ئېفىئوپىيە	Äthiopien
+گانا جۇمھۇرىيىتى	Ghana
+شىر	Löwe
+فرانسىيە	Frankreich
+ئېسپېرانتو	Esperanto
+ئىت	Haushund
+بۈيۈك بېرىتانىيە	Vereinigtes Königreich
+مۈشۈك	Hauskatze
+جۇڭخۇا خەلق جۇمھۇرىيىتى	Volksrepublik China
+فرانسۇز تىلى	Französische Sprache
+برازىلىيە	Brasilien
+روسىيە	Russland
+قارا دېڭىز	Schwarzes Meer
+Toronto	Toronto
+Alabama Shitati	Alabama
+San Pawlo	São Paulo
+Kwébék	Québec
+ۋىكىپېدىيە ۋەخپى	Wikimedia
+جىمى ۋالىس	Jimmy Wales
+گېرمانىيە	Deutschland
+بېلورۇسسىيە	Weißrussland
+نېمىس تىلى	Deutsche Sprache
+ئىسلاندىيە	Island
+ئېستونىيە	Estland
+ساتۇرن	Saturn (Planet)
+ئايروپىلان	Flugzeug
+جورج ۋولكېر بۇش	George W. Bush
+لاتۋىيە	Lettland
+ئۇكرائىنا	Ukraine
+چېخ جۇمھۇرىيەتى	Tschechien
+سلوۋاكىيە	Slowakei
+سلوۋېنىيە	Slowenien
+مولدوۋا	Moldawien
+رۇمىنىيە	Rumänien
+بۇلغارىيە	Bulgarien
+Rim	Rom
+ماكېدونىيە	Mazedonien
+ئالبانىيە	Albanien
+گرېنلاندىيە	Grönland
+كرودىيە	Kroatien
+بوسنىيە ۋە ھېرسېگوۋىنا	Bosnien und Herzegowina
+ئەزەربەيجان	Aserbaidschan
+ئاندوررا	Andorra
+سىپرۇس	Republik Zypern
+گرۇزىيە	Georgien
+قازاقىستان	Kasachstan
+مالتا	Malta
+موناكو	Monaco
+چېرنوگورىيە	Montenegro
+ۋاتىكان شەھىرى	Vatikanstadt
+سان مارىنو	San Marino
+Bryussél	Region Brüssel-Hauptstadt
+كۇبا	Kuba
+بېلىز	Belize
+باربادوس	Barbados
+ئاممىباپ ئاپتوموبىل	Volkswagen
+ھىندونېزىيە	Indonesien
+Wolfgang Amadeus Mozart	Wolfgang Amadeus Mozart
+بىتخوۋىن	Ludwig van Beethoven
+تۈرك تىلى	Türkische Sprache
+جەنۇبىي ئافرىقا	Südafrika
+ئالجىرىيە	Algerien
+ئۆزبېكىستان	Usbekistan
+Poznan	Posen
+Tashkent	Taschkent
+Warshawa	Warschau
+ياۋروۋىزىيون ناخشا مۇسابىقىسى	Eurovision Song Contest
+تېلېۋىزور	Fernsehen
+ئىسلاندىيە تىلى	Isländische Sprache
+چىلى	Chile
+ئەيسا مەسىھ	Jesus Christus
+گالىلېي	Galileo Galilei
+مېركۇرىي	Merkur (Planet)
+تارىخ	Geschichte
+ئالما شىركىتى	Apple
+ۋېنېرا	Venus (Planet)
+مۇھاببەت	Liebe
+يۇپىتېر	Jupiter (Planet)
+سامان يولى سىستىمېسى	Milchstraße
+ئۇران (پلانىت)	Uranus (Planet)
+نىكولا ساركوزى	Nicolas Sarkozy
+نېپتۇن	Neptun (Planet)
+ئاسترونومىيە	Astronomie
+سىنگاپور	Singapur
+پلۇتون	Pluto
+Montréal	Montreal
+لىختېنشتېين	Liechtenstein
+Kambrij	Cambridge
+Facebook	Facebook
+بىرىنچى دۇنيا ئۇرۇشى	Erster Weltkrieg
+Kolon	Köln
+سكوپليې	Skopje
+Shchétsin	Stettin
+لاتىن تىلى	Latein
+بەھرېيىن	Bahrain
+ئەرمېنىيە	Armenien
+سېربىيە	Serbien
+Istanbul	Istanbul
+ئاۋستىرالىيە	Australien
+فىزىكا	Physik
+ئارگېنتىنا	Argentinien
+پېرۇ	Peru
+بىئولوگىيە	Biologie
+شىمالىي چاۋشيەن	Nordkorea
+كامبوجا	Kambodscha
+قۇرئان كەرىم	Koran
+دىنوزاۋر	Dinosaurier
+ئىسلام دىنى	Islam
+ليۇبليانا	Ljubljana
+Lion	Lyon
+ياۋروپا ئىتتىپاقى	Europäische Union
+سوفىيە	Sofia
+شېئىر	Poesie
+Milan	Mailand
+Turin	Turin
+سوڭ	Anus
+ئېۋېرېست	Mount Everest
+ﻧﺎﭘﻮﻟﯧﺌﻮﻥ ﺑﻮﻧﺎﭘﺎﺭﺕ	Napoleon Bonaparte
+ۋېزۇۋىي	Vesuv
+قۇياش	Sonne
+قۇياش سىستېمىسى	Sonnensystem
+ھىدروگېن	Wasserstoff
+گېلىي	Helium
+لىتىي	Lithium
+بېرىللىي	Beryllium
+شەرقىي تىمور	Osttimor
+ئوسلو	Oslo
+Bonn	Bonn
+سېرېرا	(1) Ceres
+لىسبون	Lissabon
+ئېرىدا	(136199) Eris
+دۇبائى	Dubai (Emirat)
+بور	Bor
+Wérsayl	Versailles
+كاربون	Kohlenstoff
+ۋولگا دەرياسى	Wolga
+ئازوت	Stickstoff
+ئوكسىگېن	Sauerstoff
+مۇزىكا	Musik
+Wénitsiye	Venedig
+Rénn Shehiri	Rennes
+Lil	Lille
+Moskwa	Moskau
+فىتور	Fluor
+ئىتاليان تىلى	Italienische Sprache
+نىئون گازى	Neon
+Sankt-Pétérburg	Sankt Petersburg
+چاد	Tschad
+ناترىي	Natrium
+ماگنىي	Magnesium
+ئاليۇمىن	Aluminium
+يېڭى زېلاندىيە	Neuseeland
+ھىندىستان	Indien
+سىلىتسىي	Silicium
+فرانسىي	Francium
+Tuwalu	Tuvalu
+فوسفور	Phosphor
+تۆمۈر	Eisen
+Ton’ga	Tonga
+گۈڭگۈرت	Schwefel
+ساموئا	Samoa
+سولومون تاقىم ئاراللىرى	Salomonen
+ۋانۇئاتۇ	Vanuatu
+خلور گازى	Chlor
+پاپۇئا يېڭى گۋىنېيە	Papua-Neuguinea
+پالاۋ	Palau
+ئارگون	Argon
+ناۋرۇ	Nauru
+مىكرونېزىيە فېدېراتسىيىسى	Föderierte Staaten von Mikronesien
+كالىي	Kalium
+كالتىسىي	Calcium
+قوغۇشۇن	Blei
+مارشال تاقىم ئاراللىرى	Marshallinseln
+كىرىباتى	Kiribati
+موڭغۇلىيە	Mongolei
+فىجى	Fidschi
+سكاندىي	Scandium
+تىتان	Titan (Element)
+ۋېنېسۇئېلا	Venezuela
+چىڭگىزخان	Dschingis Khan
+ۋانادىي	Vanadium
+Méané Shitati	Maine
+خروم	Chrom
+ئات	Hauspferd
+ئامستېردام	Amsterdam
+ھايۋانات	Tier
+سۇرىنام	Suriname
+مانگان	Mangan
+پاراگۋاي	Paraguay
+گايانا	Guyana
+ئېكۋادور	Ecuador
+رېنىي	Rhenium
+كولومبىيە	Kolumbien
+كوبالت	Cobalt
+ۋولفرام	Wolfram
+نىكېل	Nickel
+بۇددا دىنى	Buddhismus
+بولىۋىيە	Bolivien
+مىس	Kupfer
+ترىنىداد ۋە توباگو	Trinidad und Tobago
+سېنت ۋىنسېنت ۋە گرېنادىن ئاراللىرى	St. Vincent und die Grenadinen
+سىنك	Zink
+Yéngi Xampishir Shitati	New Hampshire
+سېنت ليۇسىيە	St. Lucia
+داۋېىنچى	Leonardo da Vinci
+سېنت كىتس ۋە نېۋىس	St. Kitts und Nevis
+زەمبۇرۇغ	Pilze
+يامايكا	Jamaika
+گرېنادا	Grenada
+Massachuséts Shitati	Massachusetts
+گۋاتېمالا	Guatemala
+باھاما	Bahamas
+Konnéktikat Shitati	Connecticut
+ئانتىگۇئا ۋە باربۇدا	Antigua und Barbuda
+Haway Shitati	Hawaii
+ھوندۇراس	Honduras
+دومىنىكا	Dominica
+دومىنىكان جۇمھۇرىيەتى	Dominikanische Republik
+ھايتى	Haiti
+ئەل سالۋادور	El Salvador
+ئىران	Iran
+ئىراق	Irak
+Alyaska Shitati	Alaska
+كوستارىكا	Costa Rica
+ئىسرائىلىيە	Israel
+پاناما	Panama
+يەمەن	Jemen
+پولەك تىلى	Polnische Sprache
+ئىئوردانىيە	Jordanien
+نىكاراگۇئا	Nicaragua
+Florida Shitati	Florida
+قىرغىزىستان	Kirgisistan
+Arizona Shitati	Arizona
+كۇۋەيت	Kuwait
+لائوس	Laos
+لىۋان	Libanon
+Orégon Shitati	Oregon
+مالدىۋ ئاراللىرى	Malediven
+ئامېرىكا قىتئەسى	Amerika
+Yuta Shitati	Utah
+مالايسىيا	Malaysia
+بىرما	Myanmar
+نېپال	Nepal
+ئومان	Oman
+پاكىستان	Pakistan
+قاتار	Katar
+سەئۇدى ئەرەبىستان	Saudi-Arabien
+سرىلانكا	Sri Lanka
+ستالىن	Josef Stalin
+سۇرىيە	Syrien
+بىراتۇ	Platon
+گاللىي	Gallium
+تاجىكىستان	Tadschikistan
+تەيۋەن	Republik China (Taiwan)
+گېرمانىي	Germanium
+تايلاند	Thailand
+ئارسېن	Arsen
+تۈركمەنىستان	Turkmenistan
+سېلېن	Selen
+ئەرەب بىرلەشمە خەلىپىلىكى	Vereinigte Arabische Emirate
+بروم	Brom
+Platina	Platin
+ۋيېتنام	Vietnam
+Nowosibirski	Nowosibirsk
+جەنۇبىي چاۋشيەن	Südkorea
+كرىپتون	Krypton
+ئافغانىستان	Afghanistan
+رۇبىدىي	Rubidium
+ئالتۇن	Gold
+قازان	Kasan
+بانگلادېش	Bangladesch
+مالى	Mali
+ئانگولا	Angola
+بۇتان	Bhutan
+برۇنېي	Brunei
+تانزانىيە	Tansania
+فىلىپپىن	Philippinen
+ئوتتۇرا ئافرىقا جۇمھۇرىيىتى	Zentralafrikanische Republik
+جەنۇبى قۇتۇپ	Südpol
+شىمالى قۇتۇپ	Nordpol
+ئىسساك نيوتۇن	Isaac Newton
+ئالبېرىت ئېينىشتېين	Albert Einstein
+سترونتسىي	Strontium
+ئىتترىي	Yttrium
+ۋىسمۇت	Bismut
+سېرىق رەڭ	Gelb
+توگو	Togo
+تۇنىس	Tunesien
+زامبىيە	Sambia
+زىمبابۋې	Simbabwe
+بېيجىڭ شەھىرى	Peking
+تۇۋا	Tuwa
+بېنىن	Benin
+بوتسۋانا	Botswana
+بۇركىنا فاسو	Burkina Faso
+بۇرۇندى	Burundi
+كومور ئاراللىرى	Komoren
+كونگو جۇمھۇرىيىتى	Republik Kongo
+كونگو دېموكراتىك جۇمھۇرىيىتى	Demokratische Republik Kongo
+San Antonio	San Antonio
+جىبۇتى	Dschibuti
+پولونىي	Polonium
+ئېكۋاتور گۋىنېيىسى	Äquatorialguinea
+ئېرىترېيە	Eritrea
+Yéngi Déhli	Neu-Delhi
+تبىلىسى	Tiflis
+ئاستاتىن	Astat
+گابون	Gabun
+گامبىيە	Gambia
+ۋىنېيە	Guinea
+گۋىنېيە بىسسائۇ	Guinea-Bissau
+پىل چىشى قىرغىغى	Elfenbeinküste
+كامېرۇن	Kamerun
+يېشىل تۇمشۇق ئاراللىرى	Kap Verde
+لېسوتو	Lesotho
+لىبېرىيە	Liberia
+لىۋىيە	Libyen
+ماداگاسكار	Madagaskar
+مالاۋى	Malawi
+Shtutgart	Stuttgart
+ماۋرىتانىيە	Mauretanien
+ماۋرىتىئۇس	Mauritius
+ماراكەش	Marokko
+موزامبىك	Mosambik
+نامىبىيە	Namibia
+نىگېر	Niger
+نىگېرىيە	Nigeria
+دارۋىن	Charles Darwin
+ئۇگاندا	Uganda
+رۋاندا	Ruanda
+سىركونىي	Zirconium
+San Tomé we Prinsipé	São Tomé und Príncipe
+سېنېگال	Senegal
+سېيشېل ئاراللىرى	Seychellen
+سيېررا لېئونې	Sierra Leone
+سومالى	Somalia
+نىئوبىي	Niob
+جولیس سیزر	Gaius Iulius Caesar
+سۇدان	Sudan
+سۋازىلېند	Swasiland
+مولبېدىن	Molybdän
+تېخېتىسىي	Technetium
+Hamburg	Hamburg
+گۇجارات	Gujarat
+بىرلەشكەن دۆلەتلەر تەشكىلاتى	Vereinte Nationen
+گېئولوگىيە	Geologie
+Exmetabad	Ahmedabad
+يۈرەك	Herz
+تېرە	Haut
+پراگا	Prag
+كۆك رەڭ	Blau
+كۈمۈش	Silber
+قەلەي	Zinn
+ئۇران	Uran
+سۈرمە	Antimon
+پلوتونىي	Plutonium
+نېپتونىي	Neptunium
+كسېنون	Xenon
+سېزىي	Caesium
+پروتاكتىنىي	Protactinium
+بارىي	Barium
+تورىي	Thorium
+گافنىي	Hafnium
+ئاكتىنىي	Actinium
+تانتال	Tantal
+بىل كلىنتون	Bill Clinton
+رادىي	Radium
+رادون	Radon
+Bombay	Mumbai
+Michigan Shitati	Michigan
+پوئېرتو رىكو	Puerto Rico
+Illinoyiz Shitati	Illinois
+Shimaliy Dakota Shitati	North Dakota
+لومبارد	Lombardei
+Jenubiy Dakota Shitati	South Dakota
+Montana Shitati	Montana
+Wyoming Shitati	Wyoming
+قۇدس	Jerusalem
+Aydaxo Shitati	Idaho
+Washin'giton Shitati	Washington (Staat)
+رۇزېرفوردىي	Rutherfordium
+Néwada shitati	Nevada
+دۇبنىي	Dubnium
+سىبورگىي	Seaborgium
+بوھرىي	Bohrium
+ھاسسىي	Hassium
+مېيتنېرىي	Meitnerium
+Kolorado Shitati	Colorado
+دارمستادتىي	Darmstadtium
+رۆنتگېنىي	Roentgenium
+كوپېرنىي	Copernicium
+تۈر:تۈرلەر يولباشچىسى	Kategorie:!Hauptkategorie
+ئاپېنىن تاغ تىزمىسى	Apennin
+ئالپ تاغلىرى	Alpen
+پاسكال	Blaise Pascal
+Gant	Gent
+Chikago	Chicago
+ئۇنۇنترىي	Ununtrium
+فلېروۋىي	Flerovium
+ئۇنۇنپېنتىي	Ununpentium
+لىۋىرمورىي	Livermorium
+ئۇنۇنسېپتىي	Ununseptium
+ئۇنۇنئوكتىي	Ununoctium
+Arném	Arnhem
+ئىسپان تىلى	Spanische Sprache
+مونتېۋىدېئو	Montevideo
+Filadélfiye	Philadelphia
+Kalkutta	Kalkutta
+Déhli	Delhi
+داكا	Dhaka
+Ban'galor	Bangalore
+Ömüchük	Webspinnen
+ئىسلامئاباد	Islamabad
+ظاصتاص يئضةن مئؤة	Frucht
+Wirginiye Shitati	Virginia
+غەربىي ۋىرگىنىيە شىتاتى	West Virginia
+Nyuyork Shitati	New York (Bundesstaat)
+سېرىي	Cer
+پرازېئودىمىي	Praseodym
+Rodé Arili Shitati	Rhode Island
+نېئودىي	Neodym
+Maryland Shitati	Maryland
+Délawiyer Shitati	Delaware
+يېۋروپىي	Europium
+Oxayo Shtati	Ohio
+Pénsilwaniye Shitati	Pennsylvania
+Yéngi Jérséy Shtati	New Jersey
+فىنلاندىيە تىلى	Finnische Sprache
+Indiyanna Shitati	Indiana
+ئاپتوموبىل	Automobil
+Giorgiye Shitati	Georgia
+Zagréb	Zagreb
+Téksas Shitati	Texas
+Jenubiy Karolina Shitati	South Carolina
+سىتسىلىيە	Autonome Region Sizilien
+مانىلا	Manila
+ساردىنىيە ئارىلى	Sardinien
+Bordo	Bordeaux
+Buénos Ayrés	Buenos Aires
+مېكسىكا شەھىرى	Mexiko-Stadt
+توكيو	Präfektur Tokio
+Barsélona	Barcelona
+Missisipi Shitati	Mississippi (Staat)
+Ténnéssi Shitati	Tennessee
+Astana	Astana
+Yéngi Méksika Shitati	New Mexico
+ئافېنا	Athen
+Minnésota Shitati	Minnesota
+باغداد	Bagdad
+Karakas	Caracas
+Wiskonsin Shitati	Wisconsin
+Puna	Pune
+AC مىلان	AC Mailand
+Lowa Shitati	Iowa
+Nébraska Shitati	Nebraska
+گۋاتېمالا شەھىرى	Guatemala-Stadt
+Kanzas Shitati	Kansas
+ھىندى تىلى	Hindi
+ماراتىچە	Marathi
+Missori Shitati	Missouri
+Loyizanna Shitati	Louisiana
+Kéntukki Shitati	Kentucky
+Arkanzas Shtati	Arkansas
+ئوردو تىلى	Urdu
+Oklaxoma Shitati	Oklahoma
+Potsdam	Potsdam
+Hanofér	Hannover
+Myunxén	München
+Drézdén	Dresden
+ۋالىبول	Volleyball
+Wyéna	Wien
+Kopénhagén	Kopenhagen
+Stokgolm	Stockholm
+Xélsinki	Helsinki
+دۇبلىن	Dublin
+رېيكياۋىك	Reykjavík
+Tallin	Tallinn
+رىگا	Riga
+براتىسلاۋا	Bratislava
+Budapésht	Budapest
+Danzig	Danzig
+Frankfort	Frankfurt am Main
+Wroklaw	Breslau
+لانتان	Lanthan
+جۈي	Promethium
+چالغا	Samarium
+گادولنىي	Gadolinium
+تېربىي	Terbium
+Katolik dini	Katholizismus
+ليۇكسېمبۇرگ شەھىرى	Luxemburg (Stadt)
+دىسپروزىي	Dysprosium
+ۋادۇز	Vaduz
+ئىنجىل	Bibel
+گولمىي	Holmium
+ئېربىي	Erbium
+فنوم پېن	Phnom Penh
+تۇلىي	Thulium
+سايگون	Ho-Chi-Minh-Stadt
+ئىتتېربىي	Ytterbium
+لۇتېتسىي	Lutetium
+خانوي	Hanoi
+ھەقىقى ئەيسا چېركاۋى	Wahre Jesus-Kirche
+ئىنگىلىز تىلى	Englische Sprache
+Bangkok	Bangkok
+ئاندوررا كەنتى	Andorra la Vella
+كۇئالالۇمپۇر	Kuala Lumpur
+تەيبېي شەھىرى	Taipeh
+ئامېرىتسىي	Americium
+كىيۇرىي	Curium
+Concepción, Chile	Concepción (Chile)
+بېركېلىي	Berkelium
+كالىفورنىي	Californium
+ئېينشتېينىي	Einsteinium
+فېرمىي	Fermium
+مېندېلېيېۋىي	Mendelevium
+كىيېۋ	Kiew
+نوبېلىي	Nobelium
+لاۋرېنسىي	Lawrencium
+كارېلىيە	Republik Karelien
+Ottawa	Ottawa
+Manitoba Ölkisi	Manitoba
+Albérta	Alberta
+Nowa Skotiye Ölkisi	Nova Scotia
+يېرېۋان	Jerewan
+دارېسسالام	Daressalam
+خارتۇم	Khartum
+Yéngi Brunswik Ölkisi	New Brunswick
+Britani Kolumbiye	British Columbia
+Saskachéwan	Saskatchewan
+Néwfundland Ölkisi	Neufundland und Labrador
+Gherbiy Shimal Rayoni	Nordwest-Territorien
+Yukon Rayoni	Yukon (Territorium)
+Florénsa	Florenz
+Ésén	Essen
+كومى	Republik Komi
+Léypzig	Leipzig
+Nyurnbérg	Nürnberg
+Édmonton	Edmonton
+Man'géym	Mannheim
+Wiktoriye, Britani Kolumbiye	Victoria (British Columbia)
+Winnipég	Winnipeg
+Halifaks	Halifax (Nova Scotia)
+Kwébék Shehiri	Québec (Stadt)
+ئېلېكترون	Elektron
+Birmin'gxam	Birmingham
+مىنىسكى	Minsk
+مىكروسوفىت شىركىتى	Microsoft
+پروتون	Proton
+Kurow	Kurów
+Naplés	Neapel
+Braunshwéyg	Braunschweig
+Madrid	Madrid
+سۇ ئاستى كېمىسى	U-Boot
+مايكېل جېكسۇن	Michael Jackson
+Bogota	Bogotá
+لىما	Lima
+Santiyago	Santiago de Chile
+كىتو	Quito
+سۇكرې	Sucre
+ئاسۇنسىئون	Asunción
+Öçke	Hausziege
+Héydélbérg	Heidelberg
+كاتماندۇ	Kathmandu
+سان خوسې (كوستارىكا)	San José (Costa Rica)
+سان سالۋادور	San Salvador
+Kanbérra	Canberra
+Sidnéy	Sydney
+يېشىل رەڭ	Grün
+Mélburn	Melbourne
+قىزىل رەڭ	Rot
+ماناگۇئا	Managua
+رابات	Rabat
+قۇيرۇقلۇق يۇلتۇز	Komet
+ئالجىر	Algier
+تۇنىس شەھىرى	Tunis
+ترىپولى	Tripolis
+تېھران	Teheran
+جاكارتا	Jakarta
+Enqere	Ankara
+رىياد	Riad
+بېلگراد	Belgrad
+ئادىگېيە	Adygeja
+پرايا	Praia
+دەمەشىق	Damaskus
+يامۇسسۇكرو	Yamoussoukro
+فرانسىيىگە قاراشلىق گۋىئانا	Französisch-Guayana
+لومې	Lomé
+ئاممان	Amman
+بېيرۇت	Beirut
+مۇسكات	Maskat
+نىكوسىيە	Nikosia
+دوھا	Doha
+نايروبى	Nairobi
+لۇساكا	Lusaka
+ئامازون	Amazon.com
+قۇياش تۇتۇلۇشى	Sonnenfinsternis
+كامپالا	Kampala
+Mektep	Schule
+ھارارې	Harare
+Prétoriye	Pretoria
+Astiraxan	Astrachan
+Tiktak top	Tischtennis
+Wikipedia:Sandbox	Wikipedia:Spielwiese
+قالماقىستان	Kalmückien
+Osasko	Osasco
+Glasgow	Glasgow
+Kuritiba	Curitiba
+Orman	Wald
+بوغاز كۆۋرۈكى	Bosporus-Brücke
+كۇڭزى	Konfuzius
+كوربين بيلو	Corbin Bleu
+Surat	Surat
+ياۋرۇ	Euro
+ئامېرىكا دولىرى	US-Dollar
+يەر ئوتتۇرا دېڭىزى	Mittelmeer
+خاڭجۇ شەھىر	Hangzhou
+مەسىھچىلىك	Christentum
+قېلىپ:ئاسىيا	Vorlage:Navigationsleiste Staaten in Asien
+Séatl	Seattle
+Baltimor	Baltimore
+ئادېلايدې	Adelaide
+داغىستان	Dagestan
+Monzón	Monzón
+گۇجارات تىل	Gujarati
+پورتۇگال تىلى	Portugiesische Sprache
+مۇستاپا كامال	Mustafa Kemal Atatürk
+چېچېنىيە	Tschetschenien
+كۋېچۇئا تىلى	Quechua
+ئىنگۇشېتىيە	Inguschetien
+شىمالىي ئوسېتىيە	Nordossetien-Alanien
+كاباردىنو-بالقارىستان	Kabardino-Balkarien
+ئالماس	Diamant
+ياپون تىلى	Japanische Sprache
+Énsklopédiye	Enzyklopädie
+ئۇيغۇرچە ۋىكىپىدىيە	Wikipedia:Hauptseite
+Latex	LaTeX
+كوندېنساتور	Kondensator (Elektrotechnik)
+قاراچاي-چېركېسىيە	Karatschai-Tscherkessien
+موردوۋىيە	Mordwinien
+ۋاسكېتبول	Basketball
+چاڭجياڭ دەرياسى	Jangtsekiang
+ئۇدمۇرتىيە	Udmurtien
+مارى	Mari El
+ھىمالايا تاغ تىزمىسى	Himalaya
+ئاند تاغلىرى	Anden
+قىيىلىق تاغلار	Rocky Mountains
+Kapétown	Kapstadt
+چۇۋاشىيە	Tschuwaschien
+تەڭرىتاغ	Tian Shan
+كاۋكاز تاغ تىزمىسى	Kaukasus
+تاتارىستان	Tatarstan
+1279-يىلى	1279
+ۋېىنىست	Vincent van Gogh
+باشقۇرتىستان	Baschkortostan
+Semerqend	Samarqand
+Buxara	Buxoro
+بېتلېخېم	Bethlehem
+Andalusiye	Andalusien
+كايمان تاقىم ئاراللىرى	Cayman Islands
+Kordowa	Córdoba (Spanien)
+شىئەن شەھىرى	Xi’an
+كابۇل	Kabul
+لاسا شەھىرى	Lhasa
+غىلاپ	Vagina
+تامىل تىلى	Tamil
+پەلسەپە	Philosophie
+ئالەم ئايرۇپىلانى	Raumfahrt
+ئالتاي تاغ تىزمىسى	Altai
+تۈر:Candidates for speedy deletion	Kategorie:Wikipedia:Schnelllöschen
+ئالتاي	Republik Altai
+پىئانىنو	Klavier
+Hebe Camargo	Hebe Camargo
+Portland, Orégon	Portland (Oregon)
+ئانارخىزم	Anarchismus
+لىبېرالىزىم	Liberalismus
+فاشىسىت	Faschismus
+مىللەتچىلىك	Nationalismus
+غەربىي ساھارا	Westsahara
+ھىلاري كلىنتون	Hillary Clinton
+خاكاسىيە	Chakassien
+Strasburg	Straßburg
+ياكۇتىيە	Sacha
+كرودىيە تىلى	Kroatische Sprache
+گائۇس	Carl Friedrich Gauß
+بۇرياتىيە	Burjatien
+جامىس جويىس	James Joyce
+كاتالان تىلى	Katalanische Sprache
+Burχa	Buddha
+دىنسىزلىق	Atheismus
+لى بەي	Li Bai
+دۇنيا بانكىسى	Weltbank
+كونسېرۋاتىپ	Konservatismus
+شىمالىي ئاتلانتىك ئەھدى تەشكىلاتى	NATO
+نوبېل مۇكاپاتى	Nobelpreis
+چىن شىخۇاڭ	Qin Shihuangdi
+خەن سۇلالىسى	Han-Dynastie
+فېمىنىزم	Feminismus
+ئىدېئولوگىيە	Ideologie
+پەي توپ	Badminton
+يۈەن سۇلالىسى	Yuan-Dynastie
+كولۇمبو	Christoph Kolumbus
+يەھۇدىلار	Juden
+سېرىق دەريا	Gelber Fluss
+قۇلاق	Ohr
+بۇرۇن	Nase
+كۆز	Auge
+Töge	Altweltkamele
+چۈمۈلە	Ameisen
+سۈي سۇلالىسى	Sui-Dynastie
+گوللاندىيە تىلى	Niederländische Sprache
+ماگرىت ساچىر	Margaret Thatcher
+ياڭ جىيەن	Sui Wendi
+دېئوكسىرىبونۇكلېئىك كىسلاتا	Desoxyribonukleinsäure
+سۇڭ سۇلالىسى	Song-Dynastie
+Çeyze	Aubergine
+رۇس تىلى	Russische Sprache
+ساخالىن	Sachalin
+نېفىت ئېكىسپورت قىلغۇچى دۆلەتلەر تەشكىلاتى (OPEC)	Organisation erdölexportierender Länder
+خەلقئارا پۇل فوندى تەشكىلاتى	Internationaler Währungsfonds
+دۇنيا سودا تەشكىلاتى	Welthandelsorganisation
+سۋاھىلىچە	Swahili (Sprache)
+توكيو ئۇنىۋېرستېتى	Universität Tokio
+خەنزۇ تىلى	Chinesische Sprachen
+ئۆپكە	Lunge
+نەپەسلىنىش سىستېمى	Atemtrakt
+رۇمىنىيە تىلى	Rumänische Sprache
+بۇلغارىيە تىلى	Bulgarische Sprache
+يەر تەۋرەش	Erdbeben
+ماگادان	Magadan
+تەبىئىي پەن	Naturwissenschaft
+فرانكلىن روزۋېلت	Franklin D. Roosevelt
+ﺋﯩﺒﯩﻦ ﺳﯩﻨﺎ	Avicenna
+نىلسۇن ماندىلا	Nelson Mandela
+مارتىن لوتىر كىڭ	Martin Luther King
+Yanardag	Vulkan
+ئىسسىق بەلباغ سىكلونى	Tropischer Wirbelsturm
+تېلۇگۇ تىلى	Telugu
+گرۇزىن تىلى	Georgische Sprache
+ئىقتىسادشۇناسلىق	Wirtschaftswissenschaft
+يېن	Yen
+قىزىل تۈلكە	Rotfuchs
+ئىسكىرىپكا	Violine
+چوڭ ئىسكىروپكا	Violoncello
+ئىسكەندەر زۇلقەرنەيىن	Alexander der Große
+ئۆمەر ئىبنى خەتتاب	ʿUmar ibn al-Chattāb
+ئامۇ دەرياسى	Amudarja
+سۈت	Milch
+سۇن جۇڭشەن	Sun Yat-sen
+شياڭگاڭ	Hongkong
+Miami	Miami
+كاراچى	Karatschi
+Rio dé Janéyro	Rio de Janeiro
+سوغۇق ئۇرۇش	Kalter Krieg
+شاڭخەي شەھىرى	Shanghai
+Bilbaw	Bilbao
+Séwéliye	Sevilla
+چىڭ سۇلالىسى	Qing-Dynastie
+توماس ئىدىسون	Thomas Alva Edison
+ئالبان تىلى	Albanische Sprache
+باسكى تىلى	Baskische Sprache
+ئاراگون تىلى	Aragonesische Sprache
+ئەرمەن تىلى	Armenische Sprache
+ئۇكرائىن تىلى	Ukrainische Sprache
+Walénsiye	Valencia
+Malaga	Málaga
+شۋېتسىيە تىلى	Schwedische Sprache
+دانىش تىلى	Dänische Sprache
+نورۋېگىيە تىلى	Norwegische Sprache
+ليۇكسېمبۇرگ تىلى	Luxemburgische Sprache
+چېخ تىلى	Tschechische Sprache
+سلوۋاك تىلى	Slowakische Sprache
+كارل ماركىس	Karl Marx
+سلوۋېن تىلى	Slowenische Sprache
+ماجار تىلى	Ungarische Sprache
+ۋولتىر	Voltaire
+ئېستون تىلى	Estnische Sprache
+لاتۋىيە تىلى	Lettische Sprache
+لىتۋا تىلى	Litauische Sprache
+ھىندى دىنى	Hinduismus
+بېلورۇس تىل	Weißrussische Sprache
+يېلىن	Weibliche Brust
+ئاتوم	Atom
+گرېك تىلى	Griechische Sprache
+ئرېلاندىيە تىلى	Irische Sprache
+مالتا تىلى	Maltesische Sprache
+پارس تىلى	Persische Sprache
+ئىسلام	Religion
+كورىيەچە	Koreanische Sprache
+Injilning birinchi tomi	1. Buch Mose
+ئېكسودۇس	2. Buch Mose
+ۋيېتنام تىلى	Vietnamesische Sprache
+كخمېر تىلى	Khmer-Sprache
+لائوس تىلى	Laotische Sprache
+تايلاندچە	Thailändische Sprache
+بىرما تىلى	Birmanische Sprache
+مالاي تىلى	Malaiische Sprache
+موڭغۇل تىلى	Mongolische Sprache
+Baku	Baku
+قازاق تىلى	Kasachische Sprache
+قىرغىز تىلى	Kirgisische Sprache
+تاجىك تىلى	Tadschikische Sprache
+ئۆزبېك تىلى	Usbekische Sprache
+تۈركمەن تىلى	Turkmenische Sprache
+يەھۇدى دىنى	Judentum
+تىمپۇ	Thimphu
+باندار سەرى بەگاۋان	Bandar Seri Begawan
+ئىبرانى تىلى	Hebräische Sprache
+ئەزەربەيجان تىلى	Aserbaidschanische Sprache
+ماكېدون تىلى	Mazedonische Sprache
+سېرب تىلى	Serbische Sprache
+سېربو-كرودىيىلىكلەر تىلى	Serbokroatische Sprache
+بوسنىيە تىلى	Bosnische Sprache
+گالىسىيەچە	Galicische Sprache
+ۋېلش تىلى	Walisische Sprache
+دىلى	Dili
+شوتلاندىيە گائېل تىلى	Schottisch-gälische Sprache
+Wyéntyan	Vientiane
+مالې	Malé
+Bishkek	Bischkek
+Düshenbe	Duschanbe
+جىگەر	Leber
+تلا	Milz
+بۆرەك	Niere
+دوۋساق	Harnblase
+نېرۋا سىستىمېسى	Nervensystem
+ئوكيانىيە	Ozean
+مۇھەممەد ئەلەيھىسسالام	Mohammed
+ئىمام ئەلغازالىي	Al-Ghazālī
+رىچارد نىكسون	Richard Nixon
+قورساق قىسم	Abdomen
+داۋجياۋ دىنى	Daoismus
+سوپىزم (تەسەۋۋۇپ)	Sufismus
+ۋېنا تومۇرى	Vene
+بېنگال تىلى	Bengalische Sprache
+تىل	Zunge
+پانكرېئاتىت	Bauchspeicheldrüse
+بويۇن	Hals
+ئېغىز بوشلۇقى	Mund
+بوغۇز	Kehlkopf
+فالكلاند تاقىم ئاراللىرى	Falklandinseln
+سازاڭسىمان ئۆسۈكچە	Appendix vermiformis
+ئېلىزابېت II	Elisabeth II.
+تاڭ سۇلالىسى	Tang-Dynastie
+كېننېدى	John F. Kennedy
+تاڭ تەيزوڭ	Tang Taizong
+بالزاك	Honoré de Balzac
+مىڭ سۇلالىسى	Ming-Dynastie
+جۇ يۈەنجاڭ	Hongwu
+رېگان	Ronald Reagan
+زۇلۇچە	IsiZulu
+زازا تىلى	Zaza-Sprache
+پلازما	Plasma (Physik)
+رىم گىلادىئاتورلار مەيدانى	Kolosseum
+Saragossa	Saragossa
+Bélfast	Belfast
+ئېلېمېنتلارنىڭ دەۋرىي جەەدۋىلى	Periodensystem
+قۇرۇق ئۈزۈم	Weintraube
+ھەسەل	Honig
+شېكەر	Zucker
+روبوت	Roboter
+ماشىنىسازلىق	Maschine
+ئايلىنىش سىستېمىسى	Blutkreislauf
+ئىچكى ئاجراتما سىستېمىسى	Hormonsystem
+كىسلاتا	Säuren
+سارايېۋو	Sarajevo
+تۇز	Speisesalz
+فۇنكسىيە	Funktion (Mathematik)
+مولېكۇلا	Molekül
+ئېنېرگىيە	Energie
+ئىنفرا قىزىل نۇر	Infrarotstrahlung
+ماسسا	Masse (Physik)
+مېتال	Metalle
+پولات	Stahl
+نانو تېخنىكىسى	Nanotechnologie
+ئەينەك	Glas
+ۋاكۇئۇم	Vakuum
+ئېلېكترون ئىلمى	Elektronik
+.توك (توك ئېقىمى)	Elektrischer Strom
+ئىككى پۇتلۇق لامپا	Diode
+ئامېرىكىغا قاراشلىق ۋىرگىن تاقىم ئاراللىرى	Amerikanische Jungferninseln
+شېنياڭ شەھىرى	Shenyang
+چۇڭچىڭ شەھىرى	Chongqing
+تيەنجىن شەھىرى	Tianjin
+Lahor	Lahore
+ۋۇخەن شەھىرى	Wuhan
+نۆۋەتتىكى ھادىسە	Liste der Staaten der Erde
+ناگويا	Nagoya
+تاش قورال دەۋرى	Steinzeit
+ئېيىق	Bären
+فوتوسىنتېز رولى	Photosynthese
+برېتون تىلى	Bretonische Sprache
+پىرېنېي تاغلىرى	Pyrenäen
+Détroyt	Detroit
+بۇرج دۇبەي	Burj Khalifa
+Sedichin Sépili	Chinesische Mauer
+ئاياسوڧيا	Hagia Sophia
+سەلىپنىڭ شەرققە يۈرۈش قىلىشى	Kreuzzug
+موڭغۇل ئىمپېرىيىسى	Mongolisches Reich
+ئوسمان ئىمپېرىيىسى	Osmanisches Reich
+ئىسپانىيە-ئامېرىكا ئۇرۇشى	Spanisch-Amerikanischer Krieg
+مىللى دارامەت	Bruttoinlandsprodukt
+ئېلېكتر	Elektrizität
+يادرو ئېنېرگىيىسى	Kernenergie
+ھور ماشىنىسى	Dampfmaschine
+Antwérp	Antwerpen
+باش سۆڭىكى	Schädel
+ئانار	Granatapfel
+ئاپېلسىن	Orange (Frucht)
+دۇنيا تىلى	Bündnerromanisch
+جۇاڭزۇ تىلى	Zhuang (Sprache)
+شىبە تىلى	Xibenisch
+ئۇيغۇر تىلى	Uigurische Sprache
+سىنگال تىلى	Singhalesische Sprache
+ناخۇئاتل تىلى	Nahuatl
+مونتسەررات	Montserrat
+خارۋارد ئۇنىۋېرسىتېتى	Harvard University
+Pisa	Pisa
+باشقۇرتچە	Baschkirische Sprache
+قېلىپ:Location map Earth	Vorlage:Positionskarte Erde
+باغلانغان ئۆردەك	Le Canard enchaîné
+ئەرەب تىلى	Arabische Sprache
+كيۇسيۇ ئارىلى	Kyūshū
+خونسيو ئارىلى	Honshū
+شىكوكۇ	Shikoku
+كورسىكا ئارىلى	Korsika
+ئاڧرىقانچە	Afrikaans
+بۆرە بورسۇق	Vielfraß
+ئاۋمېن	Macau
+خۇ جىنتاۋ	Hu Jintao
+شى جىنپىڭ	Xi Jinping
+زىراپە	Giraffe
+شېنجېن شەھىرى	Shenzhen
+گۇئاڭدوڭ ئۆلكىسى	Guangdong
+گۇاڭشى جۇاڭزۇ ئاپتونۇم رايونى	Guangxi
+سوۋېت ئىتتىپاقى	Sowjetunion
+شياڭگاڭ ئۇنىۋېرستېتى	Universität Hongkong
+شياڭگاڭ جۇڭگو تىللىرى ئۇنۋېرسىتېتى	Chinesische Universität Hongkong
+رۇبلى	Rubel
+پۇت	Fuß
+دولا	Schulter
+قالقانبەز	Schilddrüse
+Wikipedia:Tor Jamiyeti	Wikipedia:Projektdiskussion
+Wérmont Shitati	Vermont
+San Diyégo	San Diego
+San Xosé	San José (Kalifornien)
+Dénwér	Denver
+Hyuston	Houston
+Féniks	Phoenix (Arizona)
+Dallas	Dallas
+Austin	Austin (Texas)
+Mémfis, Ténnéssi	Memphis (Tennessee)
+Sharlot	Charlotte (North Carolina)
+Kolumbu, Oxéo	Columbus (Ohio)
+گۇاڭجۇ شەھىرى	Guangzhou
+جىياڭ جىشى	Chiang Kai-shek
+ۋېن جىياباۋ	Wen Jiabao
+Guam Aril	Guam
+ئامېرىكىغا قاراشلىق ساموئا	Amerikanisch-Samoa
+شىمالىي مارىئانا فېدېراتسىيىسى	Nördliche Marianen
+نەنجىڭ شەھىرى	Nanjing
+بېيجىڭ ئۇنىۋېرسىتېتى	Peking-Universität
+ئۈرۈمچى شەھىرى	Ürümqi
+جياڭسۇ ئۆلكىسى	Jiangsu
+جېجياڭ ئۆلكىسى	Zhejiang
+گۇئادەلوپە	Guadeloupe
+مارتىنىكا	Martinique
+شىزاڭ ئاپتونوم رايونى	Autonomes Gebiet Tibet
+دالاي لاما	Tendzin Gyatsho
+تۆگىقۇش	Afrikanischer Strauß
+Sakraménto	Sacramento
+چاۋشيەن	Korea
+لى كېچياڭ	Li Keqiang
+Manchéstér	Manchester
+تۇركس ۋە كايكوس تاقىم ئاراللىرى	Turks- und Caicosinseln
+ۋىتامىن A	Vitamin A
+ياۋروپا چىمپيونلۇق لوڭقىسى	UEFA Champions League
+پالمىزارلىق ئىپار مۈشۈكى	Fleckenmusang
+Pyongyang	Pjöngjang
+New Testament	Neues Testament
+ئادالەت ۋە تەرەققىيات پارتىيىسى	Adalet ve Kalkınma Partisi
+گۈللىنىش پارتىيىسى	Cumhuriyet Halk Partisi
+مىللى دارامەت بويىچە دۆلەت تەرتىپى	Liste der Länder nach Bruttoinlandsprodukt
+خېيلوڭجياڭ ئۆلكىسى	Heilongjiang
+ما يىنجىئۇ	Ma Ying-jeou
+بۇخارېست	Bukarest
+پوئىرتورىكان مۇستەقىللىق پارتىيىسى	Partido Independentista Puertorriqueño
+Tirana	Tirana
+ئېشەك	Hausesel
+سىچۈەن ئۆلكىسى	Sichuan
+مۇھەممەر قەززافى	Muammar al-Gaddafi
+بارس	Tiger
+سامسۇڭ گۇرۇھى	Samsung
+شىمالىي ياۋروپا	Skandinavien
+كىشىنېۋ	Chișinău
+بیلگیسايار مۈھەندیسلیغی	Informatik
+Şalom	Şalom
+ئارۇبا	Aruba
+خېبېي ئۆلكىسى	Hebei
+پرىنسېتون ئۇنىۋېرستېتى	Princeton University
+نېفىت	Erdöl
+پېنسىلۋانىيە نېمىس تىلى	Pennsylvania Dutch (Sprache)
+پرژىۋالسكى ياۋا ئات	Przewalski-Pferd
+قوي	Schafe
+ئىرلاندىيە	Irland (Insel)
+Chéshir	Cheshire
+Nortumbér Wilayiti	Northumberland
+Staffordshir	Staffordshire
+ﻟﯘﺷﯜﻥ	Lu Xun
+Shimaliy Amptonshir	Northamptonshire
+Bédfordshir	Bedfordshire
+Kornwél	Cornwall
+Bristol	Bristol
+Déwonshir	Devon (England)
+خالتىلىق چاشقانلار ئائىلىسى	Kängurus
+Nashwil	Nashville
+Xampishir	Hampshire
+Bérkshir	Berkshire
+Bukkinxamshir	Buckinghamshire
+Ésséks	Essex
+Ként	Kent
+Ulanbatur	Ulaanbaatar
+ئېرنېست ھېمىڭۋاي	Ernest Hemingway
+Idinburg	Edinburgh
+ئاشخاباد	Aşgabat
+پىياز	Zwiebel
+پەمىدۇر	Tomate
+جورج بۇش	George H. W. Bush
+بالقانلار	Balkanhalbinsel
+پروتېستانت دىنى	Protestantismus
+سەلەنا	Selena Quintanilla-Pérez
+Atlanta	Atlanta
+بېرمۇدا	Bermuda
+باش	Kopf
+ۋېللىنگتون	Wellington
+روبوتلارنىڭ ئۈچ قانۇنى	Robotergesetze
+ئالفېرد نوبىل	Alfred Nobel
+لیلا چڑھاو	Lila Downs
+907-يىلى	907
+Wankuwér	Vancouver
+Liwérpol	Liverpool
+Brémén	Bremen
+يېڭى نورۋېگىيە تىلى	Nynorsk
+پوند ستېرلىڭ	Pfund Sterling
+ئانگۋىللا	Anguilla
+فائېروس تىل	Färöische Sprache
+مۈشۈك ئائىلىسى	Katzen
+ISO 3166-1	ISO-3166-1-Kodierliste
+تاتار تىلى	Tatarische Sprache
+ئەنگلىيىگە قاراشلىق ۋىرگىن تاقىم ئاراللىرى	Britische Jungferninseln
+كىچىك سېسىق كۈزەنى	Mauswiesel
+فرىزانچە	Friesische Sprachen
+ئاق ئاغمىخان	Hermelin
+قارشىلىق	Elektrischer Widerstand
+ناۋاسسا ئاراللىرى	Navassa
+سېنت بارتھېلەمي ئاراللىرى	Saint-Barthélemy (Insel)
+شىمالىي گېرمانىيە دىئالېكتى	Niederdeutsche Sprache
+ئاغمىخان ئائىلىسى	Marder
+ساينت مارتىن	St. Martin (Insel)
+بۆكەن	Antilope
+قارا بۇلغۇن	Zobel
+سۈنئىي ھەمراھ	Satellit (Raumfahrt)
+قوتاز	Yak
+ب م ۋ	BMW
+Kuk Taqim Aralliri	Cookinseln
+رەشىدە داتى	Rachida Dati
+شەرقىي ئاسىيا	Ostasien
+ئوتتۇرا ئاسىيا	Zentralasien
+ئاق تۆش بۇلغۇن	Steinmarder
+ياۋا ئات	Wildpferd
+ئامخارا تىلى	Amharische Sprache
+Képinek	Schmetterlinge
+چاچ	Haar
+ھىجرىيە كالېندارى	Islamische Zeitrechnung
+جيامۇسى شەھىرى	Jiamusi
+دىرىخلې	Peter Gustav Lejeune Dirichlet
+ئاستۇرىيە تىلى	Asturische Sprache
+خىتاي	China
+قاما	Fischotter
+چېڭدۇ شەھىر	Chengdu
+يىلپىز	Schneeleopard
+جېڭجۇ شەھىرى	Zhengzhou
+تېرېسا ئانا	Mutter Teresa
+DELL شىركىتى	Dell
+فرانسىيىگە قاراشلىق پولىنېزىيە	Französisch-Polynesien
+618-يىلى	618
+روژدېستۋو ئاراللىرى	Weihnachtsinsel (Australien)
+Krakow	Krakau
+بېيجىڭ پايتەخت ئايروپورتى	Flughafen Peking
+تىراختور	Tractor Sazi Täbris
+ۋېنىسىيە تىلى	Venetische Sprache (romanisch)
+تەيۋەن ئۇنۋېرسىتې	Nationaluniversität Taiwan
+جامى	Moschee
+تۇڭگان تىلى	Dunganische Sprache
+كورسىكا تىلى	Korsische Sprache
+فىلىپىنچە	Filipino
+چۇۋاش تىلى	Tschuwaschische Sprache
+قرىم تاتار تىلى	Krimtatarische Sprache
+ھايتى كرېئول تىلى	Haitianische Sprache
+قارا قالپاق تىلى	Karakalpakische Sprache
+ياۋا تىلى	Javanische Sprache
+مۈشۈكئېيىق	Großer Panda
+قالماق تىلى	Kalmückische Sprache
+مانجۇ تىلى	Mandschurische Sprache
+كانناداچە	Kannada
+مۇڭغۇل تىللىرى	Mongolische Sprachen
+پوچېركا	Hand
+دۇفۇ	Du Fu
+يېڭى كالېدونىيە	Neukaledonien
+ئورىياچە	Oriya
+نېپال تىلى	Nepali
+نېئاپول تىلى	Neapolitanisch
+نورمان تىلى	Normannische Sprache
+تېئودور روزېۋېلت	Theodore Roosevelt
+تېلاۋىف	Tel Aviv-Jaffa
+Nis	Nizza
+سالار تىلى	Salarische Sprache
+سىتسىلىيە تىلى	Sizilianische Sprache
+ساردىنىيە تىلى	Sardische Sprache
+ژىيۇل ۋېرن	Jules Verne
+سىندى تىلى	Sindhi
+سۇندا تىلى	Sundanesische Sprache
+شونا تىلى	Shona (Sprache)
+Niué Arili	Niue
+تاگالوگ تىلى	Tagalog
+تۈركى تىللار ئائىلىسى	Turksprachen
+تونگاچە	Tongaische Sprache
+ئۇرال تىللىرى	Uralische Sprachen
+تىگرىنىيەچە	Tigrinya (Sprache)
+Oksford	Oxford
+غەربىي يۇغۇر تىلى	West-Yugurisch
+تۇنگۇس مانجۇ تىللىرى	Tungusische Sprachen
+زاڭزۇ تىلى	Tibetische Sprache
+سارى ئۇغۇر	Yugur
+ۋۇ تىلى	Wu (Sprache)
+ۋىلسون	Woodrow Wilson
+ياقۇت تىلى	Jakutische Sprache
+يورۇباچە	Yoruba (Sprache)
+سېسوتوچە	Sesotho
+Rottérdam	Rotterdam
+Yéngi Orléan	New Orleans
+فۇشەن شەھىر	Foshan
+ئوكسفورد ئۇنىۋېرسىتېتى	University of Oxford
+ئەھمىدى نىجات	Mahmud Ahmadinedschad
+Saynt Xéléna Arili	St. Helena (Insel)
+ساينت پىئېر ئارىلى ۋە مىكېلون تاقىم ئاراللىرى	Saint-Pierre und Miquelon
+ئون پەرھىز	Zehn Gebote
+Yohannésburg	Johannesburg
+قاپلان	Leopard
+Saltzburg	Salzburg
+X نۇرى	Röntgenstrahlung
+شىنجاڭ ئۇيغۇر ئاپتونوم رايونى	Xinjiang
+Albukwér kwé	Albuquerque
+Oklaxoma Shehiri	Oklahoma City
+برىسبان	Brisbane
+ئىسساك ئاسىموۋ	Isaac Asimov
+جەنۇبىي گىئورگىيە ۋە ساندۋىچ ئاراللىرى	Südgeorgien und die Südlichen Sandwichinseln
+كۇۋائىت شەھىرى	Kuwait-Stadt
+ئەرەبلەر	Araber
+سۇمېرلار	Sumer
+كولومبو	Colombo
+ئالمۇتا	Almaty
+قانداغاي	Elch
+ۋاللىس ۋە فۇتۇنا تاقىم ئاراللىرى	Wallis und Futuna
+تاتار مىللىتى	Tataren
+خوككايدو ئارىلى	Hokkaidō
+ئۇرال تاغلىرى	Ural
+ماددا	Materie (Physik)
+ئوساكا	Ōsaka
+كامبرىج ئۇنىۋېرستېتى	University of Cambridge
+ئاكا-ئۇكا رايتلار	Brüder Wright
+گۇئارانچە	Guaraní (Sprache)
+شور دېڭىز	Aralsee
+ئىستانبۇل بوغازى	Bosporus
+Izmir	Izmir
+كەئەلىڭ كوكوس تاقىم ئاراللىرى	Kokosinseln
+مېرسېدېس - بېنز	Mercedes-Benz
+كۋېنسلاند	Queensland
+Minnéapolis	Minneapolis
+دەرەخ خالتىلىق ئېيىقى	Koala
+2011-يىلدىكى ياپونىيە يەر تەۋرەش ۋە دېڭىز تاشقىنى	Tōhoku-Erdbeben 2011
+لىنگالاچە	Lingála
+مالايالامچە	Malayalam
+يىپەك يولى	Seidenstraße
+Kalgari	Calgary
+ئوستىيىن	Jane Austen
+قوڭۇر ئېيىق	Braunbär
+كۇرد تىلى	Kurdische Sprachen
+مولداۋىيە تىلى	Moldauische Sprache
+يېڭى تاش قۇرال دەۋرى	Jungsteinzeit
+مورېسبى پورتى	Port Moresby
+خىمىيىلىك رېئاكسىيە	Chemische Reaktion
+لاھەي	Den Haag
+جۇاڭزۇ مىللىتى	Zhuang
+ئوسمانلى تۈركچىسى	Osmanische Sprache
+يۇھاننا بايان قىلغان خۇش خەۋەر	Evangelium nach Johannes
+توكېلاۋ تاقىم ئاراللىرى	Tokelau
+چاغاتاي ئۇيغۇر يېزىقى	Tschagataische Sprache
+تۋىچە	Twi (Sprache)
+چېڭلۇڭ	Jackie Chan
+توخار تىلى	Tocharische Sprache
+ئېلان	Werbung
+Zeytun	Olivenbaum
+ئاۋكلاند	Auckland
+سەككىز دۆلەت گۇرۇھى (G8)	G8
+ئاۋكادۇر	Avocado
+قىزىل قان دانىچىلىرى	Erythrozyt
+ئوقۇتقۇچى	Lehrer
+تىز	Kniegelenk
+ئۆرۈك	Aprikose
+گلۇكوزا	Glucose
+Sint-Truiden	Sint-Truiden
+ئالتاي تىللىرى سىستېمىسى	Altaische Sprachen
+ناتالىيە پورتمەن	Natalie Portman
+Ran'gon	Rangun
+ناگاساكى	Nagasaki
+يوكوخاما	Yokohama
+ئادانا	Adana
+لازېر نۇرى	Laser
+Lyuju shehiri	Liuzhou
+خەلق پۇلى يۈەنى	Renminbi
+Ritis	Leeds
+رەجەپ تاييىپ ئەردوغان	Recep Tayyip Erdoğan
+قىزغۇچ سېرىق	Orange (Farbe)
+شىمال بۇغىسى	Ren
+لۇقا بايان قىلغان خۇش خەۋەر	Evangelium nach Lukas
+كونا تاش قۇرال دەۋرى	Altsteinzeit
+ئانتاليا ۋىلايىتى	Antalya (Provinz)
+ھەزرىتى ئەيسا ئەلچىلىرىنىڭ پائالىيەتلىرى	Apostelgeschichte des Lukas
+پەرۋەز مۇشەررەڧ	Pervez Musharraf
+ئادانا ۋىلايىتى	Adana (Provinz)
+تاشقا ئايلانغان جىسىم	Fossil
+بۇرسا	Bursa
+ئۇرۇق	Same (Pflanze)
+ئەنخۇي ئۆلكىسى	Anhui
+خەلقئارا ئولىمپىك كومىتىتى	Internationales Olympisches Komitee
+ماڭلاي	Stirn
+ئىچكى موڭغۇل ئاپتونوم رايونى	Innere Mongolei
+Nottingxam	Nottingham
+راكېتا	Rakete
+كۇردىستان	Kurdistan
+ستانفورد ئۇنىۋېرستېتى	Stanford University
+فۇجيەن ئۆلكىسى	Fujian
+Kanzas Shehiri, Missuri	Kansas City (Missouri)
+كىچىك مۈشۈكئېيىق	Kleiner Panda
+موڭغۇل مىللىتى	Mongolen
+ۋەھىيلەر	Offenbarung des Johannes
+Sirtlan	Hyänen
+كاسا	Gesäß
+خەينەن ئۆلكىسى	Hainan
+رىمان	Bernhard Riemann
+گەنسۇ ئۆلكىسى	Gansu
+ئاق قان ھۈجەيرىسى	Leukozyt
+ئەنگلىيىلىكلەر	Engländer (Volk)
+ئاناتول فرانس	Anatole France
+ئوتلاق ياۋا مۈشۈكى	Falbkatze
+جەينەك	Ellbogengelenk
+سۇجۇ شەھىرى	Suzhou (Jiangsu)
+جاڭگال مولۇنى	Rohrkatze
+بېنگال مولۇنى تاغ مۈشۈكى	Bengalkatze
+Wénju shehiri	Wenzhou
+ۋۇشى شەھىرى	Wuxi
+Shawshin shehiri	Shaoxing
+خەنزۇ مىللىتى	Han-Chinesen
+نىڭبو شەھىرى	Ningbo
+ئابدۇللاھ گۈل	Abdullah Gül
+نېمىسلار	Deutsche
+خاربىن شەھىرى	Harbin
+Orkéstr	Orchester
+تۈرك قەھۋەسى	Mokka (Kaffee)
+قىزىل ياقۇت	Rubin
+كەشمىر	Kaschmir
+گالاتا ساراي	Galatasaray Istanbul
+كەۋىن رۇد	Kevin Rudd
+يۈننەن ئۆلكىسى	Yunnan
+مالكولم X	Malcolm X
+مەۋلانا جالالىددىن رۇمى	Dschalal ad-Din ar-Rumi
+Plimowt	Plymouth
+شەندۇڭ ئۆلكىسى	Shandong
+قول	Arm
+Dérbi	Derby (Derbyshire)
+ياقۇت رەڭلىك	Smaragd
+كىرىستال	Kristall
+خېنەن ئۆلكىسى	Henan
+بۇرسا ۋىلايىتى	Bursa (Provinz)
+ئارتۋىن ۋىلايىتى	Artvin (Provinz)
+كىندىك	Bauchnabel
+ئادىيامان ۋىلايىتى	Adıyaman (Provinz)
+لياۋنىڭ ئۆلكىسى	Liaoning
+خىمىيىلىك باغ	Chemische Bindung
+GNU	GNU
+توچىگى ناھىيىسى	Präfektur Tochigi
+سېمونت	Zement
+جىلىن ئۆلكىسى	Jilin
+ئافيون قاراھىسار ۋىلايىتى	Afyonkarahisar (Provinz)
+بېربېرلار	Berber
+ئېچىتقۇ	Hefen
+خۇنەن ئۆلكىسى	Hunan
+ھونلار	Hunnen
+چىڭخەي ئۆلكىسى	Qinghai
+ئۇيغۇر مىللىتى	Uiguren
+بىلەجىك ۋىلايىتى	Bilecik (Provinz)
+خۇبېي ئۆلكىسى	Hubei
+شەنشى ئۆلكىسى	Shanxi
+يۈز	Wange
+قوڭۇر رەڭلىك	Braun
+گۇيلىن ئۆلكىسى	Guizhou
+بالىكەسىر ۋىلايىتى	Balıkesir (Provinz)
+كيوتو كىلىشىمنامىسى	Kyoto-Protokoll
+ئانىلار بايرىمى	Muttertag
+خەلقئارا ئىسلام كېڭىشى تەشكىلاتى	Organisation für Islamische Zusammenarbeit
+چاناققالە ۋىلايىتى	Çanakkale (Provinz)
+مىياگى ناھىيىسى	Präfektur Miyagi
+Luknow	Lucknow
+شېنشى ئۆلكىسى	Shaanxi
+رىملىقلارغا يېزىلغان خەت	Brief des Paulus an die Römer
+مالىكىي مەزھىبى	Malikiten
+ئوقۇغۇچى	Student
+Kobe	Kōbe
+ئىۋاتە ناھىيىسى	Präfektur Iwate
+كولۇمبىيە ئۇنىۋېرستېتى	Columbia University
+بوستون ئۇنىۋېرستېتى	Boston University
+يالې ئۇنىۋېرسىتېتى	Yale University
+پېنسىلۋانىيە ئۇنىۋېرستېتى	University of Pennsylvania
+Portland, Méané	Portland (Maine)
+نيۇيورك ئۇنىۋېرستېتى	New York University
+ئىتاليانلار	Italiener
+پارىژ مېتروسى	Métro Paris
+پىرىت	Pyrit
+فىلىپىلىكلەرگە يېزىلغان خەت	Brief des Paulus an die Philipper
+ئېگىزلىك گېرمان تىلى	Hochdeutsche Dialekte
+قېلىپ:Taxobox	Vorlage:Taxobox
+قارا ئېقىم	Kuroshio
+خەلق گېزىتى	Renmin Ribao
+جياڭشى ئۆلكىسى	Jiangxi
+ئىلھام ئالىيېۋ	İlham Əliyev
+زاردارى	Asif Ali Zardari
+نۇرسۇلتان نازاربايېۋ	Nursultan Nasarbajew
+نىڭشيا خۇيزۇ ئاپتونۇم رايونى	Ningxia
+ئىسلام كەرىموۋ	Islom Karimov
+شۈجو شەھىرى	Xuzhou
+Lyenyün'gang shehiri	Lianyungang
+ساۋكات مىرزىيويەۋ	Shavkat Mirziyoyev
+خۇەيئەن شەھىرى	Huai’an
+Yangjo shehiri	Yangzhou
+Teyju shehiri, Jyangsu	Taizhou (Jiangsu)
+Nentung shehiri	Nantong
+جاڭجياڭ شەھىرى	Zhenjiang
+چاڭجو شەھىر	Changzhou
+ئەھمەد داۋۇد ئوغلۇ	Ahmet Davutoğlu
+تەيجۇ شەھىرى	Taizhou (Zhejiang)
+جۇشەن شەھىرى	Zhoushan
+شىجياجۇاڭ شەھىرى	Shijiazhuang
+تاڭشەن شەھىرى	Tangshan
+Chinxuangdaw shehiri	Qinhuangdao
+خەندەن شەھىرى	Handan
+Bawding shehiri	Baoding
+پەنجاب تىلى	Panjabi
+پاشتوچە	Paschtunische Sprache
+ساڭجو شەھىرى	Cangzhou
+Langfang shehiri	Langfang
+Juxey shehiri	Zhuhai
+شەنتۇ شەھىرى	Shantou
+Xuyjo shehiri	Huizhou
+Dongwen shehiri	Dongguan
+Jongshen shehiri	Zhongshan
+مىقدار سۆز	Zahlwort
+ئۆت خالتىسى	Gallenblase
+Jaypur	Jaipur
+فۇجو شەھىرى	Fuzhou
+Nenping shehiri	Nanping
+Putyen shehiri	Putian
+Senming shehiri	Sanming
+Chüenju shehiri	Quanzhou
+شيامېن شەھىرى	Xiamen
+Jyangju shehiri	Zhangzhou
+Longyen shehiri	Longyan
+Ningdé shehiri	Ningde
+Shining shehiri	Xining
+تاغىل سېسىق كۈزەن	Tigeriltis
+ئادەم ئەلەيھىسسالام	Adam
+خۇئاڭشى شەھىرى	Huangshi
+ئائومورى ناھىيىسى	Präfektur Aomori
+فۇكۇشىما ناھىيىسى	Präfektur Fukushima
+تەييۈەن شەھىرى	Taiyuan
+داتۇڭ شەھىر	Datong
+داليەن شەھىرى	Dalian
+ئەنشەن شەھىرى	Anshan (Liaoning)
+يىڭكۇ شەھىرى	Yingkou
+لياۋياڭ شەھەر	Liaoyang
+يوزگات ۋىلايىتى	Yozgat (Provinz)
+چوڭ مېڭە پوستلاق ماددىسى	Großhirnrinde
+ئوڭچى	Politische Rechte (Politik)
+كارل ۋون دونىتىز	Karl Dönitz
+سۆسۈنە ياقۇت	Amethyst
+بىنگۆل ۋىلايىتى	Bingöl (Provinz)
+تايغان بۇغا	Rothirsch
+ئارداھان ۋىلايىتى	Ardahan (Provinz)
+ئايدىن ۋىلايىتى	Aydın (Provinz)
+ئاماسيا ۋىلايىتى	Amasya (Provinz)
+قازاق مىللىتى	Kasachen
+ئاغرى ۋىلايىتى	Ağrı (Provinz)
+بۇردۇر ۋىلايىتى	Burdur (Provinz)
+كورىنتلىقلارغا يېزىلغان بىرىنچى خەت	1. Brief des Paulus an die Korinther
+باتمان ۋىلايىتى	Batman (Provinz)
+كۇرىل ئاراللىرى	Kurilen
+يېڭى يەر	Nowaja Semlja
+Patna	Patna
+سۇلتان ئاخمەت جامىي	Sultan-Ahmed-Moschee
+ۋان ۋىلايىتى	Van (Provinz)
+كونيا ۋىلايىتى	Konya (Provinz)
+ئاكىتا ناھىيىسى	Präfektur Akita
+سېگولەن رويال	Ségolène Royal
+بولۇ ۋىلايىتى	Bolu (Provinz)
+دېنىزلى ۋىلايىتى	Denizli (Provinz)
+شافىئىي مەزھىپى	Schāfiʿiten
+گىپىس	Gips
+ئېڭەك	Kinn
+ئامېرىكا ياۋا كالىسى	Amerikanischer Bison
+Léyséstér	Leicester
+ساكاريا ۋىلايىتى	Sakarya
+ئاقساراي ۋىلايىتى	Aksaray (Provinz)
+قارس ۋىلايىتى	Kars (Provinz)
+دىيارباقىر ۋىلايىتى	Diyarbakır (Provinz)
+مور	Fruchtkörper
+تەيبېي 101	Taipei 101
+ئەدىرنە ۋىلايىتى	Edirne (Provinz)
+ظوسذث	Gartensalat
+بىتلىس ۋىلايىتى	Bitlis (Provinz)
+ئىباراكى ناھىيىسى	Präfektur Ibaraki
+ھاتاي ۋىلايىتى	Hatay (Provinz)
+زىيا گۆكئالىپ	Ziya Gökalp
+يۇگوسلاۋىيە سوتسىيالىست فېدېرال جۇمھۇرىيىتى	Sozialistische Föderative Republik Jugoslawien
+تۈرك	Turkvölker
+بارتىن ۋىلايىتى	Bartın (Provinz)
+باش بارماق	Daumen
+كوجائەلى ۋىلايىتى	Kocaeli (Provinz)
+تۈرك خاقانلىقى	Türken
+سازاڭسىمان مەددە	Caenorhabditis elegans
+چاڭچۈن شەھىرى	Changchun
+جىلىن شەھىرى	Jilin (Stadt)
+ئېمۇ قۇشى	Großer Emu
+خاككارى ۋىلايىتى	Hakkâri (Provinz)
+راۋالپىندى	Rawalpindi
+Emir Kusturica	Emir Kusturica
+ماشىنىىسازلىق ئىنژىنىرلىقى	Maschinenbau
+ئاينۇ مىللىتى	Ainu
+ئورانگوتان	Menschenartige
+يېشىل ياقۇت	Beryll
+Markus bayan qilghan xush xewer	Evangelium nach Markus
+ئازۇرىت	Azurit
+بېلىز شەھىرى	Belize City
+قۇشۇق ئارىلى	Kaşık Adası
+مارشال	Marschall
+Chuju shehiri	Chuzhou
+Rékazé shehiri	Samzhubzê
+قىرىم	Krimtataren
+كىلون تېخنىكىسى	Klonen
+پروڧېسسور	Professur
+كورىنتلىقلارغا يېزىلغان ئىككىنچى خەت	2. Brief des Paulus an die Korinther
+مۇغلا ۋىلايىتى	Muğla (Provinz)
+ئاسىيا قارا ئېيىق	Kragenbär
+ئىغدىر ۋىلايىتى	Iğdır (Provinz)
+ياماگاتا ناھىيىسى	Präfektur Yamagata
+قاڭشارلىق بۆكەن	Saiga
+كۈتاھيا ۋىلايىتى	Kütahya (Provinz)
+كۆك ياقۇت	Saphir
+كۈرەشچى ئايروپىلان	Jagdflugzeug
+ئېرتىش دەرياسى	Irtysch
+ئىبرانىيلارغا يېزىلغان خەت	Brief an die Hebräer
+گالاتىيلىقلارغا يېزىلغان خەت	Brief des Paulus an die Galater
+شاڭ سۇلالىسى	Shang-Dynastie
+كىلىس ۋىلايىتى	Kilis (Provinz)
+تەكىرداغ ۋىلايىتى	Tekirdağ (Provinz)
+سان	Oberschenkel
+مانىسا ۋىلايىتى	Manisa (Provinz)
+كىچىك مېڭە	Kleinhirn
+كولوسىلىقلارغا يېزىلغان خەت	Brief des Paulus an die Kolosser
+ياقۇپ يازغان خەت	Brief des Jakobus
+يۇھاننا يازغان بىرىنچى خەت	1. Brief des Johannes
+فىلىمۇنغا يېزىلغان خەت	Brief des Paulus an Philemon
+سالونىكىلىقلارغا يېزىلغان ئىككىنچى خەت	2. Brief des Paulus an die Thessalonicher
+پاۋىل كرۇگمەنن	Paul Krugman
+سالونىكىلىقلارغا يېزىلغان بىرىنچى خەت	1. Brief des Paulus an die Thessalonicher
+پېترۇس يازغان بىرىنچى خەت	1. Brief des Petrus
+پېترۇس يازغان ئىككىنچى خەت	2. Brief des Petrus
+تىموتىيغا يېزىلغان بىرىنچى خەت	1. Brief des Paulus an Timotheus
+ئېسكىموسلار	Eskimo
+چىكاگو ئۇنىۋېرستېتى	University of Chicago
+ماردىن ۋىلايىتى	Mardin (Provinz)
+مالاتيا ۋىلايىتى	Malatya (Provinz)
+مۇش ۋىلايىتى	Muş (Provinz)
+يۇھاننا يازغان ئىككىنچى خەت	2. Brief des Johannes
+يۇھاننا يازغان ئۈچىنچى خەت	3. Brief des Johannes
+يەھۇدا يازغان خەت	Brief des Judas
+تىموتىيغا يېزىلغان ئىككىنچى خەت	2. Brief des Paulus an Timotheus
+تىتۇسغا يېزىلغان خەت	Brief des Paulus an Titus
+قىرقلارەلى ۋىلايىتى	Kırklareli (Provinz)
+ئاليۇمىن ئوكسىدى	Korund
+مەرسىن ۋىلايىتى	Mersin (Provinz)
+ئوتتۇرا ئاسىيا ياۋا تۆگىسى	Trampeltier
+بۇشەھر ۋىلايىتى	Buschehr (Provinz)
+تەكلىماكان قۇملۇقى	Taklamakan
+قاشقىئوغلاق	Marderhund
+ئاشمورە ۋە كارتىئەر ئاراللىرى	Ashmore- und Cartierinseln
+قىرشەھەر ۋىلايىتى	Kırşehir (Provinz)
+ئەردەبىل ۋىلايىتى	Ardabil (Provinz)
+سىنوپ ۋىلايىتى	Sinop (Provinz)
+Ajax	Ajax (Programmierung)
+ئاتىلار بايرىمى	Vatertag
+شۆلگەي بېزى	Speicheldrüse
+سېرىق قاشتېشى	Topas
+بىھارى تىلى	Bihari
+Teynen shehiri	Tainan
+سۇلتان توغرۇلبەگ	Tughrul Beg
+Xéngyang shehiri	Hengyang
+مالاي ئېيىقى	Malaienbär
+زامان گېزىتى	Zaman (Tageszeitung)
+مانجۇ مىللىتى	Mandschu
+تېرەك	Espe
+ھېيدېلبېرگ ئۇنىۋېرستېتى	Ruprecht-Karls-Universität Heidelberg
+سۇلايمان دېمىرەل	Süleyman Demirel
+ۋەيران بولۇش	Bankrott
+ج.ۋىللارد گىببس	Josiah Willard Gibbs
+پۇت بارمىقى	Zehe (Fuß)
+ياغاچچى	Zimmerer
+نىغدە ۋىلايىتى	Niğde (Provinz)
+ئوتتۇرا ئاناتولىيە رايونى	Zentralanatolien
+قارا دېڭىز رايونى	Schwarzmeerregion (Türkei)
+شەرقىي ئاناتولىيە رايونى	Ostanatolien
+يەر ئوتتۇرا دېڭىزى رايونى	Mittelmeerregion (Türkei)
+ئېگېي رايونى	Ägäisregion (Türkei)
+مارمارا رايونى	Marmararegion
+شەرقىي جەنۇبىي ئاناتولىيە رايونى	Südostanatolien
+لېيدېن ئۇنىۋېرستېتى	Universität Leiden
+مېڭە ئاستى بېزى	Hypophyse
+تۈر:سىياسىي جۇغراپىيە	Geopolitik
+مۇرادئۈچ	Murad III.
+ئىدىنبۇرگ ئۇنىۋېرستېتى	University of Edinburgh
+فارابى	Al-Farabi
+كۆك قۇتان	Purpurreiher
+گەۋدە	Rumpf (Anatomie)
+ياپونىيىلىك	Japaner
+پامىر ئېگىزلىكى	Pamir (Gebirge)
+تولۇق كۇرس	Bachelor
+تۆش بېزى	Thymus
+دۆڭچە مېڭىنىڭ ئاستى	Hypothalamus
+ئېلېكتر سىغىمى	Elektrische Kapazität
+يېشىل تاش	Malachit
+سولچى	Politische Linke
+چاناق قەلئە ئۇرۇشى	Schlacht von Gallipoli
+بىريۇزا(ياقۇت)	Türkis (Mineral)
+ئەخمەت نەدجەت سەزەر	Ahmet Necdet Sezer
+ۋيېنا ئۇنىۋېرسىتېتى	Universität Wien
+توشقانسىمان سۈلەيسۈن	Manul
+ئافيون قاراھىسار	Afyonkarahisar
+ئوتتۇرا بارماق	Mittelfinger
+ئەبۇ مۇسا جابىر بىن ھەييام	Dschābir ibn Ḥayyān
+ئوشۇق	Sprunggelenk
+ئادىياما	Adıyaman
+تاغ ئۆچكىسى	Alpensteinbock
+پەنجاب	Punjab
+شىيا سۇلالىسى	Xia-Dynastie
+جىنەن شەھىرى	Jinan
+يول بەلگىسى	Verkehrszeichen
+چىڭداۋ شەھىرى	Qingdao
+كالسېدونىيە	Chalcedon (Mineral)
+ئاسىيا تېنچ ئوكيان ئىقتىسادىي ھەمكارلىق تەشكىلاتى	Asiatisch-Pazifische Wirtschaftsgemeinschaft
+Glutséstér	Gloucester
+قەشقەر شەھرى	Kaxgar (Stadt)
+ئىلام ۋىلايىتى	Ilam (Provinz)
+نەنچاڭ شەھىرى	Nanchang
+بېشىكتاش گىمناستىكا كۇلۇبى	Beşiktaş Istanbul
+تۈرك لىراسى	Türkische Lira
+ئۆچكە	Ziegen
+بورمودىلى	Bohrsches Atommodell
+ھەزىم يولى	Speiseröhre
+چاڭشا شەھىر	Changsha
+ئۆكچە	Ferse
+كېكىردەك	Pharynx
+ئۇيغقاشتېشى	Jade
+ۋىتامىن D	Vitamin D (Begriffsklärung)
+قۇتۇبى ناھىيىسى	Hutubi
+2010 دۇنيا لوڭقىسى	Fußball-Weltmeisterschaft 2010
+نەسىرىدىن ئەپەندى	Nasreddin
+سۇلايمانىيە جامىى	Süleymaniye-Moschee
+كاۋاپ	Şiş Kebap
+Wéstminstér Shehiri	City of Westminster
+نەننىڭ شەھىرى	Nanning
+Durham	Durham
+تۇرغۇت ئۆزال	Turgut Özal
+ﮔﺎﮔﺎﯞﯗﺯ	Gagausen
+بادام بەز	Tonsille
+مۇھەممەد خاتەمى	Mohammad Chātami
+تورونتو ئۇنىۋېرستېتى	University of Toronto
+ساردونىكس	Onyx (Mineral)
+تروچكىزم	Trotzkismus
+ياڭ جىننىڭ	Chen Ning Yang
+Gawshyung	Kaohsiung
+بىرىكمە ماتېرىيال	Verbundwerkstoff
+مېڭە غولى	Hirnstamm
+تاموژنا	Zoll (Behörde)
+كۈنمىڭ شەھىرى	Kunming
+ۋىتامىنB	Vitamin B
+ئىسمەت ئىنۆنۈ	İsmet İnönü
+مارگارېت ئاتۋود	Margaret Atwood
+خۇيزۇ مىللىتى	Hui-Chinesen
+لەنجۇ شەھىرى	Lanzhou
+Halva	Halva
+لى جىڭداۋ	Tsung-Dao Lee
+ماگىستىر	Master
+كۆرسەتكۈچ بارماق	Zeigefinger
+ئوتتۇرا مېڭە	Mittelhirn
+ئۇپسالا ئۇنىۋېرستېتى	Universität Uppsala
+Multan	Multan
+خېفېي شەھىر	Hefei
+ھىيلە	Handgelenk
+ئىپار مۈشۈك ئائىلىسى	Schleichkatzen
+ئارقار	Argali
+كوپېنھاگېن ئۇنىۋېرستېتى	Universität Kopenhagen
+قارساق	Steppenfuchs
+لوياڭ شەھىرى	Luoyang
+زئەكئى مئۈرئەن	Zeki Müren
+كۇئېنلۇن تاغ تىزمىسى	Kunlun
+تىبەت مىللىتى	Tibeter
+لوندون ئىمپېرىيە ئىنستېتۇت	Imperial College London
+يىلىك	Medulla oblongata
+گۇيلىن شەھىرى	Guilin
+گېئوتىت	Goethit
+Xeyko shehir	Haikou
+مولتىمىتىر	Multimeter
+مەركىزىي مىللەتلەر ئۇنىۋېرسىتېتى	Zentrale Nationalitäten-Universität
+چىپار بۇغا	Sikahirsch
+بەل	Gliedmaßen
+يۇگوسلاۋىيە پادىشاھلىقى	Königreich Jugoslawien
+ئېۋېنكى مىللىتى	Ewenken
+راھىبە	Nonne
+سېرىق ياۋا مۈشۈك	Asiatische Goldkatze
+گۇيياڭ شەھىرى	Guiyang
+نامسىز بارماق	Ringfinger
+لىمبىك سىستېما	Limbisches System
+تۇرپان	Turpan (Stadt)
+ئىلى دەرياسى	Ili (Fluss)
+مېڭە كۆۋرۈكى	Pons
+دەريا بۇغىسى	Wasserreh
+ﺑﺎﻟﻘﺎﺭ ﻣﯩﻠﻠﯩﺘﻰ	Balkaren
+ﻧﻮﻏﺎﻱ ﻣﯩﻠﻠﯩﺘﻰ	Nogaier
+كالا گۆشى	Rindfleisch
+گلاسگوۋ ئۇنىۋېرستېتى	University of Glasgow
+توخارلار	Tocharer
+ئابادە	Abadeh
+ئىستانبۇل ئۇنىۋېرسىتېتى	Universität Istanbul
+Tuwa	Tuwiner
+بۇرما مۈڭگۈزلۈك بۆكەن	Takin
+ئېلېكترون قەۋەت	Atomhülle
+مىكروسكوپ	Mikroskop
+كېمىنىڭ يان تىرەكلىرى	Rippe
+جاڭ خىڭ	Zhang Heng
+جاڭ چيەن	Zhang Qian
+موڭغۇلكۈرە ناھىيىسى	Mongolküre
+Juko shehiri	Zhoukou
+جۇگىلىياڭ	Zhuge Liang
+زىبو شەھىرى	Zibo
+سۇلتان ئالىپ ئارىسلان	Alp Arslan
+گوللاندىيىلىكلەر	Niederländer
+مەن، ماشىنا ئادەم (كىنو)	I, Robot (Film)
+جۇڭخۇا خەلق جۇمھۇرىيىتىنىڭ ئاساسىي قانۇنى	Verfassung der Volksrepublik China
+قاشتېشى	Jaspis
+تگرین اعظم	Tigranes II.
+كۆكمۇچ	Paprika
+چۆل مۈشۈكى	Graukatze
+جۇڭگو شىنخۇا ئاگېنتلىقى	Xinhua
+Lankastér	Lancaster (Lancashire)
+لىجياڭ شەھىرى	Lijiang
+چىچىخار شەھىرى	Qiqihar
+گەبزە	Gebze
+ئەلنى ئىدارە قىلىشقا پايدىلىق ئومۇمىي ئۆرنەكلەر	Zizhi Tongjian
+ئۇزۇن قۇيرۇق بۇغا	Davidshirsch
+سېرىق تەنلىكلەر	Mongolide
+Keyféng shehiri	Kaifeng
+پارىژ ئۇنىۋېرسىتىتى	Universität von Paris
+مياۋزۇ مىللىتى	Miao
+بېيخەي شەھىرى	Beihai (Guangxi)
+يەنتەي شەھىرى	Yantai
+ﻗﯘﻣﯩﻖ	Kumyken
+يىنچۈئەن شەھىرى	Yinchuan
+سەئىد قۇتوب	Sayyid Qutb
+ئېيقسىمان ئىپار مۈشۈك	Binturong
+ئامستېردام ئۇنىۋېرستېتى	Universität von Amsterdam
+ماتېرىيال	Material (Fertigungstechnik)
+دۇڭزۇ مىللىتى	Dong (Volk)
+تارىم ئويمانلىقى	Tarimbecken
+بۈيۈك ئويۇن	The Great Game
+لازۇرىت	Lapislazuli
+قاراماي يۇقىر سۇرئەتلىك يولى	Karakorum Highway
+داغۇر مىللىتى	Daur
+ساكاريا دەرياسى	Sakarya (Fluss)
+ﺭﺍﺩﯨﺸﺸﯧﯟ	Alexander Nikolajewitsch Radischtschew
+ئوۋتېز	Joyce Carol Oates
+مۇدەنجياڭ شەھىرى	Mudanjiang
+ناشى مىللىتى	Naxi
+ۋاشىنگتون ئۇنىۋېرستېتى	University of Washington
+زونگۇلداق ۋىلايىتى	Zonguldak (Provinz)
+سېرىق بوغۇز بولغۇن	Buntmarder
+شىزاڭ ياۋا ئېشىكى	Kiang
+بىرمىنگام ئۇنىۋېرستېتى	University of Birmingham
+چىمەلتەك	Kleiner Finger
+بىلەك	Unterarm
+ماتېرىيال ئىلمى	Materialwissenschaft und Werkstofftechnik
+ھەنبەلىي مەزھىبى	Hanafiten
+سەي لۇن	Cai Lun
+قوڭۇر بۇغا	Sambar
+مىچىگان ئۇنىۋېرستېتى	University of Michigan
+ئىرۇسالىمغا قايتىش ھەركىتى	Zurück nach Jerusalem
+ﺋﺎﻗﺴﺎﻱ ﭼﯩﻦ	Aksai Chin
+مانچېستېر ئۇنىۋېرستېتى	University of Manchester
+ئىككىنچى مەشرۇتىيەت	Zweite osmanische Verfassungsperiode
+تارپان	Tarpan
+امينة ساندال	Emina Jahović
+ئاق تەنلىكلەر	Europid
+تارىم دەرياسى	Tarim (Fluss)
+مىننېسوتا ئۇنىۋېرستېتى	University of Minnesota
+فۇكاڭ شەھىرى	Fukang
+ئورخان پامۇك	Orhan Pamuk
+ئەرتۇغرۇل غازى	Ertuğrul Gazi
+ﻗﺎﺭﺍ ﭼﺎﻱ ﻣﯩﻠﻠﯩﺘﻰ	Karatschaier
+نەجمەتتىن ئەرباقان	Necmettin Erbakan
+ﺋﺎﻟﺘﺎﻱ مىللىتى	Altaier
+Teyjong shehiri	Taichung
+ﻛﺎﺷﻜﺎﻱ	Kaschgai
+مىللەتچى ھەركەت پارتىيىسى	Milliyetçi Hareket Partisi
+ھەيبەلى ئارىلى	Heybeliada
+ﭼﯘﯞﺍﺵ ﻣﯩﻠﻠﯩﺘﻰ	Tschuwaschen
+گيېموسخۇس بۇغىسى	Afrikanisches Hirschferkel
+ئىسپارتا ۋىلايىتى	Isparta (Provinz)
+قوڭۇر يىلپىز	Neofelis
+چىقچىق	Kleines Sumpfhuhn
+سېرىق ئاغمىخان	Feuerwiesel
+شىزاڭ بۆكىن	Tschiru
+چانقىرى ۋىلايىتى	Çankırı (Provinz)
+چورۇم ۋىلايىتى	Çorum (Provinz)
+ئىران ئەزەربەيجان	Aserbaidschan (Iran)
+تۈركىيە بۈيۈك مىللەت مەجلىسى	Große Nationalversammlung der Türkei
+بەيزۇ مىللىتى	Bai
+ﻗﺎﺭﺍ ﻗﺎﻟﭙﺎﻕ ﻣﯩﻠﻠﯩﺘﻰ	Karakalpaken
+ئوسمانىيە ۋىلايىتى	Osmaniye (Provinz)
+تۇرپان ئويمانلىغى	Turpan-Senke
+1.خاتىرەمدىكى ئامېرىكا	ABC News
+Putbol	Football
+رابىيە قادىر	Rebiya Kadeer
+سەزەن ئاقسۇ	Sezen Aksu
+جاندان ارچتین	Candan Erçetin
+ۋەن مارۋىجىك	Bert van Marwijk
+Hidayet Türkoghli	Hidayet Türkoğlu
+داچىڭ شەھىر	Daqing
+ئۆزگۈ نامال	Özgü Namal
+لىزۇ مىللىتى	Li (Volk)
+سۇلتان مەلىك شاھ	Malik Schah I.
+مەھمەت ئەلىي تالات	Mehmet Ali Talât
+ئابدۇراخمان جامى	Dschami
+مېلبۇرن ئۇنىۋېرستېتى	Universität Melbourne
+Dünxuang Shehiri	Dunhuang
+لوپنۇر	Lop Nor
+Senya shehiri	Sanya (Hainan)
+Dostum	Raschid Dostum
+ئەكمەلىتتىن ئىھسان ئوغلۇ	Ekmeleddin İhsanoğlu
+مۇستاپا ساندال	Mustafa Sandal
+تاغ بورسۇقى	Chinesischer Sonnendachs
+ئۈرۈمچى ناھىيىسى	Ürümqi (Kreis)
+سالار مىللىتى	Salar
+كيوتو ئۇنىۋېرستېتى	Universität Kyōto
+بادام؛بادام؛بادام	Amygdala
+ئىستانبۇل تېخنىكا ئۇنىۋېرسىتېتى	İstanbul Teknik Üniversitesi
+ئىزمىر ۋىلايىتى	Izmir (Provinz)
+ئاد قەۋمى	ʿĀd
+بۇغدىيەك	Adamsapfel
+بېڭبۇ شەھەرى	Bengbu
+خۇەينەن شەھىرى	Huainan
+مائەنشەن شەھىرى	Ma’anshan
+ئەنچىڭ شەھىرى	Anqing
+ياۋزۇ مىللىتى	Yao
+ئەرزۇرۇم ۋىلايىتى	Erzurum (Provinz)
+يۇنۇس ئەمرە	Yunus Emre
+بىلگە قاغان	Bilge Khan
+باتۇر تەڭرىقۇت	Mao-tun
+پرژىۋالسكى بۆكىنى	Przewalski-Gazelle
+ئەپراسىياپ	Afrasiab (Mythos)
+سۇلتان بەكيارۇق	Berk-Yaruq
+شانلى ئۇرفا ۋىلايىتى	Şanlıurfa (Provinz)
+شهرزاد	Şehrazat
+ترابزون ۋىلايىتى	Trabzon (Provinz)
+كىليوس	Kilyos
+برىتانى كولۇمبىيە ئۇنىۋېرستېتى	University of British Columbia
+Metta bayan qilghan xush xewer	Evangelium nach Matthäus
+ئەلبورز ۋىلايىتى	Alborz (Provinz)
+كاناي	Trachea
+خوجا ئەھمەد يەسەۋى	Ahmed Yesevi
+Tekshi choqqiliq tagh shehiri	Pingdingshan
+شىنشياڭ شەھىرى	Xinxiang
+Nenyang shehiri	Nanyang
+Shinyang shehiri	Xinyang
+ئەفەسلىكلەرگە يېزىلغان خەت	Brief des Paulus an die Epheser
+زەمچە	Aluminiumkaliumsulfat-Dodecahydrat
+ﺋﯩﻜﻜﯩﻨﭽﻰ ﻗﯩﺘﯩﻤﻠﯩﻖ ﯬﭘﻴﯘﻥ ﯰﺭﯗﺷﻰ	Zweiter Opiumkrieg
+ئاقچى ناھىيىسى	Akqi
+بۇغا	Cerf
+ئاقسۇ ۋىلايىتى	Aksu (Regierungsbezirk)
+ئاقسۇ شەھىرى	Aksu (Stadt)
+ئاقسۇ دەرياسى	Aksu (Tarim)
+تېتراپىررول	Tetrapyrrole
+ئاقتو ناھىيىسى	Akto
+ميەنياڭ شەھىرى	Mianyang
+ھلا رەڭ	Rosa (Farbe)
+نەۋشەھەر ۋىلايىتى	Nevşehir (Provinz)
+نازارې	Nazareth
+سۇماترا بۆكىنى	Südlicher Serau
+راۋاپ	Rawap
+دۈزجە ۋىلايىتى	Düzce (Provinz)
+ئالتاي شەھىرى	Altay (Stadt)
+سۈبھىدىكى روبوتلار	Der Aufbruch zu den Sternen
+قۇندۇز ئۇرۇقدىشى	Altweltotter
+مەلىكە ئاماننىساخان	Aman Isa Khan
+بەشىكتاش	Beşiktaş
+برىستول ئۇنىۋېرستېتى	University of Bristol
+ئاق بوغۇز بۆكەن	Kropfgazelle
+يىزۇ مىللىتى	Yi (Volk)
+روزا ھېيت	Fest des Fastenbrechens
+كۆكمەت	Blauschaf
+شېڭ شىسەي	Sheng Shicai
+كەرىمە نادىر	Kerime Nadir
+بۈلەنت ئەرسوي	Bülent Ersoy
+يالىڭاچ قۇياش	Die nackte Sonne
+نوتتىڭخام ئۇنىۋېرستېتى	University of Nottingham
+تايلاندلىقلار	Thai (Volk)
+تۈركىيە جۇمھۇريىتى باش مىنىستىرى	Liste der Ministerpräsidenten der Türkei
+نەمەنگان ۋىلايىتى	Provinz Namangan
+ھانى مىللىتى	Hani
+پولات قەلئەلەر	Die Stahlhöhlen
+گىرەسۇن ۋىلايىتى	Giresun (Provinz)
+گۈمۈشخانە ۋىلايىتى	Gümüşhane (Provinz)
+سىئىرت ۋىلايىتى	Siirt (Provinz)
+قاھرامان ماراش ۋىلايىتى	Kahramanmaraş (Provinz)
+ئومۇرتقا	Wirbelsäule
+قارامان ۋىلايىتى	Karaman (Provinz)
+سامسۇن ۋىلايىتى	Samsun (Provinz)
+ئۆزبېك مىللىتى	Usbeken
+ئەسكىشەھەر ۋىلايىتى	Eskişehir (Provinz)
+بايبۇرت ۋىلايىتى	Bayburt (Provinz)
+ئۇشاق ۋىلايىتى	Uşak (Provinz)
+يالوۋا ۋىلايىتى	Yalova (Provinz)
+ئەلازىغ ۋىلايىتى	Elazığ (Provinz)
+سىۋاس ۋىلايىتى	Sivas (Provinz)
+غازى ئانتەپ ۋىلايىتى	Gaziantep (Provinz)
+قارابۈك ۋىلايىتى	Karabük (Provinz)
+ئەرزىنجان ۋىلايىتى	Erzincan (Provinz)
+ئوردۇ ۋىلايىتى	Ordu (Provinz)
+كاستامونۇ ۋىلايىتى	Kastamonu (Provinz)
+توقات ۋىلايىتى	Tokat (Provinz)
+نورۇز بايرىمى	Nouruz
+كايسەرى ۋىلايىتى	Kayseri (Provinz)
+رىزە ۋىلايىتى	Rize (Provinz)
+تاجىك مىللىتى	Tadschiken
+مۇھەممەد ئىقبال	Muhammad Iqbal
+پارسلار	Perser (Volk)
+قاراقالپاقىستان	Karakalpakistan
+قىرىققالە ۋىلايىتى	Kırıkkale (Provinz)
+قىرغىز مىللىتى	Kirgisen
+شاڭخەي ھەمكارلىق تەشكىلاتى	Shanghaier Organisation für Zusammenarbeit
+تۈركىيە دەرىجىدىن تاشقىرى ئايلانمىسى	Süper Lig
+تاركان	Tarkan
+ﻳﺎﻗﯘﺕ ﻣﯩﻠﻠﯩﺘﻰ	Jakuten
+فەرغانە ئويمانلىقى	Ferghanatal
+فەرغانە	Fargʻona
+Kanzas Shehiri, Kanzas	Kansas City (Kansas)
+پەرغانە ۋىلايىتى	Provinz Fargʻona
+بۇخارا ۋىلايىتى	Provinz Buxoro
+ئەنجان ۋىلايىتى	Provinz Andijon
+سەمەرقەنت ۋىلايىتى	Provinz Samarqand
+سۇرخاندەريا ۋىلايىتى	Provinz Surxondaryo
+چاغاتاي خان	Tschagatai Khan
+سىردەريا ۋىلايىتى	Provinz Sirdaryo
+سىدنېي ئۇنىۋېرستېتى	Universität Sydney
+خارەزىم ۋىلايىتى	Provinz Xorazm
+نەۋايى ۋىلايىتى	Provinz Navoiy
+قاشقادەريا ۋىلايىتى	Provinz Qashqadaryo
+تاشكەنت ۋىلايىتى	Provinz Taschkent
+ئانا ۋەتەن پارتىيىسى	Anavatan Partisi
+جىزاق ۋىلايىتى	Provinz Jizzax
+ئاۋكلاند ئۇنىۋېرستېتى	University of Auckland
+قاراخانىيلار خانلىقى	Karachaniden
+چىپار بۆكەن	Grauer Goral
+ئوغۇزلار	Oghusen
+كۆمۈرچەك	Knorpel
+ئەلشىر ناۋائى	Mīr ʿAlī Schīr Nawā'ī
+جەنۋە ئۇنىۋېرستېتى	Université de Genève
+قىزىل تاغ	Flammende Berge
+تارىم توشقىنى	Yarkand-Hase
+Openoffice	OpenOffice.org
+قۇربان ھېيت	Islamisches Opferfest
+تىمساھ	Echte Alligatoren
+ئىستانبۇل ۋىلايىتى	Istanbul (Provinz)
+Kökxot shehiri	Hohhot
+بەزگە مۇناسىۋەتلىك	Tonsilla pharyngealis
+ياقۇب بەگ	Jakub Bek
+يەكەن دەرياسى	Yarkant (Fluss)
+مەھمۇد قەشقىرى	Mahmud al-Kāschgharī
+باۋتۇ شەھىر	Baotou
+ھېنرىخ ھېينى مۇكاپاتى	Heinrich-Heine-Preis (Stadt Düsseldorf)
+كۈنەس ناھىيىسى	Künes
+كىنالى ئارىلى	Kınalıada
+رومبىسىمان كرىستال كاتەكچىسى	Trigonales Kristallsystem
+تۇجيا مىللىتى	Tujia
+توقسۇن ناھىيىسى	Toksun
+تېھران ۋىلايىتى	Teheran (Provinz)
+تۆش	Thorax
+موناش ئۇنىۋېرستېتى	Monash University
+بوکان	Bukan
+رېگان ئىقتىسادشۇناسلىقى	Reaganomics
+ئۇلۇغچات ناھىيىسى	Ulugqat
+دۇلۇڭ مىللىتى	Derung
+تۇنجەلى ۋىلايىتى	Tunceli (Provinz)
+ئارال شەھرى	Aral (Xinjiang)
+خوتەن دەرياسى	Hotan (Fluss)
+چىپار يۈز قوڭغارچا	Larvenroller
+ئارا تۈرۈك ناھىيىسى	Aratürük
+مۇز تاغ ئاتا	Muztagata
+قابا ناھىيىسى	Kaba (Altay)
+ئالبېرتا ئۇنىۋېرستېتى	University of Alberta
+قوي گۆشى	Lammfleisch
+چەرچەن ناھىيىسى	Qarqan
+تارباغاتاي ۋىلايىتى	Tacheng
+قوڭۇر تاغ	Kongur
+خەينە بۇغىسى	Leierhirsch
+شىرناق ۋىلايىتى	Şırnak (Provinz)
+چۆچەك شەھىرى	Tacheng (Stadt)
+قالقانسىمان يان بەز	Nebenschilddrüse
+قۇمۇل شەھىرى	Kumul (Stadt)
+ئوساكا ئۇنىۋېرستېتى	Universität Ōsaka
+ﺗﻮﻓﺎ ﻣﯩﻠﻠﯩﺘﻰ	Tofalaren
+قاراماي شەھىرى	Karamay
+ئاتۇش شەھىرى	Artux
+ئارىشاڭ ناھىيىسى	Arixang
+بۇيى مىللىت	Bouyei (Volk)
+سۈلەيسۈن	Luchse
+سەدەف ئارىلى	Sedef Adası
+تارماشىرىن	Tarmaschirin
+نان	Naan (Lebensmittel)
+سېرىق مۇنتجاك بۇغىسى	Chinesischer Muntjak
+دۇنيا ئۇيغۇر قۇرۇلتىيى	Weltkongress der Uiguren
+بۆرەك ئۈستى بېزى	Nebenniere
+لىمفا ئىشلەپچىقىرىدىغان	Lymphatisches System
+يانپاش	Becken (Anatomie)
+تەيۋەن بۆكىنى	Taiwan-Serau
+ۋاڭ لېچۈەن	Wang Lequan
+يۇڭ تاجلىق بۇغا	Schopfhirsch
+ھىمالايا چۇپۇرلۇق قويى	Himalaya-Tahr
+ئاق تۇمشۇق بۇغا	Weißlippenhirsch
+ئۇرال - ئالتاي تىللىرى سېستىمىسى	Ural-altaische Sprachen
+جەم يىلماز	Cem Yılmaz
+تيېرى مېيىسسان	Thierry Meyssan
+شېزۇ مىللىتى	She
+قەشقەر ۋىلايىتى	Kaxgar
+نەي	Nay
+تىن تىننىڭ سەرگۈزەشتىلىرى	Tim und Struppi
+يوپۇرغا ناھىيىسى	Yopurga
+دۇڭشياڭ مىللىتى	Dongxiang
+XMCD	Röntgendichroismus
+لاخۇ مىللىتى	Lahu
+قارىقۇيرۇق	Mongolische Gazelle
+چوڭ ئىپار مۈشۈك	Indische Zibetkatze
+مەكىت ناھىيىسى	Makit
+ئۈرۈمچى دىۋوپۇ خەلقئارا ئايروپورتى	Flughafen Ürümqi-Diwopu
+ئالتاي ۋىلايىتى	Altay (Regierungsbezirk)
+ۋۇجياچۈ شەھىرى	Wujiaqu
+ئاۋات ناھىيىسى	Awat
+ئايدىڭكۆل	Aydingkol-See
+بابۇر	Babur
+جەرەنبۇلاق رايونى	Baijiantan
+باركۆل قازاق ئاپتونوم ناھىيىسى	Barkol
+باي ناھىيىس	Bay (Aksu)
+بايىنغولىن موڭغۇل ئاپتونوم ئوبلاستى	Bayingolin
+بونان مىللىتى	Bonan
+قارا تەنلىكلەر	Schwarze
+بورىس ۋاسىلىيىۋ	Boris Lwowitsch Wassiljew
+كورلا شەھىرى	Korla (Bayingolin)
+دەيزۇ مىللىتى	Dai (Volk)
+مېنبا مىللىتى	Monba
+چياڭزۇ مىللىتى	Qiang
+ۋازۇ مىللىتى	Wa (Ethnie)
+تاجىسىمان يۇرەك قان تومۇر كېسىلى	Koronare Herzkrankheit
+ئىلى قازاق ئاپتونوم ۋىلايىتى	Ili
+قىز مۇنارى	Leanderturm
+شىخەنزە شەھىرى	Shihezi
+دوكتور ئاسپرانتى	Promotion (Doktor)
+ئاچاڭ مىللىتى	Achang
+تۇزۇ مىللىتى	Tu (Volk)
+ئېگىز تاغ بۆكىنى	Tibetgazelle
+لوبا مىللىتى	Lhoba
+يەكەن ناھىيىسى	Yarkant
+لىسۇ مىللىتى	Lisu
+QQ	Tencent QQ
+تېڭشۈن شىركىتى	Tencent
+قىزىلسۇ قىرغىز ئاپتونوم ئوبلاستى	Kizilsu
+بىلكەنت ئۇنىۋېستېتى	Bilkent-Universität
+كۋېنسلاند ئۇنىۋېرستېتى	University of Queensland
+غۇلجا شەھىرى	Gulja (Stadt)
+نۇزۇ مىللىتى	Nu (Volk)
+مۇلاۋ مىللىتى	Mulam
+تۇرپان ۋىلايىتى	Turpan
+Néwkastl Undérlim	Newcastle-under-Lyme
+تۇڭگان مىللىتى	Dunganen
+بورتالا موڭغۇل ئاپتونوم ئوبلاستى	Bortala
+ﺷﻮﺭ ﻣﯩﻠﻠﯩﺘﻰ	Schoren
+پۇمى مىللىتى	Primi
+قئارئاهوجئا	Kocho (Gaochang)
+布朗族	Blang
+باغراش ناھىيىسى	Bagrax
+بورتالا شەھىرى	Bortala (Stadt)
+جىمىسار ناھىيىسى	Jimsar
+تاشقۇرقان تاجىك ئاپتونوم ناھىيىسى	Taxkorgan (Kaxgar)
+قىزىل بۆكەن	Roter Goral
+ياردەم:ياردەم	Hilfe:Übersicht
+خوتەن ناھىيىسى	Hotan (Kreis)
+لوپ ناھىيىسى	Lop
+پارىژ ساھىلى	Paris-Plage
+مەھمەت شىمشەك	Mehmet Şimşek
+ئورقۇ رايونى	Orku
+تاشقۇرغان	Stätte der Steinernen Stadt
+تۇمشۇق شەھىرى	Tumxuk
+بۈيۈك ئارال	Büyükada
+خوتەن ۋىلايىتى	Hotan
+قۇمۇل ۋىلايىتى	Kumul
+سانجى خۇيزۇ ئاپتونوم ئوبلاستى	Changji
+كۈيتۇن شەھىرى	Kuytun
+سانجى شەھىرى	Changji (Stadt)
+چاپچال شىبە ئاپتونوم يېزىسى	Qapqal
+فارس ۋىلايىتى	Fars
+بۇرگاز ئارىلى	Burgazada
+بۇرچىن ناھىيىسى	Burqin
+بۇرۇلتوقاي ناھىيىسى	Burultokay
+بۈيۈك بىرلىك پارتىيىسى	Büyük Birlik Partisi
+يېڭىسار ناھىيىسى	Yengisar
+ۋۇسۇ شەھىرى	Usu (Stadt)
+دۆربىلجىن ناھىيىسى	Dorbiljin
+پوسكام ناھىيىسى	Poskam
+گۇچۇڭ ناھىيىسى	Qitai
+قورغاس ناھىيىسى	Huocheng
+يەنجى خۇيزۇ ئاپتونوم ناھىيىسى	Yanqi
+لوپنۇر ناھىيىسى	Lopnur
+كوكتوقاي ناھىيىسى	Koktokay
+قوبۇقسار موڭغۇل ئاپتونوم ناھىيىسى	Hoboksar
+قەشقەر كونا شەھەر ناھىيىسى	Shufu
+ساۋەن ناھىيىسى	Shawan (Tacheng)
+قاغىلىق ناھىيىسى	Kargilik
+خېجىڭ ناھىيىسى	Hejing
+چاغانتوقاي ناھىيىسى	Qagantokay
+پىچان ناھىيىسى	Piqan
+كۇچار ناھىيىسى	Kuqa
+مايتاغ رايونى	Dushanzi
+چاقىلىق ناھىيىسى	Qakilik
+بۈگۈر ناھىيىسى	Bügür
+قەشقەر يېڭىشەھەر ناھىيىسى	Shule
+شايار ناھىيىسى	Xayar
+مارالبېشى ناھىيىسى	Maralbexi
+ماناس ناھىيىسى	Manas (Changji)
+ئونسۇ ناھىيىسى	Aksu Konaxeher
+چىڭگىل ناھىيىسى	Qinggil
+پەيزاۋات ناھىيىسى	Payzawat
+مورى قازاق ئاپتونوم ناھىيىسى	Mori (Changji)
+تولى ناھىيىسى	Toli
+خوشۇت ناھىيىسى	Hoxud
+يېڭىشەھەر رايونى	Xinshi (Ürümqi)
+تۇدۇڭخابا رايونى	Toutunhe
+تەڭرىتاغ رايونى	Tianshan (Ürümqi)
+داۋانچىڭ رايونى	Dabancheng
+گۇما ناھىيىسى	Guma (Hotan)
+سايباغ رايونى	Saybag
+ئاشقازان	Magen
+شىبە مىللىتى	Xibe
+كىنو مىللىتى	Jino
+كروران قەدىمكى شەهىرى	Loulan
+ئورۇنچون مىللىتى	Oroqen
+ئەنقەرە ئۇنىۋېرسىتېتى	Universität Ankara
+غەربىي خەن سۇلالىسى	Westliche Han-Dynastie
+مۇسئەب ئىبن ئۆمەير	Musʿab ibn ʿUmair
+پېشاۋار	Peschawar
+دۇتار	Dotar
+قاراشەھەر بازىرى	Karashahr
+سۈينامە	Sui Shu
+سەئىدىيە خانلىقى	Yarkant-Khanat
+چەتئەلگە چىقىپ ئوقۇش	Auslandsstudium
+ئۇچتۇرپان ناھىيىسى	Uqturpan
+چىرا ناھىيىسى	Qira
+كەلپىن ناھىيىسى	Kalpin
+قاراقاش ناھىيىسى	Karakax
+جىڭ ناھىيىسى	Jinghe
+نىيە ناھىيىسى	Niya (Hotan)
+غۇلجا ناھىيىسى	Gulja (Kreis)
+شۇيموگۇ رايونى	Shuimogou
+كېرىيە ناھىيىسى	Keriya
+تۇخۇم نەيچىسى	Eileiter
+قەشقەر ھېيتگاھ مەسچىتى	Heytgah-Moschee
+شياڭگاڭ پەن ـ تېخنىكا ئۇنىۋېرسىتېتى	Hong Kong University of Science and Technology
+جېمىنەي ناھىيىسى	Jeminay
+توققۇزتارا ناھىيىسى	Tokkuztara
+قاراماي رايونى	Karamay (Stadtbezirk)
+نىلقا ناھىيىسى	Nilka
+رۇس مىللىتى	Russische Minderheit in China
+تېكەس ناھىيىسى	Tekes (Kreis)
+توقسۇ ناھىيىسى	Toksu
+ئېسفەھان ۋىلايىتى	Isfahan (Provinz)
+تۈر:تۈركىيە	Kategorie:Türkei
+تۈر:ئۆسۈملۈك	Kategorie:Pflanzen
+تۈر:فىزىكا	Kategorie:Physik
+تۈر:تەبىئىي پەن	Kategorie:Naturwissenschaft
+تۈر:Geografia	Kategorie:Geographie
+غازى ئۇنىۋېرسىتېتى	Gazi Üniversitesi
+قەشقەر دەرياسى	Kaxgar (Fluss)
+غىجەك	Ghichak
+لەغمەن	Laghman (Speise)
+ھاجەتتەپە ئۇنىۋرېستېتى	Hacettepe-Universität
+خۇيزۇ	Hui
+سائادەت پارتىيىسى	Saadet Partisi
+دوگانا	Dogana (San Marino)
+ساكاريا ئۇنىۋېرسىتېتى	Sakarya Üniversitesi
+ماخۇاتېڭ	Ma Huateng
+سىۋرى ئارىلى	Sivriada
+ياسسى ئارىلى	Yassıada
+تۈر:خرىستىئان دىنى	Kategorie:Christentum
+قەدىمكى ئۇيغۇر يېزىقى	Uigurisches Alphabet
+ئائىلە جەمئىيەتشۇناسلىقى	Soziologie der Kindheit
+ئەنقەرە ۋىلايىتى	Ankara (Provinz)
+قاراقاش دەرياسى	Karakax (Fluss)
+يورۇڭقاش دەرياسى	Yurungkax
+ئىراق ۋە شام ئىسلام دۆلىتى	Islamischer Staat (Organisation)
+پۇشتۇ مىللىتى	Paschtunen
+گېئورگى بۇچنېر ئەدەبىيات مۇكاپاتى	Georg-Büchner-Preis
+توشقان دەرياسى	Toxkan
+سۇلتان سۇتۇق بۇغراخان	Satoq Bugra Khan
+بىنەپشە رەڭ	Purpur (Farbe)
+تەمبۈر	Tanbur
+قېلىپ:Userbox	Vorlage:Userbox
+Wikipedia:Administrators	Wikipedia:Administratoren
+تۈر:جۇڭخۇا مىللەتلىرى	Kategorie:Ethnie in China
+مىسىر	Ägypten
+قېلىپ:Bot	Vorlage:Bot
+كانادا	Kanada
+Wikipedia:ھەققىدە	Wikipedia:Über Wikipedia
+قېلىپ:Documentation	Vorlage:Dokumentation
+قېلىپ:Softredirect	Vorlage:Interwiki redirect
+قېلىپ:Delete	Vorlage:Löschen
+تۈر:تىل	Kategorie:Einzelsprache als Thema
+Wikipedia:General disclaimer	Wikipedia:Impressum
+قېلىپ:Navbox	Vorlage:Erweiterte Navigationsleiste
+ئورقۇن-يېنسەي يېزىقى	Orchon-Runen
+ئالاتاۋ ئېغىزى	Alashankou
+قېلىپ:Babel	Vorlage:Babel
+قېلىپ:Commons	Vorlage:Commons
+قېلىپ:User az	Vorlage:User az
+قېلىپ:User de	Vorlage:User de
+قېلىپ:User de-1	Vorlage:User de-1
+قېلىپ:User es	Vorlage:User es
+قېلىپ:User de-3	Vorlage:User de-3
+قېلىپ:User en-3	Vorlage:User en-3
+قېلىپ:User en-1	Vorlage:User en-1
+قېلىپ:User en-2	Vorlage:User en-2
+قېلىپ:User en-4	Vorlage:User en-4
+قېلىپ:User en	Vorlage:User en
+قېلىپ:User de-2	Vorlage:User de-2
+قېلىپ:User es-1	Vorlage:User es-1
+قېلىپ:User fr-1	Vorlage:User fr-1
+قېلىپ:User ja-4	Vorlage:User ja-4
+قېلىپ:User sk	Vorlage:User sk
+قېلىپ:User tr-2	Vorlage:User tr-2
+قېلىپ:User tr	Vorlage:User tr
+قېلىپ:User ja	Vorlage:User ja
+قېلىپ:User ja-1	Vorlage:User ja-1
+قېلىپ:User fr	Vorlage:User fr
+قېلىپ:Location map/Info	Vorlage:Positionskarte/Info
+قېلىپ:Mod	Vorlage:Modulo
+قېلىپ:Welcome	Vorlage:Willkommen
+تۈر:User fr-1	Kategorie:User fr-1
+قېلىپ:ئافرىقا	Vorlage:Navigationsleiste Staaten in Afrika
+تۈر:User en-4	Kategorie:User en-4
+تۈر:User en	Kategorie:User en
+تۈر:User zh	Kategorie:User zh
+تۈر:User zh-N	Kategorie:User zh-M
+تۈر:User en-2	Kategorie:User en-2
+قېلىپ:Infobox	Vorlage:Infobox
+قېلىپ:ئىراننىڭ ۋىلايەتلىرى	Vorlage:Navigationsleiste Provinzen des Iran
+قېلىپ:User zh	Vorlage:User zh
+قېلىپ:Legend	Vorlage:Farblegende
+قېلىپ:User ru	Vorlage:User ru
+تۈر:دۆلەت	Kategorie:Staat
+قېلىپ:IPA	Vorlage:IPA-Text
+قېلىپ:ئىنجىل	Vorlage:Linkbox Neues Testament
+قېلىپ:ئوكيانىيە	Vorlage:Navigationsleiste Staaten in Australien und Ozeanien
+قېلىپ:Unreferenced	Kategorie:Wikipedia:Belege fehlen
+قېلىپ:جۇڭخۇا خەلق جۇمھۇرىيىتى	Vorlage:Navigationsleiste Administrative Gliederung Volksrepublik China
+قېلىپ:Provinces of Uzbekistan	Vorlage:Navigationsleiste Provinzen Usbekistans
+تۈر:User ja-N	Kategorie:User ja-M
+تۈر:سانائەت	Kategorie:Wirtschaftszweig
+قېلىپ:Tick	Vorlage:Häkchen
+قېلىپ:رۇسىيە	Vorlage:Navigationsleiste Föderationssubjekte Russlands
+قېلىپ:ياۋروپا	Vorlage:Navigationsleiste Staaten in Europa
+تۈر:User az	Kategorie:User az
+تۈر:User sk	Kategorie:User sk
+تۈر:User fr	Kategorie:User fr
+تۈر:User ja	Kategorie:User ja
+تۈر:User mn	Kategorie:User mn
+تۈر:User az-3	Kategorie:User az-3
+تۈر:User fr-3	Kategorie:User fr-3
+تۈر:User ja-3	Kategorie:User ja-3
+تۈر:User tr-3	Kategorie:User tr-3
+تۈر:User tr-1	Kategorie:User tr-1
+تۈر:User fr-4	Kategorie:User fr-4
+تۈر:User fr-2	Kategorie:User fr-2
+تۈر:User ja-2	Kategorie:User ja-2
+تۈر:User kk-2	Kategorie:User kk-2
+تۈر:User tr-2	Kategorie:User tr-2
+تۈر:User ko-N	Kategorie:User ko-M
+تۈر:User fr-N	Kategorie:User fr-M
+تۈر:User ru-N	Kategorie:User ru-M
+تۈر:User az-1	Kategorie:User az-1
+تۈر:User az-2	Kategorie:User az-2
+تۈر:User az-4	Kategorie:User az-4
+تۈر:User az-N	Kategorie:User az-M
+تۈر:User sk-N	Kategorie:User sk-M
+تۈر:User de	Kategorie:User de
+تۈر:User de-2	Kategorie:User de-2
+تۈر:User de-3	Kategorie:User de-3
+تۈر:User de-4	Kategorie:User de-4
+تۈر:User de-N	Kategorie:User de-M
+شىراز	Schiras
+تۈر:User en-3	Kategorie:User en-3
+تۈر:User en-N	Kategorie:User en-M
+تۈر:User es	Kategorie:User es
+تۈر:User es-1	Kategorie:User es-1
+تۈر:User es-N	Kategorie:User es-M
+تۈر:User ja-1	Kategorie:User ja-1
+تۈر:User kk	Kategorie:User kk
+تۈر:User kk-3	Kategorie:User kk-3
+تۈر:User kk-4	Kategorie:User kk-4
+تۈر:User kk-N	Kategorie:User kk-M
+تۈر:User ko	Kategorie:User ko
+تۈر:User ko-3	Kategorie:User ko-3
+تۈر:User ky	Kategorie:User ky
+تۈر:User ky-2	Kategorie:User ky-2
+تۈر:User ky-N	Kategorie:User ky-M
+تۈر:User ru-1	Kategorie:User ru-1
+تۈر:User mn-1	Kategorie:User mn-1
+قېلىپ:Table Greekletters	Vorlage:Infobox Griechischer Buchstabe
+تۈر:User zh-min-nan	Kategorie:User zh-min-nan
+تۈر:User zh-min-nan-3	Kategorie:User zh-min-nan-3
+قېلىپ:User ru-2	Vorlage:User ru-2
+تۈر:User ru	Kategorie:User ru
+تۈر:User tk	Kategorie:User tk
+تۈر:User tk-2	Kategorie:User tk-2
+تۈر:User tr	Kategorie:User tr
+تۈر:User tr-4	Kategorie:User tr-4
+تۈر:User tr-N	Kategorie:User tr-M
+تۈر:User ug	Kategorie:User ug
+تۈر:User ug-1	Kategorie:User ug-1
+تۈر:User ug-2	Kategorie:User ug-2
+تۈر:User ug-3	Kategorie:User ug-3
+تۈر:User ug-N	Kategorie:User ug-M
+تۈر:User uz	Kategorie:User uz
+تۈر:User uz-3	Kategorie:User uz-3
+ۋىكىپېدىيە:ھۆججەت ئىشلىتىش پىرىنسىپى	Wikipedia:Bildrechte
+قېلىپ:Infobox City Japan	Vorlage:Infobox Ort in Japan
+تۈر:ۋىتامىنلار	Kategorie:Vitamin
+قېلىپ:User ru-1	Vorlage:User ru-1
+قېلىپ:User tr-1	Vorlage:User tr-1
+قېلىپ:User tr-3	Vorlage:User tr-3
+قېلىپ:User uz	Vorlage:User uz
+قېلىپ:User zh-1	Vorlage:User zh-1
+قېلىپ:User zh-2	Vorlage:User zh-2
+قېلىپ:User zh-3	Vorlage:User zh-3
+قېلىپ:User zh-4	Vorlage:User zh-4
+تۈر:User zh-1	Kategorie:User zh-1
+تۈر:User zh-4	Kategorie:User zh-4
+تۈر:User zh-3	Kategorie:User zh-3
+تۈر:User zh-2	Kategorie:User zh-2
+تۈر:خىمىيىۋى ئېلېمېنت	Kategorie:Chemisches Element
+تۈر:لېكسىكولوگىيە	Kategorie:Lexikologie
+تۈر:ئۆزبېكىستان	Kategorie:Usbekistan
+تۈر:ئاتوم يادرو فىزىكىسى	Kategorie:Kernphysik
+ئەينەك تالا	Glasfaserverstärkter Kunststoff
+سەۋزە	Karotte
+تۈر:جۇڭخۇا خەلق جۇمھۇرىيىتى	Kategorie:Volksrepublik China
+تۈر:ئېتمولوگىيە	Kategorie:Etymologie
+قېلىپ:User ug-1	Vorlage:User ug-1
+قېلىپ:جۇڭگودىكى مىللەتلەر	Vorlage:Navigationsleiste Anerkannte Nationalitäten der Volksrepublik China
+قېلىپ:User ug	Vorlage:User ug
+قېلىپ:User mn-1	Vorlage:User mn-1
+تۈر:بىيولوگ	Kategorie:Biologe
+تراگۇلۇس بۇغىسى	Hirschferkel
+تۈر:خاس ئات ئىلمى	Kategorie:Onomastik
+تۈر:User en-1	Kategorie:User en-1
+تۈر:User de-1	Kategorie:User de-1
+قېلىپ:User zh-min-nan-3	Vorlage:User zh-min-nan-3
+قېلىپ:User ug-2	Vorlage:User ug-2
+قېلىپ:User ug-3	Vorlage:User ug-3
+ﻗﺎﺭﺍ ﭘﺎﭘﺎﻕ ﻣﯩﻠﻠﯩﺘﻰ	Karapapaken
+تاش	Roche
+خوتەن شەھىرى	Hotan (Stadt)
+ئالاھىدە:RecentChanges	Spezial:Letzte Änderungen
+تۈر:User ja-4	Kategorie:User ja-4

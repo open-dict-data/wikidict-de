@@ -1,0 +1,417 @@
+Afirik	Afrika
+Norwees	Norwegen
+Irlannda	Irland
+Hunngariya	Ungarn
+Hispaanya	Spanien
+Dowlaaji Dentuɗi	Vereinigte Staaten
+Beljik	Belgien
+Luksammbuur	Luxemburg
+Suwed	Schweden
+Poloonya	Polen
+Lituwaniya	Litauen
+Italiya	Italien
+Suwis	Schweiz
+Portokeesi	Portugal
+Yuroopu	Europa
+Aasiya	Asien
+Wikipeediya	Wikipedia
+Holannda	Niederlande
+Kenya	Kenia
+Gana	Ghana
+Faransi	Frankreich
+Esperanto	Esperanto
+Faransinkoore	Französische Sprache
+Roosiya	Russland
+Almaanya	Deutschland
+Belaruusiya	Weißrussland
+Almankoore	Deutsche Sprache
+Islannda	Island
+Estoniya	Estland
+Go’o	Eins
+Ɗiɗi	Zwei
+Tati	Drei
+Nayi	Vier
+Jowi	Fünf
+Ukrayiina	Ukraine
+Sulowakiya	Slowakei
+Suloweniya	Slowenien
+Moldowa	Moldawien
+Romaniya	Rumänien
+Bulgariya	Bulgarien
+Masedoniya	Mazedonien
+Albaniya	Albanien
+Korowaasiya	Kroatien
+Bosniya	Bosnien und Herzegowina
+Anndoora	Andorra
+Montenegro	Montenegro
+Watikan	Vatikanstadt
+Aljeri	Algerien
+Ndiyam	Wasser
+Ciile	Chile
+Sinngapuur	Singapur
+Armaaniya	Armenien
+Serbiya	Serbien
+Lewru	Mond
+Peru	Peru
+Alqur'aana	Koran
+Naange	Sonne
+Njuɓɓudi naangeyankoori	Sonnensystem
+East Timor	Osttimor
+Nawru	Nauru
+Fiiji	Fidschi
+Ndimaagu	Weisheit
+Aameerik	Amerika
+Wiyetnam	Vietnam
+Maali	Mali
+Anngolaa	Angola
+Togo	Togo
+Benen	Benin
+Botswana	Botswana
+Burkina Faso	Burkina Faso
+Burunndi	Burundi
+Gine Ekwatoriyal	Äquatorialguinea
+Eritereya	Eritrea
+Gabon	Gabun
+Gammbi	Gambia
+Gine	Guinea
+Gine-Bisaawo	Guinea-Bissau
+Kodduwaar	Elfenbeinküste
+Kamerun	Kamerun
+Kapu Werde	Kap Verde
+Labiriyaa	Liberia
+Muritani	Mauretanien
+Mozammbik	Mosambik
+Namibiya	Namibia
+Niiser	Niger
+Niiseriya	Nigeria
+Senegaal	Senegal
+Sarliyon	Sierra Leone
+Somaaliya	Somalia
+Uetersen	Uetersen
+Ho Chi Minh City	Ho-Chi-Minh-Stadt
+Egilis Haqiiqaajo mo Iisaa Almasiihu	Wahre Jesus-Kirche
+Đồng Hới	Đồng Hới
+Kurów	Kurów
+Maayo Niil	Nil
+Maayo Jaaliba	Niger (Fluss)
+Nouakchott	Nouakchott
+Konaakiri	Conakry
+Osasco	Osasco
+Aéroport de Dong Hoi	Flughafen Dong Hoi
+Curitiba	Curitiba
+Catégorie:Hisaabu	Kategorie:Mathematik
+Duungal	Kontinent
+Monzón	Monzón
+Almazán	Almazán
+Saggitorde huuɓnude	Enzyklopädie
+Hello jaɓɓorgo	Wikipedia:Hauptseite
+Catégorie:Candidates for speedy deletion	Kategorie:Wikipedia:Schnelllöschen
+Carl Friedrich Gauss	Carl Friedrich Gauß
+Qin Shi Huang	Qin Shihuangdi
+Ndenndaandi	Republik
+Leydi	Staat
+Riisinkoore	Russische Sprache
+UNESCO	UNESCO
+Nelson Manndelaa	Nelson Mandela
+Dewgal	Ehe
+Nelaaɗo Muhammadu	Mohammed
+Ronald Reagan	Ronald Reagan
+Kudaku	Kartoffel
+Limle	Zahl
+Masarji	Mais
+Ngaluuji leydi	Liste der Staaten der Erde
+Wikipedia:Accueil	Wikipedia:Projektdiskussion
+Joweenayi	Neun
+Bien Hoa	Biên Hòa
+Nha Trang	Nha Trang
+Vung Tau	Vũng Tàu
+Bahai	Bahaitum
+Joweeɗiɗi	Sieben
+Joweetati	Acht
+Joweego	Sechs
+Paltoga	Paltoga
+Entrena	Entrena
+Sappo	Zehn
+Aéroport de Cam Ranh	Flughafen Cam Ranh
+Nowy Dwór Królewski	Nowy Dwór Królewski
+Ca Mau	Cà Mau
+Da Nang	Đà Nẵng
+Fulfulde	Fulfulde
+Cirgu	Leopard
+Ido	Ido (Sprache)
+Sappo e ɗiɗi	Zwölf
+Sappo e go’o	Elf
+Sappo e tati	Dreizehn
+Teemerre	Hundert
+Miliyonji	Million
+Sappo e nay	Vierzehn
+Sappo e jowi	Fünfzehn
+Sappo e joweetati	Achtzehn
+Ciifol Gaaza	Gazastreifen
+Sappo e joweenay	Neunzehn
+Sappo e joweeɗiɗi	Siebzehn
+Sappo e joweego	Sechzehn
+Noogas	Zwanzig
+Cappanɗe nayi	Vierzig
+Cappanɗe tati	Dreißig
+Booro	Tausend
+Montehermoso	Montehermoso
+Lacuna Coil	Lacuna Coil
+Cappanɗe joweego	Sechzig
+Coronel Fabriciano	Coronel Fabriciano
+Ahmed Seeku Tuuree	Ahmed Sékou Touré
+Aamadu Tumani Tuure	Amadou Toumani Touré
+Alahajji Umaru Taal	ʿUmar Tall
+Banovci (Nijemci)	Banovci (Nijemci)
+Tigranes II	Tigranes II.
+Pullo	Fulbe
+Lansana Konte	Lansana Conté
+Trpinja	Trpinja
+Aañam-Goli	Agnam-Goly
+Alfaa Yaayaa	Alfa Yaya von Labé
+Paramore	Paramore
+Aéroport de Tan Son Nhat	Flughafen Tan-Son-Nhat
+Buford	PhinDeli
+Aéroport de Da Nang	Flughafen Da Nang
+Laamateeri Adamaawa	Emirat Adamaua
+Medford	Medford (Oregon)
+Fuuta Jaloo	Fouta Djallon
+Aéroport de Ca Mau	Flughafen Ca Mau
+Labe	Labé (Stadt)
+Skolkovo	Skolkowo
+Fonnye	Foniohirse
+Catégorie:Roosiya	Kategorie:Russland
+Catégorie:Hispaanya	Kategorie:Spanien
+Catégorie:Vietnam	Kategorie:Vietnam
+Catégorie:Taariika	Kategorie:Geschichte
+Catégorie:Mbaalaandi	Kategorie:Geographie
+Catégorie:Diina	Kategorie:Religion
+Catégorie:Siyansi	Kategorie:Wissenschaft
+Almaami	Almamy
+Catégorie:Duungal	Kategorie:Kontinent
+Wikipedia:Administrateurs	Wikipedia:Administratoren
+Catégorie:Yimɓe	Kategorie:Person
+Modèle:Bot	Vorlage:Bot
+Wikipedia:Copyrights	Wikipedia:Lizenzbestimmungen
+Catégorie:Yuroopu	Kategorie:Europa
+Modèle:Documentation	Vorlage:Dokumentation
+Catégorie:Babel	Kategorie:Benutzer:nach Sprache
+Modèle:Softredirect	Vorlage:Interwiki redirect
+Modèle:Db	Vorlage:Löschen
+Catégorie:Wikipeediya	Kategorie:Wikipedia
+Wikipedia:Statistiques	Wikipedia:Statistik
+Modèle:Clear	Vorlage:Absatz
+Catégorie:Afirik	Kategorie:Afrika
+Catégorie:Limle	Kategorie:Zahl
+Modèle:Babel	Vorlage:Babel
+Modèle:Commons	Vorlage:Commons
+Modèle:User af-1	Vorlage:User af-1
+Modèle:User ar-1	Vorlage:User ar-1
+Modèle:User ast-1	Vorlage:User ast-1
+Modèle:User az	Vorlage:User az
+Modèle:User bar-1	Vorlage:User bar-1
+Modèle:User eo-1	Vorlage:User eo-1
+Modèle:User da-2	Vorlage:User da-2
+Modèle:User da	Vorlage:User da
+Modèle:User ca-1	Vorlage:User ca-1
+Modèle:User ca-4	Vorlage:User ca-4
+Modèle:User be-2	Vorlage:User be-2
+Modèle:User da-1	Vorlage:User da-1
+Modèle:User cs-1	Vorlage:User cs-1
+Modèle:User bg-1	Vorlage:User bg-1
+Modèle:User eo-3	Vorlage:User eo-3
+Modèle:User de	Vorlage:User de
+Modèle:User de-1	Vorlage:User de-1
+Modèle:User eu	Vorlage:User eu
+Modèle:User et-1	Vorlage:User et-1
+Modèle:User es	Vorlage:User es
+Modèle:User de-3	Vorlage:User de-3
+Modèle:User en-3	Vorlage:User en-3
+Modèle:User en-1	Vorlage:User en-1
+Modèle:User en-2	Vorlage:User en-2
+Modèle:User eo-2	Vorlage:User eo-2
+Modèle:User en-4	Vorlage:User en-4
+Modèle:User fi	Vorlage:User fi
+Modèle:User en-0	Vorlage:User en-0
+Modèle:User es-4	Vorlage:User es-4
+Modèle:User en	Vorlage:User en
+Modèle:User de-2	Vorlage:User de-2
+Modèle:User es-1	Vorlage:User es-1
+Modèle:User fr-1	Vorlage:User fr-1
+Modèle:User ia-2	Vorlage:User ia-2
+Modèle:User he-1	Vorlage:User he-1
+Modèle:User io-3	Vorlage:User io-3
+Modèle:User it-3	Vorlage:User it-3
+Modèle:User ja-4	Vorlage:User ja-4
+Modèle:User sk	Vorlage:User sk
+Modèle:User tr-2	Vorlage:User tr-2
+Modèle:User fr-2	Vorlage:User fr-2
+Modèle:User tr	Vorlage:User tr
+Modèle:User ja	Vorlage:User ja
+Modèle:User ja-1	Vorlage:User ja-1
+Modèle:User it-1	Vorlage:User it-1
+Modèle:User hr-1	Vorlage:User hr-1
+Modèle:User fr	Vorlage:User fr
+Modèle:User he	Vorlage:User he
+Catégorie:Aasiya	Kategorie:Asien
+Catégorie:User uk	Kategorie:User uk
+Modèle:Mod	Vorlage:Modulo
+Modèle:User sv	Vorlage:User sv
+Modèle:User it	Vorlage:User it
+Modèle:User es-2	Vorlage:User es-2
+Catégorie:User fr-1	Kategorie:User fr-1
+Catégorie:User en-4	Kategorie:User en-4
+Catégorie:User en	Kategorie:User en
+Catégorie:User zh	Kategorie:User zh
+Catégorie:User zh-N	Kategorie:User zh-M
+Catégorie:User en-2	Kategorie:User en-2
+Modèle:User eo	Vorlage:User eo
+Modèle:User zh	Vorlage:User zh
+Modèle:User ru-4	Vorlage:User ru-4
+Modèle:User nl-1	Vorlage:User nl-1
+Modèle:User nl-2	Vorlage:User nl-2
+Modèle:User ru	Vorlage:User ru
+Catégorie:Aameerik	Kategorie:Amerika
+Modèle:User eo-4	Vorlage:User eo-4
+Modèle:User pt-1	Vorlage:User pt-1
+Modèle:User pl	Vorlage:User pl
+Modèle:User nl	Vorlage:User nl
+Modèle:User no-2	Vorlage:User no-2
+Modèle:Ɗemngal-de	Vorlage:DeS
+Modèle:User fr-3	Vorlage:User fr-3
+Modèle:User lt	Vorlage:User lt
+Modèle:Oppose	Vorlage:Kontra
+Modèle:User ar-2	Vorlage:User ar-2
+Modèle:User ar-3	Vorlage:User ar-3
+Modèle:User ar	Vorlage:User ar
+Catégorie:User ja-N	Kategorie:User ja-M
+Modèle:User als	Vorlage:User als
+Modèle:User no	Vorlage:User no
+Modèle:Ɗemngal-fr	Vorlage:FrS
+Modèle:User pt-3	Vorlage:User pt-3
+Modèle:User pt-2	Vorlage:User pt-2
+Modèle:User fr-4	Vorlage:User fr-4
+Catégorie:User az	Kategorie:User az
+Catégorie:User be	Kategorie:User be
+Catégorie:User hr	Kategorie:User hr
+Catégorie:User sk	Kategorie:User sk
+Catégorie:User eo	Kategorie:User eo
+Catégorie:User fr	Kategorie:User fr
+Catégorie:User ja	Kategorie:User ja
+Catégorie:User lt	Kategorie:User lt
+Catégorie:User mk	Kategorie:User mk
+Catégorie:User pt	Kategorie:User pt
+Catégorie:User sv	Kategorie:User sv
+Catégorie:User it-3	Kategorie:User it-3
+Catégorie:User ar-3	Kategorie:User ar-3
+Catégorie:User cs-1	Kategorie:User cs-1
+Catégorie:User da-1	Kategorie:User da-1
+Catégorie:User mk-1	Kategorie:User mk-1
+Catégorie:User nl-1	Kategorie:User nl-1
+Catégorie:User ar-4	Kategorie:User ar-4
+Catégorie:User be-2	Kategorie:User be-2
+Catégorie:User da-2	Kategorie:User da-2
+Catégorie:User fr-2	Kategorie:User fr-2
+Catégorie:User nl-2	Kategorie:User nl-2
+Catégorie:User tr-2	Kategorie:User tr-2
+Catégorie:User ar-2	Kategorie:User ar-2
+Catégorie:User fr-N	Kategorie:User fr-M
+Catégorie:User lt-N	Kategorie:User lt-M
+Catégorie:User no-N	Kategorie:User no-M
+Catégorie:User ru-N	Kategorie:User ru-M
+Catégorie:User af	Kategorie:User af
+Catégorie:User af-1	Kategorie:User af-1
+Catégorie:User als	Kategorie:User als
+Catégorie:User als-1	Kategorie:User als-1
+Catégorie:User ar	Kategorie:User ar
+Catégorie:User ast	Kategorie:User ast
+Catégorie:User ast-1	Kategorie:User ast-1
+Catégorie:User az-N	Kategorie:User az-M
+Catégorie:User bar	Kategorie:User bar
+Catégorie:User bar-1	Kategorie:User bar-1
+Catégorie:User bg	Kategorie:User bg
+Catégorie:User bg-1	Kategorie:User bg-1
+Catégorie:User ca	Kategorie:User ca
+Catégorie:User ca-1	Kategorie:User ca-1
+Catégorie:User ca-4	Kategorie:User ca-4
+Catégorie:User cs	Kategorie:User cs
+Catégorie:User da	Kategorie:User da
+Catégorie:User sk-N	Kategorie:User sk-M
+Catégorie:User de	Kategorie:User de
+Catégorie:User de-2	Kategorie:User de-2
+Catégorie:User de-3	Kategorie:User de-3
+Catégorie:User de-N	Kategorie:User de-M
+Catégorie:User en-3	Kategorie:User en-3
+Catégorie:User en-N	Kategorie:User en-M
+Catégorie:User eo-1	Kategorie:User eo-1
+Catégorie:User eo-3	Kategorie:User eo-3
+Catégorie:User eo-N	Kategorie:User eo-M
+Catégorie:User es	Kategorie:User es
+Catégorie:User es-1	Kategorie:User es-1
+Catégorie:User es-2	Kategorie:User es-2
+Catégorie:User es-4	Kategorie:User es-4
+Catégorie:User es-N	Kategorie:User es-M
+Catégorie:User hr-1	Kategorie:User hr-1
+Catégorie:User pl-N	Kategorie:User pl-M
+Catégorie:User it	Kategorie:User it
+Catégorie:User it-1	Kategorie:User it-1
+Catégorie:User ja-1	Kategorie:User ja-1
+Catégorie:User ru-1	Kategorie:User ru-1
+Modèle:User sv-1	Vorlage:User sv-1
+Catégorie:Njuɓɓudi naangeyankoori	Kategorie:Sonnensystem
+Modèle:User pt-4	Vorlage:User pt-4
+Modèle:User cs	Vorlage:User cs
+Modèle:User ru-2	Vorlage:User ru-2
+Modèle:User ko-3	Vorlage:User ko-3
+Catégorie:User pt-N	Kategorie:User pt-M
+Catégorie:User ru	Kategorie:User ru
+Catégorie:User ru-2	Kategorie:User ru-2
+Catégorie:User ru-4	Kategorie:User ru-4
+Catégorie:User sr	Kategorie:User sr
+Catégorie:User sr-1	Kategorie:User sr-1
+Catégorie:User sv-1	Kategorie:User sv-1
+Catégorie:User sv-3	Kategorie:User sv-3
+Catégorie:User tr	Kategorie:User tr
+Catégorie:User tr-N	Kategorie:User tr-M
+Catégorie:User uk-4	Kategorie:User uk-4
+Catégorie:User vi	Kategorie:User vi
+Catégorie:User vi-N	Kategorie:User vi-M
+Modèle:User sv-3	Vorlage:User sv-3
+Catégorie:Gine	Kategorie:Guinea
+Catégorie:Maali	Kategorie:Mali
+Catégorie:Muritani	Kategorie:Mauretanien
+Modèle:User ar-4	Vorlage:User ar-4
+Modèle:User ko	Vorlage:User ko
+Modèle:User mk-1	Vorlage:User mk-1
+Modèle:User no-1	Vorlage:User no-1
+Modèle:User pt	Vorlage:User pt
+Modèle:User ru-1	Vorlage:User ru-1
+Modèle:User sr-1	Vorlage:User sr-1
+Modèle:User uk-4	Vorlage:User uk-4
+Modèle:User zh-1	Vorlage:User zh-1
+Modèle:User zh-2	Vorlage:User zh-2
+Modèle:User zh-3	Vorlage:User zh-3
+Catégorie:Senegal	Kategorie:Senegal
+Catégorie:User nl	Kategorie:User nl
+Catégorie:User no-1	Kategorie:User no-1
+Catégorie:User no-2	Kategorie:User no-2
+Catégorie:User no	Kategorie:User no
+Catégorie:User zh-1	Kategorie:User zh-1
+Catégorie:User zh-2	Kategorie:User zh-2
+Catégorie:East Timor	Kategorie:Osttimor
+Catégorie:Dabbaji	Kategorie:Vielzellige Tiere
+Catégorie:Ndenndaandi	Kategorie:Republik
+Catégorie:Alqur'aana	Kategorie:Koran
+Catégorie:User pl	Kategorie:User pl
+Trojany	Trojany (Woiwodschaft Masowien)
+Modèle:User et	Vorlage:User et
+Catégorie:Fulɓe	Kategorie:Fulbe
+Modèle:User vi	Vorlage:User vi
+Catégorie:User en-1	Kategorie:User en-1
+Catégorie:User de-1	Kategorie:User de-1
+Catégorie:User da-N	Kategorie:User da-M
+Modèle:User ru-3	Vorlage:User ru-3
+Modèle:User li	Vorlage:User li
+Modèle:User hi	Vorlage:User hi
+Spécial:Modifications récentes	Spezial:Letzte Änderungen
+Catégorie:User ja-4	Kategorie:User ja-4
